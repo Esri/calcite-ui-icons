@@ -16,7 +16,7 @@ and 3 sizes:
 * **32x32**
 
 ### Why 3 Sizes?
-More info on what happens when you scale vector based icons [here](https://github.com/ArcGIS/interactive-design/wiki/What-Happens-When-You-Scale-Vector-Based-Icons)
+More info on what happens when you scale vector based icons [here](https://github.com/ArcGIS/calcite-ui-icons-public/wiki/What-Happens-When-You-Scale-Vector-Based-Icons)
 
 ### Outline icons are the standard
 Outline icons have the default name. For eample, `trash-16.svg` will render the default outline icon. 
