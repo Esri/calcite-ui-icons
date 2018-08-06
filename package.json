@@ -8,7 +8,7 @@
   "description": "A collection of UI SVG icons created by Esri for applications.",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArcGIS/calcite-ui-icons-public.git"
+    "url": "git+https://github.com/ArcGIS/calcite-ui-icons.git"
   },
   "keywords": [
     "esri",
@@ -37,9 +37,9 @@
   ],
   "license": "SEE LICENSE IN README.md",
   "bugs": {
-    "url": "https://github.com/ArcGIS/calcite-ui-icons-public/issues"
+    "url": "https://github.com/ArcGIS/calcite-ui-icons/issues"
   },
-  "homepage": "https://github.com/ArcGIS/calcite-ui-icons-public#readme",
+  "homepage": "https://github.com/ArcGIS/calcite-ui-icons#readme",
   "scripts": {
     "spriter": "node bin/spriter.js",
     "imageminsvgo": "node bin/imagemin-svgo.js",
