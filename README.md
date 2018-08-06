@@ -3,7 +3,7 @@ A collection of UI SVG icons created by Esri for mapping applications.
 
 ## Installation
 
-`npm install git@github.com:ArcGIS/calcite-ui-icons-public.git --save`
+`npm install git@github.com:ArcGIS/calcite-ui-icons.git --save`
 
 ## Description
 Icons come in two styles:
