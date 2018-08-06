@@ -1,5 +1,5 @@
 # calcite-ui-icons
-A collection of UI SVG icons created by Esri for applications.
+A collection of UI SVG icons created by Esri for mapping applications.
 
 ## Installation
 
