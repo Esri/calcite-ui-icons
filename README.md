@@ -1,5 +1,6 @@
 # calcite-ui-icons
 A collection of UI SVG icons created by Esri for mapping applications.
+#### The icon reference page can be found here: http://clidev.esri.com/calcite/calcite-ui-icons/
 
 ## Installation
 
