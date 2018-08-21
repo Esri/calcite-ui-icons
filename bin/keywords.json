@@ -1,0 +1,1302 @@
+{
+  "arrow": {
+    "alias": ["next", "previous", "up", "down"],
+    "category": "Arrows"
+  },
+  "arrow-diagonal": {
+    "alias": [],
+    "category": "Arrows"
+  },
+  "arrow-up-down": {
+    "alias": [],
+    "category": "Arrows"
+  },
+  "download-to": {
+    "alias": ["import"],
+    "category": "Arrows"
+  },
+  "extent": {
+    "alias": ["zoom out", "frame", "set"],
+    "category": "Arrows"
+  },
+  "launch": {
+    "alias": ["open in new window", "open", "external link", "expand"],
+    "category": "Arrows"
+  },
+  "move-up": {
+    "alias": [],
+    "category": "Arrows"
+  },
+  "move-up-all": {
+    "alias": ["arrow"],
+    "category": "Arrows"
+  },
+  "refresh": {
+    "alias": ["reload", "sync"],
+    "category": "Arrows"
+  },
+  "reset": {
+    "alias": ["undo", "previous", "backwards", "clear"],
+    "category": "Arrows"
+  },
+  "rotate": {
+    "alias": [],
+    "category": "Arrows"
+  },
+  "upload-to": {
+    "alias": ["export"],
+    "category": "Arrows"
+  },
+  "zoom-in-fixed": {
+    "alias": [],
+    "category": "Arrows"
+  },
+  "zoom-out-fixed": {
+    "alias": [],
+    "category": "Arrows"
+  },
+  "arrow-bold": {
+    "alias": ["right", "directions", "next"],
+    "category": "Arrows"
+  },
+  "share": {
+    "alias": [],
+    "category": "Arrows"
+  },
+  "android": {
+    "alias": ["mobile", "logo", "os"],
+    "category": "Brand"
+  },
+  "arcgis-online": {
+    "alias": ["agol"],
+    "category": "Brand"
+  },
+  "marketplace": {
+    "alias": ["store", "brand"],
+    "category": "Brand"
+  },
+  "portal": {
+    "alias": ["cloud"],
+    "category": "Brand"
+  },
+  "description": {
+    "alias": ["abc", "text"],
+    "category": "Charts-and-Widgets"
+  },
+  "feature-details": {
+    "alias": ["feature", "details"],
+    "category": "Charts-and-Widgets"
+  },
+  "gauge": {
+    "alias": ["statistic", "monitor", "threshhold", "limit"],
+    "category": "Charts-and-Widgets"
+  },
+  "graph-bar": {
+    "alias": ["bars", "chart"],
+    "category": "Charts-and-Widgets"
+  },
+  "graph-histogram": {
+    "alias": ["history", "chart"],
+    "category": "Charts-and-Widgets"
+  },
+  "graph-moving-average": {
+    "alias": ["chart"],
+    "category": "Charts-and-Widgets"
+  },
+  "graph-pie": {
+    "alias": ["chart"],
+    "category": "Charts-and-Widgets"
+  },
+  "graph-scatter-plot": {
+    "alias": ["chart"],
+    "category": "Charts-and-Widgets"
+  },
+  "graph-time-series": {
+    "alias": ["chart"],
+    "category": "Charts-and-Widgets"
+  },
+  "indicator": {
+    "alias": [],
+    "category": "Charts-and-Widgets"
+  },
+  "legend": {
+    "alias": [],
+    "category": "Charts-and-Widgets"
+  },
+  "list": {
+    "alias": [],
+    "category": "Charts-and-Widgets"
+  },
+  "summary": {
+    "alias": [],
+    "category": "Charts-and-Widgets"
+  },
+  "widgets-group": {
+    "alias": ["operations dashboard"],
+    "category": "Charts-and-Widgets"
+  },
+  "widgets-source": {
+    "alias": ["interact"],
+    "category": "Charts-and-Widgets"
+  },
+  "widgets-tabs": {
+    "alias": ["operations dashboard"],
+    "category": "Charts-and-Widgets"
+  },
+  "list-check": {
+    "alias": ["completed", "items", "to-do list", "to do list", "tasks"],
+    "category": "Charts-and-Widgets"
+  },
+  "list-merge": {
+    "alias": ["items", "collapse list"],
+    "category": "Charts-and-Widgets"
+  },
+  "list-radio": {
+    "alias": ["selected", "items"],
+    "category": "Charts-and-Widgets"
+  },
+  "bear-left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "bear-right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "disembark": {
+    "alias": ["ship", "directions"],
+    "category": "Directions"
+  },
+  "elevator": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "escalator": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "exit-highway-left": {
+    "alias": ["directions", "freeway"],
+    "category": "Directions"
+  },
+  "exit-highway-right": {
+    "alias": ["directions", "freeway"],
+    "category": "Directions"
+  },
+  "fork-left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "fork-middle": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "fork-right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "highway-change": {
+    "alias": ["freeway"],
+    "category": "Directions"
+  },
+  "highway-change-right": {
+    "alias": ["freeway"],
+    "category": "Directions"
+  },
+  "left-left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "left-right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "merge-on-highway": {
+    "alias": ["directions", "freeway"],
+    "category": "Directions"
+  },
+  "merge-on-highway-right": {
+    "alias": ["directions", "freeway"],
+    "category": "Directions"
+  },
+  "ramp-left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "ramp-right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "right-left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "right-right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "round-about-left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "round-about-right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "sharp-left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "sharp-right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "stairs": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "straight": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "take-pedestrian-ramp": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "u-turn-left": {
+    "alias": ["directions u turn"],
+    "category": "Directions"
+  },
+  "u-turn-right": {
+    "alias": ["directions u turn"],
+    "category": "Directions"
+  },
+  "walk-through-door": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "route-from": {
+    "alias": ["navigation", "navigate"],
+    "category": "Directions"
+  },
+  "route-to": {
+    "alias": ["navigation", "navigate"],
+    "category": "Directions"
+  },
+  "left": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "right": {
+    "alias": ["directions"],
+    "category": "Directions"
+  },
+  "embark": {
+    "alias": ["ship"],
+    "category": "Directions"
+  },
+  "file": {
+    "alias": ["document", "blank"],
+    "category": "Files"
+  },
+  "file-archive": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-cad": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-code": {
+    "alias": ["html", "css", "js"],
+    "category": "Files"
+  },
+  "file-csv": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-excel": {
+    "alias": ["speadsheet"],
+    "category": "Files"
+  },
+  "file-gpx": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-image": {
+    "alias": ["photo", "picture"],
+    "category": "Files"
+  },
+  "file-magnifying-glass": {
+    "alias": ["search", "document", "review"],
+    "category": "Files"
+  },
+  "file-pdf": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-report": {
+    "alias": ["csv", "table"],
+    "category": "Files"
+  },
+  "file-sound": {
+    "alias": ["audio", "music"],
+    "category": "Files"
+  },
+  "file-text": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-video": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-word": {
+    "alias": [],
+    "category": "Files"
+  },
+  "file-zip": {
+    "alias": [],
+    "category": "Files"
+  },
+  "files": {
+    "alias": [],
+    "category": "Files"
+  },
+  "folder": {
+    "alias": [],
+    "category": "Files"
+  },
+  "folder-archive": {
+    "alias": ["storage"],
+    "category": "Files"
+  },
+  "folder-new": {
+    "alias": ["create"],
+    "category": "Files"
+  },
+  "folder-open": {
+    "alias": [],
+    "category": "Files"
+  },
+  "folder-plus": {
+    "alias": ["add"],
+    "category": "Files"
+  },
+  "folder-star": {
+    "alias": ["favorite"],
+    "category": "Files"
+  },
+  "brightness": {
+    "alias": ["light", "dim", "setting"],
+    "category": "Generic"
+  },
+  "caret": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "caret-square": {
+    "alias": ["dropdown", "accordion"],
+    "category": "Generic"
+  },
+  "circle": {
+    "alias": ["radio", "shape"],
+    "category": "Generic"
+  },
+  "circle-filled": {
+    "alias": ["radio", "shape"],
+    "category": "Generic"
+  },
+  "code": {
+    "alias": ["develop"],
+    "category": "Generic"
+  },
+  "compare": {
+    "alias": ["swipe"],
+    "category": "Generic"
+  },
+  "configure-popup": {
+    "alias": ["settings", "gear"],
+    "category": "Generic"
+  },
+  "cursor": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "cursor-click": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "cursor-selection": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "data": {
+    "alias": ["server"],
+    "category": "Generic"
+  },
+  "data-check": {
+    "alias": ["compatible"],
+    "category": "Generic"
+  },
+  "download": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "duplicate": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "ellipsis": {
+    "alias": ["menu", "more"],
+    "category": "Generic"
+  },
+  "eye": {
+    "alias": ["view", "preview", "visible"],
+    "category": "Generic"
+  },
+  "flash": {
+    "alias": ["light", "highlight", "flashing"],
+    "category": "Generic"
+  },
+  "hamburger": {
+    "alias": ["menu"],
+    "category": "Generic"
+  },
+  "hide": {
+    "alias": ["not", "visible", "eye"],
+    "category": "Generic"
+  },
+  "home": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "measure": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "move": {
+    "alias": ["span", "pan", "drag"],
+    "category": "Generic"
+  },
+  "organization": {
+    "alias": ["building"],
+    "category": "Generic"
+  },
+  "popup": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "presentation": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "rectangle": {
+    "alias": ["shape"],
+    "category": "Generic"
+  },
+  "save": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "select-category": {
+    "alias": ["qualitative"],
+    "category": "Generic"
+  },
+  "select-range": {
+    "alias": ["quantitative"],
+    "category": "Generic"
+  },
+  "shapes": {
+    "alias": ["objects"],
+    "category": "Generic"
+  },
+  "sign-in": {
+    "alias": ["login"],
+    "category": "Generic"
+  },
+  "sign-out": {
+    "alias": ["logout"],
+    "category": "Generic"
+  },
+  "speech-bubble": {
+    "alias": ["comment", "chat", "message"],
+    "category": "Generic"
+  },
+  "speech-bubble-plus": {
+    "alias": ["chat", "comment", "message", "add"],
+    "category": "Generic"
+  },
+  "speech-bubbles": {
+    "alias": ["chat", "comment", "message"],
+    "category": "Generic"
+  },
+  "spinner": {
+    "alias": ["load", "loader", "loading"],
+    "category": "Generic"
+  },
+  "table": {
+    "alias": ["data", "chart", "tabluar", "fields"],
+    "category": "Generic"
+  },
+  "upload": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "vertex-x": {
+    "alias": ["remove", "delete"],
+    "category": "Generic"
+  },
+  "measure-area": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "measure-line": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "selection": {
+    "alias": ["map", "GIS"],
+    "category": "Generic"
+  },
+  "square": {
+    "alias": ["shape"],
+    "category": "Generic"
+  },
+  "qt-code": {
+    "alias": ["app-studio"],
+    "category": "Generic"
+  },
+  "qr-code": {
+    "alias": ["app-studio"],
+    "category": "Generic"
+  },
+  "cursor-marquis": {
+    "alias": ["drag-box", "box-select", "select", "marquee", "insights"],
+    "category": "Generic"
+  },
+  "web": {
+    "alias": ["globe", "global", "internet", "www", "website", "webpage"],
+    "category": "Generic"
+  },
+  "sort-ascending": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "sort-descending": {
+    "alias": [],
+    "category": "Generic"
+  },
+  "rectangle-plus": {
+    "alias": ["draw", "sketch", "create", "new"],
+    "category": "Generic"
+  },
+  "grid": {
+    "alias": ["organized", "boxes", "squares", "cube"],
+    "category": "Generic"
+  },
+  "automation": {
+    "alias": ["automate", "arrows", "process", "workflow"],
+    "category": "Generic"
+  },
+  "activity-monitor": {
+    "alias": ["heartbeat", "wave", "activities", "status", "health", "pulse"],
+    "category": "Generic"
+  },
+  "2d-explore": {
+    "alias": ["navigate"],
+    "category": "GIS"
+  },
+  "applications": {
+    "alias": [],
+    "category": "GIS"
+  },
+  "basemap": {
+    "alias": [],
+    "category": "GIS"
+  },
+  "collection": {
+    "alias": ["image", "map"],
+    "category": "GIS"
+  },
+  "compass": {
+    "alias": ["directions", "my-location", "gps", "north", "south", "east", "west", "explore"],
+    "category": "GIS"
+  },
+  "compass-north": {
+    "alias": ["directions", "my-location", "gps"],
+    "category": "GIS"
+  },
+  "compass-north-circle": {
+    "alias": ["directions", "my-location", "gps"],
+    "category": "GIS"
+  },
+  "globe": {
+    "alias": ["world"],
+    "category": "GIS"
+  },
+  "gps-off": {
+    "alias": ["locate"],
+    "category": "GIS"
+  },
+  "gps-on": {
+    "alias": [],
+    "category": "GIS"
+  },
+  "lasso": {
+    "alias": ["selection", "freeform"],
+    "category": "GIS"
+  },
+  "line": {
+    "alias": [],
+    "category": "GIS"
+  },
+  "line-straight": {
+    "alias": ["diagonal", "points"],
+    "category": "GIS"
+  },
+  "map": {
+    "alias": [],
+    "category": "GIS"
+  },
+  "pin": {
+    "alias": ["location", "feature"],
+    "category": "GIS"
+  },
+  "pin-plus": {
+    "alias": ["add", "location"],
+    "category": "GIS"
+  },
+  "point": {
+    "alias": [],
+    "category": "GIS"
+  },
+  "polygon": {
+    "alias": [],
+    "category": "GIS"
+  },
+  "3d-glasses": {
+    "alias": ["ortho-stereo"],
+    "category": "GIS"
+  },
+  "follow-play": {
+    "alias": ["navigation", "tracking"],
+    "category": "GIS"
+  },
+  "follow-pause": {
+    "alias": ["navigation", "tracking"],
+    "category": "GIS"
+  },
+  "follow": {
+    "alias": ["navigation", "tracking"],
+    "category": "GIS"
+  },
+  "layer": {
+    "alias": [],
+    "category": "Layers"
+  },
+  "layer-basemap": {
+    "alias": [],
+    "category": "Layers"
+  },
+  "layer-broken": {
+    "alias": ["broken"],
+    "category": "Layers"
+  },
+  "layer-filter": {
+    "alias": ["filter"],
+    "category": "Layers"
+  },
+  "layer-graphics": {
+    "alias": ["graphic"],
+    "category": "Layers"
+  },
+  "layer-kml": {
+    "alias": ["kml"],
+    "category": "Layers"
+  },
+  "layer-line": {
+    "alias": ["line"],
+    "category": "Layers"
+  },
+  "layer-line-service": {
+    "alias": ["line", "service"],
+    "category": "Layers"
+  },
+  "layer-map": {
+    "alias": [],
+    "category": "Layers"
+  },
+  "layer-map-service": {
+    "alias": ["map", "service"],
+    "category": "Layers"
+  },
+  "layer-points": {
+    "alias": [],
+    "category": "Layers"
+  },
+  "layer-polygon": {
+    "alias": ["polygon"],
+    "category": "Layers"
+  },
+  "layer-polygon-service": {
+    "alias": ["polygon", "service"],
+    "category": "Layers"
+  },
+  "layers": {
+    "alias": [],
+    "category": "Layers"
+  },
+  "map-contents": {
+    "alias": ["content", "list", "drilldown"],
+    "category": "Layers"
+  },
+  "check-layer": {
+    "alias": ["active", "success", "select", "enable"],
+    "category": "Layers"
+  },
+  "layer-hide": {
+    "alias": [],
+    "category": "Layers"
+  },
+  "layer-zoom-to": {
+    "alias": ["magnifying glass", "plus", "gis"],
+    "category": "Layers"
+  },
+  "beginning": {
+    "alias": ["start", "first", "media"],
+    "category": "media"
+  },
+  "end": {
+    "alias": ["media"],
+    "category": "media"
+  },
+  "forward": {
+    "alias": ["media"],
+    "category": "media"
+  },
+  "image": {
+    "alias": ["photo"],
+    "category": "media"
+  },
+  "images": {
+    "alias": ["picture", "media", "photo"],
+    "category": "media"
+  },
+  "pause": {
+    "alias": ["media"],
+    "category": "media"
+  },
+  "play": {
+    "alias": ["media"],
+    "category": "media"
+  },
+  "reverse": {
+    "alias": ["media"],
+    "category": "media"
+  },
+  "article": {
+    "alias": ["news", "blog"],
+    "category": "Objects"
+  },
+  "attachment": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "beaker": {
+    "alias": ["science", "lab", "research", "experiment"],
+    "category": "Objects"
+  },
+  "bell": {
+    "alias": ["notification", "alert", "alarm"],
+    "category": "Objects"
+  },
+  "bookmark": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "calendar": {
+    "alias": ["event", "schedule", "date", "appointment"],
+    "category": "Objects"
+  },
+  "clock": {
+    "alias": ["time", "history", "date"],
+    "category": "Objects"
+  },
+  "clock-down": {
+    "alias": ["time", "date", "sort", "descending"],
+    "category": "Objects"
+  },
+  "clock-up": {
+    "alias": ["time", "date", "sort", "ascending"],
+    "category": "Objects"
+  },
+  "copy": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "copy-to-clipboard": {
+    "alias": ["clone"],
+    "category": "Objects"
+  },
+  "cube": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "dashboard": {
+    "alias": ["gauge"],
+    "category": "Objects"
+  },
+  "envelope": {
+    "alias": ["send", "email", "contact"],
+    "category": "Objects"
+  },
+  "erase": {
+    "alias": ["clear"],
+    "category": "Objects"
+  },
+  "eyedropper": {
+    "alias": ["color-picker"],
+    "category": "Objects"
+  },
+  "filter": {
+    "alias": ["funnel"],
+    "category": "Objects"
+  },
+  "gear": {
+    "alias": ["settings", "preferences"],
+    "category": "Objects"
+  },
+  "hammer": {
+    "alias": ["app-studio", "geoprocessing"],
+    "category": "Objects"
+  },
+  "headset": {
+    "alias": ["headphones", "customer", "service", "representative", "support"],
+    "category": "Objects"
+  },
+  "hourglass-active": {
+    "alias": ["time"],
+    "category": "Objects"
+  },
+  "hourglass-expired": {
+    "alias": ["time"],
+    "category": "Objects"
+  },
+  "key": {
+    "alias": ["access", "permission", "admin"],
+    "category": "Objects"
+  },
+  "label": {
+    "alias": ["tag"],
+    "category": "Objects"
+  },
+  "link": {
+    "alias": ["chain"],
+    "category": "Objects"
+  },
+  "magnifying-glass": {
+    "alias": ["search", "filter", "zoom", "find"],
+    "category": "Objects"
+  },
+  "magnifying-glass-minus": {
+    "alias": ["zoom"],
+    "category": "Objects"
+  },
+  "magnifying-glass-plus": {
+    "alias": ["zoom"],
+    "category": "Objects"
+  },
+  "mega-phone": {
+    "alias": ["promote", "announcement"],
+    "category": "Objects"
+  },
+  "mobile": {
+    "alias": ["phone", "device"],
+    "category": "Objects"
+  },
+  "palette": {
+    "alias": ["appearances", "design", "themes", "color"],
+    "category": "Objects"
+  },
+  "paste": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "pen": {
+    "alias": ["signature", "authorize"],
+    "category": "Objects"
+  },
+  "pencil": {
+    "alias": ["edit", "modify", "draw"],
+    "category": "Objects"
+  },
+  "pencil-square": {
+    "alias": ["edit", "square"],
+    "category": "Objects"
+  },
+  "print": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "pushpin": {
+    "alias": ["tack"],
+    "category": "Objects"
+  },
+  "ribbon": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "road-sign": {
+    "alias": ["directions"],
+    "category": "Objects"
+  },
+  "scissors": {
+    "alias": ["cut"],
+    "category": "Objects"
+  },
+  "sliders": {
+    "alias": ["settings", "preferences", "adjust"],
+    "category": "Objects"
+  },
+  "tag": {
+    "alias": ["label"],
+    "category": "Objects"
+  },
+  "timer": {
+    "alias": [],
+    "category": "Objects"
+  },
+  "trash": {
+    "alias": ["delete", "remove"],
+    "category": "Objects"
+  },
+  "unlock": {
+    "alias": ["unsecure", "unguarded", "permission", "unrestricted"],
+    "category": "Objects"
+  },
+  "wrench": {
+    "alias": ["build", "create", "construct"],
+    "category": "Objects"
+  },
+  "lock": {
+    "alias": ["secure", "guarded", "permission", "security", "restricted", "privacy"],
+    "category": "Objects"
+  },
+  "phone": {
+    "alias": ["call", "contact"],
+    "category": "Objects"
+  },
+  "app-run": {
+    "alias": ["app-studio"],
+    "category": "Objects"
+  },
+  "banana": {
+    "alias": ["app-studio"],
+    "category": "Objects"
+  },
+  "sliders-horizontal": {
+    "alias": ["configuration"],
+    "category": "Objects"
+  },
+  "unlink": {
+    "alias": ["chain"],
+    "category": "Objects"
+  },
+  "lightbulb": {
+    "alias": ["tips", "help", "ideas"],
+    "category": "Objects"
+  },
+  "shopping-cart": {
+    "alias": ["purchase", "buy", "market", "items"],
+    "category": "Objects"
+  },
+  "battery-1": {
+    "alias": ["percentage", "critical", "low", "25%"],
+    "category": "Objects"
+  },
+  "battery-2": {
+    "alias": ["percentage", "half", "50%"],
+    "category": "Objects"
+  },
+  "battery-3": {
+    "alias": ["percentage", "high", "75%"],
+    "category": "Objects"
+  },
+  "battery-4": {
+    "alias": ["percentage", "fully charged", "100%"],
+    "category": "Objects"
+  },
+  "battery-charging": {
+    "alias": ["charge", "lightning bolt"],
+    "category": "Objects"
+  },
+  "car": {
+    "alias": ["automobile", "transportation", "motor vehicle", "sedan", "commute", "commuting", "driving", "drive"],
+    "category": "Objects"
+  },
+  "plane": {
+    "alias": ["airplane", "aircraft", "airport", "commercial jet", "transportation", "flying", "flight", "commute", "commuting", "cargo plane"],
+    "category": "Objects"
+  },
+  "satellite": {
+    "alias": ["artificial satellite", "communication", "remote sensing"],
+    "category": "Objects"
+  },
+  "group": {
+    "alias": [],
+    "category": "People"
+  },
+  "user": {
+    "alias": [],
+    "category": "People"
+  },
+  "user-plus": {
+    "alias": ["add user"],
+    "category": "People"
+  },
+  "user-to-device": {
+    "alias": [],
+    "category": "People"
+  },
+  "users": {
+    "alias": ["people", "group"],
+    "category": "People"
+  },
+  "premium-content-user-credit": {
+    "alias": ["web", "application"],
+    "category": "People"
+  },
+  "biking": {
+    "alias": ["bike", "bicycle", "bicycling", "ride", "sport", "people", "person", "commute", "commuting", "exercise", "activity", "transportation"],
+    "category": "People"
+  },
+  "person": {
+    "alias": ["standing", "stand", "men", "women", "man", "woman", "people"],
+    "category": "People"
+  },
+  "running": {
+    "alias": ["sport", "people", "person", "exercise", "activity"],
+    "category": "People"
+  },
+  "walking": {
+    "alias": ["people", "person", "commute", "commuting", "activity", "transportation"],
+    "category": "People"
+  },
+  "wheelchair": {
+    "alias": ["disabled", "handicapped", "people", "person", "disability", "activity", "sport"],
+    "category": "People"
+  },
+  "blog": {
+    "alias": ["social"],
+    "category": "Social-Media"
+  },
+  "geonet": {
+    "alias": ["share", "social"],
+    "category": "Social-Media"
+  },
+  "geonet-question": {
+    "alias": ["?", "social"],
+    "category": "Social-Media"
+  },
+  "speech-bubble-social": {
+    "alias": ["social"],
+    "category": "Social-Media"
+  },
+  "twitter": {
+    "alias": ["share", "tweet", "social", "third party"],
+    "category": "Social-Media"
+  },
+  "youtube": {
+    "alias": ["share", "social", "third party"],
+    "category": "Social-Media"
+  },
+  "facebook": {
+    "alias": ["share", "social", "third party"],
+    "category": "Social-Media"
+  },
+  "github": {
+    "alias": ["social", "third party"],
+    "category": "Social-Media"
+  },
+  "google-plus": {
+    "alias": ["social", "third party"],
+    "category": "Social-Media"
+  },
+  "instagram": {
+    "alias": ["share", "social", "third party"],
+    "category": "Social-Media"
+  },
+  "linkedin": {
+    "alias": ["share", "social", "third party"],
+    "category": "Social-Media"
+  },
+  "newsfeed": {
+    "alias": ["rss", "social"],
+    "category": "Social-Media"
+  },
+  "pinterest": {
+    "alias": ["share", "social", "third party"],
+    "category": "Social-Media"
+  },
+  "share-this": {
+    "alias": ["social", "third party"],
+    "category": "Social-Media"
+  },
+  "check": {
+    "alias": ["mark", "selected"],
+    "category": "Symbols"
+  },
+  "check-circle": {
+    "alias": ["check", "mark", "selected", "circle"],
+    "category": "Symbols"
+  },
+  "check-square": {
+    "alias": ["done", "box", "select", "tick"],
+    "category": "Symbols"
+  },
+  "chevron": {
+    "alias": ["arrow"],
+    "category": "Symbols"
+  },
+  "chevrons": {
+    "alias": ["arrow"],
+    "category": "Symbols"
+  },
+  "circle-disallowed": {
+    "alias": ["ban", "cancel"],
+    "category": "Symbols"
+  },
+  "exclamation-mark-circle": {
+    "alias": ["invalid", "error", "broken"],
+    "category": "Symbols"
+  },
+  "exclamation-mark-triangle": {
+    "alias": ["warning", "alert"],
+    "category": "Symbols"
+  },
+  "information": {
+    "alias": ["about", "help", "tooltip"],
+    "category": "Symbols"
+  },
+  "minus": {
+    "alias": ["zoomout", "dash"],
+    "category": "Symbols"
+  },
+  "minus-circle": {
+    "alias": ["subtract", "remove", "delete", "restricted"],
+    "category": "Symbols"
+  },
+  "plus": {
+    "alias": ["add", "zoom"],
+    "category": "Symbols"
+  },
+  "plus-circle": {
+    "alias": ["add", "expand", "increment", "increase"],
+    "category": "Symbols"
+  },
+  "plus-square": {
+    "alias": ["add", "expand"],
+    "category": "Symbols"
+  },
+  "question": {
+    "alias": ["faq", "unknown", "help", "hint"],
+    "category": "Symbols"
+  },
+  "recent": {
+    "alias": ["history"],
+    "category": "Symbols"
+  },
+  "star": {
+    "alias": ["favorite", "rate", "rating"],
+    "category": "Symbols"
+  },
+  "star-circle": {
+    "alias": ["premium"],
+    "category": "Symbols"
+  },
+  "x-circle": {
+    "alias": ["delete", "remove", "close"],
+    "category": "Symbols"
+  },
+  "x": {
+    "alias": ["delete", "remove", "close"],
+    "category": "Symbols"
+  },
+  "null": {
+    "alias": ["zero", "nothing", "empty", "n/a", "none"],
+    "category": "Symbols"
+  },
+  "a-z": {
+    "alias": ["sort", "alphabetical", "ascending", "descending"],
+    "category": "Text"
+  },
+  "a-z-down": {
+    "alias": ["sort", "alphabetical", "descending"],
+    "category": "Text"
+  },
+  "a-z-up": {
+    "alias": ["sort", "alphabetical", "ascending"],
+    "category": "Text"
+  },
+  "bold": {
+    "alias": [],
+    "category": "Text"
+  },
+  "change-font-size": {
+    "alias": ["increase", "decrease"],
+    "category": "Text"
+  },
+  "italicize": {
+    "alias": [],
+    "category": "Text"
+  },
+  "text": {
+    "alias": [],
+    "category": "Text"
+  },
+  "title": {
+    "alias": [],
+    "category": "Text"
+  },
+  "underline": {
+    "alias": [],
+    "category": "Text"
+  },
+  "browser": {
+    "alias": ["os", "window"],
+    "category": "Windows"
+  },
+  "dock-bottom": {
+    "alias": ["footer", "panel"],
+    "category": "Windows"
+  },
+  "dock-left": {
+    "alias": ["sidebar", "toc", "panel"],
+    "category": "Windows"
+  },
+  "dock-right": {
+    "alias": ["sidebar", "panel"],
+    "category": "Windows"
+  },
+  "maximize": {
+    "alias": ["header", "dock-top", "panel"],
+    "category": "Windows"
+  },
+  "minimize": {
+    "alias": ["undock"],
+    "category": "Windows"
+  },
+  "embedded-content": {
+    "alias": ["iframe", "browser"],
+    "category": "Windows"
+  },
+  "console": {
+    "alias": ["app-studio", "terminal"],
+    "category": "Windows"
+  },
+  "hide-empty": {
+    "alias": ["empty", "table", "field", "insights"],
+    "category": "Windows"
+  }
+}
