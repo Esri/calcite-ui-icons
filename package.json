@@ -10,6 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Esri/calcite-ui-icons.git"
   },
+  "main": "icons.json",
   "keywords": [
     "esri",
     "arcgis",
@@ -53,9 +54,12 @@
     "start": "npm run buildsprite-16-f && npm run buildsprite-24-f && npm run buildsprite-32-f && npm run buildsprite-16 && npm run buildsprite-24 && npm run buildsprite-32 && npm run optimize"
   },
   "devDependencies": {
+    "fs-extra": "^7.0.0",
+    "glob-promise": "^3.4.0",
     "imagemin": "^5.3.1",
     "imagemin-svgo": "^6.0.0",
     "promise": "~8.0.1",
+    "svgson": "^2.1.1",
     "svgstore-cli": "^1.3.1"
   }
 }
