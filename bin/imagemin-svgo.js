@@ -16,7 +16,7 @@ let options = {
     {removeTitle: true},
     {removeDesc: true},
     {removeDimensions: true},
-    {removeAttrs: {attrs: ['class', '(stroke|fill)']}},
+    {removeAttrs: {attrs: ['class', '(stroke|fill)']}}
   ],
   multipass: true
 };
