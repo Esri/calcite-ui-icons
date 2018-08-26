@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/Esri/calcite-ui-icons.git"
   },
-  "main": "icons.json",
+  "main": "docs/icons.json",
   "keywords": [
     "esri",
     "arcgis",

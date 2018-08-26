@@ -39,5 +39,5 @@ imagemin(['*.svg'], './', { use: [imageminSvgo(options)] })
     throw error;
   })
   .then(function (files) {
-    console.log('✨  path file generated at ./icons.json');
+    console.log('✨  path file generated at ./docs/icons.json');
   });

@@ -3,7 +3,7 @@ const glob = require('glob-promise');
 const path = require('path');
 const util = require('util');
 const svgson = util.promisify(require('svgson'));
-const keywords = require('./keywords.json');
+const keywords = require('../docs/keywords.json');
 const version = require('../package.json').version;
 
 /**
@@ -81,6 +81,6 @@ module.exports = function generatePathFile () {
         icon.outline = icon.outline || {};
         icon[file.filled ? 'filled' : 'outline'][file.size] = file.paths;
       });
-      return fs.writeFile('icons.json', JSON.stringify({version, icons}), 'utf8');
+      return fs.writeFile('docs/icons.json', JSON.stringify({version, icons}), 'utf8');
     });
 };
