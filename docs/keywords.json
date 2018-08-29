@@ -1558,5 +1558,21 @@
   "search": {
     "alias": ["symbols", "magnifying glass", "locate", "reveal", "find", "filter", "search field"],
     "category": "Symbols"
-  }
+  },
+  "hillshade-effect": {
+    "alias": ["map"],
+    "category": "GIS"
+  },
+  "gamma": {
+  	"alias": ["symbol", "greek character", "gamma rays"],
+  	"category": "Text"
+  },
+  "compass-needle": {
+  	"alias": ["orientation", "directions", "cardinal", "north", "south", "compass rose"],
+  	"category": "GIS"
+  },
+	"transparency": {
+  	"alias": ["opacity", "filters"],
+  	"category": "Generic"
+	}
 }
