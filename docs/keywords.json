@@ -1554,5 +1554,9 @@
   "zoom-to-object": {
     "alias": [],
     "category": ""
+  },
+  "search": {
+    "alias": ["symbols", "magnifying glass", "locate", "reveal", "find", "filter", "search field"],
+    "category": "Symbols"
   }
 }
