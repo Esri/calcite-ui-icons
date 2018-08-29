@@ -1574,5 +1574,5 @@
 	"transparency": {
   	"alias": ["opacity", "filters"],
   	"category": "Generic"
-	}
+  }
 }
