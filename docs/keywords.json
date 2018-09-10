@@ -1574,5 +1574,9 @@
 	"transparency": {
   	"alias": ["opacity", "filters"],
   	"category": "Generic"
-  }
+  },
+	"calculator": {
+  	"alias": ["addition", "subtraction", "division", "multiplication", "calculate", "compute", "function", "expression", "mathematics"],
+  	"category": "Objects"
+	}
 }
