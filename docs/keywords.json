@@ -519,10 +519,6 @@
     "alias": ["color-picker"],
     "category": "Objects"
   },
-  "facebook": {
-    "alias": ["share", "social", "third party"],
-    "category": "Social-Media"
-  },
   "feature-details": {
     "alias": ["feature", "details"],
     "category": "Charts-and-Widgets"
@@ -691,17 +687,9 @@
     "alias": ["?", "social"],
     "category": "Social-Media"
   },
-  "github": {
-    "alias": ["social", "third party"],
-    "category": "Social-Media"
-  },
   "globe": {
     "alias": ["world"],
     "category": "GIS"
-  },
-  "google-plus": {
-    "alias": ["social", "third party"],
-    "category": "Social-Media"
   },
   "gps-off": {
     "alias": ["locate"],
@@ -806,10 +794,6 @@
   "information": {
     "alias": ["about", "help", "tooltip"],
     "category": "Symbols"
-  },
-  "instagram": {
-    "alias": ["share", "social", "third party"],
-    "category": "Social-Media"
   },
   "italicize": {
     "alias": [],
@@ -947,10 +931,6 @@
     "alias": ["chain"],
     "category": "Objects"
   },
-  "linkedin": {
-    "alias": ["share", "social", "third party"],
-    "category": "Social-Media"
-  },
   "list": {
     "alias": [],
     "category": "Charts-and-Widgets"
@@ -1067,10 +1047,6 @@
     "alias": ["arrow"],
     "category": "Arrows"
   },
-  "newsfeed": {
-    "alias": ["rss", "social"],
-    "category": "Social-Media"
-  },
   "nodes-link": {
     "alias": [],
     "category": ""
@@ -1142,10 +1118,6 @@
   "pin-plus": {
     "alias": ["add", "location"],
     "category": "GIS"
-  },
-  "pinterest": {
-    "alias": ["share", "social", "third party"],
-    "category": "Social-Media"
   },
   "plane": {
     "alias": ["airplane", "aircraft", "airport", "commercial jet", "transportation", "flying", "flight", "commute", "commuting", "cargo plane"],
@@ -1327,10 +1299,6 @@
     "alias": [],
     "category": "Arrows"
   },
-  "share-this": {
-    "alias": ["social", "third party"],
-    "category": "Social-Media"
-  },
   "sharp-left": {
     "alias": ["directions"],
     "category": "Directions"
@@ -1443,10 +1411,6 @@
     "alias": ["delete", "remove"],
     "category": "Objects"
   },
-  "twitter": {
-    "alias": ["share", "tweet", "social", "third party"],
-    "category": "Social-Media"
-  },
   "u-turn-left": {
     "alias": ["directions u turn"],
     "category": "Directions"
@@ -1539,10 +1503,6 @@
     "alias": ["delete", "remove", "close"],
     "category": "Symbols"
   },
-  "youtube": {
-    "alias": ["share", "social", "third party"],
-    "category": "Social-Media"
-  },
   "zoom-in-fixed": {
     "alias": [],
     "category": "Arrows"
@@ -1578,5 +1538,9 @@
 	"calculator": {
   	"alias": ["addition", "subtraction", "division", "multiplication", "calculate", "compute", "function", "expression", "mathematics"],
   	"category": "Objects"
+	},
+	"file-pitemx": {
+  	"alias": ["files"],
+  	"category": "Files"
 	}
 }
