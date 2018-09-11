@@ -1263,7 +1263,7 @@
     "alias": ["sport", "people", "person", "exercise", "activity"],
     "category": "People"
   },
-  "satellite": {
+  "satellite-3": {
     "alias": ["artificial satellite", "communication", "remote sensing", "full signal"],
     "category": "Objects"
   },
