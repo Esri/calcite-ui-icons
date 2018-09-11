@@ -1540,7 +1540,7 @@
   	"category": "Objects"
 	},
 	"file-pitemx": {
-  	"alias": ["files"],
+  	"alias": ["files", "file type", "format", "developer"],
   	"category": "Files"
 	},
 	"satellite-0": {
