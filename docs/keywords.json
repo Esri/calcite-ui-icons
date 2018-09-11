@@ -1264,7 +1264,7 @@
     "category": "People"
   },
   "satellite": {
-    "alias": ["artificial satellite", "communication", "remote sensing"],
+    "alias": ["artificial satellite", "communication", "remote sensing", "full signal"],
     "category": "Objects"
   },
   "save": {
@@ -1542,5 +1542,17 @@
 	"file-pitemx": {
   	"alias": ["files"],
   	"category": "Files"
+	},
+	"satellite-0": {
+  	"alias": ["artificial satellite", "communication", "remote sensing", "no signal"],
+  	"category": "Objects"
+	},
+	"satellite-1": {
+  	"alias": ["artificial satellite", "communication", "remote sensing", "signal"],
+  	"category": "Objects"
+	},
+	"satellite-2": {
+  	"alias": ["artificial satellite", "communication", "remote sensing", "signal"],
+  	"category": "Objects"
 	}
 }
