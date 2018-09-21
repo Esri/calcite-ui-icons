@@ -55,6 +55,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.24.7",
+    "debounce": "^1.2.0",
     "fs-extra": "^7.0.0",
     "glob-promise": "^3.4.0",
     "imagemin": "^5.3.1",
