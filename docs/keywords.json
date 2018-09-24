@@ -3738,5 +3738,12 @@
       "remote sensing"
     ],
     "category":"Objects"
+  },
+  "minus-square": {
+    "alias": [
+      "subtract",
+      "hyphen"
+    ],
+    "category": "Symbols"
   }
 }
