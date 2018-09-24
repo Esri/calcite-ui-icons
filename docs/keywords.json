@@ -3739,11 +3739,11 @@
     ],
     "category":"Objects"
   },
-	"minus-square": {
-  	"alias": [
+  "minus-square": {
+    "alias": [
       "subtract",
       "hyphen"
     ],
-  	"category": "Symbols"
-	}
+    "category": "Symbols"
+  }
 }
