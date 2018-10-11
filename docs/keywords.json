@@ -34,7 +34,7 @@
   },
   "a-z-up":{
     "alias":[
-      "text"
+      "text",
       "sort",
       "alphabetical",
       "ascending"
