@@ -3745,5 +3745,21 @@
       "hyphen"
     ],
     "category": "Symbols"
-  }
+  },
+	"compass-circle": {
+  	"alias": [
+      "orientation",
+      "navigation",
+      "navigate",
+      "directions",
+      "gis",
+      "north",
+      "south",
+      "east",
+      "west",
+      "my-location",
+      "explore"
+    ],
+  	"category": "GIS"
+	}
 }
