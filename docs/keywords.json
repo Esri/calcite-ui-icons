@@ -4155,5 +4155,83 @@
     ],
   	"category": "GIS",
     "release":"1.5"
+	},
+	"slice": {
+  	"alias": [
+      "cutaway",
+      "open",
+      "3d"
+    ],
+    "category": "Generic",
+    "release":"1.5"
+	},
+	"desktop": {
+  	"alias": [
+      "computer",
+      "monitor",
+      "windows"
+    ],
+    "category": "Objects",
+    "release":"1.6"
+	},
+	"monitor": {
+  	"alias": [
+      "desktop",
+      "computer",
+      "windows",
+      "screen"
+    ],
+    "category": "Objects",
+    "release":"1.6"
+	},
+	"rotate-device": {
+  	"alias": [
+      "device",
+      "horizontal",
+      "vertical",
+      "tablet",
+      "phone"
+    ],
+    "category": "Objects",
+    "release":"1.6"
+	},
+	"tablet": {
+  	"alias": [
+      "Android",
+      "iOS",
+      "iPad"
+    ],
+    "category": "Objects",
+    "release":"1.6"
+	},
+	"measure-building-height-shadow": {
+  	"alias": [
+      "measure",
+      "buildings",
+      "height",
+      "distance"
+    ],
+    "category": "Objects",
+    "release":"1.6"
+	},
+	"measure-building-height-top-base": {
+  	"alias": [
+      "measure",
+      "buildings",
+      "height",
+      "distance"
+    ],
+    "category": "Objects",
+    "release":"1.6"
+	},
+	"measure-building-height-top-shadow": {
+  	"alias": [
+      "measure",
+      "buildings",
+      "height",
+      "distance"
+    ],
+    "category": "Objects",
+    "release":"1.6"
 	}
 }
