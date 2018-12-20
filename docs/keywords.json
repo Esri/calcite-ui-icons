@@ -4233,5 +4233,28 @@
     ],
     "category": "Objects",
     "release":"1.6"
+	},
+	"image-mensuration": {
+  	"alias": [
+      "measure",
+      "image size",
+      "dimensions",
+      "width",
+      "height",
+      "resolution",
+      "dpi",
+      "ppi"
+    ],
+    "category": "Objects",
+    "release":"1.6.1"
+	},
+	"cut-and-fill-volume-calculation": {
+  	"alias": [
+      "space",
+      "void",
+      "difference"
+    ],
+    "category": "GIS",
+    "release":"1.6.1"
 	}
 }
