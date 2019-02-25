@@ -4256,5 +4256,13 @@
     ],
     "category": "GIS",
     "release":"1.6.1"
+},
+	"analysis": {
+  	"alias": [
+      "gis",
+      "map",
+      "points"
+    ],
+    "category": "GIS",
+    "release":"1.6.2"
 	}
-}
