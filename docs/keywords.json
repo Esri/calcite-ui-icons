@@ -4256,7 +4256,7 @@
     ],
     "category": "GIS",
     "release":"1.6.1"
-},
+	},
 	"analysis": {
   	"alias": [
       "gis",
@@ -4266,3 +4266,4 @@
     "category": "GIS",
     "release":"1.6.2"
 	}
+}
