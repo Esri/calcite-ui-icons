@@ -4265,5 +4265,16 @@
     ],
     "category": "GIS",
     "release":"1.6.2"
+	},
+	"handle-vertical": {
+  	"alias": [
+      "ellipsis",
+      "handle",
+      "options",
+      "settings",
+      "dropdown menu"
+    ],
+    "category": "Generic",
+    "release":"1.6.3"
 	}
 }
