@@ -2000,7 +2000,7 @@
       "generic",
       "menu",
       "options",
-      "dropdown",
+      "dropdown menu",
       "more"
     ],
     "category":"Generic",
@@ -4266,15 +4266,18 @@
     "category": "GIS",
     "release":"1.6.2"
 	},
-	"handle-vertical": {
-  	"alias": [
-      "ellipsis",
-      "handle",
-      "options",
-      "settings",
-      "dropdown menu"
+  "handle-vertical":{
+    "alias":[
+      "more",
+			"...",
+			"dot dot dot",
+			"…",
+			"ellipsis",
+			"handle",
+			"options",
+			"settings",
+			"dropdown menu"
     ],
-    "category": "Generic",
-    "release":"1.6.3"
-	}
+    "category":"Generic"
+  }
 }
