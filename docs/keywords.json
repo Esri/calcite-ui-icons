@@ -4280,4 +4280,54 @@
     ],
     "category":"Generic"
   }
+,
+	"send": {
+  	"alias": [
+      "objects",
+      "push",
+      "paper airplane"
+    ],
+    "category": "Objects",
+    "release":"1.6.5"
+	},
+	"view-hide": {
+  	"alias": [
+      "generic",
+      "not visible",
+      "hidden",
+      "unhide",
+      "invisible",
+      "not shown",
+      "eye"
+    ],
+    "category": "Generic",
+    "release":"1.6.5"
+	},
+	"view-mixed": {
+  	"alias": [
+      "generic",
+      "covered",
+      "hidden",
+      "eye",
+      "not shown",
+      "not in view",
+      "visible"
+    ],
+    "category": "Generic",
+    "release":"1.6.5"
+	},
+	"view-visible": {
+  	"alias": [
+      "eye",
+      "generic",
+      "shown",
+      "preview",
+      "visible",
+      "unhide",
+      "sight",
+      "see"
+    ],
+    "category": "Generic",
+    "release":"1.6.5"
+	}
 }
