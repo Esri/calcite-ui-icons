@@ -4131,16 +4131,16 @@
     "category":"Objects",
     "release":"1.5"
   },
-  "minus-square": {
-    "alias": [
+  "minus-square":{
+    "alias":[
       "subtract",
       "hyphen"
     ],
-    "category": "Symbols",
+    "category":"Symbols",
     "release":"1.5"
   },
-	"compass-circle": {
-  	"alias": [
+	"compass-circle":{
+  	"alias":[
       "orientation",
       "navigation",
       "navigate",
@@ -4153,89 +4153,89 @@
       "my-location",
       "explore"
     ],
-  	"category": "GIS",
+  	"category":"GIS",
     "release":"1.5"
 	},
-	"slice": {
-  	"alias": [
+	"slice":{
+  	"alias":[
       "cutaway",
       "open",
       "3d"
     ],
-    "category": "Generic",
+    "category":"Generic",
     "release":"1.5"
 	},
-	"desktop": {
-  	"alias": [
+	"desktop":{
+  	"alias":[
       "computer",
       "monitor",
       "windows"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6"
 	},
-	"monitor": {
-  	"alias": [
+	"monitor":{
+  	"alias":[
       "desktop",
       "computer",
       "windows",
       "screen"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6"
 	},
-	"rotate-device": {
-  	"alias": [
+	"rotate-device":{
+  	"alias":[
       "device",
       "horizontal",
       "vertical",
       "tablet",
       "phone"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6"
 	},
-	"tablet": {
-  	"alias": [
+	"tablet":{
+  	"alias":[
       "Android",
       "iOS",
       "iPad"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6"
 	},
-	"measure-building-height-shadow": {
-  	"alias": [
+	"measure-building-height-shadow":{
+  	"alias":[
       "measure",
       "buildings",
       "height",
       "distance"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6"
 	},
-	"measure-building-height-top-base": {
-  	"alias": [
+	"measure-building-height-top-base":{
+  	"alias":[
       "measure",
       "buildings",
       "height",
       "distance"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6"
 	},
-	"measure-building-height-top-shadow": {
-  	"alias": [
+	"measure-building-height-top-shadow":{
+  	"alias":[
       "measure",
       "buildings",
       "height",
       "distance"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6"
 	},
-	"image-mensuration": {
-  	"alias": [
+	"image-mensuration":{
+  	"alias":[
       "measure",
       "image size",
       "dimensions",
@@ -4245,25 +4245,25 @@
       "dpi",
       "ppi"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6.1"
 	},
-	"cut-and-fill-volume-calculation": {
-  	"alias": [
+	"cut-and-fill-volume-calculation":{
+  	"alias":[
       "space",
       "void",
       "difference"
     ],
-    "category": "GIS",
+    "category":"GIS",
     "release":"1.6.1"
 	},
-	"analysis": {
-  	"alias": [
+	"analysis":{
+  	"alias":[
       "gis",
       "map",
       "points"
     ],
-    "category": "GIS",
+    "category":"GIS",
     "release":"1.6.2"
 	},
   "handle-vertical":{
@@ -4279,19 +4279,18 @@
 			"dropdown menu"
     ],
     "category":"Generic"
-  }
-,
-	"send": {
-  	"alias": [
+  },
+	"send":{
+  	"alias":[
       "objects",
       "push",
       "paper airplane"
     ],
-    "category": "Objects",
+    "category":"Objects",
     "release":"1.6.5"
 	},
-	"view-hide": {
-  	"alias": [
+	"view-hide":{
+  	"alias":[
       "generic",
       "not visible",
       "hidden",
@@ -4300,11 +4299,11 @@
       "not shown",
       "eye"
     ],
-    "category": "Generic",
+    "category":"Generic",
     "release":"1.6.5"
 	},
-	"view-mixed": {
-  	"alias": [
+	"view-mixed":{
+  	"alias":[
       "generic",
       "covered",
       "hidden",
@@ -4313,11 +4312,11 @@
       "not in view",
       "visible"
     ],
-    "category": "Generic",
+    "category":"Generic",
     "release":"1.6.5"
 	},
-	"view-visible": {
-  	"alias": [
+	"view-visible":{
+  	"alias":[
       "eye",
       "generic",
       "shown",
@@ -4327,7 +4326,7 @@
       "sight",
       "see"
     ],
-    "category": "Generic",
+    "category":"Generic",
     "release":"1.6.5"
 	}
 }
