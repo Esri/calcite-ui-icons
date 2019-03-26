@@ -1385,17 +1385,6 @@
     "category":"Arrows",
     "release":"1.5"
   },
-  "eye":{
-    "alias":[
-      "generic",
-      "previewable",
-      "visible",
-      "hidden",
-      "unhide"
-    ],
-    "category":"Generic",
-    "release":"1.5"
-  },
   "eyedropper":{
     "alias":[
       "objects",
@@ -2041,25 +2030,19 @@
     "category":"Charts-and-graphs",
     "release":"1.5"
   },
-  "hide":{
-    "alias":[
-      "generic",
-      "not visible",
-      "not previewable",
-      "hidden",
-      "hide",
-      "eye",
-      "invisible"
-    ],
-    "category":"Generic",
-    "release":"1.5"
-  },
   "hide-empty":{
     "alias":[
       "windows",
       "empty",
       "table",
       "field",
+      "eye",
+      "view",
+      "not visible",
+      "hidden",
+      "unhide",
+      "invisible",
+      "not shown",
       "insights"
     ],
     "category":"Windows",
@@ -2254,6 +2237,7 @@
       "hidden",
       "invisible",
       "not visible",
+      "not shown",
       "eye"
     ],
     "category":"Layers",
