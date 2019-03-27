@@ -12,6 +12,7 @@
       document.querySelector('.js-version').innerHTML = payload.version;
       document.querySelector('.js-filled').addEventListener("change", toggleFill);
       document.querySelector('.js-search').addEventListener("input", searchIcons);
+      calcite.bus.on("modal:close", removeHash);
       startup();
     });
 
@@ -40,6 +41,13 @@
         $icons.push($btn);
       });
     calcite.init();
+
+    if (window.location.hash.length > 1) {
+      var active = window.location.hash.substring(1);
+      if (icons[active]) {
+        $iconContainer.querySelector('.js-icon-select[data-icon="' + active + '"]').click();
+      }
+    }
   }
 
   function toggleFill (e) {
@@ -77,6 +85,7 @@
       return '<span class="label inline-block margin-right-quarter trailer-quarter">' + alias + '</span>';
     }).join('');
 
+    window.location.hash = key;
     document.querySelector('.js-detail-name').innerHTML = key;
     document.querySelector('.js-detail-aliases').innerHTML = (tags && tags) || '---';
     document.querySelector('.js-detail-category').innerHTML = (icon.category && icon.category) || '---';
@@ -100,5 +109,11 @@
       $svg.appendChild($path);
     });
     return $svg;
+  }
+
+  function removeHash (fromOpen) {
+    if (!fromOpen) {
+      window.location.hash = '';
+    }
   }
 })();
