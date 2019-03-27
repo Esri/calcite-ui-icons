@@ -4123,8 +4123,8 @@
     "category":"Symbols",
     "release":"1.5"
   },
-	"compass-circle":{
-  	"alias":[
+  "compass-circle":{
+    "alias":[
       "orientation",
       "navigation",
       "navigate",
@@ -4137,29 +4137,29 @@
       "my-location",
       "explore"
     ],
-  	"category":"GIS",
+    "category":"GIS",
     "release":"1.5"
-	},
-	"slice":{
-  	"alias":[
+  },
+  "slice":{
+    "alias":[
       "cutaway",
       "open",
       "3d"
     ],
     "category":"Generic",
     "release":"1.5"
-	},
-	"desktop":{
-  	"alias":[
+  },
+  "desktop":{
+    "alias":[
       "computer",
       "monitor",
       "windows"
     ],
     "category":"Objects",
     "release":"1.6"
-	},
-	"monitor":{
-  	"alias":[
+  },
+  "monitor":{
+    "alias":[
       "desktop",
       "computer",
       "windows",
@@ -4167,9 +4167,9 @@
     ],
     "category":"Objects",
     "release":"1.6"
-	},
-	"rotate-device":{
-  	"alias":[
+  },
+  "rotate-device":{
+    "alias":[
       "device",
       "horizontal",
       "vertical",
@@ -4178,18 +4178,18 @@
     ],
     "category":"Objects",
     "release":"1.6"
-	},
-	"tablet":{
-  	"alias":[
+  },
+  "tablet":{
+    "alias":[
       "Android",
       "iOS",
       "iPad"
     ],
     "category":"Objects",
     "release":"1.6"
-	},
-	"measure-building-height-shadow":{
-  	"alias":[
+  },
+  "measure-building-height-shadow":{
+    "alias":[
       "measure",
       "buildings",
       "height",
@@ -4197,9 +4197,9 @@
     ],
     "category":"Objects",
     "release":"1.6"
-	},
-	"measure-building-height-top-base":{
-  	"alias":[
+  },
+  "measure-building-height-top-base":{
+    "alias":[
       "measure",
       "buildings",
       "height",
@@ -4207,9 +4207,9 @@
     ],
     "category":"Objects",
     "release":"1.6"
-	},
-	"measure-building-height-top-shadow":{
-  	"alias":[
+  },
+  "measure-building-height-top-shadow":{
+    "alias":[
       "measure",
       "buildings",
       "height",
@@ -4217,9 +4217,9 @@
     ],
     "category":"Objects",
     "release":"1.6"
-	},
-	"image-mensuration":{
-  	"alias":[
+  },
+  "image-mensuration":{
+    "alias":[
       "measure",
       "image size",
       "dimensions",
@@ -4231,50 +4231,50 @@
     ],
     "category":"Objects",
     "release":"1.6.1"
-	},
-	"cut-and-fill-volume-calculation":{
-  	"alias":[
+  },
+  "cut-and-fill-volume-calculation":{
+    "alias":[
       "space",
       "void",
       "difference"
     ],
     "category":"GIS",
     "release":"1.6.1"
-	},
-	"analysis":{
-  	"alias":[
+  },
+  "analysis":{
+    "alias":[
       "gis",
       "map",
       "points"
     ],
     "category":"GIS",
     "release":"1.6.2"
-	},
+  },
   "handle-vertical":{
     "alias":[
       "more",
-			"...",
-			"dot dot dot",
-			"…",
-			"ellipsis",
-			"handle",
-			"options",
-			"settings",
-			"dropdown menu"
+      "...",
+      "dot dot dot",
+      "…",
+      "ellipsis",
+      "handle",
+      "options",
+      "settings",
+      "dropdown menu"
     ],
     "category":"Generic"
   },
-	"send":{
-  	"alias":[
+  "send":{
+    "alias":[
       "objects",
       "push",
       "paper airplane"
     ],
     "category":"Objects",
     "release":"1.6.5"
-	},
-	"view-hide":{
-  	"alias":[
+  },
+  "view-hide":{
+    "alias":[
       "generic",
       "not visible",
       "hidden",
@@ -4285,9 +4285,9 @@
     ],
     "category":"Generic",
     "release":"1.6.5"
-	},
-	"view-mixed":{
-  	"alias":[
+  },
+  "view-mixed":{
+    "alias":[
       "generic",
       "covered",
       "hidden",
@@ -4298,9 +4298,9 @@
     ],
     "category":"Generic",
     "release":"1.6.5"
-	},
-	"view-visible":{
-  	"alias":[
+  },
+  "view-visible":{
+    "alias":[
       "eye",
       "generic",
       "shown",
@@ -4312,5 +4312,5 @@
     ],
     "category":"Generic",
     "release":"1.6.5"
-	}
+  }
 }
