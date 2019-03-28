@@ -25,7 +25,7 @@ and 3 sizes:
 More info on what happens when you scale vector based icons [here](https://github.com/Esri/calcite-ui-icons/wiki/What-Happens-When-You-Scale-Vector-Based-Icons)
 
 ### Outline icons are the standard
-Outline icons have the default name. For eample, `trash-16.svg` will render the default outline icon.
+Outline icons have the default name. For example, `trash-16.svg` will render the default outline icon.
 
 If needed, appending `-f` (`trash-16-f.svg`) will render the filled version.
 
