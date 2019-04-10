@@ -4313,5 +4313,44 @@
     ],
     "category":"Generic",
     "release":"1.6.5"
-  }
-}
+  },
+	"pan":{
+  	"alias":[
+      "drag",
+      "grab",
+      "move",
+      "hand",
+      "span",
+      "cursor",
+      "grabbing",
+      "dragging"
+    ],
+    "category":"Generic",
+    "release":"1.7.0"
+	},
+	"pan-drag":{
+  	"alias":[
+      "drag",
+      "grab",
+      "move",
+      "hand",
+      "span",
+      "cursor",
+      "grabbing",
+      "dragging"
+    ],
+    "category":"Generic",
+    "release":"1.7.0"
+	}
+},
+	"freehand-area":{
+  	"alias":[
+      "draw",
+      "shape",
+      "GIS",
+      "map",
+      "distance"
+    ],
+    "category":"GIS",
+    "release":"1.7.0"
+	}
