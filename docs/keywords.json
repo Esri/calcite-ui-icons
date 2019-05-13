@@ -4364,5 +4364,25 @@
     ],
     "category":"Objects",
     "release":"1.8.0"
+  },
+  "color-coded-map":{
+    "alias":[
+      "map",
+      "area",
+      "selection",
+      "perimeter"
+    ],
+    "category":"Windows",
+    "release":"1.8.0"
+  },
+  "suitability-analysis-output":{
+    "alias":[
+      "map",
+      "area",
+      "selection",
+      "perimeter"
+    ],
+    "category":"Windows",
+    "release":"1.8.0"
   }
 }
