@@ -4352,5 +4352,17 @@
     ],
     "category":"GIS",
     "release":"1.7.0"
+  },
+  "credits":{
+    "alias":[
+      "coins",
+      "assign credits",
+      "money",
+      "cash",
+      "change",
+      "currency"
+    ],
+    "category":"Objects",
+    "release":"1.8.0"
   }
 }
