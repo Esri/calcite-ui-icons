@@ -3,14 +3,16 @@
     "spriter": "bin/spriter.js"
   },
   "name": "@esri/calcite-ui-icons",
-  "version": "1.8.0",
+  "version": "2.0.0",
   "private": false,
   "description": "A collection of UI SVG icons created by Esri for applications.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Esri/calcite-ui-icons.git"
   },
-  "main": "docs/icons.json",
+  "main": "index.js",
+  "js-next:main": "index.js",
+  "module": "index.js",
   "keywords": [
     "esri",
     "arcgis",
@@ -55,6 +57,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.24.7",
+    "camelcase": "^5.3.1",
     "debounce": "^1.2.0",
     "fs-extra": "^7.0.0",
     "glob-promise": "^3.4.0",
