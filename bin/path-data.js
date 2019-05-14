@@ -69,7 +69,7 @@ function readSVG (fileName) {
 }
 
 module.exports = function generatePathFile () {
-  let banner = '// File generated automatically by path-data.js, do not edit directly \n';
+  let banner = '// File generated automatically by path-data.js, do not edit directly\n';
   let jsFile = `${banner}`;
   let tsFile = `${banner}`;
   return glob('icons/*.svg')
@@ -86,12 +86,12 @@ module.exports = function generatePathFile () {
         icon.outline = icon.outline || {};
         icon[file.filled ? 'filled' : 'outline'][file.size] = file.paths;
         
-        // add to ts and JS files
+        // add to ts and js files
         const variant = file.variant.match(/^\d/) ? `i${file.variant}`: file.variant;
         const filled = file.filled ? "F" : "";
         const camelCaseName = camelCase(`${variant}-${file.size}${filled}`);
-        tsFile += `export const ${camelCaseName}: string; \n`
-        jsFile += `export const ${camelCaseName} = "${file.paths[0]}"; \n`
+        tsFile += `export const ${camelCaseName}: string;\n`
+        jsFile += `export const ${camelCaseName} = "${file.paths[0]}";\n`
       });
       let promises = [
         fs.writeFile('docs/icons.json', JSON.stringify({ version, icons }), 'utf8'),
