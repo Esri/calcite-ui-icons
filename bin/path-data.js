@@ -1,3 +1,4 @@
+const camelCase = require('camelcase'); 
 const fs = require('fs-extra');
 const glob = require('glob-promise');
 const path = require('path');
@@ -68,6 +69,9 @@ function readSVG (fileName) {
 }
 
 module.exports = function generatePathFile () {
+  let banner = '// File generated automatically by path-data.js, do not edit directly\n';
+  let jsFile = `${banner}`;
+  let tsFile = `${banner}`;
   return glob('icons/*.svg')
     .then(filePaths => Promise.all(filePaths.map(readSVG)))
     .then(files => files.map(formatSVG))
@@ -75,12 +79,25 @@ module.exports = function generatePathFile () {
       let icons = {};
       let keywords = JSON.parse(fs.readFileSync('docs/keywords.json', 'utf-8'));
       files.forEach(file => {
+        // add to json file
         icons[file.variant] = icons[file.variant] || keywords[file.variant] || {alias: [], category: "", release:""};
         let icon = icons[file.variant];
         icon.filled = icon.filled || {};
         icon.outline = icon.outline || {};
         icon[file.filled ? 'filled' : 'outline'][file.size] = file.paths;
+        
+        // add to ts and js files
+        const variant = file.variant.match(/^\d/) ? `i${file.variant}`: file.variant;
+        const filled = file.filled ? "F" : "";
+        const camelCaseName = camelCase(`${variant}-${file.size}${filled}`);
+        tsFile += `export const ${camelCaseName}: string;\n`
+        jsFile += `export const ${camelCaseName} = "${file.paths[0]}";\n`
       });
-      return fs.writeFile('docs/icons.json', JSON.stringify({version, icons}), 'utf8');
+      let promises = [
+        fs.writeFile('docs/icons.json', JSON.stringify({ version, icons }), 'utf8'),
+        fs.writeFile('index.d.ts', tsFile, 'utf8'),
+        fs.writeFile('index.js', jsFile, 'utf8')
+      ];
+      return Promise.all(promises);
     });
 };

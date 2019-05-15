@@ -105,6 +105,20 @@ svg:hover {
 }
 ```
 
+## JavaScript Format
+
+The icons are also made avaiable as ES6 exports. This way you can import just the icons you need into your JavaScript:
+
+```
+import {arrowLeft16, copyToClipboard32F} from "@esri/calcite-icons";
+
+console.log(arrowLeft16); // => "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z"
+```
+
+The icon names in JS imports will be lower camel case. If the icon name starts with a number (ex. 2d-explore, 3d-glasses) prefix the name with `i`. This is due to the fact that JavaScript variables cannot begin with a number.
+
+**Note**: It is not recommended to import the entire library of icons. This will have negative performance implications. Use the technique above to select only the icons your users actually need to download.
+
 ## Licensing
 
 COPYRIGHT © 2019 Esri
