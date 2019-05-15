@@ -49,7 +49,7 @@ Icons in the sprite have an `id` of the individual SVG file name.
 All icons are also provided as part of a JSON file. If you installed via npm, requiring the library will give you access to all the icons and their path data:
 
 ```js
-var calciteIcons = require('@esri/calcite-ui-icons');
+var calciteIcons = require('@esri/calcite-ui-icons/docs/icons.json');
 ```
 
 This will give you an object containing all the icons in the library at all sizes in outlined and filled styles:
