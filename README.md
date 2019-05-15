@@ -110,7 +110,7 @@ svg:hover {
 The icons are also made avaiable as ES6 exports. This way you can import just the icons you need into your JavaScript:
 
 ```
-import {arrowLeft16, copyToClipboard32F} from "@esri/calcite-icons";
+import {arrowLeft16, copyToClipboard32F} from "@esri/calcite-ui-icons";
 
 console.log(arrowLeft16); // => "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z"
 ```
