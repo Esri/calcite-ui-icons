@@ -44,9 +44,23 @@ Furtheremore, sprites are available in 6 packages and live ouside the `icons/` d
 Filenames that contain `-f` contain filled icons only.
 Icons in the sprite have an `id` of the individual SVG file name.
 
+## JavaScript Exports
+
+The icons are also made avaiable as named ES6 exports. This way you can import just the icons you need into your app:
+
+```
+import {arrowLeft16, copyToClipboard32F} from "@esri/calcite-ui-icons";
+
+console.log(arrowLeft16); // => "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z"
+```
+
+The icon names will be lower camel case. If the icon name starts with a number (ex. 2d-explore, 3d-glasses) prefix the name with `i`. This is due to the fact that JavaScript variables cannot begin with a number.
+
+**Note**: It is not recommended to import the entire library of icons. This will have negative performance implications. Use the technique above to select only the icons your users actually need to download.
+
 ### JSON Format
 
-All icons are also provided as part of a JSON file. If you installed via npm, requiring the library will give you access to all the icons and their path data:
+All icons are also provided as part of a JSON file. If you installed via npm, you can import the full icon data set using the following:
 
 ```js
 var calciteIcons = require('@esri/calcite-ui-icons/docs/icons.json');
@@ -104,20 +118,6 @@ svg:hover {
   fill: blue;
 }
 ```
-
-## JavaScript Format
-
-The icons are also made avaiable as ES6 exports. This way you can import just the icons you need into your JavaScript:
-
-```
-import {arrowLeft16, copyToClipboard32F} from "@esri/calcite-ui-icons";
-
-console.log(arrowLeft16); // => "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z"
-```
-
-The icon names in JS imports will be lower camel case. If the icon name starts with a number (ex. 2d-explore, 3d-glasses) prefix the name with `i`. This is due to the fact that JavaScript variables cannot begin with a number.
-
-**Note**: It is not recommended to import the entire library of icons. This will have negative performance implications. Use the technique above to select only the icons your users actually need to download.
 
 ## Licensing
 
