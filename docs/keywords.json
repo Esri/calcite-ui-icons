@@ -4384,5 +4384,17 @@
     ],
     "category":"Windows",
     "release":"1.8.0"
+  },
+  "360-view":{
+    "alias":[
+      "look",
+      "panorama",
+      "full view",
+      "image",
+      "generic",
+      "show"
+    ],
+    "category":"Generic",
+    "release":"2.1.0"
   }
 }
