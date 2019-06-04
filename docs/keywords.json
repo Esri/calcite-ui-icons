@@ -4399,17 +4399,17 @@
   },
   "microphone":{
     "alias":[
+      "recording",
       "voice",
-			"recording",
-			"sound",
-			"input",
-			"audio",
-			"podcast",
-			"radio",
-			"voiceover",
-			"vo",
-			"music"
+      "sound",
+      "audio",
+      "input",
+      "podcast",
+      "radio",
+      "voiceover",
+      "music"
     ],
-    "category":"Objects"
+    "category":"Objects",
+    "release":"2.2.0"
   }
 }
