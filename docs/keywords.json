@@ -4396,5 +4396,20 @@
     ],
     "category":"Generic",
     "release":"2.1.0"
+  },
+  "microphone":{
+    "alias":[
+      "voice",
+			"recording",
+			"sound",
+			"input",
+			"audio",
+			"podcast",
+			"radio",
+			"voiceover",
+			"vo",
+			"music"
+    ],
+    "category":"Objects"
   }
 }
