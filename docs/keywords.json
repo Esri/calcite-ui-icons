@@ -4411,5 +4411,28 @@
     ],
     "category":"Objects",
     "release":"2.2.0"
+  },
+  "offline":{
+    "alias":[
+      "disconnected",
+      "internet",
+      "cloud",
+      "broken",
+      "connection",
+      "syncing"
+    ],
+    "category":"Symbols",
+    "release":"2.3.0"
+  },
+  "online":{
+    "alias":[
+      "connected",
+      "internet",
+      "cloud",
+      "connection",
+      "syncing"
+    ],
+    "category":"Symbols",
+    "release":"2.3.0"
   }
 }
