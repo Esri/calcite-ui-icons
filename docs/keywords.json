@@ -4434,5 +4434,34 @@
     ],
     "category":"Symbols",
     "release":"2.3.0"
+  },
+  "add-in":{
+    "alias":[
+      "adding",
+      "squares",
+      "app",
+      "addition"
+    ],
+    "category":"Generic",
+    "release":"2.4.0"
+  },
+  "add-in-edit":{
+    "alias":[
+      "adding",
+      "pencil",
+      "app",
+      "markup"
+    ],
+    "category":"Generic",
+    "release":"2.4.0"
+  },
+  "add-in-new":{
+    "alias":[
+      "plus",
+      "app",
+      "adding"
+    ],
+    "category":"Generic",
+    "release":"2.4.0"
   }
 }
