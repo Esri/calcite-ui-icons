@@ -4474,7 +4474,7 @@
     "category":"GIS",
     "release":"2.3.2"
   },
-  "polygon-line-check":{
+  "polygon-vertices-check":{
     "alias":[
       "checkmark",
       "confirm",
