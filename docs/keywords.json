@@ -4463,5 +4463,52 @@
     ],
     "category":"Generic",
     "release":"2.4.0"
+  },
+  "line-check":{
+    "alias":[
+      "checkmark",
+      "confirm",
+      "drawing",
+      "draw line"
+    ],
+    "category":"GIS",
+    "release":"2.3.2"
+  },
+  "polygon-line-check":{
+    "alias":[
+      "checkmark",
+      "confirm",
+      "drawing",
+      "draw polygon",
+      "vertices"
+    ],
+    "category":"GIS",
+    "release":"2.3.2"
+  },
+  "polygon-vertices":{
+    "alias":[
+      "polygon",
+      "vertex"
+    ],
+    "category":"GIS",
+    "release":"2.3.2"
+  },
+  "vertex-check":{
+    "alias":[
+      "checkmark",
+      "confirm",
+      "drawing",
+      "draw vertices"
+    ],
+    "category":"GIS",
+    "release":"2.3.2"
+  },
+  "vertex-edit":{
+    "alias":[
+      "pencil",
+      "draw vertices"
+    ],
+    "category":"GIS",
+    "release":"2.3.2"
   }
 }
