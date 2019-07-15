@@ -4510,5 +4510,14 @@
     ],
     "category":"GIS",
     "release":"2.3.2"
+  },
+  "person2":{
+    "alias":[
+      "people",
+      "human",
+      "accessibility "
+    ],
+    "category":"People",
+    "release":"2.3.3"
   }
 }
