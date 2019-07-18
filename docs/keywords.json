@@ -3815,7 +3815,8 @@
     "alias":[
       "generic",
       "remove",
-      "delete"
+      "delete",
+      "vertices"
     ],
     "category":"Generic",
     "release":"1.5"
