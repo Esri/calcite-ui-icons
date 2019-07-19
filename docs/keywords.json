@@ -3813,12 +3813,11 @@
   },
   "vertex-x":{
     "alias":[
-      "generic",
       "remove",
       "delete",
       "vertices"
     ],
-    "category":"Generic",
+    "category":"GIS",
     "release":"1.5"
   },
   "video":{
