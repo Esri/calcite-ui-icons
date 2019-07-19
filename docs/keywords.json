@@ -3813,11 +3813,11 @@
   },
   "vertex-x":{
     "alias":[
-      "generic",
       "remove",
-      "delete"
+      "delete",
+      "vertices"
     ],
-    "category":"Generic",
+    "category":"GIS",
     "release":"1.5"
   },
   "video":{
@@ -4519,5 +4519,37 @@
     ],
     "category":"People",
     "release":"2.3.3"
+  },
+  "vertex-edit":{
+    "alias":[
+      "pencil",
+      "vertices"
+    ],
+    "category":"GIS",
+    "release":"2.3.4"
+  },
+  "vertex-gps":{
+    "alias":[
+      "location",
+      "vertices"
+    ],
+    "category":"GIS",
+    "release":"2.3.4"
+  },
+  "vertex-move":{
+    "alias":[
+      "pan",
+      "vertices"
+    ],
+    "category":"GIS",
+    "release":"2.3.4"
+  },
+  "vertex-plus":{
+    "alias":[
+      "add",
+      "vertices"
+    ],
+    "category":"GIS",
+    "release":"2.3.4"
   }
 }
