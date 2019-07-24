@@ -4551,5 +4551,15 @@
     ],
     "category":"GIS",
     "release":"2.3.4"
+  },
+  "workflow-diagram":{
+    "alias":[
+      "hierarchy",
+      "control flow",
+      "organization",
+      "process"
+    ],
+    "category":"Charts and Widgets",
+    "release":"2.3.5"
   }
 }
