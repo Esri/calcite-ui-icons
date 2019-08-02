@@ -1,4 +1,4 @@
-const camelCase = require('camelcase'); 
+const camelCase = require('camelcase');
 const fs = require('fs-extra');
 const glob = require('glob-promise');
 const path = require('path');
@@ -85,13 +85,17 @@ module.exports = function generatePathFile () {
         icon.filled = icon.filled || {};
         icon.outline = icon.outline || {};
         icon[file.filled ? 'filled' : 'outline'][file.size] = file.paths;
-        
+
         // add to ts and js files
         const variant = file.variant.match(/^\d/) ? `i${file.variant}`: file.variant;
         const filled = file.filled ? "F" : "";
         const camelCaseName = camelCase(`${variant}-${file.size}${filled}`);
-        tsFile += `export const ${camelCaseName}: string;\n`
-        jsFile += `export const ${camelCaseName} = "${file.paths[0]}";\n`
+        tsFile += `export const ${camelCaseName}: string;\n`;
+        jsFile += `export {${camelCaseName}} from "./js/${camelCaseName}.js";\n`;
+        const contents = `export const ${camelCaseName} = "${file.paths[0]}";\n`;
+        const tsContents = `export const ${camelCaseName}: string;\n`;
+        fs.writeFile(`js/${camelCaseName}.js`, contents, 'utf8');
+        fs.writeFile(`js/${camelCaseName}.d.ts`, tsContents, 'utf8');
       });
       let promises = [
         fs.writeFile('docs/icons.json', JSON.stringify({ version, icons }), 'utf8'),
