@@ -48,13 +48,19 @@ Icons in the sprite have an `id` of the individual SVG file name.
 
 The icons are also made avaiable as named ES6 exports. This way you can import just the icons you need into your app:
 
-```
-import {arrowLeft16, copyToClipboard32F} from "@esri/calcite-ui-icons";
+```js
+import { arrowLeft16, copyToClipboard32F } from "@esri/calcite-ui-icons";
 
 console.log(arrowLeft16); // => "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z"
 ```
 
 The icon names will be lower camel case. If the icon name starts with a number (ex. 2d-explore, 3d-glasses) prefix the name with `i`. This is due to the fact that JavaScript variables cannot begin with a number.
+
+If your build system does not perform tree shaking and dead code removal, there is a chance that importing the icons using this syntax will make your bundle extremely large. If that is the case, you can also import icons directly:
+
+```js
+import { arrowLeft16 } from "@esri/calcite-ui-icons/js/arrowLeft16.js";
+```
 
 **Note**: It is not recommended to import the entire library of icons. This will have negative performance implications. Use the technique above to select only the icons your users actually need to download.
 
@@ -97,7 +103,7 @@ All the individual SVG icons have a common file structure.
 
 This is what the `close-16.svg` looks like:
 
-```
+```html
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16">
   <path d="M0 10V7h10.965l-5-5H9.5L16 8.5 9.5 15H5.964l5-5H0z"/>
 </svg>
@@ -105,7 +111,7 @@ This is what the `close-16.svg` looks like:
 
 None of the icons have `stroke` attributes. The `fill` attribute can be defined with css:
 
-```
+```css
 svg {
   fill: gray;
 }
@@ -113,7 +119,7 @@ svg {
 
 All the other styling properties applicable to the whole svg element are applicable.
 
-```
+```css
 svg:hover {
   fill: blue;
 }

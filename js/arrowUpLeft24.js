@@ -1,0 +1,1 @@
+export const arrowUpLeft24 = "M19.696 20.412L5 5.708V11H4V4h7v1H5.707l14.696 14.705z";
