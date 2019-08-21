@@ -4561,5 +4561,17 @@
     ],
     "category":"Charts and Widgets",
     "release":"2.3.5"
-  }
+  },
+  "no-map":{
+    "alias": [
+      "map"",
+      "no map",
+      "unavailable",
+      "disable"
+    ],
+    "category":"GIS",
+    "release":"2.4.1"
+  },
+
+
 }
