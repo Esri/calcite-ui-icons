@@ -1,1 +1,1 @@
-export const chevronLeft32 = "M20.707 26h-1.414l-9.5-9.5 9.5-9.5h1.414l-9.5 9.5z";
+export const chevronLeft32 = "M18.293 25l-9-9 9-9h1.414l-9 9 9 9z";

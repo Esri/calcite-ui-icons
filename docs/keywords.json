@@ -2710,9 +2710,9 @@
     "alias":[
       "objects",
       "promote",
-      "announcement"
-      "new"
-      "updates"
+      "announcement",
+      "new",
+      "updates",
       "new features"
     ],
     "category":"Objects",
@@ -4585,5 +4585,5 @@
       ],
       "category":"Windows",
       "release":"2.5.0"
-    }
+  }
 }

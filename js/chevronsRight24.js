@@ -1,1 +1,1 @@
-export const chevronsRight24 = "M4.286 5H5.7l7.5 7.5L5.7 20H4.286l7.5-7.5zm14.5 7.5l-7.5 7.5H12.7l7.5-7.5L12.7 5h-1.414z";
+export const chevronsRight24 = "M12.707 19h-1.414l7-7-7-7h1.414l7 7zm-7 0l7-7-7-7H4.293l7 7-7 7z";
