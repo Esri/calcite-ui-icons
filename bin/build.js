@@ -2,19 +2,19 @@ const optimize = require('./optimize');
 const generatePathFile = require('./path-data');
 
 module.exports = function () {
-  return optimize(['*.svg'], './')
-    .then(function (result) {
-      return optimize(['icons/*.svg'], 'icons/', true);
+  return optimize('*.svg')
+    .then(function () {
+      return optimize('icons/*.svg', true);
     })
-    .catch(error => {
+    .catch(function (error) {
       console.error('🚨  Error while optimizing icons');
       throw error;
     })
-    .then(function (result) {
+    .then(function () {
       console.log('✨  icons optimized successfully');
       return generatePathFile();
     })
-    .catch(error => {
+    .catch(function (error) {
       console.error('🚨  Error while generating icons.json');
       throw error;
     })

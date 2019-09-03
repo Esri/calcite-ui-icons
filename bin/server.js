@@ -25,8 +25,8 @@ build()
 
     function onChange (event, file) {
       if (event === 'add') {
-        console.log('🗜  new icon detected, optimizing...')
-        optimize([file], 'icons/', true).then(() => {});
+        console.log('🗜  new icon detected, optimizing...');
+        optimize(file, 'icons/', true).then(() => {});
       } else {
         update();
       }
