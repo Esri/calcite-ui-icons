@@ -4,7 +4,6 @@ const pathData = require('./path-data');
 const optimize = require('./optimize');
 const debounce = require('debounce');
 const bs = require('browser-sync').create();
-const fs = require('fs');
 const options = {
   awaitWriteFinish: true,
   ignoreInitial: true
@@ -34,7 +33,7 @@ build()
 
     const update = debounce(function () {
       pathData()
-        .then(files => {
+        .then(() => {
           console.log('✨  path file updated');
           bs.reload();
         });
