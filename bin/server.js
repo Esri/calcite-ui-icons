@@ -10,7 +10,7 @@ const options = {
   ignoreInitial: true
 };
 
-console.log('🗜  optimizing icons...')
+console.log('🗜  optimizing icons... \n')
 
 build()
   .then(() => {
@@ -25,8 +25,8 @@ build()
 
     function onChange (event, file) {
       if (event === 'add') {
-        console.log('🗜  new icon detected, optimizing...');
-        optimize(file, 'icons/', true).then(() => {});
+        console.log('🗜  new icon detected, optimizing... \n');
+        optimize(file, true).then(() => {});
       } else {
         update();
       }

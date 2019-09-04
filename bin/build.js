@@ -11,7 +11,7 @@ module.exports = function () {
       throw error;
     })
     .then(function () {
-      console.log('✨  icons optimized successfully');
+      console.log('✨ icons optimized successfully');
       return generatePathFile();
     })
     .catch(function (error) {
@@ -19,7 +19,7 @@ module.exports = function () {
       throw error;
     })
     .then(function (files) {
-      console.log('✨  path file generated at ./docs/icons.json');
+      console.log('✨ path file generated at ./docs/icons.json');
       return files;
     });
 }
