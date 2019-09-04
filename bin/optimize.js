@@ -40,7 +40,7 @@ function optimizeIcons (filePaths, svgo, bar) {
         return svgo.optimize(svg, { path: filePath });
       })
       .then(function (result) {
-        num++
+        num++;
         bar.update(num);
         return fs.writeFile(filePath, result.data, 'utf-8');
       });
