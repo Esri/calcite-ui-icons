@@ -4,13 +4,12 @@ const pathData = require('./path-data');
 const optimize = require('./optimize');
 const debounce = require('debounce');
 const bs = require('browser-sync').create();
-const fs = require('fs');
 const options = {
   awaitWriteFinish: true,
   ignoreInitial: true
 };
 
-console.log('🗜  optimizing icons...')
+console.log('🗜  optimizing icons... \n')
 
 build()
   .then(() => {
@@ -25,8 +24,8 @@ build()
 
     function onChange (event, file) {
       if (event === 'add') {
-        console.log('🗜  new icon detected, optimizing...')
-        optimize([file], 'icons/', true).then(() => {});
+        console.log('🗜  new icon detected, optimizing... \n');
+        optimize(file, true).then(() => {});
       } else {
         update();
       }
@@ -34,7 +33,7 @@ build()
 
     const update = debounce(function () {
       pathData()
-        .then(files => {
+        .then(() => {
           console.log('✨  path file updated');
           bs.reload();
         });
