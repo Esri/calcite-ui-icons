@@ -1,1 +1,1 @@
-export const launch24 = "M21 3v5h-1V4.71l-7.4 7.4-.71-.71 7.4-7.4H16V3zm-.9 17.1H3.9L3.8 3.9H14v-.8H3.1v17.8h17.8V10h-.8z";
+export const launch24 = "M13 2v1H3v18h18V11h1v11H2V2zm9 6V2h-6v1h4.3l-8.41 8.403.707.707L21 3.714V8z";

@@ -1,1 +1,1 @@
-export const caretDown24 = "M23.5 8l-11 11-11-11zM3.914 9l8.586 8.586 8.586-8.585z";
+export const caretDown24 = "M3.675 9h16.65L12 17.325z";

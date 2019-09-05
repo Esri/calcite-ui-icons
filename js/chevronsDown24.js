@@ -1,1 +1,1 @@
-export const chevronsDown24 = "M12.5 11.786l7.5-7.5V5.7l-7.5 7.5L5 5.7V4.286zm-7.5-.5V12.7l7.5 7.5 7.5-7.5v-1.414l-7.5 7.5z";
+export const chevronsDown24 = "M12 18.293l7-7v1.414l-7 7-7-7v-1.414zm7-14l-7 7-7-7v1.414l7 7 7-7z";

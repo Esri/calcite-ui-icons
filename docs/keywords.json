@@ -1065,7 +1065,7 @@
     "category":"Generic",
     "release":"1.5"
   },
-  "cursor-marquis":{
+  "cursor-marquee":{
     "alias":[
       "generic",
       "drag-box",
@@ -2710,7 +2710,10 @@
     "alias":[
       "objects",
       "promote",
-      "announcement"
+      "announcement",
+      "new",
+      "updates",
+      "new features"
     ],
     "category":"Objects",
     "release":"1.5"
@@ -4571,7 +4574,16 @@
     ],
     "category":"GIS",
     "release":"2.4.1"
+  },
+    "drag":{
+      "alias":[
+        "move",
+      "dots",
+      "grid",
+      "click and drag",
+      "drag and drop"
+      ],
+      "category":"Windows",
+      "release":"2.5.0"
   }
-
-
 }
