@@ -537,9 +537,12 @@
   "brightness":{
     "alias":[
       "generic",
+      "light-theme",
+      "light-mode",
       "light",
       "dim",
-      "brightness setting"
+      "brightness setting",
+      "day mode"
     ],
     "category":"Generic",
     "release":"1.5"
@@ -4575,15 +4578,133 @@
     "category":"GIS",
     "release":"2.4.1"
   },
-    "drag":{
-      "alias":[
-        "move",
+  "drag":{
+    "alias":[
+      "move",
       "dots",
       "grid",
       "click and drag",
       "drag and drop"
-      ],
-      "category":"Windows",
-      "release":"2.5.0"
+    ],
+    "category":"Windows",
+    "release":"2.5.0"
+  },
+  "altitude":{
+    "alias":[
+      "height",
+      "GIS",
+      "mountians",
+      "terrain",
+      "measure",
+      "arrow",
+      "elevation"
+    ],
+    "category":"GIS",
+    "release":"2.5.1"
+  },
+  "annotate-tool":{
+    "alias":[
+      "image",
+      "pencil",
+      "edit",
+      "note",
+      "imagery",
+      "mark-up",
+      "draw",
+      "photo",
+      "picture"
+    ],
+    "category":"GIS",
+    "release":"2.5.1"
+  },
+  "antenna-height":{
+    "alias":[
+      "height",
+      "elevation",
+      "measure",
+      "device",
+      "GIS"
+    ],
+    "category":"GIS",
+    "release":"2.5.1"
+  },
+  "beta-features-menu":{
+    "alias":[
+      "symbols",
+      "special character",
+      "new feature",
+      "letter",
+      "greek character"
+    ],
+    "category":"Symbol",
+    "release":"2.5.1"
+  },
+  "bluetooth":{
+    "alias":[
+      "device",
+      "connection",
+      "connected",
+      "symbols",
+      "technology",
+      "sharing"
+    ],
+    "category":"Generic",
+    "release":"2.5.1"
+  },
+  "camera-flash-off":{
+    "alias":[
+      "camera",
+      "light",
+      "lighting",
+      "aperture",
+      "lens",
+      "toggle",
+      "brightness",
+      "capture",
+      "photo"
+    ],
+    "category":"Generic",
+    "release":"2.5.1"
+  },
+  "camera-flash-on":{
+    "alias":[
+      "camera",
+      "light",
+      "lighting",
+      "aperture",
+      "lens",
+      "toggle",
+      "brightness",
+      "capture",
+      "photo"
+    ],
+    "category":"Generic",
+    "release":"2.5.1"
+  },
+  "moon":{
+    "alias":[
+      "night mode",
+      "dark mode",
+      "dark theme"
+    ],
+    "category":"Generic",
+    "release":"2.5.1"
+  },
+  "switch-front-back-camera":{
+    "alias":[
+      "selfie",
+      "flip",
+      "reverse",
+      "lens",
+      "photo",
+      "picture",
+      "image",
+      "capture", "handheld",
+      "photography",
+      "device",
+      "technology"
+    ],
+    "category":"Generic",
+    "release":"2.5.1"
   }
 }
