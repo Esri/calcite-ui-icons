@@ -4690,7 +4690,7 @@
     "category":"Generic",
     "release":"2.5.1"
   },
-  "switch-front-back-camera":{
+  "camera-switch-front-back":{
     "alias":[
       "selfie",
       "flip",
