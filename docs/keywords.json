@@ -4728,7 +4728,7 @@
     "alias":[
       "datatype",
       "letters",
-      "text", 
+      "text",
       "positive number",
       "negative number",
       "plus or minus"
@@ -4744,6 +4744,18 @@
       "alphabet",
       "type",
       "letters"
+    ],
+    "category":"Text",
+    "release":"2.5.3"
+  },
+  "number":{
+    "alias":[
+      "123",
+      "numbers",
+      "variable",
+      "datatype",
+      "integer",
+      "value"
     ],
     "category":"Text",
     "release":"2.5.3"
