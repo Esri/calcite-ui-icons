@@ -4770,12 +4770,13 @@
     "category":"Generic",
     "release":"2.5.3"
   },
-  "colorcorrection":{
+  "color-correction":{
     "alias":[
       "adjust",
       "color",
       "adjustment",
-      "value"
+      "value",
+      "color correction"
     ],
     "category":"Generic",
     "release":"2.5.3"

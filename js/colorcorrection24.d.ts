@@ -1,1 +1,1 @@
-export const colorcorrection24: string;
+export const colorCorrection24: string;
