@@ -32,7 +32,7 @@ If needed, appending `-f` (`trash-16-f.svg`) will render the filled version.
 **Outline icons should be the primary icons to be used.**
 
 ### Sprite packages
-Furtheremore, sprites are available in 6 packages and live ouside the `icons/` directory:
+Furthermore, sprites are available in 6 packages and live outside the `icons/` directory:
 
 * sprite-16.svg
 * sprite-16-f.svg
@@ -46,7 +46,7 @@ Icons in the sprite have an `id` of the individual SVG file name.
 
 ## JavaScript Exports
 
-The icons are also made avaiable as named ES6 exports. This way you can import just the icons you need into your app:
+The icons are also made available as named ES6 exports. This way you can import just the icons you need into your app:
 
 ```js
 import { arrowLeft16, copyToClipboard32F } from "@esri/calcite-ui-icons";
@@ -96,7 +96,7 @@ This will give you an object containing all the icons in the library at all size
   }
 }
 ```
-_Note: path data ommitted for brevity_.
+_Note: path data omitted for brevity_.
 
 ### Individual icons structure
 All the individual SVG icons have a common file structure.
