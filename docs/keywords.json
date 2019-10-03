@@ -4759,5 +4759,45 @@
     ],
     "category":"Text",
     "release":"2.5.3"
+  },
+  "seamlines":{
+    "alias":[
+      "blend",
+      "photographic",
+      "panoramic",
+      "seam"
+    ],
+    "category":"Generic",
+    "release":"2.5.3"
+  },
+  "colorcorrection":{
+    "alias":[
+      "adjust",
+      "color",
+      "adjustment",
+      "value"
+    ],
+    "category":"Generic",
+    "release":"2.5.3"
+  },
+  "footprint":{
+    "alias":[
+      "overlap",
+      "map",
+      "polygon",
+      "selection"
+    ],
+    "category":"Generic",
+    "release":"2.5.3"
+  },
+  "overview":{
+    "alias":[
+      "raster",
+      "gallery",
+      "map",
+      "collection"
+    ],
+    "category":"Generic",
+    "release":"2.5.3"
   }
 }
