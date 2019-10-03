@@ -4707,5 +4707,45 @@
     ],
     "category":"Generic",
     "release":"2.5.1"
+  },
+  "boolean":{
+    "alias":[
+      "true or false",
+      "false or true",
+      "letters",
+      "text",
+      "1 or 0",
+      "0 or 1",
+      "on or off",
+      "off or on",
+      "switch",
+      "datatype"
+    ],
+    "category":"Text",
+    "release":"2.5.3"
+  },
+  "integer":{
+    "alias":[
+      "datatype",
+      "letters",
+      "text", 
+      "positive number",
+      "negative number",
+      "plus or minus"
+    ],
+    "category":"Text",
+    "release":"2.5.3"
+  },
+  "string":{
+    "alias":[
+      "datatype",
+      "text",
+      "abc",
+      "alphabet",
+      "type",
+      "letters"
+    ],
+    "category":"Text",
+    "release":"2.5.3"
   }
 }
