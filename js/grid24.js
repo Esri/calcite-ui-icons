@@ -1,1 +1,1 @@
-export const grid24 = "M1 1v10h10V1zm9 9H2V2h8zm3-9v10h10V1zm9 9h-8V2h8zM1 13v10h10V13zm9 9H2v-8h8zm3-9v10h10V13zm9 9h-8v-8h8z";
+export const grid24 = "M2 11h9V2H2zm1-8h7v7H3zm10 8h9V2h-9zm1-8h7v7h-7zM2 22h9v-9H2zm1-8h7v7H3zm10 8h9v-9h-9zm1-8h7v7h-7z";
