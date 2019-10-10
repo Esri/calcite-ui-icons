@@ -4800,5 +4800,102 @@
     ],
     "category":"Generic",
     "release":"2.5.3"
+  },
+  "deep-learning-project":{
+    "alias":[
+      "briefcase",
+      "deep learning project",
+      "ai",
+      "nodes",
+      "machine learning"
+    ],
+    "category":"Objects",
+    "release":"2.5.4"
+  },
+  "deep-learning":{
+    "alias":[
+      "deep learning",
+      "ai",
+      "machine learning",
+      "neural map",
+      "diagram",
+      "nodes",
+      "web"
+    ],
+    "category":"GIS",
+    "release":"2.5.4"
+  },
+  "object-detection":{
+    "alias":[
+      "cursor",
+      "crosshair",
+      "point",
+      "object detection",
+      "tracking",
+      "track object",
+      "identify",
+      "identifying",
+      "capture",
+      "isolate"
+    ],
+    "category":"GIS",
+    "release":"2.5.4"
+  },
+  "map-space":{
+    "alias":[
+      "map space",
+      "ruler",
+      "measure",
+      "workspace",
+      "work mode",
+      "workmode",
+      "grid",
+      "segment"
+    ],
+    "category":"GIS",
+    "release":"2.5.4"
+  },
+  "image-space":{
+    "alias":[
+      "workmode",
+      "image space",
+      "workspace",
+      "segment",
+      "measure",
+      "grid"
+    ],
+    "category":"GIS",
+    "release":"2.5.4"
+  },
+  "image-segmentation":{
+    "alias":[
+      "image segmentation",
+      "geoprocessing",
+      "image classification",
+      "group images",
+      "pixels"
+    ],
+    "category":"GIS",
+    "release":"2.5.4"
+  },
+  "ellipsis-circle":{
+    "alias":[
+      "more options",
+      "ellipsis circle",
+      "...",
+      "ellipsis",
+      "in progress"
+    ],
+    "category":"Symbols",
+    "release":"2.5.4"
+  },
+  "submit":{
+    "alias":[
+      "arrow",
+      "send",
+      "review"
+    ],
+    "category":"Arrows",
+    "release":"2.5.4"
   }
 }
