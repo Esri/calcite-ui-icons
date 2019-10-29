@@ -4897,5 +4897,29 @@
     ],
     "category":"Arrows",
     "release":"2.5.4"
+  },
+  "keypad":{
+    "alias":[
+      "calculator",
+      "numbers",
+      "digits",
+      "buttons",
+      "security code",
+      "numerals",
+      "passcode",
+      "password",
+      "PIN"
+    ],
+    "category":"Objects",
+    "release":"2.5.5"
+  },
+  "print-preview":{
+    "alias":[
+      "printer",
+      "magnifying glass",
+      "print display"
+    ],
+    "category":"Objects",
+    "release":"2.5.5"
   }
 }
