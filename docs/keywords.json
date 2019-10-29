@@ -4917,7 +4917,8 @@
     "alias":[
       "printer",
       "magnifying glass",
-      "print display"
+      "print display",
+      "print preview"
     ],
     "category":"Objects",
     "release":"2.5.5"
