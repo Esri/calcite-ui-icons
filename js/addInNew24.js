@@ -1,1 +1,1 @@
-export const addInNew24 = "M19 5h4v1h-4v4h-1V6h-4V5h4V1h1zm1 7h1v10H2V3h10v9zm-9 1H3v8h8zm0-9H3v8h8zm9 9h-8v8h8z";
+export const addInNew24 = "M11 12V2H0v21h21V12H11zm-1 10H1v-9h9zm0-10H1V3h9zm10 10h-9v-9h9zm3-17v1h-5v5h-1V6h-5V5h5V0h1v5z";

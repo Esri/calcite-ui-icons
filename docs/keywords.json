@@ -4922,14 +4922,5 @@
     ],
     "category":"Objects",
     "release":"2.5.5"
-  },
-  "contrast":{
-    "alias":[
-      "black and white",
-      "picture settings",
-      "brightness"
-    ],
-    "category":"Generic",
-    "release":"2.5.5"
   }
 }

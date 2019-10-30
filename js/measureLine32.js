@@ -1,1 +1,1 @@
-export const measureLine32 = "M29 8H3V7H0v3h3V9h26v1h3V7h-3zM2 9H1V8h1zm28-1h1v1h-1zM0 26h32v-9H0zm1-7.998V18h30v7h-1v-4h-1v4h-1v-2h-1v2h-1v-6h-1v6h-1v-2h-1v2h-1v-4h-1v4h-1v-2h-1v2h-1v-6h-1v6h-1v-2h-1v2h-1v-4h-1v4h-1v-2h-1v2h-1v-6H9v6H8v-2H7v2H6v-4H5v4H4v-2H3v2H1z";
+export const measureLine32 = "M0 25h31V15H0zm1-9h29v8h-1v-4h-1v4h-1v-3h-1v3h-1v-7h-1v7h-1v-3h-1v3h-1v-4h-1v4h-1v-3h-1v3h-1v-7h-1v7h-1v-3h-1v3h-1v-4h-1v4h-1v-3h-1v3H9v-7H8v7H7v-3H6v3H5v-4H4v4H3v-3H2v3H1zm27-5v1H3v-1H0v3h3v-1h25v1h3v-3zM2 13H1v-1h1zm28 0h-1v-1h1z";

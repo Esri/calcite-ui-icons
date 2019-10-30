@@ -1,1 +1,1 @@
-export const addIn24 = "M12 12V3H2v19h19V12zm-1 9H3v-8h8zm0-9H3V4h8zm9 9h-8v-8h8zm-6-11h10V0H14zm1-9h8v8h-8z";
+export const addIn24 = "M11 12V2H0v21h21V12H11zm-1 10H1v-9h9zm0-10H1V3h9zm10 10h-9v-9h9zM12 0v11h11V0zm10 10h-9V1h9z";

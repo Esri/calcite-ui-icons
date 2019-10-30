@@ -1,1 +1,1 @@
-export const rectangle32 = "M2 26h28V6H2zM3 7h26v18H3z";
+export const rectangle32 = "M30 27H2V5h28zM3 26h26V6H3z";
