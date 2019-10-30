@@ -1,1 +1,1 @@
-export const measureLine24 = "M2 15h1v2H2zm4 0h1v2H6zm4 0h1v2h-1zm4 0h1v2h-1zm4 0h1v2h-1z";
+export const measureLine24 = "M21 5H3V4H0v3h3V6h18v1h3V4h-3zM2 6H1V5h1zm20-1h1v1h-1zM0 20h24v-8H0zm1-7h22v6h-1v-3h-1v3h-1v-2h-1v2h-1v-5h-1v5h-1v-2h-1v2h-1v-3h-1v3h-1v-2h-1v2h-1v-5H9v5H8v-2H7v2H6v-3H5v3H4v-2H3v2H1z";

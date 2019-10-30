@@ -1,1 +1,1 @@
-export const rectangle16 = "M15 14H0V2h15zM1 13h13V3H1z";
+export const rectangle16 = "M0 2v12h16V2zm15 11H1V3h14z";

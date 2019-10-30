@@ -1,1 +1,1 @@
-export const spinner16 = "M16 8A8 8 0 1 1 7 .07v.909a7.1 7.1 0 1 0 2 0v-.91A7.996 7.996 0 0 1 16 8z";
+export const spinner16 = "M9 1.282V.272a7.8 7.8 0 1 1-2 0v1.01a6.8 6.8 0 1 0 2 0z";
