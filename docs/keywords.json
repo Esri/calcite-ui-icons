@@ -4933,7 +4933,7 @@
       "audio enabled"
     ],
     "category":"Generic",
-    "release":"2.5.7"
+    "release":"2.6.0"
   },
   "sound-off":{
     "alias":[
@@ -4946,6 +4946,6 @@
       "audio disabled"
     ],
     "category":"Generic",
-    "release":"2.5.7"
+    "release":"2.6.0"
   }
 }
