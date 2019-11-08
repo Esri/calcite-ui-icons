@@ -4922,5 +4922,30 @@
     ],
     "category":"Objects",
     "release":"2.5.5"
+  },
+  "sound":{
+    "alias":[
+      "volume",
+      "speakers",
+      "audio output",
+      "loudness",
+      "audio input",
+      "audio enabled"
+    ],
+    "category":"Generic",
+    "release":"2.6.0"
+  },
+  "sound-off":{
+    "alias":[
+      "volume",
+      "speakers",
+      "audio output",
+      "quiet",
+      "silent",
+      "audio input",
+      "audio disabled"
+    ],
+    "category":"Generic",
+    "release":"2.6.0"
   }
 }
