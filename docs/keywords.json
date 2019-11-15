@@ -4947,5 +4947,54 @@
     ],
     "category":"Generic",
     "release":"2.6.0"
+  },
+  "apps":{
+    "alias":[
+      "applications",
+      "icons",
+      "categories",
+      "grid",
+      "logos"
+    ],
+    "category":"Generic",
+    "release":"2.7.0"
+  },
+  "feature-layer":{
+    "alias":[
+      "feature layer",
+      "map pin",
+      "GIS"
+    ],
+    "category":"GIS",
+    "release":"2.7.0"
+  },
+  "locator":{
+    "alias":[
+      "house",
+      "geocoding",
+      "geolocator",
+      "georeferencing",
+      "home"
+    ],
+    "category":"GIS",
+    "release":"2.7.0"
+  },
+  "notebook":{
+    "alias":[
+      "python notebook",
+      "jupyter notebook",
+      "api for python"
+    ],
+    "category":"Objects",
+    "release":"2.7.0"
+  },
+  "tile-layer":{
+    "alias":[
+      "tile layer",
+      "GIS",
+      "map layer"
+    ],
+    "category":"GIS",
+    "release":"2.7.0"
   }
 }
