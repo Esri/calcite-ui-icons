@@ -1,1 +1,1 @@
-export const notebook16 = "M15 15V0H1v2h1V1h1v13H2v-1H1v2zM4 1h10v13H4zM2 12H0v-1h2zM0 6V5h2v1zm0-2V3h2v1zm0 6V9h2v1zm0-2V7h2v1zm6-4h2v1H7v5h1v1H6zm4 0h2v7h-2v-1h1V5h-1z";
+export const notebook16 = "M15 16V0H1v3H0v1h2V1h1v14H2v-1H1v2zM4 1h10v14H4zM0 7V6h1V5h1v2zm0 3V9h1V8h1v2zm0 3v-1h1v-1h1v2zm6-9h2v1H7v5h1v1H6zm4 0h2v7h-2v-1h1V5h-1z";
