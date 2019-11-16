@@ -1,0 +1,1 @@
+export const notebook16 = "M15 15V0H1v2h1V1h1v13H2v-1H1v2zM4 1h10v13H4zM2 12H0v-1h2zM0 6V5h2v1zm0-2V3h2v1zm0 6V9h2v1zm0-2V7h2v1zm6-4h2v1H7v5h1v1H6zm4 0h2v7h-2v-1h1V5h-1z";
