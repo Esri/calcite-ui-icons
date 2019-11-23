@@ -4996,5 +4996,19 @@
     ],
     "category":"GIS",
     "release":"2.7.0"
+  },
+  "urban-model":{
+    "alias":[
+      "buildings",
+      "structures",
+      "urban model",
+      "item type",
+      "skyline",
+      "skyscraper",
+      "3d model",
+      "cityscape"
+    ],
+    "category":"Generic",
+    "release":"2.8.0"
   }
 }
