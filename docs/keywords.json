@@ -5072,14 +5072,6 @@
     "category":"Generic",
     "release":"2.9.0"
   }, 
-  "gps-on-f":{
-    "alias":[
-      "gps on filled", 
-      "location on"
-    ],
-    "category":"Generic",
-    "release":"2.9.0"
-  }, 
   "share-ios":{
     "alias":[
       "share ios", 
