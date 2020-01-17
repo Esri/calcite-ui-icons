@@ -5010,5 +5010,86 @@
     ],
     "category":"Generic",
     "release":"2.8.0"
+  },  
+  "address-book":{
+    "alias":[
+      "contacts", 
+      "contact book", 
+      "contact card", 
+      "contact information", 
+      "address details", 
+      "person"
+    ],
+    "category":"Objects",
+    "release":"2.9.0"
+  }, 
+  "bell-off":{
+    "alias":[
+      "notifications off", 
+      "alarm off", 
+      "disable alarm", 
+      "unsubscribe"
+    ],
+    "category":"Objects",
+    "release":"2.9.0"
+  }, 
+  "conference":{
+    "alias":[
+      "conference room",
+      "conference call"
+    ],
+    "category":"Generic",
+    "release":"2.9.0"
+  }, 
+  "desk":{
+    "alias":[
+      "table", 
+      "workspace", 
+      "office"
+    ],
+    "category":"Objects",
+    "release":"2.9.0"
+  }, 
+  "event":{
+    "alias":[
+      "star", 
+      "calendar event", 
+      "date"
+    ],
+    "category":"Generic",
+    "release":"2.9.0"
+  }, 
+  "floor-plan":{
+    "alias":[
+      "indoors", 
+      "indoor routing", 
+      "house", 
+      "apartment", 
+      "living space", 
+      "rooms", 
+      "office space"
+    ],
+    "category":"Generic",
+    "release":"2.9.0"
+  }, 
+  "gps-on-f":{
+    "alias":[
+      "gps on filled", 
+      "location on"
+    ],
+    "category":"Generic",
+    "release":"2.9.0"
+  }, 
+  "share-ios":{
+    "alias":[
+      "share ios", 
+      "share apple", 
+      "Facebook", 
+      "Twitter", 
+      "Instagram", 
+      "Snapchat"
+    ],
+    "category":"Generic",
+    "release":"2.9.0"
   }
 }
