@@ -5083,5 +5083,17 @@
     ],
     "category":"Generic",
     "release":"2.9.0"
+  },
+  "image-layer":{
+    "alias":[
+      "raster",
+      "GIS",
+      "image",
+      "imagery",
+      "layer",
+      "layer type"
+    ],
+    "category":"GIS",
+    "release":"2.8.1"
   }
 }
