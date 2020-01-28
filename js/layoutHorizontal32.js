@@ -1,1 +1,1 @@
-export const layoutHorizontal32 = "M10 30h1v1H9v-2h1zm0-6H9v2.889h1zm0-18.89H9V8h1zM10 2h1V1H9v2h1zm8-1h-3v1h3zm5 2h1V1h-2v1h1zm0 23.89h1V24h-1zM23 8h1V5.111h-1zm0 22h-1v1h2v-2h-1zm-8 1h3v-1h-3zm16-21v12H1V10zm-1 1H2v10h28zm-18 1h-1v8h1zm10 0h-1v8h1z";
+export const layoutHorizontal32 = "M11 13h1v6h-1zm9 6h1v-6h-1zM12 3h1V2h-2v2h1zm-1 27h2v-1h-1v-1h-1zm9-26h1V2h-2v1h1zm0 25h-1v1h2v-2h-1zM12 6h-1v2h1zm0 18h-1v2h1zm8-16h1V6h-1zm1 3h9v10h-9v1h-1v-1h-8v1h-1v-1H2V11h9v-1h1v1h8v-1h1zm8 1H3v8h26zm-8 12h-1v2h1zM17 2h-2v1h2zm0 27h-2v1h2z";

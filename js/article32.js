@@ -1,1 +1,1 @@
-export const article32 = "M25 6H7v1h18zm0 4H7v1h18zm0 4H7v1h18zm0 4h-8v1h8zm0 3h-8v1h8zm-3 3h-5v1h5zm-8-6v8H7v-8zm-1 1H8v6h5zM3 2v28h26V2zm25 27H4V3h24z";
+export const article32 = "M24 8H9V7h15zm0 3H9v1h15zm0 4H9v1h15zm-6 5h6v-1h-6zm0 3h6v-1h-6zm0 3h4v-1h-4zm-2 1H9v-8h7zm-1-7h-5v6h5zm12 10H6V3h21zM26 4H7v25h19z";

@@ -1,1 +1,1 @@
-export const underline32 = "M8 26h16v1H8zM22 8h-3v1h2v8c0 3.26-.568 7-5 7-4.614 0-5-2.964-5-6V9h2V8H8v1h2v9c0 2.272 0 7 6 7s6-6.021 6-8V9h2V8z";
+export const underline32 = "M28 29H4v-1h24zm-12-4.4a9.01 9.01 0 0 0 9-9V3h-1v12.6a8 8 0 0 1-16 0V3H7v12.6a9.01 9.01 0 0 0 9 9z";

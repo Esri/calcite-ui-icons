@@ -1,1 +1,1 @@
-export const caretUp24 = "M12 6.675L20.325 15H3.675z";
+export const caretUp24 = "M3.9 15L12 6.9l8.1 8.1z";

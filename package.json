@@ -3,7 +3,7 @@
     "spriter": "bin/spriter.js"
   },
   "name": "@esri/calcite-ui-icons",
-  "version": "2.8.1",
+  "version": "3.0.0",
   "private": false,
   "description": "A collection of UI SVG icons created by Esri for applications.",
   "repository": {
@@ -45,14 +45,11 @@
   "homepage": "https://github.com/Esri/calcite-ui-icons#readme",
   "scripts": {
     "spriter": "node bin/spriter.js",
-    "buildsprite-16": "svgstore -o sprite-16.svg icons/*-16.svg",
-    "buildsprite-24": "svgstore -o sprite-24.svg icons/*-24.svg",
-    "buildsprite-32": "svgstore -o sprite-32.svg icons/*-32.svg",
-    "buildsprite-16-f": "svgstore -o sprite-16-f.svg icons/*-16-f.svg",
-    "buildsprite-24-f": "svgstore -o sprite-24-f.svg icons/*-24-f.svg",
-    "buildsprite-32-f": "svgstore -o sprite-32-f.svg icons/*-32-f.svg",
+    "buildsprite-16": "svgstore -o sprite-16.svg icons/*-16*.svg",
+    "buildsprite-24": "svgstore -o sprite-24.svg icons/*-24*.svg",
+    "buildsprite-32": "svgstore -o sprite-32.svg icons/*-32*.svg",
     "optimize": "node bin/cli.js",
-    "start": "npm run buildsprite-16-f && npm run buildsprite-24-f && npm run buildsprite-32-f && npm run buildsprite-16 && npm run buildsprite-24 && npm run buildsprite-32 && npm run optimize",
+    "start": "npm run buildsprite-16 && npm run buildsprite-24 && npm run buildsprite-32 && npm run optimize",
     "server": "node bin/server.js"
   },
   "devDependencies": {

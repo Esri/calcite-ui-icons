@@ -5022,5 +5022,254 @@
     ],
     "category":"GIS",
     "release":"2.8.1"
+  }, 
+  "access-string-results":{
+    "alias":[
+      "code", 
+      "access string results", 
+      "text", 
+      "access text results", 
+      "text file", 
+      "dialogue box", 
+      "attributes", 
+      "tags", 
+      "style"
+    ],
+    "category":"Windows",
+    "release":"3.0.0"
+  }, 
+  "address-book":{
+    "alias":[
+      "contacts", 
+      "address book", 
+      "person", 
+      "people", 
+      "spiral notebook", 
+      "users", 
+      "contact information", 
+      "phone number", 
+      "addresses"
+    ],
+    "category":"Objects",
+    "release":"3.0.0"
+  }, 
+  "bell-off":{
+    "alias":[
+      "no notifications", 
+      "bell off", 
+      "silent", 
+      "vibrate", 
+      "silent mode", 
+      "unsubscribe", 
+      "turn off notifications", 
+      "no alarm", 
+      "no announcements"
+    ],
+    "category":"Objects",
+    "release":"3.0.0"
+  }, 
+  "beta":{
+    "alias":[
+      "text", 
+      "symbols", 
+      "characters", 
+      "greek", 
+      "mathematics", 
+      "calculations", 
+      "variable"
+    ],
+    "category":"Text",
+    "release":"3.0.0"
+  }, 
+  "blank":{
+    "alias":[
+      "placeholder", 
+      "blank", 
+      "empty", 
+      "replacement", 
+      "spacer", 
+      "toggle off", 
+      "off state", 
+      "empty state"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "conference-room":{
+    "alias":[
+      "table", 
+      "people", 
+      "person", 
+      "conference room", 
+      "conference table", 
+      "meeting room", 
+      "congregate"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "contrast":{
+    "alias":[
+      "color", 
+      "brightness", 
+      "picture settings", 
+      "image settings", 
+      "image adjustments", 
+      "photography", 
+      "white balance", 
+      "light", 
+      "lighting", 
+      "shadows", 
+      "highlights", 
+      "midtones", 
+      "threshold", 
+      "black and white"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "discard":{
+    "alias":[
+      "exclude", 
+      "negate", 
+      "cut out"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "edit-attributes":{
+    "alias":[
+      "pencil", 
+      "edit attributes", 
+      "edit text", 
+      "edit description"
+    ],
+    "category":"Lists",
+    "release":"3.0.0"
+  }, 
+  "event":{
+    "alias":[
+      "star", 
+      "calendar", 
+      "schedule", 
+      "book", 
+      "conference", 
+      "invite", 
+      "date", 
+      "special event"
+    ],
+    "category":"Objects",
+    "release":"3.0.0"
+  }, 
+  "floor-plan":{
+    "alias":[
+      "blueprint", 
+      "building", 
+      "indoors", 
+      "indoor navigation", 
+      "floor plan", 
+      "stairs", 
+      "level", 
+      "rooms", 
+      "house", 
+      "home", 
+      "apartment", 
+      "office layout"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "list-number-rtl":{
+    "alias":[
+      "ordering", 
+      "rtl", 
+      "right to left", 
+      "list numbers", 
+      "numbered list", 
+      "ordered list"
+    ],
+    "category":"Lists",
+    "release":"3.0.0"
+  }, 
+  "merge":{
+    "alias":[
+      "combine", 
+      "unite", 
+      "consolidate"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "person-2":{
+    "alias":[
+      "da vinci man", 
+      "human being", 
+      "body", 
+      "health", 
+      "person 2", 
+      "standing", 
+      "exercise"
+    ],
+    "category":"People",
+    "release":"3.0.0"
+  }, 
+  "plans":{
+    "alias":[
+      "blueprint", 
+      "layout", 
+      "measurements", 
+      "perimeter", 
+      "width", 
+      "height", 
+      "boundary", 
+      "interior", 
+      "scale"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "polygon-line-check":{
+    "alias":[
+      "vertices", 
+      "polygon line check", 
+      "checkmark", 
+      "points"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "preserve":{
+    "alias":[
+      "intersect", 
+      "intersection", 
+      "overlap"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "projects":{
+    "alias":[
+      "briefcase", 
+      "portfolio case", 
+      "collection"
+    ],
+    "category":"Objects",
+    "release":"3.0.0"
+  }, 
+  "share-ios":{
+    "alias":[
+      "share ios", 
+      "share apple", 
+      "options"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
+  }, 
+  "split":{
+    "alias":[
+      "divide"
+    ],
+    "category":"Generic",
+    "release":"3.0.0"
   }
 }

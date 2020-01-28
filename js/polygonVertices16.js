@@ -1,1 +1,1 @@
-export const polygonVertices16 = "M15 2V0h-2v1.857L7 7 3 4.6V3H1v2h1v9H1v2h2v-1h10v1h2v-2h-1V2zM3 14V5.767l3 1.8V9h2V7.46l5-4.286V14z";
+export const polygonVertices16 = "M0 14v2h2v-1h12v1h2v-2h-1V2h1V0h-2v1.735L6.833 7 2 4.514V3H0v2h1v9zm2-8.361l4 2.057V9h2V7.384l6-4.408V14H2z";

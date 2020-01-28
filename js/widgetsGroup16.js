@@ -1,1 +1,1 @@
-export const widgetsGroup16 = "M7 4H1v9h14V4zM2 5h4v2H2zm0 7V8h4v4zm12 0H7V5h7z";
+export const widgetsGroup16 = "M0 1v14h16V1zm1 1h4v3H1zm0 12V6h4v8zm14 0H6V2h9z";

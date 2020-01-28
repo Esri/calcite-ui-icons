@@ -1,1 +1,1 @@
-export const dockLeft16 = "M1 2v12h15V2zm4 1h10v10H5zM2 3h2v10H2z";
+export const dockLeft16 = "M0 1v14h16V1zm1 13V2h2v12zm14 0H4V2h11z";

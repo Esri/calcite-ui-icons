@@ -1,1 +1,1 @@
-export const layoutVertical16 = "M4 16h8V0H4zm7-1H5V1h6zm-1-4v-1H6v1zM6 5v1h4V5zM1 4v1H0V3h2v1zm14 0v1h1V3h-2v1zm1 5V7h-1v2zm-2 3v1h2v-2h-1v1zM1 12v-1H0v2h2v-1zM0 7v2h1V7z";
+export const layoutVertical16 = "M12 0H4v4H3v1h1v6H3v1h1v4h8v-4h1v-1h-1V5h1V4h-1zm-1 15H5V1h6zm-5-4h4v1H6zm0-7h4v1H6zm9 6h1v2h-2v-1h1zM1 11h1v1H0v-2h1zm15-7v2h-1V5h-1V4zM2 4v1H1v1H0V4zM1 9H0V7h1zm14-2h1v2h-1z";

@@ -1,1 +1,1 @@
-export const minimize16 = "M5 0v6h1V4h9v4h-3v1h4V0zm10 3H6V1h9zM0 7v9h11V7zm10 8H1v-4h9zm0-5H1V8h9z";
+export const minimize16 = "M16 0H5v5h1V4h9v5h-3v1h4zm-1 3H6V1h9zm-4 3H0v10h11zM1 7h9v2H1zm0 8v-5h9v5z";

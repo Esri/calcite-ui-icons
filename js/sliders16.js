@@ -1,1 +1,1 @@
-export const sliders16 = "M3 8h1v1H3v7H2V9H1V8h1V0h1zm6-8H8v4H7v1h1v11h1V5h1V4H9zm6 12V0h-1v12h-1v1h1v3h1v-3h1v-1z";
+export const sliders16 = "M4 16v-5h2V8H4V1H3v7H1v3h2v5zm-2-6V9h3v1zm12 6v-2h2v-3h-2V1h-1v10h-2v3h2v2zm-2-3v-1h3v1zM11 3H9V1H8v2H6v3h2v10h1V6h2zm-1 2H7V4h3z";

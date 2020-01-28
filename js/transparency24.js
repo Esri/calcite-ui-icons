@@ -1,1 +1,1 @@
-export const transparency24 = "M17 16.306l-.694.694H17v-.694z";
+export const transparency24 = "M7 7v15h15V7zm14 14H8V8h13zM6 6v11H2V2h15v4z";

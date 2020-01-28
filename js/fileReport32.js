@@ -1,1 +1,1 @@
-export const fileReport32 = "M20.3 1H4v30h24V8.699zM27 30H5V2h14v8h8zM20 9V2l7 7zM8 14v13h16V14zm10 1v2h-5v-2zm-5 5v-2h5v2zm5 1v2h-5v-2zm-9-6h3v2H9zm0 3h3v2H9zm0 3h3v2H9zm0 5v-2h3v2zm4 0v-2h5v2zm10 0h-4v-2h4zm0-3h-4v-2h4zm0-3h-4v-2h4zm0-3h-4v-2h4zm-6-9H8V7h9zm0-3H8V4h9z";
+export const fileReport32 = "M5 2v28h22V9.699L19.3 2zm21 27H6V3h12v8h8zm-7-19V3l7 7zM8 27h16V14H8zm4-1v-2h5v2zm5-5v2h-5v-2zm-5-1v-2h5v2zm11 6h-5v-2h5zm0-3h-5v-2h5zm0-3h-5v-2h5zm0-5v2h-5v-2zm-6 0v2h-5v-2zm-8 0h2v2H9zm0 3h2v2H9zm0 3h2v2H9zm0 3h2v2H9zm7-15H8V8h8zm0-3H8V5h8z";

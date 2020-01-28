@@ -1,1 +1,1 @@
-export const minus24 = "M21 12H3v-1h18z";
+export const minus24 = "M3 12h18v1H3z";

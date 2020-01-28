@@ -1,1 +1,1 @@
-export const plus16 = "M14 8H9v5H8V8H3V7h5V2h1v5h5z";
+export const plus16 = "M9 4v4h4v1H9v4H8V9H4V8h4V4z";

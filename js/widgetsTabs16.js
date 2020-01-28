@@ -1,1 +1,1 @@
-export const widgetsTabs16 = "M6 13h4v1H6zm-5 1h4v-1H1zm10 0h4v-1h-4zm4-10v7H1V4zm-1 1H2v5h12z";
+export const widgetsTabs16 = "M6 15v-1h4v1zm-6 0h4v-1H0zm16 0v-1h-4v1zM0 1h16v11H0zm1 10h14V2H1z";

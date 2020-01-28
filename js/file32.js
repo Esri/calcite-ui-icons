@@ -1,1 +1,1 @@
-export const file32 = "M20.3 1H4v30h24V8.699zM27 30H5V2h14v8h8zM20 9V2l7 7z";
+export const file32 = "M27 9.699L19.3 2H5v28h22zM26 29H6V3h12v8h8zm-7-19V3l7 7z";

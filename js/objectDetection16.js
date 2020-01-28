@@ -1,1 +1,1 @@
-export const objectDetection16 = "M1 5H0V0h5v1H1zm13 0h1V0h-5v1h4zm-9 9H1v-4H0v5h5zm5 1h5v-5h-1v4h-4zM7 8h1V7H7zm2 0h4V7H9zM2 8h4V7H2zm5 5h1V9H7zm0-7h1V2H7z";
+export const objectDetection16 = "M2 6H1V1h5v1H2zm13 0h1V1h-5v1h4zm-9 9H2v-4H1v5h5zm5 1h5v-5h-1v4h-4zM8 9h1V8H8zm2 0h4V8h-4zM3 9h4V8H3zm5 5h1v-4H8zm0-7h1V3H8z";

@@ -1,1 +1,1 @@
-export const listShowAll24 = "M10 10h12v1H10zm-4 2h2v-2H6zm4 3h12v-1H10zm-4 1h2v-2H6zm4 3h12v-1H10zm-4 1h2v-2H6zM9 4h13V3H9zM6 2v4H2V2zM5 3H3v2h2z";
+export const listShowAll24 = "M22 11H10v-1h12zm0-8H9v1h13zM8 20H6v2h2zM6 6H2V2h4zM5 3H3v2h2zm3 7H6v2h2zm0 5H6v2h2zm14 0H10v1h12zm-12 6h12v-1H10z";

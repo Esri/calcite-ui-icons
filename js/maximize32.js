@@ -1,1 +1,1 @@
-export const maximize32 = "M2 4v24h28V4zm27 23H3V10h26zm0-18H3V5h26z";
+export const maximize32 = "M30 5H2v23h28zm-1 22H3V11h26zm0-17H3V6h26z";

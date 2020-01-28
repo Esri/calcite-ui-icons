@@ -1,1 +1,1 @@
-export const exclamationMarkCircle24F = "M12 1a11 11 0 1 0 11 11A11 11 0 0 0 12 1zm1 17h-2v-2h2zm0-4h-2V5h2z";
+export const exclamationMarkCircle24F = "M12.5 2.2a10.3 10.3 0 1 0 10.3 10.3A10.299 10.299 0 0 0 12.5 2.2zM12 7h1v7h-1zm.5 10.5a1 1 0 1 1 1-1 1.002 1.002 0 0 1-1 1z";

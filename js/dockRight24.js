@@ -1,1 +1,1 @@
-export const dockRight24 = "M2 3v18h21V3zm16 17H3V4h15zm4 0h-3V4h3z";
+export const dockRight24 = "M1 21h22V3H1zM22 4v16h-3V4zM2 4h16v16H2z";

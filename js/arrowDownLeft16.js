@@ -1,1 +1,1 @@
-export const arrowDownLeft16 = "M12.354 4.354L5.707 11H8v1H4V8h1v2.293l6.646-6.646z";
+export const arrowDownLeft16 = "M13.354 3.354L4.707 12H7v1H3V9h1v2.293l8.646-8.646z";
