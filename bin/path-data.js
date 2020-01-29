@@ -28,7 +28,7 @@ function formatSVG (svg) {
  * @return {array} - Array of paths
  */
 function getPaths (svg) {
-  const bbPaths = ['M0 0h16v16H0z', 'M0 0h24v24H0z', 'M0 0h32v32H0z' ];
+  const bbPaths = ['M0 0h16v16H0z', 'M0 0h24v24H0z', 'M0 0h32v32H0z'];
   return svg.childs
     .filter(child => child.name === 'path' && bbPaths.indexOf(child.attrs.d) === -1) // filter out bounding box paths
     .map(child => child.attrs.d);

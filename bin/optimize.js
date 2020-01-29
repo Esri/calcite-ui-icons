@@ -11,7 +11,7 @@ let options = {
     {removeUselessStrokeAndFill: false},
     {removeHiddenElems: true},
     {removeEmptyText: true},
-    {convertShapeToPath: true},
+    {convertShapeToPath: { convertArcs: true }},
     {convertPathData: { noSpaceAfterFlags: false }},
     {removeEmptyAttrs: true},
     {removeEmptyContainers: true},
