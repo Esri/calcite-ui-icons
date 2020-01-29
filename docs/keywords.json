@@ -5271,5 +5271,15 @@
     ],
     "category":"Generic",
     "release":"3.0.0"
+  }, 
+  "desk":{
+    "alias":[
+      "table", 
+      "office space", 
+      "cubicle", 
+      "co-working space"
+    ],
+    "category":"Objects",
+    "release":"3.0.0"
   }
 }
