@@ -1,1 +1,1 @@
-export const hillshadeEffect32 = "M17.676 15.031L28 27.142V4.707L17.676 15.031z";
+export const hillshadeEffect32 = "M2 2v28h28V2zm26.293 1l-11.32 11.319L3.769 3zM3 3.658l13.265 11.37L3 28.293zM3.707 29l13.265-13.265L28.342 29z";

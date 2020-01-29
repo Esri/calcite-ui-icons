@@ -1,1 +1,1 @@
-export const transparency24 = "M7 7v15h15V7zm14 14H8V8h13zM6 6v11H2V2h15v4z";
+export const transparency24 = "M6 6v17h17V6zm16 16H7V7h15zM5 5v13H1V1h17v4zm13 3v10H8V8z";
