@@ -8,18 +8,18 @@ let options = {
     {cleanupIDs: {remove: false}},
     {removeStyleElement: true},
     {removeUselessDefs: true},
-    {removeUselessStrokeAndFill: true},
+    {removeUselessStrokeAndFill: false},
     {removeHiddenElems: true},
     {removeEmptyText: true},
-    {convertShapeToPath: true},
+    {convertShapeToPath: { convertArcs: true }},
     {convertPathData: { noSpaceAfterFlags: false }},
     {removeEmptyAttrs: true},
     {removeEmptyContainers: true},
-    {mergePaths: true},
+    {mergePaths: false},
     {removeTitle: true},
     {removeDesc: true},
     {removeDimensions: true},
-    {removeAttrs: {attrs: ['class', '(stroke|fill)']}}
+    {removeAttrs: {attrs: ['class', '(stroke)']}}
   ],
   multipass: true
 };

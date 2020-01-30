@@ -1,1 +1,1 @@
-export const browser16 = "M0 2v13h16V2zm3 12H1V6h2zm12 0H4V6h11zm0-9h-1V4h-1v1H1V3h14z";
+export const browser16 = "M0 1v14h16V1zm1 13V5h4v9zm14 0H6V5h9zm0-10h-1V3h-1v1H1V2h14z";

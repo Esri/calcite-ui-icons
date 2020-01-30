@@ -1,1 +1,1 @@
-export const graphHistogram24 = "M22 20h-1v-8h1zM18 7h-1v13h1zm-4-5h-1v18h1zm-4 5H9v13h1zm-4 5H5v8h1zM2 22V0H1v23h23v-1z";
+export const graphHistogram24 = "M22 12v8h-1v-8zm-4 8V7h-1v13zm-4 0V2h-1v18zm-4 0V7H9v13zm-5 0h1v-8H5zM1 1v22h22v-1H2V1z";

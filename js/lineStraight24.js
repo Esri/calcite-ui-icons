@@ -1,1 +1,1 @@
-export const lineStraight24 = "M19 4.46L4.42 19H2v3h3v-2.462L19.58 5H22V2h-3v2.46zM4 21H3v-1h1v1zM20 3h1v1h-1V3z";
+export const lineStraight24 = "M2 19v3h3v-2.293L19.707 5H22V2h-3v2.293L4.293 19zm2 2H3v-1h1zM20 3h1v1h-1z";

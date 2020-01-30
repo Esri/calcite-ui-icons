@@ -1,1 +1,1 @@
-export const vertexPlus32 = "M31 23v1h-7v7h-1v-7h-7v-1h7v-7h1v7zM11 8H7.033L1.947 23 1 22.679 5.977 8H4V1h7v3h16v1H11zm-1-1V2H5v5z";
+export const vertexPlus32 = "M23 22h7v1h-7v7h-1v-7h-7v-1h7v-7h1zM8.033 9L2.947 24 2 23.679 6.977 9H5V2h7v3h16v1H12v3zM11 8V3H6v5z";

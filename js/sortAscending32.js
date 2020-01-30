@@ -1,1 +1,1 @@
-export const sortAscending32 = "M9 19h21v1H9zm-7 9h28v-1H2zm14-16h14v-1H16zm7-8h7v-.988h-7z";
+export const sortAscending32 = "M29 21H9v-1h20zm0 7H3v1h26zm0-16H16v1h13zm-6-7h6v-.988h-6z";

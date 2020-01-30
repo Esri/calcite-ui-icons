@@ -1,1 +1,1 @@
-export const graphHistogram32 = "M26 28h-1V11h1zm4-11h-1v11h1zM22 6h-1v22h1zm-4-5h-1v27h1zm-4 5h-1v22h1zm-4 5H9v17h1zm-4 6H5v11h1zM2 30V0H1v31h31v-1z";
+export const graphHistogram32 = "M27 26h-1V12h1zM23 7h-1v19h1zm-4-5h-1v24h1zm-4 5h-1v19h1zm-4 5h-1v14h1zm-4 6H6v8h1zM3 29V2H2v28h28v-1z";

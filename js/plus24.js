@@ -1,1 +1,1 @@
-export const plus24 = "M22 13h-9v9h-1v-9H3v-1h9V3h1v9h9z";
+export const plus24 = "M6 12h6V6h1v6h6v1h-6v6h-1v-6H6z";

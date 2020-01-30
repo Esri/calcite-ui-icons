@@ -1,1 +1,1 @@
-export const compassNeedle16 = "M10.817 7.489L8 .61 5.183 7.49 8 15.545zM8 2.622L9.894 7.1H6.107zM9.926 7.9L8 13.222 6.074 7.9z";
+export const compassNeedle16 = "M10.924 7.486L8 .348 5.076 7.486 8 15.848zM6.314 8h3.372L8 12.819z";

@@ -1,1 +1,1 @@
-export const polygon24 = "M3 3.8l7.615 5.6L21 1v21H3zM20 21V3.095l-8.756 7.083a1 1 0 0 1-1.221.028L4 5.776V21z";
+export const polygon24 = "M2 4.8V22h20V2l-11.538 8.4zm19-.835V21H3V6.661l7.489 4.956z";

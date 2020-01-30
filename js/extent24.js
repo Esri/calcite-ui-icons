@@ -1,1 +1,1 @@
-export const extent24 = "M15 2h7v7h-1V3h-6zM2 22h7v-1H3v-6H2zm19-1h-6v1h7v-7h-1zM3 3h6V2H2v7h1z";
+export const extent24 = "M3 16H2v6h6v-1H3zM16 3h5v5h1V2h-6zm5 18h-5v1h6v-6h-1zM8 2H2v6h1V3h5z";

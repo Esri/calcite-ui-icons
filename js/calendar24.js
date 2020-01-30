@@ -1,1 +1,1 @@
-export const calendar24 = "M19 5h2v4H2V5h2V4H1v17h21V4h-3zm2 15H2V10h19zM7 5V4h9v1zM5 6V3h1v3zm12 0V3h1v3z";
+export const calendar24 = "M20 4.026h2V7H2V4.026h2v-1H1V21h22V3.026h-3zM22 20H2V8.026h20zM7 4.026v-1h10v1zM5 2h1v3H5zm13 0h1v3h-1z";

@@ -1,1 +1,1 @@
-export const folder32 = "M16 6l-1-2H4L3 6H1v22h30V6zm14 4H2V7h1.618l1-2h9.764l1 2H30zm0 17H2V11h28z";
+export const folder32 = "M30 7H16l-1-2H5L4 7H2v20h28zm-1 19H3V12h26zm0-15H3V8h1.618l1-2h8.764l1 2H29z";
