@@ -9,12 +9,9 @@ https://esri.github.io/calcite-ui-icons/
 
 ## Description
 
-Icons come in two styles:
+Icons are mostly an outlined style, but include some with a filled style.
 
-* **filled**
-* **outlined**
-
-and 3 sizes:
+Every concept has 3 sizes:
 
 * **16x16**
 * **24x24**
@@ -27,21 +24,17 @@ More info on what happens when you scale vector based icons [here](https://githu
 ### Outline icons are the standard
 Outline icons have the default name. For example, `trash-16.svg` will render the default outline icon.
 
-If needed, appending `-f` (`trash-16-f.svg`) will render the filled version.
-
-**Outline icons should be the primary icons to be used.**
+Some icons have alternative states for toggling or greater flexibility. For those icons, appending `-f` (`trash-16-f.svg`) will render the filled version.
 
 ### Sprite packages
-Furthermore, sprites are available in 6 packages and live outside the `icons/` directory:
+Furthermore, sprites are available in 3 packages and live outside the `icons/` directory:
 
 * sprite-16.svg
-* sprite-16-f.svg
 * sprite-24.svg
-* sprite-24-f.svg
 * sprite-32.svg
-* sprite-32-f.svg
 
-Filenames that contain `-f` contain filled icons only.
+Alternative filled versions of the outlined icons have `-f` appended to their name, and are included in the sprites above.
+
 Icons in the sprite have an `id` of the individual SVG file name.
 
 ## JavaScript Exports
