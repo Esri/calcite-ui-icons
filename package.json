@@ -52,7 +52,8 @@
     "start": "npm run buildsprite-16 && npm run buildsprite-24 && npm run buildsprite-32 && npm run optimize",
     "server": "node bin/server.js",
     "convert-all-ios": "node bin/convert-mobile.js -o \"../mobile-output\" -p \"ios\"",
-    "convert-all-desktop": "node bin/convert-mobile.js -o \"../desktop-output\""
+    "convert-all-desktop:size": "node bin/convert-mobile.js -o \"../desktop-output\" -s",
+    "convert-all-desktop-multi": "node bin/convert-mobile.js -o \"../desktop-output\" -s 16 && node bin/convert-mobile.js -o \"../desktop-output\" -s 24 && node bin/convert-mobile.js -o \"../desktop-output\" -s 32 && node bin/convert-mobile.js -o \"../desktop-output\" -s 64"
   },
   "devDependencies": {
     "browser-sync": "^2.24.7",
