@@ -50,7 +50,9 @@
     "buildsprite-32": "svgstore -o sprite-32.svg icons/*-32*.svg",
     "optimize": "node bin/cli.js",
     "start": "npm run buildsprite-16 && npm run buildsprite-24 && npm run buildsprite-32 && npm run optimize",
-    "server": "node bin/server.js"
+    "server": "node bin/server.js",
+    "convert-all-ios": "node bin/convert-mobile.js -o \"../mobile-output\" -p \"ios\"",
+    "convert-all-desktop": "node bin/convert-mobile.js -o \"../desktop-output\""
   },
   "devDependencies": {
     "browser-sync": "^2.24.7",
@@ -62,6 +64,8 @@
     "promise": "~8.0.1",
     "svgo": "^1.3.0",
     "svgson": "^2.1.1",
-    "svgstore-cli": "^1.3.1"
+    "svgstore-cli": "^1.3.1",
+    "svg2img": "^0.6.1",
+    "yargs": "^15.1.0"
   }
 }

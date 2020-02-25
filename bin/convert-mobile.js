@@ -5,7 +5,7 @@ const svg2img = require('svg2img');
 const path = require('path');
 const yargs = require('yargs');
 
-const baseIconPath = '../../icons/';
+const baseIconPath = './icons/';
 var sourceIconSuffix = '-16.svg';
 // default output path, can be overridden
 var outputRoot = path.join(__dirname, 'output')
@@ -77,9 +77,9 @@ if (options.outputDir) {
   outputRoot = path.join(__dirname, options.outputDir);
 }
 
-if (options.inSize == '16'){
+if (options.inSize === '16'){
   sourceIconSuffix = '-16.svg';
-} else if (options.inSize == '24'){
+} else if (options.inSize === '24'){
   sourceIconSuffix = '-24.svg';
 } else if (options.inSize === '32'){
   sourceIconSuffix = '-32.svg';
@@ -97,7 +97,7 @@ if (options.name) {
   fs.readdir(baseIconPath, function (err, files) {
     //handling error
     if (err) {
-      console.log(error);
+      console.log(err);
       process.exit(1);
     }
     //listing all files using forEach

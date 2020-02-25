@@ -118,6 +118,16 @@ svg:hover {
 }
 ```
 
+## Build PNG icons for mobile and desktop
+
+For convenient use in iOS & desktop application projects, you can convert all icons to PNG.
+
+```sh
+npm install
+npm run convert-all-ios
+npm run convert-all-desktop
+```
+
 ## Licensing
 
 COPYRIGHT © 2020 Esri
