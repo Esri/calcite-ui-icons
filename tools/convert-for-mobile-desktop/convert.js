@@ -59,7 +59,9 @@ if (options.name){
     if (options.output_platform == "ios"){
         convert_for_ios(options.name, output_root);
     } else {
-        convert_single(options.name, 64, 64, output_root, ".png");
+        convert_single(options.name, 32, 32, output_root, "-32.png");
+        convert_single(options.name, 16, 16, output_root, "-16.png");
+        convert_single(options.name, 64, 64, output_root, "-64.png");
     }
 } else {
     fs.readdir(base_path, function (err, files) {
@@ -70,13 +72,15 @@ if (options.name){
     //listing all files using forEach
     files.forEach(function (file) {
         var base_name = path.basename(file);
-        if (base_name.endsWith('-32.svg')){
+        if (base_name.endsWith('-16.svg')){
             var real_base_name = base_name.substring(0, base_name.length - 7);
 
             if (options.output_platform == "ios"){
                 convert_for_ios(real_base_name, output_root);
             } else {
-                convert_single(real_base_name, 64, 64, output_root, ".png");
+                convert_single(real_base_name, 16, 16, output_root, "-16.png");
+                convert_single(real_base_name, 32, 32, output_root, "-32.png");
+                convert_single(real_base_name, 64, 64, output_root, "-64.png");
             }
         }
     });
