@@ -30,6 +30,10 @@ function convertSingleIconToPng(iconName, width, height, outputRoot, outputSuffi
 
   // convert and save the image
   svg2img(sourceSvgIconPath, { 'width': width, 'height': height }, function (error, buffer) {
+    if (error){
+      console.log(error);
+      process.exit(1);
+    }
     fs.writeFileSync(real_output_path, buffer);
   });
 }
@@ -51,6 +55,10 @@ function convertIconToXcodeImageSet(iconName, outputRoot) {
   const template_path = path.join(__dirname, 'templates', 'Contents.json');
 
   fs.readFile(template_path, 'utf8', function (error, buffer) {
+    if (error){
+      console.log(error);
+      process.exit(1);
+    }
     const new_output_string = buffer.replace(/\$\{NAME\}/g, iconName);
     const contents_output_path = path.join(new_output_root, 'Contents.json');
     fs.writeFile(contents_output_path, new_output_string, function (error) { });
@@ -89,7 +97,8 @@ if (options.name) {
   fs.readdir(baseIconPath, function (err, files) {
     //handling error
     if (err) {
-      return console.log('Unable to scan directory: ' + err);
+      console.log(error);
+      process.exit(1);
     }
     //listing all files using forEach
     files.forEach(function (file) {
@@ -107,6 +116,4 @@ if (options.name) {
       }
     });
   });
-
 }
-
