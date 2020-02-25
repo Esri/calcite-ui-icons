@@ -1,0 +1,16 @@
+{
+  "name": "convert-for-mobile-desktop",
+  "version": "0.0.1",
+  "description": "Tools for creating mobile & desktop-ready calcite icons.",
+  "main": "convert.js",
+  "scripts": {
+    "convert_all_ios": "node ./convert.js -o \"./output\" -p \"ios\"",
+    "convert_all": "node ./convert.js -o \"./output\""
+  },
+  "author": "Nathan Castle",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "svg2img": "^0.6.1",
+    "yargs": "^15.1.0"
+  }
+}
