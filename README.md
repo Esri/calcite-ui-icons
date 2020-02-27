@@ -130,13 +130,13 @@ npm install
 
 Then:
 
-* To create XCode image sets (for use with iOS, macOS, iPadOS) with a default size:
+* To create Xcode image sets (for use with iOS, macOS, iPadOS) with a default size:
 
     ```sh
     npm run convert-all-ios
     ```
 
-* To create XCode image sets with a specified size (e.g. 44x44):
+* To create Xcode image sets with a specified size (e.g. 44x44):
 
     ```sh
     npm run convert-all-ios:size 44

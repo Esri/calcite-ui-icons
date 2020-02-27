@@ -69,12 +69,12 @@ function convertIconToXcodeImageSet(iconName, baseSize, outputRoot) {
 }
 
 const options = yargs
-  .usage('Usage: -n <name of icon, omit if doing bulk>, \n-s <output size,  default 64>, \n-o <output path (defaults to ./output)>, \n-p <target platform (e.g. ios) \n-i <16, 24, 32, omit for 16>')
+  .usage('Usage: -n <name of icon, omit if doing bulk>, \n-s <output size, defaults to 24>, \n-o <output path (defaults to ./output)>, \n-p <target platform (e.g. ios) \n-i <16, 24, 32, omit for 16>')
   .option('n', { alias: 'name', describe: 'name of icon, without -32.svg; omit to convert all icons', type: 'string', demandOption: false })
   .option('o', { alias: 'outputDir', describe: 'output path, relative to this script', type: 'string', demandOption: false })
   .option('p', { alias: 'outputPlatform', describe: 'target platform, valid options are: ios', type: 'string', demandOption: false })
   .option('i', { alias: 'inSize', describe: 'source svg variant, defaults to 16', type: 'string', demandOption: false })
-  .option('s', {alias: 'outSize', describe: 'size of output image in doesn\'t apply when targeting specific platform', type: 'string', demandOption: false})
+  .option('s', {alias: 'outSize', describe: 'size of output image', type: 'string', demandOption: false})
   .argv;
 
 if (options.outputDir) {
