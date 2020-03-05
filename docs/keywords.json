@@ -5281,5 +5281,41 @@
     ],
     "category":"Objects",
     "release":"3.0.0"
+  }, 
+  "graph-bar-100-stacked":{
+    "alias":[
+      "graph bar 100 stacked", 
+      "bar chart", 
+      "diagram", 
+      "visualization", 
+      "charts and graphs"
+    ],
+    "category":"Charts-and-Graphs",
+    "release":"3.0.0-beta.3"
+  }, 
+  "graph-bar-side-by-side":{
+    "alias":[
+      "graph bar side by side",
+      "charts-and-graphs", 
+      "bars", 
+      "bar chart", 
+      "diagram", 
+      "visualization"
+    ],
+    "category":"Charts-and-Graphs",
+    "release":"3.0.0-beta.3"
+  }, 
+  "graph-bar-stacked":{
+    "alias":[
+      "graph bar stacked",
+      "charts-and-graphs", 
+      "bars", 
+      "bar chart", 
+      "diagram", 
+      "visualization", 
+      "stacked"
+    ],
+    "category":"Charts-and-Graphs",
+    "release":"3.0.0-beta.3"
   }
 }
