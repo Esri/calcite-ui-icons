@@ -1,1 +1,1 @@
-export const reverse32 = "M7 15.501L18 23V8zm10 5.607L8.775 15.5 17 9.893zM21 23h-1V8h1z";
+export const reverse32 = "M4 16.003l19 12.952V3.045zm18 11.06L5.775 16.002 22 4.937zM26 3h1v26h-1z";

@@ -1,1 +1,1 @@
-export const beginning16 = "M6 7.5l7 4.5V3zm6 2.668L7.85 7.5 12 4.832zM5 12H4V3h1z";
+export const beginning16 = "M4 8l10 6.429V1.57zm9 4.597L5.85 8.001 13 3.403zM3 1v14H2V1z";

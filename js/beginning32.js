@@ -1,1 +1,1 @@
-export const beginning32 = "M12 15.502L23 23V8zm10 5.606l-8.225-5.606L22 9.892zM11 23h-1V8h1z";
+export const beginning32 = "M8 16.003l19 12.952V3.045zm18 11.06L9.775 16.002 26 4.937zM5 3h1v26H5z";
