@@ -1,1 +1,1 @@
-export const end32 = "M9 8v15l11-7.498zm1 1.893l8.225 5.609L10 21.108zM21 8h1v15h-1z";
+export const end32 = "M5 3.045v25.91l19-12.952zm1 1.893l16.225 11.064L6 27.062zM27 29h-1V3h1z";
