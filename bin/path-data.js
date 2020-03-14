@@ -97,6 +97,7 @@ module.exports = function generatePathFile () {
         const tsContents = `export const ${camelCaseName}: string;\n`;
         fs.writeFile(`js/${camelCaseName}.js`, contents, 'utf8');
         fs.writeFile(`js/${camelCaseName}.d.ts`, tsContents, 'utf8');
+        fs.writeFile(`js/${camelCaseName}.json`, `"${file.paths[0]}"`, 'utf8');
       });
       let promises = [
         fs.writeFile('docs/icons.json', JSON.stringify({ version, icons }), 'utf8'),
