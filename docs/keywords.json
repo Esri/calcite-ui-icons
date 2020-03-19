@@ -5426,5 +5426,19 @@
     ],
     "category":"Lists",
     "release":"3.0.0-beta.6"
+  }, 
+  "serial-port":{
+    "alias":[
+      "USB port", 
+      "HDMI port", 
+      "Ethernet port", 
+      "wires", 
+      "COM port", 
+      "external drive", 
+      "plug", 
+      "serial port"
+    ],
+    "category":"Objects",
+    "release":"3.0.0-beta.6"
   }
 }
