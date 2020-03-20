@@ -5317,5 +5317,128 @@
     ],
     "category":"Charts-and-Graphs",
     "release":"3.0.0-beta.3"
+  }, 
+  "conditional-rules":{
+    "alias":[
+      "automation", 
+      "conditional rules", 
+      "prerequisites", 
+      "requirements", 
+      "dependencies"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.0.0-beta.6"
+  }, 
+  "conditional-rules-path":{
+    "alias":[
+      "automation", 
+      "conditional rules path", 
+      "prerequisites", 
+      "requirements", 
+      "dependencies"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.0.0-beta.6"
+  }, 
+  "email-address":{
+    "alias":[
+      "email address", 
+      "@", 
+      "envelope", 
+      "e-mail",
+      "forms"
+    ],
+    "category":"Forms",
+    "release":"3.0.0-beta.6"
+  }, 
+  "form-elements":{
+    "alias":[
+      "web survey elements", 
+      "form elements", 
+      "form fields"
+    ],
+    "category":"Forms",
+    "release":"3.0.0-beta.6"
+  }, 
+  "form-field":{
+    "alias":[
+      "form field", 
+      "input"
+    ],
+    "category":"Forms",
+    "release":"3.0.0-beta.6"
+  }, 
+  "form-field-multiline":{
+    "alias":[
+      "form field multiline", 
+      "input", 
+      "form field paragraph"
+    ],
+    "category":"Forms",
+    "release":"3.0.0-beta.6"
+  }, 
+  "group-form":{
+    "alias":[
+      "group form field", 
+      "group form elements"
+    ],
+    "category":"Forms",
+    "release":"3.0.0-beta.6"
+  }, 
+  "group-x":{
+    "alias":[
+      "delete group", 
+      "group x", 
+      "remove group", 
+      "clear group"
+    ],
+    "category":"Forms",
+    "release":"3.0.0-beta.6"
+  }, 
+  "layers-editable":{
+    "alias":[
+      "layers editable", 
+      "pencil", 
+      "customizable layers", 
+      "read and write layers"
+    ],
+    "category":"Layers",
+    "release":"3.0.0-beta.6"
+  }, 
+  "layers-reference":{
+    "alias":[
+      "layers reference", 
+      "reference layers", 
+      "book layer", 
+      "authoritative layers"
+    ],
+    "category":"Layers",
+    "release":"3.0.0-beta.6"
+  }, 
+  "list-rectangle":{
+    "alias":[
+      "list rectangle", 
+      "domain", 
+      "list of values", 
+      "list of unique values", 
+      "dropdown menu", 
+      "dropdown selection"
+    ],
+    "category":"Lists",
+    "release":"3.0.0-beta.6"
+  }, 
+  "serial-port":{
+    "alias":[
+      "USB port", 
+      "HDMI port", 
+      "Ethernet port", 
+      "wires", 
+      "COM port", 
+      "external drive", 
+      "plug", 
+      "serial port"
+    ],
+    "category":"Objects",
+    "release":"3.0.0-beta.6"
   }
 }
