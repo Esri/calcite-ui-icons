@@ -1,1 +1,1 @@
-export const play32F = "M9 5l16 10.502L9 26z";
+export const play32F = "M8 3.045l19 12.958L8 28.955z";

@@ -1,1 +1,1 @@
-export const forward32F = "M14.013 8l11 7.502-11 7.498zM10 23h2V8h-2z";
+export const forward32F = "M28 16.003L9 28.955V3.045zM5 29h1V3H5z";
