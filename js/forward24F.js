@@ -1,1 +1,1 @@
-export const forward24F = "M11 6l8.25 5.626L11 17.25zM7 17h2V6H7z";
+export const forward24F = "M7 1.773l15 10.23L7 22.226zM3 22h1V2H3z";

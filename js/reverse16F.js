@@ -1,1 +1,1 @@
-export const reverse16F = "M8.987 12l-7-4.5 7-4.5zM13 3h-2v9h2z";
+export const reverse16F = "M1 8l10-6.429V14.43zm12-7v14h1V1z";

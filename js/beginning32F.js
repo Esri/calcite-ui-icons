@@ -1,1 +1,1 @@
-export const beginning32F = "M23 23l-11-7.498L23 8zM11 8H9v15h2z";
+export const beginning32F = "M27 3.045v25.91L8 16.003zM5 29h1V3H5z";
