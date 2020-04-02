@@ -9,7 +9,7 @@ https://esri.github.io/calcite-ui-icons/
 
 ## Description
 
-Icons are mostly an outlined style, but include some with a filled style.
+Icons use an outlined style. Some icons include an additional filled version.
 
 Every concept has 3 sizes:
 
@@ -42,17 +42,17 @@ Icons in the sprite have an `id` of the individual SVG file name.
 The icons are also made available as named ES6 exports. This way you can import just the icons you need into your app:
 
 ```js
-import { arrowLeft16, copyToClipboard32F } from "@esri/calcite-ui-icons";
+import { arrowLeft16 } from "@esri/calcite-ui-icons";
 
 console.log(arrowLeft16); // => "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z"
 ```
 
-The icon names will be lower camel case. If the icon name starts with a number (ex. 2d-explore, 3d-glasses) prefix the name with `i`. This is due to the fact that JavaScript variables cannot begin with a number.
+The icon names will be lower camel case. If the icon name starts with a number (ex. 2d-explore, 3d-glasses) prefix the name with `i`. This is due to the fact that JavaScript variables cannot begin with a number. If the icon is a filled alternate, it will have `F` at the end of the variable name.
 
 If your build system does not perform tree shaking and dead code removal, there is a chance that importing the icons using this syntax will make your bundle extremely large. If that is the case, you can also import icons directly:
 
 ```js
-import { arrowLeft16 } from "@esri/calcite-ui-icons/js/arrowLeft16.js";
+import { lock16F } from "@esri/calcite-ui-icons/js/lock16F.js";
 ```
 
 **Note**: It is not recommended to import the entire library of icons. This will have negative performance implications. Use the technique above to select only the icons your users actually need to download.
@@ -65,7 +65,7 @@ All icons are also provided as part of a JSON file. If you installed via npm, yo
 var calciteIcons = require('@esri/calcite-ui-icons/docs/icons.json');
 ```
 
-This will give you an object containing all the icons in the library at all sizes in outlined and filled styles:
+This will give you an object containing all the icons in the library at all sizes:
 
 ```js
 {
@@ -74,16 +74,9 @@ This will give you an object containing all the icons in the library at all size
     blog: {
       alias: ['social'],
       category: 'Social-Media',
-      filled: {
-        16:['M15.541...'],
-        24:['M23.756...'],
-        32:['M31.618...']
-      },
-      outline: {
-        16:['M15.541...'],
-        24:['M23.756...'],
-        32:['M31.618...']
-      }
+      16:['M15.541...'],
+      24:['M23.756...'],
+      32:['M31.618...']
     },
     ...
   }

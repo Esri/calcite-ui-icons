@@ -13,12 +13,13 @@ const version = require('../package.json').version;
  */
 function formatSVG (svg) {
   let file = path.basename(svg.file);
+  let filled = file.indexOf('-f.svg') > -1;
   return {
     file,
-    filled: file.indexOf('-f.svg') > -1,
+    filled,
     paths: getPaths(svg.contents),
     size: getSize(file),
-    variant: getVariant(file)
+    variant: getVariant(file, filled)
   };
 }
 
@@ -37,11 +38,12 @@ function getPaths (svg) {
 /**
  * Find the base icon name
  * @param {string} name - Icon filename
+ * @param {boolean} filled - Icon filename
  * @return {array} - Icon filename without size, fill, or file extension
  */
-function getVariant (name) {
+function getVariant (name, filled) {
   var noF = name.replace('-f.svg', '.svg');
-  return noF.substring(0, noF.length - 7);
+  return noF.substring(0, noF.length - 7) + (filled ? "-f" : "");
 }
 
 /**
@@ -81,16 +83,22 @@ module.exports = function generatePathFile () {
       let keywords = JSON.parse(fs.readFileSync('docs/keywords.json', 'utf-8'));
       files.forEach(file => {
         // add to json file
-        icons[file.variant] = icons[file.variant] || keywords[file.variant] || {alias: [], category: "", release:""};
-        let icon = icons[file.variant];
-        icon.filled = icon.filled || {};
-        icon.outline = icon.outline || {};
-        icon[file.filled ? 'filled' : 'outline'][file.size] = file.paths;
-
+        icons[file.variant] = icons[file.variant] || keywords[file.variant] || { alias: [], category: "", release: "" };
+        var icon = icons[file.variant];
+        icon[file.size] = file.paths;
+        var base = file.variant.substring(0, file.variant.length - 2);
+        // make sure filled variants get the keywords from their standard counterpart
+        if (file.filled && !icon.release) {
+          const variantKeywords = keywords[base];
+          if (variantKeywords) {
+            icon.alias = variantKeywords.alias;
+            icon.category = variantKeywords.category;
+            icon.release = variantKeywords.release;
+          }
+        }
         // add to ts and js files
         const variant = file.variant.match(/^\d/) ? `i${file.variant}`: file.variant;
-        const filled = file.filled ? "F" : "";
-        const camelCaseName = camelCase(`${variant}-${file.size}${filled}`);
+        const camelCaseName = camelCase(`${file.filled ? base: variant }-${file.size}${ file.filled ? "-f" : ""}`);
         tsFile += `export const ${camelCaseName}: string;\n`;
         jsFile += `export {${camelCaseName}} from "./js/${camelCaseName}.js";\n`;
         const contents = `export const ${camelCaseName} = "${file.paths[0]}";\n`;
