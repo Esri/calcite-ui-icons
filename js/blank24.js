@@ -1,1 +1,1 @@
-export const blank24 = "undefined";
+export const blank24 = "";
