@@ -1,4 +1,11 @@
+
 // File generated automatically by path-data.js, do not edit directly
+
+interface CalciteMultiPathEntry {
+  path: string;
+  opacity: number;
+}
+export type CalciteIconPath = string | CalciteMultiPathEntry[];
 export const i2DExplore16: string;
 export const i2DExplore24: string;
 export const i2DExplore32: string;

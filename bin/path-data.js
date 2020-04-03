@@ -80,9 +80,7 @@ interface CalciteMultiPathEntry {
   path: string;
   opacity: number;
 }
-
-export type CalciteMultiPath = CalciteMultiPathEntry[];
-export type CalciteIconPath = string | CalciteMultiPath;
+export type CalciteIconPath = string | CalciteMultiPathEntry[];
 `;
   return glob('icons/*.svg')
     .then(filePaths => Promise.all(filePaths.map(readSVG)))
