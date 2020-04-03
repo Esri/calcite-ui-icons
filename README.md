@@ -26,6 +26,14 @@ Outline icons have the default name. For example, `trash-16.svg` will render the
 
 Some icons have alternative states for toggling or greater flexibility. For those icons, appending `-f` (`trash-16-f.svg`) will render the filled version.
 
+### Web Component
+
+For web apps, the easiest way to use calcite-ui-icons is with [calcite-components](). The [calcite-icon](https://github.com/Esri/calcite-components/tree/master/src/components/calcite-icon) component will handle fetching and rendering any icon from this set with the following api:
+
+```
+<calcite-icon icon="arrowLeft" scale="m"></calcite-icon>
+```
+
 ### Sprite packages
 Furthermore, sprites are available in 3 packages and live outside the `icons/` directory:
 
@@ -55,6 +63,14 @@ If your build system does not perform tree shaking and dead code removal, there 
 import { lock16F } from "@esri/calcite-ui-icons/js/lock16F.js";
 ```
 
+Some icons use multiple paths and opacity in their construction, for these the data structure will be as follows:
+
+```js
+import { imageLayer16 } from "@esri/calcite-ui-icons/js/imageLayer16.js";
+
+console.log(imageLayer16) // => [{ path: "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.536l-5 5z", opacity: .4 }, ...]
+```
+
 **Note**: It is not recommended to import the entire library of icons. This will have negative performance implications. Use the technique above to select only the icons your users actually need to download.
 
 ### JSON Format
@@ -78,11 +94,21 @@ This will give you an object containing all the icons in the library at all size
       24:['M23.756...'],
       32:['M31.618...']
     },
+    "image-layer": {
+      alias:[ "raster", ...],
+      category:"GIS",
+      multiPath: true,
+      16:[{ path: "M16...", opacity: .4 }, ...],
+      24:[{ path: "M127...", opacity: .4 }, ...],
+      32:[{ path: "M112...", opacity: .4 }, ...]
+    },
     ...
   }
 }
 ```
 _Note: path data omitted for brevity_.
+
+Most icons will have simple strings as path data, but some will be more complex as they need to store not only path, but opacity as well for multiple shapes. Icons of this structure will be anotated with the `multiPath` flag.
 
 ### Individual icons structure
 All the individual SVG icons have a common file structure.

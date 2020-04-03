@@ -32,7 +32,7 @@ function getPaths (svg) {
   const bbPaths = ['M0 0h16v16H0z', 'M0 0h24v24H0z', 'M0 0h32v32H0z'];
   return svg.childs
     .filter(child => child.name === 'path' && bbPaths.indexOf(child.attrs.d) === -1) // filter out bounding box paths
-    .map(child => child.attrs.d);
+    .map(child => ({ opacity: child.attrs.opacity, d: child.attrs.d }));
 }
 
 /**
@@ -74,7 +74,16 @@ function readSVG (fileName) {
 module.exports = function generatePathFile () {
   let banner = '// File generated automatically by path-data.js, do not edit directly\n';
   let jsFile = `${banner}`;
-  let tsFile = `${banner}`;
+  let tsFile = `
+${banner}
+interface CalciteMultiPathEntry {
+  path: string;
+  opacity: number;
+}
+
+export type CalciteMultiPath = CalciteMultiPathEntry[];
+export type CalciteIconPath = string | CalciteMultiPath;
+`;
   return glob('icons/*.svg')
     .then(filePaths => Promise.all(filePaths.map(readSVG)))
     .then(files => files.map(formatSVG))
@@ -85,7 +94,9 @@ module.exports = function generatePathFile () {
         // add to json file
         icons[file.variant] = icons[file.variant] || keywords[file.variant] || { alias: [], category: "", release: "" };
         var icon = icons[file.variant];
-        icon[file.size] = file.paths;
+        const firstPath = file.paths[0] || { d: "" }; // back up for "blank" icon
+        const paths = file.paths.length > 1 ? file.paths : firstPath.d;
+        icon[file.size] = paths;
         var base = file.variant.substring(0, file.variant.length - 2);
         // make sure filled variants get the keywords from their standard counterpart
         if (file.filled && !icon.release) {
@@ -99,13 +110,23 @@ module.exports = function generatePathFile () {
         // add to ts and js files
         const variant = file.variant.match(/^\d/) ? `i${file.variant}`: file.variant;
         const camelCaseName = camelCase(`${file.filled ? base: variant }-${file.size}${ file.filled ? "-f" : ""}`);
-        tsFile += `export const ${camelCaseName}: string;\n`;
         jsFile += `export {${camelCaseName}} from "./js/${camelCaseName}.js";\n`;
-        const contents = `export const ${camelCaseName} = "${file.paths[0]}";\n`;
-        const tsContents = `export const ${camelCaseName}: string;\n`;
+
+        let contents, tsContents;
+        if (typeof paths === "string") {
+          tsFile += `export const ${camelCaseName}: string;\n`;
+          contents = `export const ${camelCaseName} = "${paths}";\n`;
+          tsContents = `export const ${camelCaseName}: string;\n`;
+        } else {
+          icon.multiPath = true;
+          tsFile += `export const ${camelCaseName}: CalciteMultiPath;\n`;
+          contents = `export const ${camelCaseName} = ${JSON.stringify(paths)};\n`;
+          tsContents = `export const ${camelCaseName}: CalciteMultiPath;\n`;
+        }
+
         fs.writeFile(`js/${camelCaseName}.js`, contents, 'utf8');
         fs.writeFile(`js/${camelCaseName}.d.ts`, tsContents, 'utf8');
-        fs.writeFile(`js/${camelCaseName}.json`, `"${file.paths[0]}"`, 'utf8');
+        fs.writeFile(`js/${camelCaseName}.json`, JSON.stringify(paths), 'utf8');
       });
       let promises = [
         fs.writeFile('docs/icons.json', JSON.stringify({ version, icons }), 'utf8'),
