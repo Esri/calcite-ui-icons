@@ -28,7 +28,7 @@ Some icons have alternative states for toggling or greater flexibility. For thos
 
 ### Web Component
 
-For web apps, the easiest way to use calcite-ui-icons is with [calcite-components](). The [calcite-icon](https://github.com/Esri/calcite-components/tree/master/src/components/calcite-icon) component will handle fetching and rendering any icon from this set with the following api:
+For web apps, the easiest way to use calcite-ui-icons is with [calcite-components](https://github.com/Esri/calcite-components). The [calcite-icon](https://github.com/Esri/calcite-components/tree/master/src/components/calcite-icon) component will handle fetching and rendering any icon from this set with the following api:
 
 ```
 <calcite-icon icon="arrowLeft" scale="m"></calcite-icon>
