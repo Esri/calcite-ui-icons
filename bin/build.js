@@ -14,6 +14,7 @@ module.exports = function () {
     })
     .catch((error) => {
       console.error('🚨  Error while generating icons.json');
+      console.error(error);
       throw error;
     })
     .then((files) => {
