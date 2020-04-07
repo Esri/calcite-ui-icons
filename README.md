@@ -73,6 +73,10 @@ console.log(imageLayer16) // => [{ path: "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.53
 
 **Note**: It is not recommended to import the entire library of icons. This will have negative performance implications. Use the technique above to select only the icons your users actually need to download.
 
+### TypeScript
+
+Types are also available for projects leveraging TypeScript. `CalciteIconPath` describes all exported icons (both single and multipath) while `CalciteMultiPathEntry` describes multipath icons.
+
 ### JSON Format
 
 All icons are also provided as part of a JSON file. If you installed via npm, you can import the full icon data set using the following:
