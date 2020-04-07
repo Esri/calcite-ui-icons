@@ -1,1 +1,1 @@
-export const transparency16: CalciteMultiPath;
+export const transparency16: CalciteMultiPathEntry;

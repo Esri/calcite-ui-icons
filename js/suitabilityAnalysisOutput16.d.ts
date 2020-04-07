@@ -1,1 +1,1 @@
-export const suitabilityAnalysisOutput16: CalciteMultiPath;
+export const suitabilityAnalysisOutput16: CalciteMultiPathEntry;
