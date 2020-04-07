@@ -1,1 +1,1 @@
-export const freehandArea24: CalciteMultiPath;
+export const freehandArea24: CalciteMultiPathEntry;

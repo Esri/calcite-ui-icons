@@ -1,1 +1,1 @@
-export const colorCodedMap16: CalciteMultiPath;
+export const colorCodedMap16: CalciteMultiPathEntry;
