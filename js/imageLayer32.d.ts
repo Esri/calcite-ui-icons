@@ -1,1 +1,1 @@
-export const imageLayer32: string;
+export const imageLayer32: CalciteMultiPath;

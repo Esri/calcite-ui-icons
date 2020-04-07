@@ -1,1 +1,1 @@
-export const colorCorrection24: string;
+export const colorCorrection24: CalciteMultiPath;
