@@ -3,7 +3,7 @@
 
 interface CalciteMultiPathEntry {
   d: string;
-  opacity?: number;
+  opacity?: string;
 }
 export type CalciteIconPath = string | CalciteMultiPathEntry[];
 export const i2DExplore16: string;

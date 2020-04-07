@@ -78,7 +78,7 @@ module.exports = function generatePathFile () {
 ${banner}
 interface CalciteMultiPathEntry {
   d: string;
-  opacity?: number;
+  opacity?: string;
 }
 export type CalciteIconPath = string | CalciteMultiPathEntry[];
 `;
