@@ -1,1 +1,1 @@
-export const freehandArea32: string;
+export const freehandArea32: CalciteMultiPath;

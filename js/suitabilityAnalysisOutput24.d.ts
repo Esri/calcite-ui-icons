@@ -1,1 +1,1 @@
-export const suitabilityAnalysisOutput24: string;
+export const suitabilityAnalysisOutput24: CalciteMultiPath;

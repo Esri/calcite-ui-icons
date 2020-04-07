@@ -1,1 +1,1 @@
-export const colorCodedMap32: string;
+export const colorCodedMap32: CalciteMultiPath;

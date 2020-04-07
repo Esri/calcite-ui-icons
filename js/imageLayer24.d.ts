@@ -1,1 +1,1 @@
-export const imageLayer24: string;
+export const imageLayer24: CalciteMultiPath;

@@ -1,1 +1,1 @@
-export const hillshadeEffect16: string;
+export const hillshadeEffect16: CalciteMultiPath;
