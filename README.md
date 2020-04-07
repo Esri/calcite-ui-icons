@@ -75,7 +75,7 @@ console.log(imageLayer16) // => [{ path: "M16 6v3H5.035l5 5H6.5L0 7.5 6.5 1h3.53
 
 ### TypeScript
 
-Types are also available for projects leveraging TypeScript. `CalciteIconPath` describes all exported icons (both single and multipath) while `CalciteMultiPathEntry` describes multipath icons.
+Types are also available for projects leveraging TypeScript. `CalciteIconPath` describes all exported icons (both single and multipath) while `CalciteMultiPathEntry` describes an individual path from a multipath icon.
 
 ### JSON Format
 
