@@ -3133,6 +3133,7 @@
   "qt-code":{
     "alias":[
       "generic",
+      "brackets",
       "app-studio",
       "developer"
     ],
