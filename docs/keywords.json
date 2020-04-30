@@ -3723,7 +3723,7 @@
     "category":"Objects",
     "release":"1.5"
   },
-  "u-turn-left":{
+  "u-turn":{
     "alias":[
       "directions",
       "u turn",
