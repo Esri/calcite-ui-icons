@@ -3133,6 +3133,7 @@
   "qt-code":{
     "alias":[
       "generic",
+      "brackets",
       "app-studio",
       "developer"
     ],
@@ -3306,7 +3307,7 @@
     "category":"Arrows",
     "release":"1.5"
   },
-  "round-about-left":{
+  "round-about":{
     "alias":[
       "directions",
       "circular intersection",
@@ -3722,7 +3723,7 @@
     "category":"Objects",
     "release":"1.5"
   },
-  "u-turn-left":{
+  "u-turn":{
     "alias":[
       "directions",
       "u turn",
@@ -5440,5 +5441,23 @@
     ],
     "category":"Objects",
     "release":"3.0.0-beta.6"
+  }, 
+  "brackets-curly":{
+    "alias":[
+      "generic", 
+      "code", 
+      "coding", 
+      "syntax", 
+      "developer", 
+      "js", 
+      "html", 
+      "python", 
+      "ruby", 
+      "script", 
+      "programmer", 
+      "css"
+    ],
+    "category":"Generic",
+    "release":"3.0.1"
   }
 }
