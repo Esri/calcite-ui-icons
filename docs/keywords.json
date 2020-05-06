@@ -5459,5 +5459,107 @@
     ],
     "category":"Generic",
     "release":"3.0.1"
+  }, 
+  "maximum":{
+    "alias":[
+      "max", 
+      "mathematics", 
+      "numbers", 
+      "formula", 
+      "calculation", 
+      "function"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
+  }, 
+  "maximum-graph":{
+    "alias":[
+      "max", 
+      "mathematics", 
+      "numbers", 
+      "formula", 
+      "calculation", 
+      "function", 
+      "maximum graph", 
+      "parabolic curve"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
+  }, 
+  "minimum":{
+    "alias":[
+      "min", 
+      "mathematics", 
+      "numbers", 
+      "formula", 
+      "calculation", 
+      "function"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
+  }, 
+  "minimum-graph":{
+    "alias":[
+      "min", 
+      "mathematics", 
+      "numbers", 
+      "formula", 
+      "calculation", 
+      "function", 
+      "minimum graph", 
+      "parabolic curve"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
+  }, 
+  "mu":{
+    "alias":[
+      "statistical mean", 
+      "population mean", 
+      "statistics", 
+      "average", 
+      "greek letter",
+      "mathematics",
+      "arithmetic",
+      "function",
+      "arithmetic",
+      "formula"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
+  }, 
+  "percent":{
+    "alias":[
+      "percentage", 
+      "fraction", 
+      "ratio", 
+      "mathematics"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
+  }, 
+  "sigma":{
+    "alias":[
+      "arithmetic", 
+      "sum", 
+      "greek letter", 
+      "mathematics", 
+      "function", 
+      "formula"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
+  }, 
+  "x-bar":{
+    "alias":[
+      "sample mean", 
+      "average", 
+      "arithmetic mean", 
+      "x bar", 
+      "mathematics", 
+      "formula"
+    ],
+    "category":"Text",
+    "release":"3.1.0"
   }
 }
