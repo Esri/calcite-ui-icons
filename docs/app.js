@@ -111,7 +111,7 @@
 
   function removeHash (fromOpen) {
     if (!fromOpen) {
-      window.location.hash = '';
+      window.location.hash = '?';
     }
   }
 })();
