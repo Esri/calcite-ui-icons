@@ -1,6 +1,7 @@
 {
   "2d-explore":{
     "alias":[
+      "1.5.0",
       "gis",
       "navigate"
     ],
@@ -9,6 +10,7 @@
   },
   "3d-glasses":{
     "alias":[
+      "1.5.0",
       "gis",
       "ortho-stereo"
     ],
@@ -17,6 +19,7 @@
   },
   "a-z":{
     "alias":[
+      "1.5.0",
       "text",
       "sort",
       "alphabetical",
@@ -28,6 +31,7 @@
   },
   "a-z-down":{
     "alias":[
+      "1.5.0",
       "text",
       "sort",
       "alphabetical",
@@ -38,6 +42,7 @@
   },
   "a-z-up":{
     "alias":[
+      "1.5.0",
       "text",
       "sort",
       "alphabetical",
@@ -48,6 +53,7 @@
   },
   "activity-monitor":{
     "alias":[
+      "1.5.0",
       "generic",
       "heartbeat",
       "wave",
@@ -61,6 +67,7 @@
   },
   "add-text":{
     "alias":[
+      "1.5.0",
       "text",
       "type",
       "box",
@@ -71,6 +78,7 @@
   },
   "android":{
     "alias":[
+      "1.5.0",
       "mobile",
       "logo",
       "os"
@@ -80,6 +88,7 @@
   },
   "app-launcher":{
     "alias":[
+      "1.5.0",
       "grid",
       "squares",
       "windows",
@@ -93,6 +102,7 @@
   },
   "app-run":{
     "alias":[
+      "1.5.0",
       "objects",
       "app-studio"
     ],
@@ -101,6 +111,7 @@
   },
   "applications":{
     "alias":[
+      "1.5.0",
       "gis"
     ],
     "category":"GIS",
@@ -108,6 +119,7 @@
   },
   "arcgis-online":{
     "alias":[
+      "1.5.0",
       "brand",
       "agol"
     ],
@@ -116,6 +128,7 @@
   },
   "arrow":{
     "alias":[
+      "1.5.0",
       "next",
       "previous",
       "up",
@@ -126,6 +139,7 @@
   },
   "arrow-bold":{
     "alias":[
+      "1.5.0",
       "right",
       "directions",
       "next"
@@ -135,6 +149,7 @@
   },
   "arrow-bold-down":{
     "alias":[
+      "1.5.0",
       "arrows",
       "directions",
       "descending",
@@ -147,6 +162,7 @@
   },
   "arrow-bold-left":{
     "alias":[
+      "1.5.0",
       "arrows",
       "directions",
       "back",
@@ -158,6 +174,7 @@
   },
   "arrow-bold-right":{
     "alias":[
+      "1.5.0",
       "arrows",
       "directions",
       "go",
@@ -169,6 +186,7 @@
   },
   "arrow-bold-up":{
     "alias":[
+      "1.5.0",
       "arrows",
       "directions",
       "ascending",
@@ -188,6 +206,7 @@
   },
   "arrow-down":{
     "alias":[
+      "1.5.0",
       "arrows",
       "below",
       "descending",
@@ -201,6 +220,7 @@
   },
   "arrow-down-left":{
     "alias":[
+      "1.5.0",
       "arrows",
       "previous",
       "back",
@@ -222,6 +242,7 @@
   },
   "arrow-down-right":{
     "alias":[
+      "1.5.0",
       "arrows",
       "front",
       "forward",
@@ -244,6 +265,7 @@
   },
   "arrow-left":{
     "alias":[
+      "1.5.0",
       "arrows",
       "previous",
       "back",
@@ -254,6 +276,7 @@
   },
   "arrow-right":{
     "alias":[
+      "1.5.0",
       "arrows",
       "next",
       "forward",
@@ -264,6 +287,7 @@
   },
   "arrow-up":{
     "alias":[
+      "1.5.0",
       "arrows",
       "above",
       "ascending",
@@ -277,6 +301,7 @@
   },
   "arrow-up-down":{
     "alias":[
+      "1.5.0",
       "arrows",
       "reverse",
       "switch",
@@ -292,6 +317,7 @@
   },
   "arrow-up-left":{
     "alias":[
+      "1.5.0",
       "arrows",
       "previous",
       "back",
@@ -313,6 +339,7 @@
   },
   "arrow-up-right":{
     "alias":[
+      "1.5.0",
       "arrows",
       "front",
       "forward",
@@ -335,6 +362,7 @@
   },
   "article":{
     "alias":[
+      "1.5.0",
       "objects",
       "news",
       "blog"
@@ -344,6 +372,7 @@
   },
   "attachment":{
     "alias":[
+      "1.5.0",
       "objects"
     ],
     "category":"Objects",
@@ -351,6 +380,7 @@
   },
   "automation":{
     "alias":[
+      "1.5.0",
       "generic",
       "automate",
       "arrows",
@@ -362,6 +392,7 @@
   },
   "banana":{
     "alias":[
+      "1.5.0",
       "objects",
       "app-studio"
     ],
@@ -370,6 +401,7 @@
   },
   "basemap":{
     "alias":[
+      "1.5.0",
       "gis"
     ],
     "category":"GIS",
@@ -377,6 +409,7 @@
   },
   "battery-1":{
     "alias":[
+      "1.5.0",
       "objects",
       "percentage",
       "critical",
@@ -388,6 +421,7 @@
   },
   "battery-2":{
     "alias":[
+      "1.5.0",
       "objects",
       "percentage",
       "half",
@@ -398,6 +432,7 @@
   },
   "battery-3":{
     "alias":[
+      "1.5.0",
       "objects",
       "percentage",
       "high",
@@ -408,6 +443,7 @@
   },
   "battery-4":{
     "alias":[
+      "1.5.0",
       "objects",
       "percentage",
       "fully charged",
@@ -418,6 +454,7 @@
   },
   "battery-charging":{
     "alias":[
+      "1.5.0",
       "objects",
       "charge",
       "lightning bolt"
@@ -427,6 +464,7 @@
   },
   "beaker":{
     "alias":[
+      "1.5.0",
       "objects",
       "science",
       "lab",
@@ -438,6 +476,7 @@
   },
   "bear-left":{
     "alias":[
+      "1.5.0",
       "directions",
       "navigate",
       "navigation",
@@ -448,6 +487,7 @@
   },
   "bear-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "navigate",
       "navigation",
@@ -458,6 +498,7 @@
   },
   "beginning":{
     "alias":[
+      "1.5.0",
       "start",
       "first",
       "media"
@@ -467,6 +508,7 @@
   },
   "bell":{
     "alias":[
+      "1.5.0",
       "objects",
       "notification",
       "alert",
@@ -477,6 +519,7 @@
   },
   "biking":{
     "alias":[
+      "1.5.0",
       "bike",
       "bicycle",
       "bicycling",
@@ -495,6 +538,7 @@
   },
   "blog":{
     "alias":[
+      "1.5.0",
       "social-media",
       "social"
     ],
@@ -503,6 +547,7 @@
   },
   "bold":{
     "alias":[
+      "1.5.0",
       "text"
     ],
     "category":"Text",
@@ -510,6 +555,7 @@
   },
   "bookmark":{
     "alias":[
+      "1.5.0",
       "objects"
     ],
     "category":"Objects",
@@ -517,6 +563,7 @@
   },
   "box-chart":{
     "alias":[
+      "1.5.0",
       "charts and graphs",
       "graph",
       "data",
@@ -536,6 +583,7 @@
   },
   "brightness":{
     "alias":[
+      "1.5.0",
       "generic",
       "light-theme",
       "light-mode",
@@ -549,6 +597,7 @@
   },
   "browser":{
     "alias":[
+      "1.5.0",
       "windows",
       "os",
       "window"
@@ -558,6 +607,7 @@
   },
   "calendar":{
     "alias":[
+      "1.5.0",
       "objects",
       "event",
       "schedule",
@@ -569,6 +619,7 @@
   },
   "camera":{
     "alias":[
+      "1.5.0",
       "objects",
       "video",
       "photograph",
@@ -589,6 +640,7 @@
   },
   "car":{
     "alias":[
+      "1.5.0",
       "objects",
       "automobile",
       "transportation",
@@ -611,6 +663,7 @@
   },
   "caret-down":{
     "alias":[
+      "1.5.0",
       "symbols",
       "triangle",
       "negative",
@@ -622,6 +675,7 @@
   },
   "caret-left":{
     "alias":[
+      "1.5.0",
       "symbols",
       "triangle",
       "previous",
@@ -632,6 +686,7 @@
   },
   "caret-right":{
     "alias":[
+      "1.5.0",
       "symbols",
       "collapse",
       "expand",
@@ -646,6 +701,7 @@
   },
   "caret-square":{
     "alias":[
+      "1.5.0",
       "dropdown",
       "accordion"
     ],
@@ -654,6 +710,7 @@
   },
   "caret-square-down":{
     "alias":[
+      "1.5.0",
       "symbols",
       "collapse",
       "expand",
@@ -674,6 +731,7 @@
   },
   "caret-square-left":{
     "alias":[
+      "1.5.0",
       "symbols",
       "triangle",
       "back",
@@ -685,6 +743,7 @@
   },
   "caret-square-right":{
     "alias":[
+      "1.5.0",
       "symbols",
       "collapse",
       "expand",
@@ -699,6 +758,7 @@
   },
   "caret-square-up":{
     "alias":[
+      "1.5.0",
       "symbols",
       "collapse",
       "expand",
@@ -719,6 +779,7 @@
   },
   "caret-up":{
     "alias":[
+      "1.5.0",
       "symbols",
       "triangle",
       "positive"
@@ -728,6 +789,7 @@
   },
   "change-font-size":{
     "alias":[
+      "1.5.0",
       "text",
       "increase",
       "decrease"
@@ -737,6 +799,7 @@
   },
   "check":{
     "alias":[
+      "1.5.0",
       "symbols",
       "mark",
       "selected"
@@ -746,6 +809,7 @@
   },
   "check-circle":{
     "alias":[
+      "1.5.0",
       "symbols",
       "check",
       "mark",
@@ -757,6 +821,7 @@
   },
   "check-layer":{
     "alias":[
+      "1.5.0",
       "layers",
       "active",
       "success",
@@ -771,6 +836,7 @@
   },
   "check-square":{
     "alias":[
+      "1.5.0",
       "symbols",
       "done",
       "box",
@@ -782,6 +848,7 @@
   },
   "chevron":{
     "alias":[
+      "1.5.0",
       "arrow"
     ],
     "category":"Symbols",
@@ -789,6 +856,7 @@
   },
   "chevron-down":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -797,6 +865,7 @@
   },
   "chevron-left":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -805,6 +874,7 @@
   },
   "chevron-right":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -813,6 +883,7 @@
   },
   "chevron-up":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -821,6 +892,7 @@
   },
   "chevrons":{
     "alias":[
+      "1.5.0",
       "arrow"
     ],
     "category":"Symbols",
@@ -828,6 +900,7 @@
   },
   "chevrons-down":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -836,6 +909,7 @@
   },
   "chevrons-left":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -844,6 +918,7 @@
   },
   "chevrons-right":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -852,6 +927,7 @@
   },
   "chevrons-up":{
     "alias":[
+      "1.5.0",
       "symbols",
       "arrow"
     ],
@@ -860,6 +936,7 @@
   },
   "chord-diagram":{
     "alias":[
+      "1.5.0",
       "Charts and graphs",
       "charts",
       "graph",
@@ -874,6 +951,7 @@
   },
   "circle":{
     "alias":[
+      "1.5.0",
       "generic",
       "radio",
       "shape",
@@ -885,6 +963,7 @@
   },
   "circle-disallowed":{
     "alias":[
+      "1.5.0",
       "symbols",
       "ban",
       "cancel"
@@ -894,6 +973,7 @@
   },
   "circle-filled":{
     "alias":[
+      "1.5.0",
       "generic",
       "radio",
       "shape",
@@ -904,6 +984,7 @@
   },
   "clock":{
     "alias":[
+      "1.5.0",
       "objects",
       "time",
       "history",
@@ -914,6 +995,7 @@
   },
   "clock-down":{
     "alias":[
+      "1.5.0",
       "objects",
       "time",
       "date",
@@ -925,6 +1007,7 @@
   },
   "clock-up":{
     "alias":[
+      "1.5.0",
       "objects",
       "time",
       "date",
@@ -936,6 +1019,7 @@
   },
   "code":{
     "alias":[
+      "1.5.0",
       "generic",
       "developer",
       "script",
@@ -952,6 +1036,7 @@
   },
   "collection":{
     "alias":[
+      "1.5.0",
       "gis",
       "image",
       "map"
@@ -961,6 +1046,7 @@
   },
   "compare":{
     "alias":[
+      "1.5.0",
       "generic",
       "swipe",
       "side by side",
@@ -972,6 +1058,7 @@
   },
   "compass":{
     "alias":[
+      "1.5.0",
       "gis",
       "directions",
       "my-location",
@@ -987,6 +1074,7 @@
   },
   "compass-north":{
     "alias":[
+      "1.5.0",
       "gis",
       "directions",
       "my-location",
@@ -997,6 +1085,7 @@
   },
   "compass-north-circle":{
     "alias":[
+      "1.5.0",
       "gis",
       "directions",
       "my-location",
@@ -1007,6 +1096,7 @@
   },
   "configure-popup":{
     "alias":[
+      "1.5.0",
       "generic",
       "gear",
       "popup settings",
@@ -1019,6 +1109,7 @@
   },
   "console":{
     "alias":[
+      "1.5.0",
       "windows",
       "app-studio",
       "terminal"
@@ -1028,6 +1119,7 @@
   },
   "copy":{
     "alias":[
+      "1.5.0",
       "objects",
       "duplicate",
       "clone"
@@ -1037,6 +1129,7 @@
   },
   "copy-to-clipboard":{
     "alias":[
+      "1.5.0",
       "objects",
       "duplicate",
       "clone"
@@ -1046,6 +1139,7 @@
   },
   "cube":{
     "alias":[
+      "1.5.0",
       "objects",
       "3d"
     ],
@@ -1054,6 +1148,7 @@
   },
   "cursor":{
     "alias":[
+      "1.5.0",
       "generic",
       "point and click"
     ],
@@ -1062,6 +1157,7 @@
   },
   "cursor-click":{
     "alias":[
+      "1.5.0",
       "generic",
       "point and click"
     ],
@@ -1070,6 +1166,7 @@
   },
   "cursor-marquee":{
     "alias":[
+      "1.5.0",
       "generic",
       "drag-box",
       "box-select",
@@ -1081,6 +1178,7 @@
   },
   "cursor-selection":{
     "alias":[
+      "1.5.0",
       "generic",
       "pointer over selection"
     ],
@@ -1089,6 +1187,7 @@
   },
   "dashboard":{
     "alias":[
+      "1.5.0",
       "objects",
       "gauge",
       "statistics",
@@ -1100,6 +1199,7 @@
   },
   "data":{
     "alias":[
+      "1.5.0",
       "generic",
       "server",
       "database"
@@ -1109,6 +1209,7 @@
   },
   "data-check":{
     "alias":[
+      "1.5.0",
       "generic",
       "compatible",
       "database",
@@ -1122,6 +1223,7 @@
   },
   "data-clock-chart":{
     "alias":[
+      "1.5.0",
       "charts and graphs",
       "circular chart",
       "chart",
@@ -1139,6 +1241,7 @@
   },
   "description":{
     "alias":[
+      "1.5.0",
       "abc",
       "text"
     ],
@@ -1147,6 +1250,7 @@
   },
   "disembark":{
     "alias":[
+      "1.5.0",
       "directions",
       "ship",
       "exit",
@@ -1159,6 +1263,7 @@
   },
   "dock-bottom":{
     "alias":[
+      "1.5.0",
       "windows",
       "footer",
       "panel"
@@ -1168,6 +1273,7 @@
   },
   "dock-left":{
     "alias":[
+      "1.5.0",
       "windows",
       "sidebar",
       "toc",
@@ -1178,6 +1284,7 @@
   },
   "dock-right":{
     "alias":[
+      "1.5.0",
       "windows",
       "sidebar",
       "panel"
@@ -1187,6 +1294,7 @@
   },
   "download":{
     "alias":[
+      "1.5.0",
       "generic",
       "cloud",
       "arrow",
@@ -1197,6 +1305,7 @@
   },
   "download-to":{
     "alias":[
+      "1.5.0",
       "arrows",
       "import"
     ],
@@ -1205,6 +1314,7 @@
   },
   "duplicate":{
     "alias":[
+      "1.5.0",
       "generic",
       "copy and paste",
       "multiple"
@@ -1214,6 +1324,7 @@
   },
   "education":{
     "alias":[
+      "1.5.0",
       "objects",
       "graduation",
       "grad cap",
@@ -1232,6 +1343,7 @@
   },
   "elevator":{
     "alias":[
+      "1.5.0",
       "directions",
       "fire escape",
       "exit",
@@ -1246,6 +1358,7 @@
   },
   "ellipsis":{
     "alias":[
+      "1.5.0",
       "generic",
       "menu",
       "more",
@@ -1258,6 +1371,7 @@
   },
   "embark":{
     "alias":[
+      "1.5.0",
       "directions",
       "ship",
       "enter",
@@ -1271,6 +1385,7 @@
   },
   "embedded-content":{
     "alias":[
+      "1.5.0",
       "windows",
       "iframe",
       "browser"
@@ -1280,6 +1395,7 @@
   },
   "end":{
     "alias":[
+      "1.5.0",
       "media"
     ],
     "category":"media",
@@ -1287,6 +1403,7 @@
   },
   "envelope":{
     "alias":[
+      "1.5.0",
       "objects",
       "send",
       "email",
@@ -1297,6 +1414,7 @@
   },
   "erase":{
     "alias":[
+      "1.5.0",
       "objects",
       "clear"
     ],
@@ -1305,6 +1423,7 @@
   },
   "escalator":{
     "alias":[
+      "1.5.0",
       "directions",
       "levels",
       "up",
@@ -1320,6 +1439,7 @@
   },
   "exclamation-mark-circle":{
     "alias":[
+      "1.5.0",
       "symbols",
       "invalid",
       "error",
@@ -1330,6 +1450,7 @@
   },
   "exclamation-mark-triangle":{
     "alias":[
+      "1.5.0",
       "symbols",
       "warning",
       "alert"
@@ -1339,6 +1460,7 @@
   },
   "exit-highway-left":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "navigate",
@@ -1350,6 +1472,7 @@
   },
   "exit-highway-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "arrow"
@@ -1373,6 +1496,7 @@
   },
   "extent":{
     "alias":[
+      "1.5.0",
       "arrows",
       "zoom out",
       "frame",
@@ -1391,6 +1515,7 @@
   },
   "eyedropper":{
     "alias":[
+      "1.5.0",
       "objects",
       "color-picker"
     ],
@@ -1399,6 +1524,7 @@
   },
   "feature-details":{
     "alias":[
+      "1.5.0",
       "lists",
       "feature",
       "details"
@@ -1408,6 +1534,7 @@
   },
   "file":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "blank"
@@ -1417,6 +1544,7 @@
   },
   "file-archive":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "record",
@@ -1428,6 +1556,7 @@
   },
   "file-cad":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "3d",
@@ -1439,6 +1568,7 @@
   },
   "file-code":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "html",
@@ -1461,6 +1591,7 @@
   },
   "file-csv":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "excel spreadsheet",
@@ -1472,6 +1603,7 @@
   },
   "file-excel":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "spreadsheet",
@@ -1484,6 +1616,7 @@
   },
   "file-gpx":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "gpx file"
@@ -1493,6 +1626,7 @@
   },
   "file-image":{
     "alias":[
+      "1.5.0",
       "files",
       "photograph",
       "picture",
@@ -1507,6 +1641,7 @@
   },
   "file-magnifying-glass":{
     "alias":[
+      "1.5.0",
       "search documents",
       "search files",
       "review",
@@ -1526,6 +1661,7 @@
   },
   "file-pdf":{
     "alias":[
+      "1.5.0",
       "files",
       "acrobat",
       "adobe",
@@ -1537,6 +1673,7 @@
   },
   "file-pdf-plus":{
     "alias":[
+      "1.5.0",
       "files",
       "new pdf file",
       "create pdf file",
@@ -1550,6 +1687,7 @@
   },
   "file-report":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "csv",
@@ -1561,6 +1699,7 @@
   },
   "file-sound":{
     "alias":[
+      "1.5.0",
       "files",
       "audio",
       "music",
@@ -1571,6 +1710,7 @@
   },
   "file-text":{
     "alias":[
+      "1.5.0",
       "files",
       "document",
       "txt",
@@ -1585,6 +1725,7 @@
   },
   "file-video":{
     "alias":[
+      "1.5.0",
       "files",
       "motion",
       "gif",
@@ -1597,6 +1738,7 @@
   },
   "file-word":{
     "alias":[
+      "1.5.0",
       "files",
       "word document",
       "text",
@@ -1610,6 +1752,7 @@
   },
   "file-zip":{
     "alias":[
+      "1.5.0",
       "files",
       "compressed file",
       "archive",
@@ -1620,6 +1763,7 @@
   },
   "files":{
     "alias":[
+      "1.5.0",
       "files",
       "documents",
       "multiple"
@@ -1629,6 +1773,7 @@
   },
   "filter":{
     "alias":[
+      "1.5.0",
       "objects",
       "funnel"
     ],
@@ -1637,6 +1782,7 @@
   },
   "flash":{
     "alias":[
+      "1.5.0",
       "generic",
       "light",
       "highlight",
@@ -1647,6 +1793,7 @@
   },
   "folder":{
     "alias":[
+      "1.5.0",
       "files",
       "directory",
       "collapsed"
@@ -1656,6 +1803,7 @@
   },
   "folder-archive":{
     "alias":[
+      "1.5.0",
       "files",
       "directory",
       "storage",
@@ -1668,6 +1816,7 @@
   },
   "folder-move":{
     "alias":[
+      "1.5.0",
       "files",
       "directory",
       "arrow",
@@ -1680,6 +1829,7 @@
   },
   "folder-new":{
     "alias":[
+      "1.5.0",
       "files",
       "new directory",
       "create directory",
@@ -1693,6 +1843,7 @@
   },
   "folder-open":{
     "alias":[
+      "1.5.0",
       "files",
       "open folder",
       "open state",
@@ -1705,6 +1856,7 @@
   },
   "folder-plus":{
     "alias":[
+      "1.5.0",
       "files",
       "new directory",
       "create directory",
@@ -1718,6 +1870,7 @@
   },
   "folder-star":{
     "alias":[
+      "1.5.0",
       "files",
       "favorite directory",
       "favorite folder",
@@ -1729,6 +1882,7 @@
   },
   "follow":{
     "alias":[
+      "1.5.0",
       "gis",
       "navigation",
       "tracking"
@@ -1738,6 +1892,7 @@
   },
   "follow-pause":{
     "alias":[
+      "1.5.0",
       "gis",
       "navigation",
       "tracking"
@@ -1747,6 +1902,7 @@
   },
   "follow-play":{
     "alias":[
+      "1.5.0",
       "gis",
       "navigation",
       "tracking"
@@ -1756,6 +1912,7 @@
   },
   "fork-left":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn left",
       "split",
@@ -1768,6 +1925,7 @@
   },
   "fork-middle":{
     "alias":[
+      "1.5.0",
       "directions",
       "straight",
       "navigate",
@@ -1779,6 +1937,7 @@
   },
   "fork-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn right",
       "split",
@@ -1791,6 +1950,7 @@
   },
   "forward":{
     "alias":[
+      "1.5.0",
       "media"
     ],
     "category":"media",
@@ -1798,6 +1958,7 @@
   },
   "freehand":{
     "alias":[
+      "1.5.0",
       "gis",
       "draw",
       "polygon",
@@ -1811,6 +1972,7 @@
   },
   "full-screen-exit":{
     "alias":[
+      "1.5.0",
       "arrows",
       "return",
       "default",
@@ -1824,6 +1986,7 @@
   },
   "gauge":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "statistic",
       "monitor",
@@ -1835,6 +1998,7 @@
   },
   "gauge-summary":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "statistic",
       "monitor",
@@ -1847,6 +2011,7 @@
   },
   "gear":{
     "alias":[
+      "1.5.0",
       "objects",
       "settings",
       "preferences",
@@ -1858,6 +2023,7 @@
   },
   "geonet":{
     "alias":[
+      "1.5.0",
       "social-media",
       "share",
       "social"
@@ -1867,6 +2033,7 @@
   },
   "geonet-question":{
     "alias":[
+      "1.5.0",
       "social-media",
       "?",
       "social"
@@ -1876,6 +2043,7 @@
   },
   "globe":{
     "alias":[
+      "1.5.0",
       "gis",
       "world"
     ],
@@ -1884,6 +2052,7 @@
   },
   "gps-off":{
     "alias":[
+      "1.5.0",
       "gis",
       "locate",
       "current location",
@@ -1894,6 +2063,7 @@
   },
   "gps-on":{
     "alias":[
+      "1.5.0",
       "gis",
       "locate",
       "current location",
@@ -1904,6 +2074,7 @@
   },
   "graph-bar":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "bars",
       "bar chart",
@@ -1915,6 +2086,7 @@
   },
   "graph-histogram":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "history",
       "bars",
@@ -1927,6 +2099,7 @@
   },
   "graph-moving-average":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "bars",
       "bar chart",
@@ -1940,6 +2113,7 @@
   },
   "graph-pie":{
     "alias":[
+      "1.5.0",
       "chart"
     ],
     "category":"Charts-and-Widgets",
@@ -1947,6 +2121,7 @@
   },
   "graph-scatter-plot":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "points",
       "data"
@@ -1956,6 +2131,7 @@
   },
   "graph-time-series":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "line graph",
       "line chart",
@@ -1971,6 +2147,7 @@
   },
   "grid":{
     "alias":[
+      "1.5.0",
       "generic",
       "organized",
       "boxes",
@@ -1983,6 +2160,7 @@
   },
   "group":{
     "alias":[
+      "1.5.0",
       "people"
     ],
     "category":"People",
@@ -1990,6 +2168,7 @@
   },
   "hamburger":{
     "alias":[
+      "1.5.0",
       "generic",
       "menu",
       "options",
@@ -2001,6 +2180,7 @@
   },
   "hammer":{
     "alias":[
+      "1.5.0",
       "objects",
       "app-studio",
       "geoprocessing"
@@ -2010,6 +2190,7 @@
   },
   "headset":{
     "alias":[
+      "1.5.0",
       "objects",
       "headphones",
       "customer",
@@ -2022,6 +2203,7 @@
   },
   "heat-chart":{
     "alias":[
+      "1.5.0",
       "heat map",
       "charts and graphs",
       "graphs",
@@ -2036,6 +2218,7 @@
   },
   "hide-empty":{
     "alias":[
+      "1.5.0",
       "windows",
       "empty",
       "table",
@@ -2054,6 +2237,7 @@
   },
   "highway-change":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "merge",
@@ -2068,6 +2252,7 @@
   },
   "highway-change-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "merge",
@@ -2082,6 +2267,7 @@
   },
   "home":{
     "alias":[
+      "1.5.0",
       "generic",
       "index",
       "navigation",
@@ -2093,6 +2279,7 @@
   },
   "hourglass-active":{
     "alias":[
+      "1.5.0",
       "objects",
       "time"
     ],
@@ -2101,6 +2288,7 @@
   },
   "hourglass-expired":{
     "alias":[
+      "1.5.0",
       "objects",
       "time"
     ],
@@ -2109,6 +2297,7 @@
   },
   "image":{
     "alias":[
+      "1.5.0",
       "media",
       "photo"
     ],
@@ -2117,6 +2306,7 @@
   },
   "images":{
     "alias":[
+      "1.5.0",
       "picture",
       "media",
       "photo"
@@ -2126,6 +2316,7 @@
   },
   "indicator":{
     "alias":[
+      "1.5.0",
       "text"
     ],
     "category":"Text",
@@ -2133,6 +2324,7 @@
   },
   "infographic":{
     "alias":[
+      "1.5.0",
       "generic",
       "shapes",
       "visualization"
@@ -2142,6 +2334,7 @@
   },
   "information":{
     "alias":[
+      "1.5.0",
       "symbols",
       "about",
       "help",
@@ -2152,6 +2345,7 @@
   },
   "italicize":{
     "alias":[
+      "1.5.0",
       "text"
     ],
     "category":"Text",
@@ -2159,6 +2353,7 @@
   },
   "key":{
     "alias":[
+      "1.5.0",
       "objects",
       "access",
       "permission",
@@ -2169,6 +2364,7 @@
   },
   "label":{
     "alias":[
+      "1.5.0",
       "objects",
       "tag"
     ],
@@ -2177,6 +2373,7 @@
   },
   "lasso":{
     "alias":[
+      "1.5.0",
       "gis",
       "selection",
       "freeform"
@@ -2186,6 +2383,7 @@
   },
   "launch":{
     "alias":[
+      "1.5.0",
       "arrows",
       "open in new window",
       "open",
@@ -2197,6 +2395,7 @@
   },
   "layer":{
     "alias":[
+      "1.5.0",
       "layers",
       "gis",
       "single layer"
@@ -2206,6 +2405,7 @@
   },
   "layer-basemap":{
     "alias":[
+      "1.5.0",
       "layers"
     ],
     "category":"Layers",
@@ -2213,6 +2413,7 @@
   },
   "layer-broken":{
     "alias":[
+      "1.5.0",
       "layers",
       "broken"
     ],
@@ -2221,6 +2422,7 @@
   },
   "layer-filter":{
     "alias":[
+      "1.5.0",
       "layers",
       "filter"
     ],
@@ -2229,6 +2431,7 @@
   },
   "layer-graphics":{
     "alias":[
+      "1.5.0",
       "layers",
       "graphic"
     ],
@@ -2237,6 +2440,7 @@
   },
   "layer-hide":{
     "alias":[
+      "1.5.0",
       "layers",
       "hidden",
       "invisible",
@@ -2249,6 +2453,7 @@
   },
   "layer-kml":{
     "alias":[
+      "1.5.0",
       "layers",
       "kml"
     ],
@@ -2257,6 +2462,7 @@
   },
   "layer-line":{
     "alias":[
+      "1.5.0",
       "layers",
       "line",
       "feature layer"
@@ -2266,6 +2472,7 @@
   },
   "layer-line-service":{
     "alias":[
+      "1.5.0",
       "layers",
       "line",
       "service",
@@ -2276,6 +2483,7 @@
   },
   "layer-map":{
     "alias":[
+      "1.5.0",
       "layers"
     ],
     "category":"Layers",
@@ -2283,6 +2491,7 @@
   },
   "layer-map-service":{
     "alias":[
+      "1.5.0",
       "layers",
       "map",
       "service"
@@ -2292,6 +2501,7 @@
   },
   "layer-points":{
     "alias":[
+      "1.5.0",
       "layers",
       "feature layer"
     ],
@@ -2300,6 +2510,7 @@
   },
   "layer-polygon":{
     "alias":[
+      "1.5.0",
       "layers",
       "feature layer"
     ],
@@ -2308,6 +2519,7 @@
   },
   "layer-polygon-service":{
     "alias":[
+      "1.5.0",
       "layers",
       "service",
       "feature layer"
@@ -2317,6 +2529,7 @@
   },
   "layer-zoom-to":{
     "alias":[
+      "1.5.0",
       "layers",
       "magnifying glass",
       "plus",
@@ -2327,6 +2540,7 @@
   },
   "layers":{
     "alias":[
+      "1.5.0",
       "layers"
     ],
     "category":"Layers",
@@ -2334,6 +2548,7 @@
   },
   "layout-horizontal":{
     "alias":[
+      "1.5.0",
       "windows",
       "column",
       "row",
@@ -2354,6 +2569,7 @@
   },
   "layout-vertical":{
     "alias":[
+      "1.5.0",
       "windows",
       "column",
       "row",
@@ -2374,6 +2590,7 @@
   },
   "left":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn left",
       "navigate",
@@ -2385,6 +2602,7 @@
   },
   "left-left":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn",
       "navigate",
@@ -2396,6 +2614,7 @@
   },
   "left-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn",
       "navigate",
@@ -2407,6 +2626,7 @@
   },
   "legend":{
     "alias":[
+      "1.5.0",
       "lists",
       "key",
       "symbols",
@@ -2420,6 +2640,7 @@
   },
   "legend-left":{
     "alias":[
+      "1.5.0",
       "lists",
       "key",
       "symbols",
@@ -2434,6 +2655,7 @@
   },
   "legend-plus":{
     "alias":[
+      "1.5.0",
       "lists",
       "key",
       "symbols",
@@ -2448,6 +2670,7 @@
   },
   "legend-right":{
     "alias":[
+      "1.5.0",
       "lists",
       "key",
       "symbols",
@@ -2462,6 +2685,7 @@
   },
   "lightbulb":{
     "alias":[
+      "1.5.0",
       "objects",
       "tips",
       "help",
@@ -2472,6 +2696,7 @@
   },
   "line":{
     "alias":[
+      "1.5.0",
       "gis",
       "feature",
       "draw",
@@ -2482,6 +2707,7 @@
   },
   "line-straight":{
     "alias":[
+      "1.5.0",
       "gis",
       "diagonal",
       "points",
@@ -2492,6 +2718,7 @@
   },
   "link":{
     "alias":[
+      "1.5.0",
       "objects",
       "chain"
     ],
@@ -2500,6 +2727,7 @@
   },
   "list":{
     "alias":[
+      "1.5.0",
       "lists",
       "items",
       "lines"
@@ -2509,6 +2737,7 @@
   },
   "list-bullet":{
     "alias":[
+      "1.5.0",
       "lists",
       "itemized",
       "items",
@@ -2522,6 +2751,7 @@
   },
   "list-button":{
     "alias":[
+      "1.5.0",
       "lists",
       "choice",
       "choose",
@@ -2536,6 +2766,7 @@
   },
   "list-check":{
     "alias":[
+      "1.5.0",
       "lists",
       "completed",
       "items",
@@ -2548,6 +2779,7 @@
   },
   "list-merge":{
     "alias":[
+      "1.5.0",
       "lists",
       "items",
       "collapse list"
@@ -2557,6 +2789,7 @@
   },
   "list-number":{
     "alias":[
+      "1.5.0",
       "lists",
       "numbered",
       "itemized",
@@ -2574,6 +2807,7 @@
   },
   "list-radio":{
     "alias":[
+      "1.5.0",
       "lists",
       "selected",
       "items",
@@ -2588,6 +2822,7 @@
   },
   "list-show-all":{
     "alias":[
+      "1.5.0",
       "lists",
       "drop down",
       "more",
@@ -2601,6 +2836,7 @@
   },
   "lock":{
     "alias":[
+      "1.5.0",
       "objects",
       "secure",
       "guarded",
@@ -2614,6 +2850,7 @@
   },
   "magnifying-glass":{
     "alias":[
+      "1.5.0",
       "objects",
       "zoom",
       "magnify",
@@ -2627,6 +2864,7 @@
   },
   "magnifying-glass-minus":{
     "alias":[
+      "1.5.0",
       "objects",
       "zoom out",
       "magnify"
@@ -2636,6 +2874,7 @@
   },
   "magnifying-glass-plus":{
     "alias":[
+      "1.5.0",
       "objects",
       "zoom in",
       "magnify"
@@ -2645,6 +2884,7 @@
   },
   "map":{
     "alias":[
+      "1.5.0",
       "gis"
     ],
     "category":"GIS",
@@ -2652,6 +2892,7 @@
   },
   "map-contents":{
     "alias":[
+      "1.5.0",
       "layers",
       "list",
       "drilldown"
@@ -2661,6 +2902,7 @@
   },
   "marketplace":{
     "alias":[
+      "1.5.0",
       "store",
       "brand"
     ],
@@ -2669,6 +2911,7 @@
   },
   "maximize":{
     "alias":[
+      "1.5.0",
       "windows",
       "header",
       "dock-top",
@@ -2679,6 +2922,7 @@
   },
   "measure":{
     "alias":[
+      "1.5.0",
       "generic",
       "ruler",
       "distance",
@@ -2690,6 +2934,7 @@
   },
   "measure-area":{
     "alias":[
+      "1.5.0",
       "generic",
       "measure perimeter",
       "measure space",
@@ -2702,6 +2947,7 @@
   },
   "measure-line":{
     "alias":[
+      "1.5.0",
       "generic",
       "measure distance",
       "ruler"
@@ -2711,6 +2957,7 @@
   },
   "mega-phone":{
     "alias":[
+      "1.5.0",
       "objects",
       "promote",
       "announcement",
@@ -2723,6 +2970,7 @@
   },
   "merge-on-highway":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "enter",
@@ -2735,6 +2983,7 @@
   },
   "merge-on-highway-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "enter",
@@ -2747,6 +2996,7 @@
   },
   "minimize":{
     "alias":[
+      "1.5.0",
       "windows",
       "undock"
     ],
@@ -2755,6 +3005,7 @@
   },
   "minus":{
     "alias":[
+      "1.5.0",
       "symbols",
       "zoomout",
       "dash"
@@ -2764,6 +3015,7 @@
   },
   "minus-circle":{
     "alias":[
+      "1.5.0",
       "symbols",
       "subtract",
       "remove",
@@ -2775,6 +3027,7 @@
   },
   "mobile":{
     "alias":[
+      "1.5.0",
       "objects",
       "phone",
       "device"
@@ -2784,6 +3037,7 @@
   },
   "move":{
     "alias":[
+      "1.5.0",
       "generic",
       "pan",
       "drag",
@@ -2799,6 +3053,7 @@
   },
   "move-up":{
     "alias":[
+      "1.5.0",
       "arrows",
       "shift",
       "relocate",
@@ -2809,6 +3064,7 @@
   },
   "move-up-all":{
     "alias":[
+      "1.5.0",
       "arrows",
       "shift",
       "relocate",
@@ -2820,6 +3076,7 @@
   },
   "nodes-link":{
     "alias":[
+      "1.5.0",
       "link nodes",
       "link points"
     ],
@@ -2828,6 +3085,7 @@
   },
   "nodes-merge":{
     "alias":[
+      "1.5.0",
       "combine nodes",
       "merge nodes",
       "combine points",
@@ -2838,6 +3096,7 @@
   },
   "nodes-unlink":{
     "alias":[
+      "1.5.0",
       "unlink nodes",
       "unlink points"
     ],
@@ -2846,6 +3105,7 @@
   },
   "nodes-unmerge":{
     "alias":[
+      "1.5.0",
       "separate points",
       "separate nodes",
       "unmerge nodes",
@@ -2856,6 +3116,7 @@
   },
   "null":{
     "alias":[
+      "1.5.0",
       "symbols",
       "zero",
       "nothing",
@@ -2868,6 +3129,7 @@
   },
   "organization":{
     "alias":[
+      "1.5.0",
       "generic",
       "building",
       "company",
@@ -2885,6 +3147,7 @@
   },
   "palette":{
     "alias":[
+      "1.5.0",
       "objects",
       "appearances",
       "design",
@@ -2896,6 +3159,7 @@
   },
   "paste":{
     "alias":[
+      "1.5.0",
       "objects"
     ],
     "category":"Objects",
@@ -2903,6 +3167,7 @@
   },
   "pause":{
     "alias":[
+      "1.5.0",
       "media"
     ],
     "category":"media",
@@ -2910,6 +3175,7 @@
   },
   "pen":{
     "alias":[
+      "1.5.0",
       "objects",
       "signature",
       "authorize"
@@ -2919,6 +3185,7 @@
   },
   "pencil":{
     "alias":[
+      "1.5.0",
       "objects",
       "edit",
       "modify",
@@ -2929,6 +3196,7 @@
   },
   "pencil-square":{
     "alias":[
+      "1.5.0",
       "objects",
       "edit",
       "square"
@@ -2938,6 +3206,7 @@
   },
   "person":{
     "alias":[
+      "1.5.0",
       "standing",
       "stand",
       "men",
@@ -2951,6 +3220,7 @@
   },
   "phone":{
     "alias":[
+      "1.5.0",
       "objects",
       "call",
       "contact"
@@ -2960,6 +3230,7 @@
   },
   "pie-chart":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "pie chart",
       "percentage",
@@ -2977,6 +3248,7 @@
   },
   "pin":{
     "alias":[
+      "1.5.0",
       "gis",
       "location",
       "feature"
@@ -2986,6 +3258,7 @@
   },
   "pin-plus":{
     "alias":[
+      "1.5.0",
       "gis",
       "add",
       "location"
@@ -2995,6 +3268,7 @@
   },
   "plane":{
     "alias":[
+      "1.5.0",
       "objects",
       "airplane",
       "aircraft",
@@ -3012,6 +3286,7 @@
   },
   "play":{
     "alias":[
+      "1.5.0",
       "media"
     ],
     "category":"media",
@@ -3019,6 +3294,7 @@
   },
   "plus":{
     "alias":[
+      "1.5.0",
       "symbols",
       "add",
       "zoom"
@@ -3028,6 +3304,7 @@
   },
   "plus-circle":{
     "alias":[
+      "1.5.0",
       "symbols",
       "add",
       "expand",
@@ -3039,6 +3316,7 @@
   },
   "plus-square":{
     "alias":[
+      "1.5.0",
       "symbols",
       "add",
       "expand"
@@ -3048,6 +3326,7 @@
   },
   "point":{
     "alias":[
+      "1.5.0",
       "gis",
       "feature",
       "location"
@@ -3057,6 +3336,7 @@
   },
   "polygon":{
     "alias":[
+      "1.5.0",
       "gis",
       "feature",
       "area"
@@ -3066,6 +3346,7 @@
   },
   "popup":{
     "alias":[
+      "1.5.0",
       "generic",
       "feature details",
       "metadata",
@@ -3076,6 +3357,7 @@
   },
   "portal":{
     "alias":[
+      "1.5.0",
       "brand",
       "cloud"
     ],
@@ -3084,6 +3366,7 @@
   },
   "premium-content-user-credit":{
     "alias":[
+      "1.5.0",
       "people",
       "web",
       "application"
@@ -3093,6 +3376,7 @@
   },
   "presentation":{
     "alias":[
+      "1.5.0",
       "generic",
       "preview",
       "show",
@@ -3104,6 +3388,7 @@
   },
   "print":{
     "alias":[
+      "1.5.0",
       "objects"
     ],
     "category":"Objects",
@@ -3111,6 +3396,7 @@
   },
   "pushpin":{
     "alias":[
+      "1.5.0",
       "objects",
       "tack"
     ],
@@ -3119,6 +3405,7 @@
   },
   "qr-code":{
     "alias":[
+      "1.5.0",
       "generic",
       "app-studio",
       "scan code",
@@ -3132,6 +3419,7 @@
   },
   "qt-code":{
     "alias":[
+      "1.5.0",
       "generic",
       "brackets",
       "app-studio",
@@ -3142,6 +3430,7 @@
   },
   "question":{
     "alias":[
+      "1.5.0",
       "symbols",
       "faq",
       "unknown",
@@ -3153,6 +3442,7 @@
   },
   "ramp-left":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "exit",
@@ -3165,6 +3455,7 @@
   },
   "ramp-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "freeway",
       "exit",
@@ -3177,6 +3468,7 @@
   },
   "recent":{
     "alias":[
+      "1.5.0",
       "symbols",
       "history"
     ],
@@ -3185,6 +3477,7 @@
   },
   "rectangle":{
     "alias":[
+      "1.5.0",
       "generic",
       "shape",
       "box"
@@ -3194,6 +3487,7 @@
   },
   "rectangle-plus":{
     "alias":[
+      "1.5.0",
       "generic",
       "draw",
       "sketch",
@@ -3207,6 +3501,7 @@
   },
   "refresh":{
     "alias":[
+      "1.5.0",
       "arrows",
       "reload",
       "sync"
@@ -3216,6 +3511,7 @@
   },
   "reset":{
     "alias":[
+      "1.5.0",
       "arrows",
       "previous",
       "backwards",
@@ -3228,6 +3524,7 @@
   },
   "reverse":{
     "alias":[
+      "1.5.0",
       "media"
     ],
     "category":"media",
@@ -3235,6 +3532,7 @@
   },
   "ribbon":{
     "alias":[
+      "1.5.0",
       "objects"
     ],
     "category":"Objects",
@@ -3242,6 +3540,7 @@
   },
   "right":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn right",
       "navigate",
@@ -3253,6 +3552,7 @@
   },
   "right-left":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn",
       "navigate",
@@ -3264,6 +3564,7 @@
   },
   "right-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn",
       "navigate",
@@ -3275,6 +3576,7 @@
   },
   "rings":{
     "alias":[
+      "1.5.0",
       "gis",
       "location",
       "cirlcles",
@@ -3288,6 +3590,7 @@
   },
   "road-sign":{
     "alias":[
+      "1.5.0",
       "objects",
       "directions"
     ],
@@ -3296,6 +3599,7 @@
   },
   "rotate":{
     "alias":[
+      "1.5.0",
       "arrows",
       "revolve",
       "clockwise",
@@ -3309,6 +3613,7 @@
   },
   "round-about":{
     "alias":[
+      "1.5.0",
       "directions",
       "circular intersection",
       "circular junction",
@@ -3321,6 +3626,7 @@
   },
   "round-about-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "circular intersection",
       "circular junction",
@@ -3333,6 +3639,7 @@
   },
   "route-from":{
     "alias":[
+      "1.5.0",
       "directions",
       "navigation",
       "navigate",
@@ -3343,6 +3650,7 @@
   },
   "route-to":{
     "alias":[
+      "1.5.0",
       "directions",
       "navigation",
       "navigate",
@@ -3354,6 +3662,7 @@
   },
   "running":{
     "alias":[
+      "1.5.0",
       "sport",
       "people",
       "person",
@@ -3365,6 +3674,7 @@
   },
   "satellite-3":{
     "alias":[
+      "1.5.0",
       "artificial satellite",
       "communication",
       "remote sensing",
@@ -3375,6 +3685,7 @@
   },
   "save":{
     "alias":[
+      "1.5.0",
       "generic",
       "floppy disk"
     ],
@@ -3383,6 +3694,7 @@
   },
   "scissors":{
     "alias":[
+      "1.5.0",
       "objects",
       "cut"
     ],
@@ -3391,6 +3703,7 @@
   },
   "select-category":{
     "alias":[
+      "1.5.0",
       "generic",
       "qualitative",
       "checkboxes",
@@ -3404,6 +3717,7 @@
   },
   "select-range":{
     "alias":[
+      "1.5.0",
       "generic",
       "quantitative"
     ],
@@ -3412,6 +3726,7 @@
   },
   "selection":{
     "alias":[
+      "1.5.0",
       "generic",
       "map",
       "GIS",
@@ -3422,6 +3737,7 @@
   },
   "services":{
     "alias":[
+      "1.5.0",
       "objects",
       "bell",
       "ding",
@@ -3442,6 +3758,7 @@
   },
   "shapes":{
     "alias":[
+      "1.5.0",
       "generic",
       "shapes",
       "triangle",
@@ -3453,6 +3770,7 @@
   },
   "share":{
     "alias":[
+      "1.5.0",
       "arrows",
       "send",
       "collaborate",
@@ -3464,6 +3782,7 @@
   },
   "sharp-left":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn left",
       "navigate",
@@ -3475,6 +3794,7 @@
   },
   "sharp-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "turn right",
       "navigate",
@@ -3486,6 +3806,7 @@
   },
   "shopping-cart":{
     "alias":[
+      "1.5.0",
       "objects",
       "purchase",
       "buy",
@@ -3497,6 +3818,7 @@
   },
   "sign-in":{
     "alias":[
+      "1.5.0",
       "generic",
       "login"
     ],
@@ -3505,6 +3827,7 @@
   },
   "sign-out":{
     "alias":[
+      "1.5.0",
       "generic",
       "logout"
     ],
@@ -3513,6 +3836,7 @@
   },
   "sliders":{
     "alias":[
+      "1.5.0",
       "objects",
       "settings",
       "preferences",
@@ -3523,6 +3847,7 @@
   },
   "sliders-horizontal":{
     "alias":[
+      "1.5.0",
       "objects",
       "configuration"
     ],
@@ -3531,6 +3856,7 @@
   },
   "sort-ascending":{
     "alias":[
+      "1.5.0",
       "generic"
     ],
     "category":"Generic",
@@ -3538,6 +3864,7 @@
   },
   "sort-descending":{
     "alias":[
+      "1.5.0",
       "generic"
     ],
     "category":"Generic",
@@ -3545,6 +3872,7 @@
   },
   "speech-bubble":{
     "alias":[
+      "1.5.0",
       "generic",
       "comment",
       "chat",
@@ -3555,6 +3883,7 @@
   },
   "speech-bubble-plus":{
     "alias":[
+      "1.5.0",
       "generic",
       "chat",
       "comment",
@@ -3566,6 +3895,7 @@
   },
   "speech-bubble-social":{
     "alias":[
+      "1.5.0",
       "social-media",
       "social"
     ],
@@ -3574,6 +3904,7 @@
   },
   "speech-bubbles":{
     "alias":[
+      "1.5.0",
       "generic",
       "chat",
       "comment",
@@ -3584,6 +3915,7 @@
   },
   "spinner":{
     "alias":[
+      "1.5.0",
       "generic",
       "load",
       "loader",
@@ -3594,6 +3926,7 @@
   },
   "square":{
     "alias":[
+      "1.5.0",
       "generic",
       "shape",
       "box"
@@ -3603,6 +3936,7 @@
   },
   "stairs":{
     "alias":[
+      "1.5.0",
       "directions",
       "up",
       "down",
@@ -3616,6 +3950,7 @@
   },
   "star":{
     "alias":[
+      "1.5.0",
       "symbols",
       "favorite",
       "rate",
@@ -3626,6 +3961,7 @@
   },
   "star-circle":{
     "alias":[
+      "1.5.0",
       "symbols",
       "premium"
     ],
@@ -3634,6 +3970,7 @@
   },
   "straight":{
     "alias":[
+      "1.5.0",
       "directions",
       "forward",
       "navigate",
@@ -3645,6 +3982,7 @@
   },
   "summary":{
     "alias":[
+      "1.5.0",
       "text"
     ],
     "category":"Text",
@@ -3652,6 +3990,7 @@
   },
   "switch":{
     "alias":[
+      "1.5.0",
       "lists",
       "up down",
       "arrow",
@@ -3665,6 +4004,7 @@
   },
   "table":{
     "alias":[
+      "1.5.0",
       "generic",
       "data",
       "chart",
@@ -3676,6 +4016,7 @@
   },
   "tag":{
     "alias":[
+      "1.5.0",
       "objects",
       "label"
     ],
@@ -3684,6 +4025,7 @@
   },
   "take-pedestrian-ramp":{
     "alias":[
+      "1.5.0",
       "directions",
       "person",
       "walking",
@@ -3695,6 +4037,7 @@
   },
   "text":{
     "alias":[
+      "1.5.0",
       "text"
     ],
     "category":"Text",
@@ -3702,6 +4045,7 @@
   },
   "timer":{
     "alias":[
+      "1.5.0",
       "objects"
     ],
     "category":"Objects",
@@ -3709,6 +4053,7 @@
   },
   "title":{
     "alias":[
+      "1.5.0",
       "text"
     ],
     "category":"Text",
@@ -3716,6 +4061,7 @@
   },
   "trash":{
     "alias":[
+      "1.5.0",
       "objects",
       "delete",
       "remove"
@@ -3725,6 +4071,7 @@
   },
   "u-turn":{
     "alias":[
+      "1.5.0",
       "directions",
       "u turn",
       "navigate",
@@ -3736,6 +4083,7 @@
   },
   "u-turn-right":{
     "alias":[
+      "1.5.0",
       "directions",
       "u turn",
       "navigate",
@@ -3747,6 +4095,7 @@
   },
   "underline":{
     "alias":[
+      "1.5.0",
       "text"
     ],
     "category":"Text",
@@ -3754,6 +4103,7 @@
   },
   "unlink":{
     "alias":[
+      "1.5.0",
       "objects",
       "chain"
     ],
@@ -3762,6 +4112,7 @@
   },
   "unlock":{
     "alias":[
+      "1.5.0",
       "objects",
       "unsecure",
       "unguarded",
@@ -3773,6 +4124,7 @@
   },
   "upload":{
     "alias":[
+      "1.5.0",
       "generic",
       "arrows",
       "export"
@@ -3782,6 +4134,7 @@
   },
   "upload-to":{
     "alias":[
+      "1.5.0",
       "arrows",
       "export"
     ],
@@ -3790,6 +4143,7 @@
   },
   "user":{
     "alias":[
+      "1.5.0",
       "people"
     ],
     "category":"People",
@@ -3797,6 +4151,7 @@
   },
   "user-plus":{
     "alias":[
+      "1.5.0",
       "people",
       "add user"
     ],
@@ -3805,6 +4160,7 @@
   },
   "user-to-device":{
     "alias":[
+      "1.5.0",
       "people"
     ],
     "category":"People",
@@ -3812,6 +4168,7 @@
   },
   "users":{
     "alias":[
+      "1.5.0",
       "people",
       "group"
     ],
@@ -3820,6 +4177,7 @@
   },
   "vertex-x":{
     "alias":[
+      "1.5.0",
       "remove",
       "delete",
       "vertices"
@@ -3829,6 +4187,7 @@
   },
   "video":{
     "alias":[
+      "1.5.0",
       "media",
       "camera",
       "mp4",
@@ -3839,6 +4198,7 @@
   },
   "walk-through-door":{
     "alias":[
+      "1.5.0",
       "directions",
       "walk",
       "navigate",
@@ -3850,6 +4210,7 @@
   },
   "walking":{
     "alias":[
+      "1.5.0",
       "people",
       "person",
       "commute",
@@ -3862,6 +4223,7 @@
   },
   "web":{
     "alias":[
+      "1.5.0",
       "generic",
       "globe",
       "global",
@@ -3875,6 +4237,7 @@
   },
   "wheelchair":{
     "alias":[
+      "1.5.0",
       "disabled",
       "handicapped",
       "people",
@@ -3888,6 +4251,7 @@
   },
   "widgets-group":{
     "alias":[
+      "1.5.0",
       "windows",
       "operations dashboard"
     ],
@@ -3896,6 +4260,7 @@
   },
   "widgets-source":{
     "alias":[
+      "1.5.0",
       "charts-and-graphs",
       "interact",
       "connection",
@@ -3911,6 +4276,7 @@
   },
   "widgets-tabs":{
     "alias":[
+      "1.5.0",
       "windows",
       "operations dashboard"
     ],
@@ -3919,6 +4285,7 @@
   },
   "wrench":{
     "alias":[
+      "1.5.0",
       "objects",
       "build",
       "create",
@@ -3929,6 +4296,7 @@
   },
   "x":{
     "alias":[
+      "1.5.0",
       "symbols",
       "delete",
       "remove",
@@ -3939,6 +4307,7 @@
   },
   "x-circle":{
     "alias":[
+      "1.5.0",
       "symbols",
       "delete",
       "remove",
@@ -3949,6 +4318,7 @@
   },
   "zoom-in-fixed":{
     "alias":[
+      "1.5.0",
       "arrows",
       "scale",
       "level of detail",
@@ -3964,6 +4334,7 @@
   },
   "zoom-out-fixed":{
     "alias":[
+      "1.5.0",
       "arrows",
       "scale",
       "level of detail",
@@ -3979,6 +4350,7 @@
   },
   "zoom-to-object":{
     "alias":[
+      "1.5.0",
       "arrows",
       "scale",
       "level of detail",
@@ -3994,6 +4366,7 @@
   },
   "search":{
     "alias":[
+      "1.5.0",
       "symbols",
       "magnifying glass",
       "locate",
@@ -4007,6 +4380,7 @@
   },
   "hillshade-effect":{
     "alias":[
+      "1.5.0",
       "map"
     ],
     "category":"GIS",
@@ -4014,6 +4388,7 @@
   },
   "gamma":{
     "alias":[
+      "1.5.0",
       "symbol",
       "greek character",
       "gamma rays"
@@ -4023,6 +4398,7 @@
   },
   "compass-needle":{
     "alias":[
+      "1.5.0",
       "orientation",
       "directions",
       "cardinal",
@@ -4035,6 +4411,7 @@
   },
   "transparency":{
     "alias":[
+      "1.5.0",
       "opacity",
       "filters"
     ],
@@ -4043,6 +4420,7 @@
   },
   "calculator":{
     "alias":[
+      "1.5.0",
       "addition",
       "subtraction",
       "division",
@@ -4058,6 +4436,7 @@
   },
   "file-pitemx":{
     "alias":[
+      "1.5.0",
       "files",
       "file type",
       "format",
@@ -4068,6 +4447,7 @@
   },
   "satellite-0":{
     "alias":[
+      "1.5.0",
       "artificial satellite",
       "communication",
       "remote sensing",
@@ -4078,6 +4458,7 @@
   },
   "satellite-1":{
     "alias":[
+      "1.5.0",
       "artificial satellite",
       "communication",
       "remote sensing",
@@ -4088,6 +4469,7 @@
   },
   "satellite-2":{
     "alias":[
+      "1.5.0",
       "artificial satellite",
       "communication",
       "remote sensing",
@@ -4098,6 +4480,7 @@
   },
   "redo":{
     "alias":[
+      "1.5.0",
       "arrows",
       "forward"
     ],
@@ -4106,6 +4489,7 @@
   },
   "undo":{
     "alias":[
+      "1.5.0",
       "arrows",
       "go back",
       "backwards"
@@ -4115,6 +4499,7 @@
   },
   "satellite":{
     "alias":[
+      "1.5.0",
       "objects",
       "artificial satellite",
       "communication",
@@ -4125,6 +4510,7 @@
   },
   "minus-square":{
     "alias":[
+      "1.5.0",
       "subtract",
       "hyphen"
     ],
@@ -4133,6 +4519,7 @@
   },
   "compass-circle":{
     "alias":[
+      "1.5.0",
       "orientation",
       "navigation",
       "navigate",
@@ -4150,6 +4537,7 @@
   },
   "slice":{
     "alias":[
+      "1.5.0",
       "cutaway",
       "open",
       "3d"
@@ -4159,6 +4547,7 @@
   },
   "desktop":{
     "alias":[
+      "1.6.0",
       "computer",
       "monitor",
       "windows"
@@ -4168,6 +4557,7 @@
   },
   "monitor":{
     "alias":[
+      "1.6.0",
       "desktop",
       "computer",
       "windows",
@@ -4178,6 +4568,7 @@
   },
   "rotate-device":{
     "alias":[
+      "1.6.0",
       "device",
       "horizontal",
       "vertical",
@@ -4189,6 +4580,7 @@
   },
   "tablet":{
     "alias":[
+      "1.6.0",
       "Android",
       "iOS",
       "iPad"
@@ -4198,6 +4590,7 @@
   },
   "measure-building-height-shadow":{
     "alias":[
+      "1.6.0",
       "measure",
       "buildings",
       "height",
@@ -4208,6 +4601,7 @@
   },
   "measure-building-height-top-base":{
     "alias":[
+      "1.6.0",
       "measure",
       "buildings",
       "height",
@@ -4218,6 +4612,7 @@
   },
   "measure-building-height-top-shadow":{
     "alias":[
+      "1.6.0",
       "measure",
       "buildings",
       "height",
@@ -4228,6 +4623,7 @@
   },
   "image-mensuration":{
     "alias":[
+      "1.6.1",
       "measure",
       "image size",
       "dimensions",
@@ -4242,6 +4638,7 @@
   },
   "cut-and-fill-volume-calculation":{
     "alias":[
+      "1.6.1",
       "space",
       "void",
       "difference"
@@ -4251,6 +4648,7 @@
   },
   "analysis":{
     "alias":[
+      "1.6.2",
       "gis",
       "map",
       "points"
@@ -4274,6 +4672,7 @@
   },
   "send":{
     "alias":[
+      "1.6.5",
       "objects",
       "push",
       "paper airplane"
@@ -4283,6 +4682,7 @@
   },
   "view-hide":{
     "alias":[
+      "1.6.5",
       "generic",
       "not visible",
       "hidden",
@@ -4296,6 +4696,7 @@
   },
   "view-mixed":{
     "alias":[
+      "1.6.5",
       "generic",
       "covered",
       "hidden",
@@ -4309,6 +4710,7 @@
   },
   "view-visible":{
     "alias":[
+      "1.6.5",
       "eye",
       "generic",
       "shown",
@@ -4323,6 +4725,7 @@
   },
   "pan":{
     "alias":[
+      "1.7.0",
       "drag",
       "grab",
       "move",
@@ -4337,6 +4740,7 @@
   },
   "pan-drag":{
     "alias":[
+      "1.7.0",
       "drag",
       "grab",
       "move",
@@ -4351,6 +4755,7 @@
   },
   "freehand-area":{
     "alias":[
+      "1.7.0",
       "draw",
       "shape",
       "GIS",
@@ -4362,6 +4767,7 @@
   },
   "credits":{
     "alias":[
+      "1.8.0",
       "coins",
       "assign credits",
       "money",
@@ -4374,6 +4780,7 @@
   },
   "color-coded-map":{
     "alias":[
+      "1.8.0",
       "map",
       "area",
       "selection",
@@ -4384,6 +4791,7 @@
   },
   "suitability-analysis-output":{
     "alias":[
+      "1.8.0",
       "map",
       "area",
       "selection",
@@ -4394,6 +4802,7 @@
   },
   "360-view":{
     "alias":[
+      "2.1.0",
       "look",
       "panorama",
       "full view",
@@ -4406,6 +4815,7 @@
   },
   "microphone":{
     "alias":[
+      "2.2.0",
       "recording",
       "voice",
       "sound",
@@ -4421,6 +4831,7 @@
   },
   "offline":{
     "alias":[
+      "2.3.0",
       "disconnected",
       "internet",
       "cloud",
@@ -4433,6 +4844,7 @@
   },
   "online":{
     "alias":[
+      "2.3.0",
       "connected",
       "internet",
       "cloud",
@@ -4444,6 +4856,7 @@
   },
   "add-in":{
     "alias":[
+      "2.4.0",
       "adding",
       "squares",
       "app",
@@ -4454,6 +4867,7 @@
   },
   "add-in-edit":{
     "alias":[
+      "2.4.0",
       "adding",
       "pencil",
       "app",
@@ -4464,6 +4878,7 @@
   },
   "add-in-new":{
     "alias":[
+      "2.4.0",
       "plus",
       "app",
       "adding"
@@ -4473,6 +4888,7 @@
   },
   "line-check":{
     "alias":[
+      "2.3.2",
       "checkmark",
       "confirm",
       "drawing",
@@ -4483,6 +4899,7 @@
   },
   "polygon-vertices-check":{
     "alias":[
+      "2.3.2",
       "checkmark",
       "confirm",
       "drawing",
@@ -4494,6 +4911,7 @@
   },
   "polygon-vertices":{
     "alias":[
+      "2.3.2",
       "polygon",
       "vertex"
     ],
@@ -4502,6 +4920,7 @@
   },
   "vertex-check":{
     "alias":[
+      "2.3.2",
       "checkmark",
       "confirm",
       "drawing",
@@ -4512,6 +4931,7 @@
   },
   "vertex-edit":{
     "alias":[
+      "2.3.2",
       "pencil",
       "draw vertices"
     ],
@@ -4520,6 +4940,7 @@
   },
   "person2":{
     "alias":[
+      "2.3.3",
       "people",
       "human",
       "accessibility "
@@ -4529,6 +4950,7 @@
   },
   "vertex-edit":{
     "alias":[
+      "2.3.2",
       "pencil",
       "vertices"
     ],
@@ -4537,6 +4959,7 @@
   },
   "vertex-gps":{
     "alias":[
+      "2.3.4",
       "location",
       "vertices"
     ],
@@ -4545,6 +4968,7 @@
   },
   "vertex-move":{
     "alias":[
+      "2.3.4",
       "pan",
       "vertices"
     ],
@@ -4553,6 +4977,7 @@
   },
   "vertex-plus":{
     "alias":[
+      "2.3.4",
       "add",
       "vertices"
     ],
@@ -4561,6 +4986,7 @@
   },
   "workflow-diagram":{
     "alias":[
+      "2.3.5",
       "hierarchy",
       "control flow",
       "organization",
@@ -4581,6 +5007,7 @@
   },
   "drag":{
     "alias":[
+      "2.5.0",
       "move",
       "dots",
       "grid",
@@ -4592,6 +5019,7 @@
   },
   "altitude":{
     "alias":[
+      "2.5.1",
       "height",
       "GIS",
       "mountians",
@@ -4605,6 +5033,7 @@
   },
   "annotate-tool":{
     "alias":[
+      "2.5.1",
       "image",
       "pencil",
       "edit",
@@ -4620,6 +5049,7 @@
   },
   "antenna-height":{
     "alias":[
+      "2.5.1",
       "height",
       "elevation",
       "measure",
@@ -4631,6 +5061,7 @@
   },
   "beta-features-menu":{
     "alias":[
+      "2.5.1",
       "symbols",
       "special character",
       "new feature",
@@ -4642,6 +5073,7 @@
   },
   "bluetooth":{
     "alias":[
+      "2.5.1",
       "device",
       "connection",
       "connected",
@@ -4654,6 +5086,7 @@
   },
   "camera-flash-off":{
     "alias":[
+      "2.5.1",
       "camera",
       "light",
       "lighting",
@@ -4669,6 +5102,7 @@
   },
   "camera-flash-on":{
     "alias":[
+      "2.5.1",
       "camera",
       "light",
       "lighting",
@@ -4684,6 +5118,7 @@
   },
   "moon":{
     "alias":[
+      "2.5.1",
       "night mode",
       "dark mode",
       "dark theme"
@@ -4693,6 +5128,7 @@
   },
   "camera-switch-front-back":{
     "alias":[
+      "2.5.1",
       "selfie",
       "flip",
       "reverse",
@@ -4711,6 +5147,7 @@
   },
   "boolean":{
     "alias":[
+      "2.5.3",
       "true or false",
       "false or true",
       "letters",
@@ -4727,6 +5164,7 @@
   },
   "integer":{
     "alias":[
+      "2.5.3",
       "datatype",
       "letters",
       "text",
@@ -4739,6 +5177,7 @@
   },
   "string":{
     "alias":[
+      "2.5.3",
       "datatype",
       "text",
       "abc",
@@ -4751,6 +5190,7 @@
   },
   "number":{
     "alias":[
+      "2.5.3",
       "123",
       "numbers",
       "variable",
@@ -4763,6 +5203,7 @@
   },
   "seamlines":{
     "alias":[
+      "2.5.3",
       "blend",
       "photographic",
       "panoramic",
@@ -4773,6 +5214,7 @@
   },
   "color-correction":{
     "alias":[
+      "2.5.3",
       "adjust",
       "color",
       "adjustment",
@@ -4784,6 +5226,7 @@
   },
   "footprint":{
     "alias":[
+      "2.5.3",
       "overlap",
       "map",
       "polygon",
@@ -4794,6 +5237,7 @@
   },
   "overview":{
     "alias":[
+      "2.5.3",
       "raster",
       "gallery",
       "map",
@@ -4804,6 +5248,7 @@
   },
   "deep-learning-project":{
     "alias":[
+      "2.5.4",
       "briefcase",
       "deep learning project",
       "ai",
@@ -4815,6 +5260,7 @@
   },
   "deep-learning":{
     "alias":[
+      "2.5.4",
       "deep learning",
       "ai",
       "machine learning",
@@ -4828,6 +5274,7 @@
   },
   "object-detection":{
     "alias":[
+      "2.5.4",
       "cursor",
       "crosshair",
       "point",
@@ -4844,6 +5291,7 @@
   },
   "map-space":{
     "alias":[
+      "2.5.4",
       "map space",
       "ruler",
       "measure",
@@ -4858,6 +5306,7 @@
   },
   "image-space":{
     "alias":[
+      "2.5.4",
       "workmode",
       "image space",
       "workspace",
@@ -4870,6 +5319,7 @@
   },
   "image-segmentation":{
     "alias":[
+      "2.5.4",
       "image segmentation",
       "geoprocessing",
       "image classification",
@@ -4881,6 +5331,7 @@
   },
   "ellipsis-circle":{
     "alias":[
+      "2.5.4",
       "more options",
       "ellipsis circle",
       "...",
@@ -4892,6 +5343,7 @@
   },
   "submit":{
     "alias":[
+      "2.5.4",
       "arrow",
       "send",
       "review"
@@ -4901,6 +5353,7 @@
   },
   "keypad":{
     "alias":[
+      "2.5.5",
       "calculator",
       "numbers",
       "digits",
@@ -4916,6 +5369,7 @@
   },
   "print-preview":{
     "alias":[
+      "2.5.5",
       "printer",
       "magnifying glass",
       "print display",
@@ -4926,6 +5380,7 @@
   },
   "sound":{
     "alias":[
+      "2.6.0",
       "volume",
       "speakers",
       "audio output",
@@ -4938,6 +5393,7 @@
   },
   "sound-off":{
     "alias":[
+      "2.6.0",
       "volume",
       "speakers",
       "audio output",
@@ -4951,6 +5407,7 @@
   },
   "apps":{
     "alias":[
+      "2.7.0",
       "applications",
       "icons",
       "categories",
@@ -4962,6 +5419,7 @@
   },
   "feature-layer":{
     "alias":[
+      "2.7.0",
       "feature layer",
       "map pin",
       "GIS"
@@ -4971,6 +5429,7 @@
   },
   "locator":{
     "alias":[
+      "2.7.0",
       "house",
       "geocoding",
       "geolocator",
@@ -4982,6 +5441,7 @@
   },
   "notebook":{
     "alias":[
+      "2.7.0",
       "python notebook",
       "jupyter notebook",
       "api for python"
@@ -4991,6 +5451,7 @@
   },
   "tile-layer":{
     "alias":[
+      "2.7.0",
       "tile layer",
       "GIS",
       "map layer"
@@ -5000,6 +5461,7 @@
   },
   "urban-model":{
     "alias":[
+      "2.8.0",
       "buildings",
       "structures",
       "urban model",
@@ -5014,6 +5476,7 @@
   },
   "image-layer":{
     "alias":[
+      "2.8.1",
       "raster",
       "GIS",
       "image",
@@ -5026,6 +5489,7 @@
   }, 
   "access-string-results":{
     "alias":[
+      "3.0.0",
       "code", 
       "access string results", 
       "text", 
@@ -5041,6 +5505,7 @@
   }, 
   "address-book":{
     "alias":[
+      "3.0.0",
       "contacts", 
       "address book", 
       "person", 
@@ -5056,6 +5521,7 @@
   }, 
   "bell-off":{
     "alias":[
+      "3.0.0",
       "no notifications", 
       "bell off", 
       "silent", 
@@ -5071,6 +5537,7 @@
   }, 
   "beta":{
     "alias":[
+      "3.0.0",
       "text", 
       "symbols", 
       "characters", 
@@ -5084,6 +5551,7 @@
   }, 
   "blank":{
     "alias":[
+      "3.0.0",
       "placeholder", 
       "blank", 
       "empty", 
@@ -5098,6 +5566,7 @@
   }, 
   "conference-room":{
     "alias":[
+      "3.0.0",
       "table", 
       "people", 
       "person", 
@@ -5111,6 +5580,7 @@
   }, 
   "contrast":{
     "alias":[
+      "3.0.0",
       "color", 
       "brightness", 
       "picture settings", 
@@ -5131,6 +5601,7 @@
   }, 
   "discard":{
     "alias":[
+      "3.0.0",
       "exclude", 
       "negate", 
       "cut out"
@@ -5140,6 +5611,7 @@
   }, 
   "edit-attributes":{
     "alias":[
+      "3.0.0",
       "pencil", 
       "edit attributes", 
       "edit text", 
@@ -5150,6 +5622,7 @@
   }, 
   "event":{
     "alias":[
+      "3.0.0",
       "star", 
       "calendar", 
       "schedule", 
@@ -5164,6 +5637,7 @@
   }, 
   "floor-plan":{
     "alias":[
+      "3.0.0",
       "blueprint", 
       "building", 
       "indoors", 
@@ -5182,6 +5656,7 @@
   }, 
   "list-number-rtl":{
     "alias":[
+      "3.0.0",
       "ordering", 
       "rtl", 
       "right to left", 
@@ -5194,6 +5669,7 @@
   }, 
   "merge":{
     "alias":[
+      "3.0.0",
       "combine", 
       "unite", 
       "consolidate"
@@ -5203,6 +5679,7 @@
   }, 
   "person-2":{
     "alias":[
+      "3.0.0",
       "da vinci man", 
       "human being", 
       "body", 
@@ -5216,6 +5693,7 @@
   }, 
   "plans":{
     "alias":[
+      "3.0.0",
       "blueprint", 
       "layout", 
       "measurements", 
@@ -5231,6 +5709,7 @@
   }, 
   "polygon-line-check":{
     "alias":[
+      "3.0.0",
       "vertices", 
       "polygon line check", 
       "checkmark", 
@@ -5241,6 +5720,7 @@
   }, 
   "preserve":{
     "alias":[
+      "3.0.0",
       "intersect", 
       "intersection", 
       "overlap"
@@ -5250,6 +5730,7 @@
   }, 
   "projects":{
     "alias":[
+      "3.0.0",
       "briefcase", 
       "portfolio case", 
       "collection"
@@ -5259,6 +5740,7 @@
   }, 
   "share-ios":{
     "alias":[
+      "3.0.0",
       "share ios", 
       "share apple", 
       "options"
@@ -5268,6 +5750,7 @@
   }, 
   "split":{
     "alias":[
+      "3.0.0",
       "divide"
     ],
     "category":"Generic",
@@ -5275,6 +5758,7 @@
   }, 
   "desk":{
     "alias":[
+      "3.0.0",
       "table", 
       "office space", 
       "cubicle", 
@@ -5285,6 +5769,7 @@
   }, 
   "graph-bar-100-stacked":{
     "alias":[
+      "3.0.0",
       "graph bar 100 stacked", 
       "bar chart", 
       "diagram", 
@@ -5296,6 +5781,7 @@
   }, 
   "graph-bar-side-by-side":{
     "alias":[
+      "3.0.0",
       "graph bar side by side",
       "charts-and-graphs", 
       "bars", 
@@ -5308,6 +5794,7 @@
   }, 
   "graph-bar-stacked":{
     "alias":[
+      "3.0.0",
       "graph bar stacked",
       "charts-and-graphs", 
       "bars", 
@@ -5321,6 +5808,7 @@
   }, 
   "conditional-rules":{
     "alias":[
+      "3.0.0",
       "automation", 
       "conditional rules", 
       "prerequisites", 
@@ -5332,6 +5820,7 @@
   }, 
   "conditional-rules-path":{
     "alias":[
+      "3.0.0",
       "automation", 
       "conditional rules path", 
       "prerequisites", 
@@ -5343,6 +5832,7 @@
   }, 
   "email-address":{
     "alias":[
+      "3.0.0",
       "email address", 
       "@", 
       "envelope", 
@@ -5354,6 +5844,7 @@
   }, 
   "form-elements":{
     "alias":[
+      "3.0.0",
       "web survey elements", 
       "form elements", 
       "form fields"
@@ -5363,6 +5854,7 @@
   }, 
   "form-field":{
     "alias":[
+      "3.0.0",
       "form field", 
       "input"
     ],
@@ -5371,6 +5863,7 @@
   }, 
   "form-field-multiline":{
     "alias":[
+      "3.0.0",
       "form field multiline", 
       "input", 
       "form field paragraph"
@@ -5380,6 +5873,7 @@
   }, 
   "group-form":{
     "alias":[
+      "3.0.0",
       "group form field", 
       "group form elements"
     ],
@@ -5388,6 +5882,7 @@
   }, 
   "group-x":{
     "alias":[
+      "3.0.0",
       "delete group", 
       "group x", 
       "remove group", 
@@ -5398,6 +5893,7 @@
   }, 
   "layers-editable":{
     "alias":[
+      "3.0.0",
       "layers editable", 
       "pencil", 
       "customizable layers", 
@@ -5408,6 +5904,7 @@
   }, 
   "layers-reference":{
     "alias":[
+      "3.0.0",
       "layers reference", 
       "reference layers", 
       "book layer", 
@@ -5418,6 +5915,7 @@
   }, 
   "list-rectangle":{
     "alias":[
+      "3.0.0",
       "list rectangle", 
       "domain", 
       "list of values", 
@@ -5430,6 +5928,7 @@
   }, 
   "serial-port":{
     "alias":[
+      "3.0.0",
       "USB port", 
       "HDMI port", 
       "Ethernet port", 
@@ -5444,6 +5943,7 @@
   }, 
   "brackets-curly":{
     "alias":[
+      "3.0.1",
       "generic", 
       "code", 
       "coding", 
@@ -5462,6 +5962,7 @@
   }, 
   "maximum":{
     "alias":[
+      "3.1.0",
       "max", 
       "mathematics", 
       "numbers", 
@@ -5474,6 +5975,7 @@
   }, 
   "maximum-graph":{
     "alias":[
+      "3.1.0",
       "max", 
       "mathematics", 
       "numbers", 
@@ -5488,6 +5990,7 @@
   }, 
   "minimum":{
     "alias":[
+      "3.1.0",
       "min", 
       "mathematics", 
       "numbers", 
@@ -5500,6 +6003,7 @@
   }, 
   "minimum-graph":{
     "alias":[
+      "3.1.0",
       "min", 
       "mathematics", 
       "numbers", 
@@ -5514,6 +6018,7 @@
   }, 
   "mu":{
     "alias":[
+      "3.1.0",
       "statistical mean", 
       "population mean", 
       "statistics", 
@@ -5530,6 +6035,7 @@
   }, 
   "percent":{
     "alias":[
+      "3.1.0",
       "percentage", 
       "fraction", 
       "ratio", 
@@ -5540,6 +6046,7 @@
   }, 
   "sigma":{
     "alias":[
+      "3.1.0",
       "arithmetic", 
       "sum", 
       "greek letter", 
@@ -5552,6 +6059,7 @@
   }, 
   "x-bar":{
     "alias":[
+      "3.1.0",
       "sample mean", 
       "average", 
       "arithmetic mean", 
