@@ -6069,5 +6069,16 @@
     ],
     "category":"Text",
     "release":"3.1.0"
+  }, 
+  "cursor-plus":{
+    "alias":[
+      "3.2.0",
+      "cursor plus", 
+      "cursor add", 
+      "point add", 
+      "point plus"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
   }
 }
