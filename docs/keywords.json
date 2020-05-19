@@ -6081,37 +6081,7 @@
     "category":"Generic",
     "release":"3.2.0"
   },
-  "line-dashed-16":{
-    "alias":[
-      "3.2.0",
-      "chart",
-      "style",
-      "drawing"
-    ],
-    "category":"Generic",
-    "release":"3.2.0"
-  },
-  "line-dotted-16":{
-    "alias":[
-      "3.2.0",
-      "chart",
-      "style",
-      "drawing"
-    ],
-    "category":"Generic",
-    "release":"3.2.0"
-  },
-  "line-solid-16":{
-    "alias":[
-      "3.2.0",
-      "chart",
-      "style",
-      "drawing"
-    ],
-    "category":"Generic",
-    "release":"3.2.0"
-  },
-  "x-axis-guide-16":{
+  "y-axis-guide":{
     "alias":[
       "3.2.0",
       "chart",
@@ -6122,13 +6092,43 @@
     "category":"Generic",
     "release":"3.2.0"
   },
-  "y-axis-guide-16":{
+  "x-axis-guide":{
     "alias":[
       "3.2.0",
       "chart",
       "style",
       "drawing",
       "dotted line"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "line-solid":{
+    "alias":[
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "line-dotted":{
+    "alias":[
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "line-dashed":{
+    "alias":[
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
     ],
     "category":"Generic",
     "release":"3.2.0"
