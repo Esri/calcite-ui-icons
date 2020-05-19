@@ -6083,35 +6083,52 @@
   },
   "line-dashed-16":{
     "alias":[
-      "chart, style, drawing"
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
     ],
     "category":"Generic",
     "release":"3.2.0"
   },
   "line-dotted-16":{
     "alias":[
-      "chart, style, drawing"
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
     ],
     "category":"Generic",
     "release":"3.2.0"
   },
   "line-solid-16":{
     "alias":[
-      "chart, style, drawing"
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
     ],
     "category":"Generic",
     "release":"3.2.0"
   },
   "x-axis-guide-16":{
     "alias":[
-      "chart, style, drawing, dotted line"
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing",
+      "dotted line"
     ],
     "category":"Generic",
     "release":"3.2.0"
   },
   "y-axis-guide-16":{
     "alias":[
-      "chart, style, drawing, dotted line"
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing",
+      "dotted line"
     ],
     "category":"Generic",
     "release":"3.2.0"
