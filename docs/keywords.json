@@ -6081,9 +6081,8 @@
     "category":"Generic",
     "release":"3.2.0"
   },
-  "y-axis-guide":{
+  "x-axis-guide":{
     "alias":[
-      "3.2.0",
       "chart",
       "style",
       "drawing",
@@ -6092,9 +6091,8 @@
     "category":"Generic",
     "release":"3.2.0"
   },
-  "x-axis-guide":{
+  "y-axis-guide":{
     "alias":[
-      "3.2.0",
       "chart",
       "style",
       "drawing",
