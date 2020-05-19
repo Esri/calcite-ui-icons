@@ -4929,15 +4929,6 @@
     "category":"GIS",
     "release":"2.3.2"
   },
-  "vertex-edit":{
-    "alias":[
-      "2.3.2",
-      "pencil",
-      "draw vertices"
-    ],
-    "category":"GIS",
-    "release":"2.3.2"
-  },
   "person2":{
     "alias":[
       "2.3.3",
@@ -5486,268 +5477,268 @@
     ],
     "category":"GIS",
     "release":"2.8.1"
-  }, 
+  },
   "access-string-results":{
     "alias":[
       "3.0.0",
-      "code", 
-      "access string results", 
-      "text", 
-      "access text results", 
-      "text file", 
-      "dialogue box", 
-      "attributes", 
-      "tags", 
+      "code",
+      "access string results",
+      "text",
+      "access text results",
+      "text file",
+      "dialogue box",
+      "attributes",
+      "tags",
       "style"
     ],
     "category":"Windows",
     "release":"3.0.0"
-  }, 
+  },
   "address-book":{
     "alias":[
       "3.0.0",
-      "contacts", 
-      "address book", 
-      "person", 
-      "people", 
-      "spiral notebook", 
-      "users", 
-      "contact information", 
-      "phone number", 
+      "contacts",
+      "address book",
+      "person",
+      "people",
+      "spiral notebook",
+      "users",
+      "contact information",
+      "phone number",
       "addresses"
     ],
     "category":"Objects",
     "release":"3.0.0"
-  }, 
+  },
   "bell-off":{
     "alias":[
       "3.0.0",
-      "no notifications", 
-      "bell off", 
-      "silent", 
-      "vibrate", 
-      "silent mode", 
-      "unsubscribe", 
-      "turn off notifications", 
-      "no alarm", 
+      "no notifications",
+      "bell off",
+      "silent",
+      "vibrate",
+      "silent mode",
+      "unsubscribe",
+      "turn off notifications",
+      "no alarm",
       "no announcements"
     ],
     "category":"Objects",
     "release":"3.0.0"
-  }, 
+  },
   "beta":{
     "alias":[
       "3.0.0",
-      "text", 
-      "symbols", 
-      "characters", 
-      "greek", 
-      "mathematics", 
-      "calculations", 
+      "text",
+      "symbols",
+      "characters",
+      "greek",
+      "mathematics",
+      "calculations",
       "variable"
     ],
     "category":"Text",
     "release":"3.0.0"
-  }, 
+  },
   "blank":{
     "alias":[
       "3.0.0",
-      "placeholder", 
-      "blank", 
-      "empty", 
-      "replacement", 
-      "spacer", 
-      "toggle off", 
-      "off state", 
+      "placeholder",
+      "blank",
+      "empty",
+      "replacement",
+      "spacer",
+      "toggle off",
+      "off state",
       "empty state"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "conference-room":{
     "alias":[
       "3.0.0",
-      "table", 
-      "people", 
-      "person", 
-      "conference room", 
-      "conference table", 
-      "meeting room", 
+      "table",
+      "people",
+      "person",
+      "conference room",
+      "conference table",
+      "meeting room",
       "congregate"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "contrast":{
     "alias":[
       "3.0.0",
-      "color", 
-      "brightness", 
-      "picture settings", 
-      "image settings", 
-      "image adjustments", 
-      "photography", 
-      "white balance", 
-      "light", 
-      "lighting", 
-      "shadows", 
-      "highlights", 
-      "midtones", 
-      "threshold", 
+      "color",
+      "brightness",
+      "picture settings",
+      "image settings",
+      "image adjustments",
+      "photography",
+      "white balance",
+      "light",
+      "lighting",
+      "shadows",
+      "highlights",
+      "midtones",
+      "threshold",
       "black and white"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "discard":{
     "alias":[
       "3.0.0",
-      "exclude", 
-      "negate", 
+      "exclude",
+      "negate",
       "cut out"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "edit-attributes":{
     "alias":[
       "3.0.0",
-      "pencil", 
-      "edit attributes", 
-      "edit text", 
+      "pencil",
+      "edit attributes",
+      "edit text",
       "edit description"
     ],
     "category":"Lists",
     "release":"3.0.0"
-  }, 
+  },
   "event":{
     "alias":[
       "3.0.0",
-      "star", 
-      "calendar", 
-      "schedule", 
-      "book", 
-      "conference", 
-      "invite", 
-      "date", 
+      "star",
+      "calendar",
+      "schedule",
+      "book",
+      "conference",
+      "invite",
+      "date",
       "special event"
     ],
     "category":"Objects",
     "release":"3.0.0"
-  }, 
+  },
   "floor-plan":{
     "alias":[
       "3.0.0",
-      "blueprint", 
-      "building", 
-      "indoors", 
-      "indoor navigation", 
-      "floor plan", 
-      "stairs", 
-      "level", 
-      "rooms", 
-      "house", 
-      "home", 
-      "apartment", 
+      "blueprint",
+      "building",
+      "indoors",
+      "indoor navigation",
+      "floor plan",
+      "stairs",
+      "level",
+      "rooms",
+      "house",
+      "home",
+      "apartment",
       "office layout"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "list-number-rtl":{
     "alias":[
       "3.0.0",
-      "ordering", 
-      "rtl", 
-      "right to left", 
-      "list numbers", 
-      "numbered list", 
+      "ordering",
+      "rtl",
+      "right to left",
+      "list numbers",
+      "numbered list",
       "ordered list"
     ],
     "category":"Lists",
     "release":"3.0.0"
-  }, 
+  },
   "merge":{
     "alias":[
       "3.0.0",
-      "combine", 
-      "unite", 
+      "combine",
+      "unite",
       "consolidate"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "person-2":{
     "alias":[
       "3.0.0",
-      "da vinci man", 
-      "human being", 
-      "body", 
-      "health", 
-      "person 2", 
-      "standing", 
+      "da vinci man",
+      "human being",
+      "body",
+      "health",
+      "person 2",
+      "standing",
       "exercise"
     ],
     "category":"People",
     "release":"3.0.0"
-  }, 
+  },
   "plans":{
     "alias":[
       "3.0.0",
-      "blueprint", 
-      "layout", 
-      "measurements", 
-      "perimeter", 
-      "width", 
-      "height", 
-      "boundary", 
-      "interior", 
+      "blueprint",
+      "layout",
+      "measurements",
+      "perimeter",
+      "width",
+      "height",
+      "boundary",
+      "interior",
       "scale"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "polygon-line-check":{
     "alias":[
       "3.0.0",
-      "vertices", 
-      "polygon line check", 
-      "checkmark", 
+      "vertices",
+      "polygon line check",
+      "checkmark",
       "points"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "preserve":{
     "alias":[
       "3.0.0",
-      "intersect", 
-      "intersection", 
+      "intersect",
+      "intersection",
       "overlap"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "projects":{
     "alias":[
       "3.0.0",
-      "briefcase", 
-      "portfolio case", 
+      "briefcase",
+      "portfolio case",
       "collection"
     ],
     "category":"Objects",
     "release":"3.0.0"
-  }, 
+  },
   "share-ios":{
     "alias":[
       "3.0.0",
-      "share ios", 
-      "share apple", 
+      "share ios",
+      "share apple",
       "options"
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "split":{
     "alias":[
       "3.0.0",
@@ -5755,274 +5746,274 @@
     ],
     "category":"Generic",
     "release":"3.0.0"
-  }, 
+  },
   "desk":{
     "alias":[
       "3.0.0",
-      "table", 
-      "office space", 
-      "cubicle", 
+      "table",
+      "office space",
+      "cubicle",
       "co-working space"
     ],
     "category":"Objects",
     "release":"3.0.0"
-  }, 
+  },
   "graph-bar-100-stacked":{
     "alias":[
       "3.0.0",
-      "graph bar 100 stacked", 
-      "bar chart", 
-      "diagram", 
-      "visualization", 
+      "graph bar 100 stacked",
+      "bar chart",
+      "diagram",
+      "visualization",
       "charts and graphs"
     ],
     "category":"Charts-and-Graphs",
     "release":"3.0.0-beta.3"
-  }, 
+  },
   "graph-bar-side-by-side":{
     "alias":[
       "3.0.0",
       "graph bar side by side",
-      "charts-and-graphs", 
-      "bars", 
-      "bar chart", 
-      "diagram", 
+      "charts-and-graphs",
+      "bars",
+      "bar chart",
+      "diagram",
       "visualization"
     ],
     "category":"Charts-and-Graphs",
     "release":"3.0.0-beta.3"
-  }, 
+  },
   "graph-bar-stacked":{
     "alias":[
       "3.0.0",
       "graph bar stacked",
-      "charts-and-graphs", 
-      "bars", 
-      "bar chart", 
-      "diagram", 
-      "visualization", 
+      "charts-and-graphs",
+      "bars",
+      "bar chart",
+      "diagram",
+      "visualization",
       "stacked"
     ],
     "category":"Charts-and-Graphs",
     "release":"3.0.0-beta.3"
-  }, 
+  },
   "conditional-rules":{
     "alias":[
       "3.0.0",
-      "automation", 
-      "conditional rules", 
-      "prerequisites", 
-      "requirements", 
+      "automation",
+      "conditional rules",
+      "prerequisites",
+      "requirements",
       "dependencies"
     ],
     "category":"Charts and Graphs",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "conditional-rules-path":{
     "alias":[
       "3.0.0",
-      "automation", 
-      "conditional rules path", 
-      "prerequisites", 
-      "requirements", 
+      "automation",
+      "conditional rules path",
+      "prerequisites",
+      "requirements",
       "dependencies"
     ],
     "category":"Charts and Graphs",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "email-address":{
     "alias":[
       "3.0.0",
-      "email address", 
-      "@", 
-      "envelope", 
+      "email address",
+      "@",
+      "envelope",
       "e-mail",
       "forms"
     ],
     "category":"Forms",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "form-elements":{
     "alias":[
       "3.0.0",
-      "web survey elements", 
-      "form elements", 
+      "web survey elements",
+      "form elements",
       "form fields"
     ],
     "category":"Forms",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "form-field":{
     "alias":[
       "3.0.0",
-      "form field", 
+      "form field",
       "input"
     ],
     "category":"Forms",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "form-field-multiline":{
     "alias":[
       "3.0.0",
-      "form field multiline", 
-      "input", 
+      "form field multiline",
+      "input",
       "form field paragraph"
     ],
     "category":"Forms",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "group-form":{
     "alias":[
       "3.0.0",
-      "group form field", 
+      "group form field",
       "group form elements"
     ],
     "category":"Forms",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "group-x":{
     "alias":[
       "3.0.0",
-      "delete group", 
-      "group x", 
-      "remove group", 
+      "delete group",
+      "group x",
+      "remove group",
       "clear group"
     ],
     "category":"Forms",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "layers-editable":{
     "alias":[
       "3.0.0",
-      "layers editable", 
-      "pencil", 
-      "customizable layers", 
+      "layers editable",
+      "pencil",
+      "customizable layers",
       "read and write layers"
     ],
     "category":"Layers",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "layers-reference":{
     "alias":[
       "3.0.0",
-      "layers reference", 
-      "reference layers", 
-      "book layer", 
+      "layers reference",
+      "reference layers",
+      "book layer",
       "authoritative layers"
     ],
     "category":"Layers",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "list-rectangle":{
     "alias":[
       "3.0.0",
-      "list rectangle", 
-      "domain", 
-      "list of values", 
-      "list of unique values", 
-      "dropdown menu", 
+      "list rectangle",
+      "domain",
+      "list of values",
+      "list of unique values",
+      "dropdown menu",
       "dropdown selection"
     ],
     "category":"Lists",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "serial-port":{
     "alias":[
       "3.0.0",
-      "USB port", 
-      "HDMI port", 
-      "Ethernet port", 
-      "wires", 
-      "COM port", 
-      "external drive", 
-      "plug", 
+      "USB port",
+      "HDMI port",
+      "Ethernet port",
+      "wires",
+      "COM port",
+      "external drive",
+      "plug",
       "serial port"
     ],
     "category":"Objects",
     "release":"3.0.0-beta.6"
-  }, 
+  },
   "brackets-curly":{
     "alias":[
       "3.0.1",
-      "generic", 
-      "code", 
-      "coding", 
-      "syntax", 
-      "developer", 
-      "js", 
-      "html", 
-      "python", 
-      "ruby", 
-      "script", 
-      "programmer", 
+      "generic",
+      "code",
+      "coding",
+      "syntax",
+      "developer",
+      "js",
+      "html",
+      "python",
+      "ruby",
+      "script",
+      "programmer",
       "css"
     ],
     "category":"Generic",
     "release":"3.0.1"
-  }, 
+  },
   "maximum":{
     "alias":[
       "3.1.0",
-      "max", 
-      "mathematics", 
-      "numbers", 
-      "formula", 
-      "calculation", 
+      "max",
+      "mathematics",
+      "numbers",
+      "formula",
+      "calculation",
       "function"
     ],
     "category":"Text",
     "release":"3.1.0"
-  }, 
+  },
   "maximum-graph":{
     "alias":[
       "3.1.0",
-      "max", 
-      "mathematics", 
-      "numbers", 
-      "formula", 
-      "calculation", 
-      "function", 
-      "maximum graph", 
+      "max",
+      "mathematics",
+      "numbers",
+      "formula",
+      "calculation",
+      "function",
+      "maximum graph",
       "parabolic curve"
     ],
     "category":"Text",
     "release":"3.1.0"
-  }, 
+  },
   "minimum":{
     "alias":[
       "3.1.0",
-      "min", 
-      "mathematics", 
-      "numbers", 
-      "formula", 
-      "calculation", 
+      "min",
+      "mathematics",
+      "numbers",
+      "formula",
+      "calculation",
       "function"
     ],
     "category":"Text",
     "release":"3.1.0"
-  }, 
+  },
   "minimum-graph":{
     "alias":[
       "3.1.0",
-      "min", 
-      "mathematics", 
-      "numbers", 
-      "formula", 
-      "calculation", 
-      "function", 
-      "minimum graph", 
+      "min",
+      "mathematics",
+      "numbers",
+      "formula",
+      "calculation",
+      "function",
+      "minimum graph",
       "parabolic curve"
     ],
     "category":"Text",
     "release":"3.1.0"
-  }, 
+  },
   "mu":{
     "alias":[
       "3.1.0",
-      "statistical mean", 
-      "population mean", 
-      "statistics", 
-      "average", 
+      "statistical mean",
+      "population mean",
+      "statistics",
+      "average",
       "greek letter",
       "mathematics",
       "arithmetic",
@@ -6032,42 +6023,103 @@
     ],
     "category":"Text",
     "release":"3.1.0"
-  }, 
+  },
   "percent":{
     "alias":[
       "3.1.0",
-      "percentage", 
-      "fraction", 
-      "ratio", 
+      "percentage",
+      "fraction",
+      "ratio",
       "mathematics"
     ],
     "category":"Text",
     "release":"3.1.0"
-  }, 
+  },
   "sigma":{
     "alias":[
       "3.1.0",
-      "arithmetic", 
-      "sum", 
-      "greek letter", 
-      "mathematics", 
-      "function", 
+      "arithmetic",
+      "sum",
+      "greek letter",
+      "mathematics",
+      "function",
       "formula"
     ],
     "category":"Text",
     "release":"3.1.0"
-  }, 
+  },
   "x-bar":{
     "alias":[
       "3.1.0",
-      "sample mean", 
-      "average", 
-      "arithmetic mean", 
-      "x bar", 
-      "mathematics", 
+      "sample mean",
+      "average",
+      "arithmetic mean",
+      "x bar",
+      "mathematics",
       "formula"
     ],
     "category":"Text",
     "release":"3.1.0"
+  },
+  "cursor-plus":{
+    "alias":[
+      "3.2.0",
+      "cursor plus",
+      "cursor add",
+      "point add",
+      "point plus"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "x-axis-guide":{
+    "alias":[
+      "chart",
+      "style",
+      "drawing",
+      "dotted line"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "y-axis-guide":{
+    "alias":[
+      "chart",
+      "style",
+      "drawing",
+      "dotted line"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "line-solid":{
+    "alias":[
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "line-dotted":{
+    "alias":[
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
+  },
+  "line-dashed":{
+    "alias":[
+      "3.2.0",
+      "chart",
+      "style",
+      "drawing"
+    ],
+    "category":"Generic",
+    "release":"3.2.0"
   }
 }
