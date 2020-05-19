@@ -4929,15 +4929,6 @@
     "category":"GIS",
     "release":"2.3.2"
   },
-  "vertex-edit":{
-    "alias":[
-      "2.3.2",
-      "pencil",
-      "draw vertices"
-    ],
-    "category":"GIS",
-    "release":"2.3.2"
-  },
   "person2":{
     "alias":[
       "2.3.3",

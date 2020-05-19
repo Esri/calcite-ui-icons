@@ -885,7 +885,7 @@ export {lineDotted16} from "./js/lineDotted16.js";
 export {lineDotted24} from "./js/lineDotted24.js";
 export {lineDotted32} from "./js/lineDotted32.js";
 export {lineSolid16} from "./js/lineSolid16.js";
-export {lineSolid4} from "./js/lineSolid4.js";
+export {lineSolid24} from "./js/lineSolid24.js";
 export {lineSolid32} from "./js/lineSolid32.js";
 export {lineStraight16} from "./js/lineStraight16.js";
 export {lineStraight24} from "./js/lineStraight24.js";

@@ -892,7 +892,7 @@ export const lineDotted16: string;
 export const lineDotted24: string;
 export const lineDotted32: string;
 export const lineSolid16: string;
-export const lineSolid4: string;
+export const lineSolid24: string;
 export const lineSolid32: string;
 export const lineStraight16: string;
 export const lineStraight24: string;
