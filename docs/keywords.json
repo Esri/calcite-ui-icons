@@ -3950,23 +3950,23 @@
   },
   "star":{
     "alias":[
-      "1.5.0",
+      "3.3.0",
       "symbols",
       "favorite",
       "rate",
       "rating"
     ],
     "category":"Symbols",
-    "release":"1.5"
+    "release":"3.3.0"
   },
   "star-circle":{
     "alias":[
-      "1.5.0",
+      "3.3.0",
       "symbols",
       "premium"
     ],
     "category":"Symbols",
-    "release":"1.5"
+    "release":"3.3.0"
   },
   "straight":{
     "alias":[
@@ -6121,5 +6121,213 @@
     ],
     "category":"Generic",
     "release":"3.2.0"
+  }, 
+  "video-web":{
+    "alias":[
+      "3.3.0",
+      "web video", 
+      "video web", 
+      "play video", 
+      "web player", 
+      "media file", 
+      "mp4", 
+      "embedded video"
+    ],
+    "category":"Media",
+    "release":"3.3.0"
+  }, 
+  "button":{
+    "alias":[
+      "3.3.0",
+      "CTA", 
+      "call to action", 
+      "prompt", 
+      "OK"
+    ],
+    "category":"Generic",
+    "release":"3.3.0"
+  }, 
+  "content-inline":{
+    "alias":[
+      "3.3.0",
+      "image wrap", 
+      "content inline", 
+      "image inline"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "content-large":{
+    "alias":[
+      "3.3.0",
+      "hero image", 
+      "banner image", 
+      "content large", 
+      "large content", 
+      "hero banner"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "content-medium":{
+    "alias":[
+      "3.3.0",
+      "content medium", 
+      "image", 
+      "dynamic content", 
+      "interactive content"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "content-small":{
+    "alias":[
+      "3.3.0",
+      "inline content", 
+      "content small", 
+      "column content", 
+      "small image", 
+      "inline image"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "embedded-card":{
+    "alias":[
+      "3.3.0",
+      "related content", 
+      "embedded card", 
+      "read next", 
+      "related articles"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "embedded-live-content":{
+    "alias":[
+      "3.3.0",
+      "dynamic content", 
+      "embedded live content", 
+      "interactive content", 
+      "dashboard"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "heading":{
+    "alias":[
+      "3.3.0",
+      "bold text", 
+      "large text", 
+      "header"
+    ],
+    "category":"Text",
+    "release":"3.3.0"
+  }, 
+  "number-circle-1":{
+    "alias":[
+      "3.3.0",
+      "number circle 1", 
+      "first item", 
+      "list item", 
+      "first step", 
+      "ranking",
+      "one"
+    ],
+    "category":"Numbers",
+    "release":"3.3.0"
+  }, 
+  "number-circle-2":{
+    "alias":[
+      "3.3.0",
+      "list item", 
+      "number circle 2", 
+      "second item",
+      "second step", 
+      "ranking",
+      "two"
+    ],
+    "category":"Numbers",
+    "release":"3.3.0"
+  }, 
+  "number-circle-3":{
+    "alias":[
+      "3.3.0",
+      "list item",
+      "third step",
+      "number circle 3", 
+      "three", 
+      "third item",
+      "ranking"
+    ],
+    "category":"Numbers",
+    "release":"3.3.0"
+  }, 
+  "quote":{
+    "alias":[
+      "3.3.0",
+      "quotation marks", 
+      "reference"
+    ],
+    "category":"Text",
+    "release":"3.3.0"
+  }, 
+  "separator":{
+    "alias":[
+      "3.3.0",
+      "divider"
+    ],
+    "category":"Generic",
+    "release":"3.3.0"
+  }, 
+  "sidecar":{
+    "alias":[
+      "3.3.0",
+      "storymaps", 
+      "scrollable content"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "slideshow":{
+    "alias":[
+      "3.3.0",
+      "storymaps"
+    ],
+    "category":"Windows",
+    "release":"3.3.0"
+  }, 
+  "subheading":{
+    "alias":[
+      "3.3.0",
+      "text", 
+      "sub heading", 
+      "subheader"
+    ],
+    "category":"Text",
+    "release":"3.3.0"
+  }, 
+  "tour":{
+    "alias":[
+      "3.3.0",
+      "storymaps", 
+      "map pins", 
+      "routing", 
+      "directions", 
+      "a to b"
+    ],
+    "category":"Generic",
+    "release":"3.3.0"
+  },
+  "star-f":{
+    "alias":[
+      "3.3.0",
+      "symbols",
+      "favorite",
+      "rate",
+      "rating"
+    ],
+    "category":"Symbols",
+    "release":"3.3.0"
   }
 }
