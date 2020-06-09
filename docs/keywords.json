@@ -4008,7 +4008,7 @@
       "generic",
       "data",
       "chart",
-      "tabluar",
+      "tabular",
       "fields"
     ],
     "category":"Generic",
@@ -6329,5 +6329,17 @@
     ],
     "category":"Symbols",
     "release":"3.3.0"
+  },
+  "tables":{
+    "alias":[
+      "3.4.0",
+      "generic",
+      "data",
+      "chart",
+      "tabular",
+      "fields"
+    ],
+    "category":"Generic",
+    "release":"3.4.0"
   }
 }
