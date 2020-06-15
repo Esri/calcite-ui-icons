@@ -1,1 +1,1 @@
-export const lineDashed32 = "M6 17H2v-2h4zm6-2H8v2h4zm6 0h-4v2h4zm6 0h-4v2h4zm6 0h-4v2h4z";
+export const lineDashed32 = "M7 17H1v-2h6zm8-2H9v2h6zm8 0h-6v2h6zm8 0h-6v2h6z";
