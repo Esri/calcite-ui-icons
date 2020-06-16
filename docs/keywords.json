@@ -6341,5 +6341,17 @@
     ],
     "category":"Generic",
     "release":"3.4.0"
+  }, 
+  "clustering":{
+    "alias":[
+      "3.5.0",
+      "maps", 
+      "groups", 
+      "gatherings", 
+      "data", 
+      "clusters"
+    ],
+    "category":"GIS",
+    "release":"3.5.0"
   }
 }
