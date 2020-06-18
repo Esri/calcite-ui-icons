@@ -6353,5 +6353,56 @@
     ],
     "category":"GIS",
     "release":"3.5.0"
+  }, 
+  "brush-mark":{
+    "alias":[
+      "3.6.0",
+      "brush mark", 
+      "brushstroke", 
+      "brush stroke", 
+      "painting", 
+      "drawing", 
+      "canvas", 
+      "artist"
+    ],
+    "category":"Objects",
+    "release":"3.6.0"
+  }, 
+  "inbox":{
+    "alias":[
+      "3.6.0",
+      "mail", 
+      "email", 
+      "incoming", 
+      "arrow"
+    ],
+    "category":"Objects",
+    "release":"3.6.0"
+  }, 
+  "outbox":{
+    "alias":[
+      "3.6.0",
+      "mail", 
+      "email", 
+      "outgoing", 
+      "arrow"
+    ],
+    "category":"Objects",
+    "release":"3.6.0"
+  }, 
+  "pencil-mark":{
+    "alias":[
+      "3.6.0",
+      "drawing", 
+      "squiggle", 
+      "sketching", 
+      "annotate", 
+      "signature", 
+      "markup", 
+      "marking", 
+      "pencil mark"
+    ],
+    "category":"Objects",
+    "release":"3.6.0"
   }
 }
