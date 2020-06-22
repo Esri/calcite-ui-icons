@@ -6505,10 +6505,13 @@
   "music-note":{
     "alias":[
       "3.7.0",
-      "music note", 
-      "sound", 
+      "music note",
       "beat", 
-      "tone"
+      "tone",
+      "song", 
+      "sounds", 
+      "melody", 
+      "harmony"
     ],
     "category":"Media",
     "release":"3.7.0"
