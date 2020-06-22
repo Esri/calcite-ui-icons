@@ -6404,5 +6404,265 @@
     ],
     "category":"Objects",
     "release":"3.6.0"
+  }, 
+  "caret-double-vertical":{
+    "alias":[
+      "3.7.0",
+      "caret double vertical", 
+      "elevator button", 
+      "drag up and down", 
+      "slide", 
+      "lift button", 
+      "scroll"
+    ],
+    "category":"Symbols",
+    "release":"3.7.0"
+  }, 
+  "text-small":{
+    "alias":[
+      "3.7.0",
+      "text small", 
+      "body text", 
+      "smaller type", 
+      "caption"
+    ],
+    "category":"Text",
+    "release":"3.7.0"
+  }, 
+  "text-medium":{
+    "alias":[
+      "3.7.0",
+      "text medium", 
+      "medium text", 
+      "medium type"
+    ],
+    "category":"Text",
+    "release":"3.7.0"
+  }, 
+  "text-large":{
+    "alias":[
+      "3.7.0",
+      "text large", 
+      "large text", 
+      "large type"
+    ],
+    "category":"Text",
+    "release":"3.7.0"
+  }, 
+  "music-notes":{
+    "alias":[
+      "3.7.0",
+      "music notes", 
+      "song", 
+      "sounds", 
+      "melody", 
+      "harmony"
+    ],
+    "category":"Media",
+    "release":"3.7.0"
+  }, 
+  "cursor-lock":{
+    "alias":[
+      "3.7.0",
+      "cursor lock", 
+      "lock interaction", 
+      "restricted"
+    ],
+    "category":"Generic",
+    "release":"3.7.0"
+  }, 
+  "caret-double-horizontal":{
+    "alias":[
+      "3.7.0",
+      "caret double horizontal", 
+      "slider", 
+      "drag", 
+      "left and right"
+    ],
+    "category":"Symbols",
+    "release":"3.7.0"
+  }, 
+  "heading-rtl":{
+    "alias":[
+      "3.7.0",
+      "bold text", 
+      "large text", 
+      "header"
+    ],
+    "category":"Symbols",
+    "release":"3.7.0"
+  }, 
+  "subheading-rtl":{
+    "alias":[
+      "3.7.0",
+      "text", 
+      "sub heading", 
+      "subheader"
+    ],
+    "category":"Symbols",
+    "release":"3.7.0"
+  }, 
+  "music-note":{
+    "alias":[
+      "3.7.0",
+      "music note",
+      "beat", 
+      "tone",
+      "song", 
+      "sounds", 
+      "melody", 
+      "harmony"
+    ],
+    "category":"Media",
+    "release":"3.7.0"
+  }, 
+  "contract":{
+    "alias":[
+      "3.7.0",
+      "reduce", 
+      "scale down"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "content-side-by-side":{
+    "alias":[
+      "3.7.0",
+      "content side by side", 
+      "cover", 
+      "sidebar"
+    ],
+    "category":"Windows",
+    "release":"3.7.0"
+  }, 
+  "sound-unavailable":{
+    "alias":[
+      "3.7.0",
+      "sound unavailable", 
+      "sound x", 
+      "sound broken"
+    ],
+    "category":"Objects",
+    "release":"3.7.0"
+  }, 
+  "left-edge":{
+    "alias":[
+      "3.7.0",
+      "left edge", 
+      "previous", 
+      "left side"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "right-edge":{
+    "alias":[
+      "3.7.0",
+      "right edge", 
+      "next", 
+      "right side"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "content-none":{
+    "alias":[
+      "3.7.0",
+      "content none", 
+      "no content", 
+      "cover"
+    ],
+    "category":"Windows",
+    "release":"3.7.0"
+  }, 
+  "content-minimal":{
+    "alias":[
+      "3.7.0",
+      "content minimal", 
+      "cover"
+    ],
+    "category":"Windows",
+    "release":"3.7.0"
+  }, 
+  "content-full":{
+    "alias":[
+      "3.7.0",
+      "content full", 
+      "cover", 
+      "hero image", 
+      "banner"
+    ],
+    "category":"Windows",
+    "release":"3.7.0"
+  }, 
+  "center-vertical":{
+    "alias":[
+      "3.7.0",
+      "center vertical", 
+      "middle vertical", 
+      "align middle", 
+      "align center"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "center-horizontal":{
+    "alias":[
+      "3.7.0",
+      "center horizontal", 
+      "middle horizontal", 
+      "align center", 
+      "align middle"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "arrow-right-left":{
+    "alias":[
+      "3.7.0",
+      "arrow right left", 
+      "back and forth", 
+      "forward backward", 
+      "switch", 
+      "lanes"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "arrow-double-vertical":{
+    "alias":[
+      "3.7.0",
+      "arrow double vertical", 
+      "up and down"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "arrow-double-horizontal":{
+    "alias":[
+      "3.7.0",
+      "arrow double horizontal", 
+      "left and right"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "arrow-double-diagonal-2":{
+    "alias":[
+      "3.7.0",
+      "arrow double diagonal", 
+      "diagonal downward"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
+  }, 
+  "arrow-double-diagonal-1":{
+    "alias":[
+      "3.7.0",
+      "arrow double diagonal", 
+      "diagonal upward"
+    ],
+    "category":"Arrows",
+    "release":"3.7.0"
   }
 }
