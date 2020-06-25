@@ -24,7 +24,7 @@ More info on what happens when you scale vector based icons [here](https://githu
 ### Outline icons are the standard
 Outline icons have the default name. For example, `trash-16.svg` will render the default outline icon.
 
-Some icons have alternative states for toggling or greater flexibility. For those icons, appending `-f` (`trash-16-f.svg`) will render the filled version.
+Some icons have alternative states for toggling or greater flexibility. For those icons, appending `-f` (`information-16-f.svg`) will render the filled version.
 
 ### Web Component
 
