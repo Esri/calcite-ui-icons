@@ -6664,5 +6664,35 @@
     ],
     "category":"Arrows",
     "release":"3.7.0"
+  }, 
+  "reorder-stack":{
+    "alias":[
+      "3.8.0",
+      "Windows",
+      "reorder stack", 
+      "arrange stack"
+    ],
+    "category":"Windows",
+    "release":"3.8.0"
+  }, 
+  "reorder-grid":{
+    "alias":[
+      "3.8.0",
+      "Windows",
+      "reorder grid", 
+      "arrange grid"
+    ],
+    "category":"Windows",
+    "release":"3.8.0"
+  }, 
+  "reorder-cards":{
+    "alias":[
+      "3.8.0",
+      "Windows",
+      "reorder cards", 
+      "arrange cards"
+    ],
+    "category":"Windows",
+    "release":"3.8.0"
   }
 }
