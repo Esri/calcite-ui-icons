@@ -6694,5 +6694,22 @@
     ],
     "category":"Windows",
     "release":"3.8.0"
+  }, 
+  "function":{
+    "alias":[
+      "symbol", 
+      "character", 
+      "text", 
+      "equations", 
+      "linear equations", 
+      "algebra", 
+      "mathmatics", 
+      "graph", 
+      "notation", 
+      "value", 
+      "formula"
+    ],
+    "category":"Text",
+    "release":"3.8.1"
   }
 }
