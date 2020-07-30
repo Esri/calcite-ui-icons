@@ -6707,7 +6707,8 @@
       "graph", 
       "notation", 
       "value", 
-      "formula"
+      "formula",
+      "3.8.1"
     ],
     "category":"Text",
     "release":"3.8.1"
