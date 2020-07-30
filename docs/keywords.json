@@ -6712,5 +6712,16 @@
     ],
     "category":"Text",
     "release":"3.8.1"
+  }, 
+  "x-circle":{
+    "alias":[
+      "3.8.1", 
+      "symbols", 
+      "delete", 
+      "remove", 
+      "close"
+    ],
+    "category":"Symbols",
+    "release":"3.8.1"
   }
 }
