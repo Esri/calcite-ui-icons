@@ -6694,5 +6694,34 @@
     ],
     "category":"Windows",
     "release":"3.8.0"
+  }, 
+  "function":{
+    "alias":[
+      "symbol", 
+      "character", 
+      "text", 
+      "equations", 
+      "linear equations", 
+      "algebra", 
+      "mathmatics", 
+      "graph", 
+      "notation", 
+      "value", 
+      "formula",
+      "3.8.1"
+    ],
+    "category":"Text",
+    "release":"3.8.1"
+  }, 
+  "x-circle":{
+    "alias":[
+      "3.8.1", 
+      "symbols", 
+      "delete", 
+      "remove", 
+      "close"
+    ],
+    "category":"Symbols",
+    "release":"3.8.1"
   }
 }
