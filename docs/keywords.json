@@ -6723,5 +6723,58 @@
     ],
     "category":"Symbols",
     "release":"3.8.1"
+  }, 
+  "email-address":{
+    "alias":[
+      "3.9.0",
+      "envelope", 
+      "@", 
+      "email address", 
+      "contact"
+    ],
+    "category":"Forms",
+    "release":"3.9.0"
+  }, 
+  "line-of-sight":{
+    "alias":[
+      "3.9.0",
+      "view", 
+      "vision", 
+      "point of view", 
+      "line of sight"
+    ],
+    "category":"GIS",
+    "release":"3.9.0"
+  }, 
+  "security":{
+    "alias":[
+      "3.9.0",
+      "shield", 
+      "safety", 
+      "protection", 
+      "guard", 
+      "defense"
+    ],
+    "category":"Generic",
+    "release":"3.9.0"
+  }, 
+  "server":{
+    "alias":[
+      "3.9.0",
+      "servers", 
+      "connection"
+    ],
+    "category":"Generic",
+    "release":"3.9.0"
+  }, 
+  "viewshed":{
+    "alias":[
+      "3.9.0",
+      "view", 
+      "vision", 
+      "point of view"
+    ],
+    "category":"GIS",
+    "release":"3.9.0"
   }
 }
