@@ -6738,7 +6738,11 @@
   "security":{
     "alias":[
       "3.9.0",
-      "shield", 
+      "shield",
+      "secure",
+      "protected",
+      "restricted",
+      "privacy",
       "safety", 
       "protection", 
       "guard", 
@@ -6761,26 +6765,33 @@
       "3.9.0",
       "information letter", 
       "information kiosk", 
-      "details"
+      "details",
+      "help",
+      "about"
     ],
-    "category":"Symbols",
+    "category":"Text",
     "release":"3.9.0"
   }, 
   "question-mark":{
     "alias":[
       "3.9.0",
-      "question mark"
+      "question mark",
+      "unknown",
+      "help",
+      "hint",
+      "faq"
     ],
-    "category":"Symbols",
+    "category":"Text",
     "release":"3.9.0"
   }, 
   "extent-filter":{
     "alias":[
       "3.9.0",
       "extent filter", 
-      "filter by extent"
+      "filter by extent",
+      "funnel"
     ],
-    "category":"GIS",
+    "category":"Generic",
     "release":"3.9.0"
   },
   "selection-filter":{
@@ -6788,9 +6799,10 @@
       "3.9.0",
       "selection filter", 
       "filter by selection", 
-      "filter selection"
+      "filter selection",
+      "funnel"
     ],
-    "category":"GIS",
+    "category":"Generic",
     "release":"3.9.0"
   }, 
   "selection-x":{
@@ -6800,7 +6812,7 @@
       "delete selection", 
       "remove selection"
     ],
-    "category":"GIS",
+    "category":"Generic",
     "release":"3.9.0"
   }
 }
