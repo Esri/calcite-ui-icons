@@ -6723,5 +6723,96 @@
     ],
     "category":"Symbols",
     "release":"3.8.1"
+  }, 
+  "email-address":{
+    "alias":[
+      "3.9.0",
+      "envelope", 
+      "@", 
+      "email address", 
+      "contact"
+    ],
+    "category":"Forms",
+    "release":"3.9.0"
+  },
+  "security":{
+    "alias":[
+      "3.9.0",
+      "shield",
+      "secure",
+      "protected",
+      "restricted",
+      "privacy",
+      "safety", 
+      "protection", 
+      "guard", 
+      "defense"
+    ],
+    "category":"Generic",
+    "release":"3.9.0"
+  }, 
+  "server":{
+    "alias":[
+      "3.9.0",
+      "servers", 
+      "connection"
+    ],
+    "category":"Generic",
+    "release":"3.9.0"
+  }, 
+  "information-letter":{
+    "alias":[
+      "3.9.0",
+      "information letter", 
+      "information kiosk", 
+      "details",
+      "help",
+      "about"
+    ],
+    "category":"Text",
+    "release":"3.9.0"
+  }, 
+  "question-mark":{
+    "alias":[
+      "3.9.0",
+      "question mark",
+      "unknown",
+      "help",
+      "hint",
+      "faq"
+    ],
+    "category":"Text",
+    "release":"3.9.0"
+  }, 
+  "extent-filter":{
+    "alias":[
+      "3.9.0",
+      "extent filter", 
+      "filter by extent",
+      "funnel"
+    ],
+    "category":"Generic",
+    "release":"3.9.0"
+  },
+  "selection-filter":{
+    "alias":[
+      "3.9.0",
+      "selection filter", 
+      "filter by selection", 
+      "filter selection",
+      "funnel"
+    ],
+    "category":"Generic",
+    "release":"3.9.0"
+  }, 
+  "selection-x":{
+    "alias":[
+      "3.9.0",
+      "selection x", 
+      "delete selection", 
+      "remove selection"
+    ],
+    "category":"Generic",
+    "release":"3.9.0"
   }
 }

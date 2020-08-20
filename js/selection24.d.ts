@@ -1,1 +1,1 @@
-export const selection24: string;
+export const selection24: CalciteMultiPathEntry;
