@@ -6734,18 +6734,7 @@
     ],
     "category":"Forms",
     "release":"3.9.0"
-  }, 
-  "line-of-sight":{
-    "alias":[
-      "3.9.0",
-      "view", 
-      "vision", 
-      "point of view", 
-      "line of sight"
-    ],
-    "category":"GIS",
-    "release":"3.9.0"
-  }, 
+  },
   "security":{
     "alias":[
       "3.9.0",
@@ -6767,12 +6756,49 @@
     "category":"Generic",
     "release":"3.9.0"
   }, 
-  "viewshed":{
+  "information-letter":{
     "alias":[
       "3.9.0",
-      "view", 
-      "vision", 
-      "point of view"
+      "information letter", 
+      "information kiosk", 
+      "details"
+    ],
+    "category":"Symbols",
+    "release":"3.9.0"
+  }, 
+  "question-mark":{
+    "alias":[
+      "3.9.0",
+      "question mark"
+    ],
+    "category":"Symbols",
+    "release":"3.9.0"
+  }, 
+  "extent-filter":{
+    "alias":[
+      "3.9.0",
+      "extent filter", 
+      "filter by extent"
+    ],
+    "category":"GIS",
+    "release":"3.9.0"
+  },
+  "selection-filter":{
+    "alias":[
+      "3.9.0",
+      "selection filter", 
+      "filter by selection", 
+      "filter selection"
+    ],
+    "category":"GIS",
+    "release":"3.9.0"
+  }, 
+  "selection-x":{
+    "alias":[
+      "3.9.0",
+      "selection x", 
+      "delete selection", 
+      "remove selection"
     ],
     "category":"GIS",
     "release":"3.9.0"
