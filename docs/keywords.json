@@ -3857,7 +3857,8 @@
   "sort-ascending":{
     "alias":[
       "1.5.0",
-      "generic"
+      "generic",
+      "sort ascending"
     ],
     "category":"Generic",
     "release":"1.5"
@@ -3865,7 +3866,8 @@
   "sort-descending":{
     "alias":[
       "1.5.0",
-      "generic"
+      "generic",
+      "sort descending"
     ],
     "category":"Generic",
     "release":"1.5"
@@ -3874,6 +3876,7 @@
     "alias":[
       "1.5.0",
       "generic",
+      "speech bubble",
       "comment",
       "chat",
       "message"
@@ -3888,7 +3891,8 @@
       "chat",
       "comment",
       "message",
-      "add"
+      "add",
+      "speech bubble plus"
     ],
     "category":"Generic",
     "release":"1.5"
@@ -3897,7 +3901,8 @@
     "alias":[
       "1.5.0",
       "social-media",
-      "social"
+      "social",
+      "speech bubble social"
     ],
     "category":"Social-Media",
     "release":"1.5"
@@ -3908,7 +3913,8 @@
       "generic",
       "chat",
       "comment",
-      "message"
+      "message",
+      "speech bubbles"
     ],
     "category":"Generic",
     "release":"1.5"
@@ -6814,5 +6820,124 @@
     ],
     "category":"Generic",
     "release":"3.9.0"
+  }, 
+  "book":{
+    "alias":[
+      "3.10.0",
+      "dictionary", 
+      "book cover", 
+      "binder", 
+      "reference book", 
+      "literature"
+    ],
+    "category":"Objects",
+    "release":"3.10.0"
+  }, 
+  "check-square-f":{
+    "alias":[
+      "3.10.0",
+      "check square filled", 
+      "checkmark", 
+      "toggle on", 
+      "confirm", 
+      "correct", 
+      "selected"
+    ],
+    "category":"Symbols",
+    "release":"3.10.0"
+  }, 
+  "circle-area":{
+    "alias":[
+      "3.10.0",
+      "circle area"
+    ],
+    "category":"Generic",
+    "release":"3.10.0"
+  }, 
+  "footer":{
+    "alias":[
+      "3.10.0",
+      "about the author", 
+      "featured", 
+      "contact information", 
+      "credits"
+    ],
+    "category":"Windows",
+    "release":"3.10.0"
+  }, 
+  "gallery":{
+    "alias":[
+      "3.10.0",
+      "mosaic", 
+      "photography", 
+      "images", 
+      "imagery", 
+      "masonry", 
+      "photo grid"
+    ],
+    "category":"Windows",
+    "release":"3.10.0"
+  }, 
+  "mobile-off":{
+    "alias":[
+      "3.10.0",
+      "mobile off", 
+      "no cell service", 
+      "no service", 
+      "no reception", 
+      "non-mobile app", 
+      "desktop app"
+    ],
+    "category":"Objects",
+    "release":"3.10.0"
+  }, 
+  "polygon-area":{
+    "alias":[
+      "3.10.0",
+      "polygon area"
+    ],
+    "category":"Generic",
+    "release":"3.10.0"
+  }, 
+  "rectangle-area":{
+    "alias":[
+      "3.10.0",
+      "rectangle area"
+    ],
+    "category":"Generic",
+    "release":"3.10.0"
+  }, 
+  "sort-ascending-arrow":{
+    "alias":[
+      "3.10.0",
+      "sort ascending arrow"
+    ],
+    "category":"List",
+    "release":"3.10.0"
+  }, 
+  "sort-descending-arrow":{
+    "alias":[
+      "3.10.0",
+      "sort descending arrow"
+    ],
+    "category":"List",
+    "release":"3.10.0"
+  }, 
+  "square-area":{
+    "alias":[
+      "3.10.0",
+      "square area"
+    ],
+    "category":"Generic",
+    "release":"3.10.0"
+  }, 
+  "text-paragraph-large":{
+    "alias":[
+      "3.10.0",
+      "text paragraph large", 
+      "large body text"
+    ],
+    "category":"Text",
+    "release":"3.10.0"
   }
 }
