@@ -6939,5 +6939,33 @@
     ],
     "category":"Text",
     "release":"3.10.0"
+  }, 
+  "x-hexagon":{
+    "alias":[
+      "3.11.0",
+      "x hexagon", 
+      "invalid", 
+      "error", 
+      "broken", 
+      "critical", 
+      "denied", 
+      "restricted"
+    ],
+    "category":"Symbols",
+    "release":"3.11.0"
+  }, 
+  "x-hexagon-f":{
+    "alias":[
+      "3.11.0",
+      "x hexagon", 
+      "invalid", 
+      "error", 
+      "broken", 
+      "critical", 
+      "denied", 
+      "restricted"
+    ],
+    "category":"Symbols",
+    "release":"3.11.0"
   }
 }
