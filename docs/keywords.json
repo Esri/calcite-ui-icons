@@ -6940,10 +6940,10 @@
     "category":"Text",
     "release":"3.10.0"
   }, 
-  "x-hexagon":{
+  "x-octagon":{
     "alias":[
       "3.11.0",
-      "x hexagon", 
+      "x octagon", 
       "invalid", 
       "error", 
       "broken", 
@@ -6954,10 +6954,10 @@
     "category":"Symbols",
     "release":"3.11.0"
   }, 
-  "x-hexagon-f":{
+  "x-octagon-f":{
     "alias":[
       "3.11.0",
-      "x hexagon", 
+      "x octagon", 
       "invalid", 
       "error", 
       "broken", 
