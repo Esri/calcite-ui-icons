@@ -1,1 +1,1 @@
-export const lineOfSight16: CalciteMultiPathEntry;
+export const lineOfSight16: string;
