@@ -4191,17 +4191,6 @@
     "category":"GIS",
     "release":"1.5"
   },
-  "video":{
-    "alias":[
-      "1.5.0",
-      "media",
-      "camera",
-      "mp4",
-      "motion"
-    ],
-    "category":"Media",
-    "release":"1.5"
-  },
   "walk-through-door":{
     "alias":[
       "1.5.0",
@@ -7025,5 +7014,210 @@
     ],
     "category":"GIS",
     "release":"3.12.1"
+  }, 
+  "attachment-plus":{
+    "alias":[
+      "3.13.0", 
+      "attachment plus", 
+      "add", 
+      "plus", 
+      "file", 
+      "paper clip"
+    ],
+    "category":"Objects",
+    "release":"3.13.0"
+  }, 
+  "brush-mark-plus":{
+    "alias":[
+      "3.13.0", 
+      "brush mark plus", 
+      "brushstroke", 
+      "brush stroke", 
+      "painting", 
+      "drawing", 
+      "canvas", 
+      "artist", 
+      "add", 
+      "plus", 
+      "paint"
+    ],
+    "category":"Objects",
+    "release":"3.13.0"
+  }, 
+  "camera-plus":{
+    "alias":[
+      "3.13.0", 
+      "objects", 
+      "video", 
+      "photograph", 
+      "picture", 
+      "point and shoot", 
+      "handheld", 
+      "snapshot", 
+      "attractions", 
+      "tourism", 
+      "tourist", 
+      "point of interest", 
+      "poi", 
+      "device", 
+      "technology", 
+      "plus", 
+      "add", 
+      "add photo", 
+      "upload photo", 
+      "take photo", 
+      "add image", 
+      "upload image"
+    ],
+    "category":"Objects",
+    "release":"3.13.0"
+  }, 
+  "debug":{
+    "alias":[
+      "3.13.0",
+      "generic", 
+      "debug", 
+      "troubleshoot", 
+      "issues", 
+      "fix", 
+      "solve", 
+      "technology", 
+      "analyze", 
+      "inspect", 
+      "errors", 
+      "detect", 
+      "hardware", 
+      "software"
+    ],
+    "category":"Generic",
+    "release":"3.13.0"
+  }, 
+  "microphone-plus":{
+    "alias":[
+      "3.13.0", 
+      "objects", 
+      "recording", 
+      "voice", 
+      "sound", 
+      "audio", 
+      "input", 
+      "podcast", 
+      "radio", 
+      "voiceover", 
+      "music", 
+      "add audio", 
+      "audio clip", 
+      "plus", 
+      "microphone plus"
+    ],
+    "category":"Objects",
+    "release":"3.13.0"
+  }, 
+  "pencil-mark-plus":{
+    "alias":[
+      "3.13.0", 
+      "objects", 
+      "drawing", 
+      "squiggle", 
+      "sketching", 
+      "annotate", 
+      "signature", 
+      "markup", 
+      "marking", 
+      "pencil mark plus", 
+      "add", 
+      "plus"
+    ],
+    "category":"Objects",
+    "release":"3.13.0"
+  }, 
+  "sky-plot":{
+    "alias":[
+      "3.13.0", 
+      "charts and graphs", 
+      "graphs", 
+      "sky plot", 
+      "skyplot", 
+      "graphic", 
+      "satellites", 
+      "elevation", 
+      "azimuth", 
+      "data", 
+      "analysis", 
+      "tracking", 
+      "visualization"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.13.0"
+  }, 
+  "square-f":{
+    "alias":[
+      "3.13.0", 
+      "generic", 
+      "shapes", 
+      "box", 
+      "stop", 
+      "container"
+    ],
+    "category":"Generic",
+    "release":"3.13.0"
+  }, 
+  "video":{
+    "alias":[
+      "3.13.0", 
+      "media", 
+      "camera", 
+      "video camera", 
+      "film camera", 
+      "record", 
+      "clip", 
+      "mp4", 
+      "motion", 
+      "tape", 
+      "watch", 
+      "add video", 
+      "upload video", 
+      "record video"
+    ],
+    "category":"Media",
+    "release":"3.13.0"
+  }, 
+  "video-plus":{
+    "alias":[
+      "3.13.0", 
+      "media", 
+      "camera", 
+      "video camera", 
+      "film camera", 
+      "record", 
+      "clip", 
+      "mp4", 
+      "motion", 
+      "tape", 
+      "watch", 
+      "add video", 
+      "upload video", 
+      "record video", 
+      "plus"
+    ],
+    "category":"Media",
+    "release":"3.13.0"
+  }, 
+  "sound-low":{
+    "alias":[
+      "3.13.0", 
+      "generic", 
+      "volume", 
+      "speakers", 
+      "audio ouput", 
+      "loudness", 
+      "audio input", 
+      "audio enabled", 
+      "change volume", 
+      "lower volume", 
+      "noise"
+    ],
+    "category":"Generic",
+    "release":"3.13.0"
   }
 }
