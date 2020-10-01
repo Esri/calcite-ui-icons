@@ -7202,5 +7202,22 @@
     ],
     "category":"Media",
     "release":"3.13.0"
+  }, 
+  "sound-low":{
+    "alias":[
+      "3.13.0", 
+      "generic", 
+      "volume", 
+      "speakers", 
+      "audio ouput", 
+      "loudness", 
+      "audio input", 
+      "audio enabled", 
+      "change volume", 
+      "lower volume", 
+      "noise"
+    ],
+    "category":"Generic",
+    "release":"3.13.0"
   }
 }
