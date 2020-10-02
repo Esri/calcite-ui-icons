@@ -7219,5 +7219,19 @@
     ],
     "category":"Generic",
     "release":"3.13.0"
+  }, 
+  "app-update":{
+    "alias":[
+      "3.13.1",
+      "sync", 
+      "reset", 
+      "app update", 
+      "refresh", 
+      "software download", 
+      "software update", 
+      "software refresh"
+    ],
+    "category":"Generic",
+    "release":"3.13.1"
   }
 }
