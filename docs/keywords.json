@@ -7247,7 +7247,7 @@
       "application",
       "push"
     ],
-    "category":"04_Symbols_B",
+    "category":"Symbols",
     "release":"3.14.0"
   },
   "miscellaneous-collection":{
@@ -7261,7 +7261,7 @@
       "manual",
       "reports"
     ],
-    "category":"04_Symbols_B",
+    "category":"Symbols",
     "release":"3.14.0"
   },
   "thumbs-up":{
@@ -7274,7 +7274,7 @@
       "yes",
       "positive"
     ],
-    "category":"01_Generic_C",
+    "category":"Generic",
     "release":"3.14.0"
   }
 }
