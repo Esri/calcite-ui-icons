@@ -7254,6 +7254,7 @@
     "alias":[
       "3.14.0",
       "collection",
+      "miscellaneous collection",
       "components",
       "hosts",
       "severs",
@@ -7267,6 +7268,7 @@
   "thumbs-up":{
     "alias":[
       "3.14.0",
+      "thumbs up",
       "hand",
       "like",
       "satisfactory",
