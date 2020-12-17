@@ -7302,7 +7302,7 @@
   }, 
   "smart-camera":{
     "alias":[
-      "3.14.1",
+      "3.14.3",
       "smart camera", 
       "detect", 
       "shapes", 
@@ -7312,6 +7312,6 @@
       "ai"
     ],
     "category":"Objects",
-    "release":"3.14.1"
+    "release":"3.14.3"
   }
 }
