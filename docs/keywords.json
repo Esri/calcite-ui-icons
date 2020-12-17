@@ -7299,5 +7299,19 @@
     ],
     "category":"Generic",
     "release":"3.14.2"
+  }, 
+  "smart-camera":{
+    "alias":[
+      "3.14.1",
+      "smart camera", 
+      "detect", 
+      "shapes", 
+      "recognition", 
+      "patterns", 
+      "intelligent", 
+      "ai"
+    ],
+    "category":"Objects",
+    "release":"3.14.1"
   }
 }
