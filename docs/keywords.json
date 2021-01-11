@@ -7313,5 +7313,15 @@
     ],
     "category":"Objects",
     "release":"3.14.3"
+  }, 
+  "resize-area":{
+    "alias":[
+      "scale", 
+      "drag", 
+      "adjust", 
+      "size adjust"
+    ],
+    "category":"39_LocationReferencing",
+    "release":"3.13.4"
   }
 }
