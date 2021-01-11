@@ -7322,7 +7322,17 @@
       "adjust", 
       "size adjust"
     ],
-    "category":"39_LocationReferencing",
+    "category":"Windows",
+    "release":"3.14.4"
+  }, 
+  "scan-barcode":{
+    "alias":[
+      "3.14.4",
+      "barcode scanner", 
+      "price", 
+      "code"
+    ],
+    "category":"Generic",
     "release":"3.14.4"
   }
 }
