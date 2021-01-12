@@ -7313,5 +7313,26 @@
     ],
     "category":"Objects",
     "release":"3.14.3"
+  }, 
+  "resize-area":{
+    "alias":[
+      "3.14.4",
+      "scale", 
+      "drag", 
+      "adjust", 
+      "size adjust"
+    ],
+    "category":"Windows",
+    "release":"3.14.4"
+  }, 
+  "scan-barcode":{
+    "alias":[
+      "3.14.4",
+      "barcode scanner", 
+      "price", 
+      "code"
+    ],
+    "category":"Generic",
+    "release":"3.14.4"
   }
 }
