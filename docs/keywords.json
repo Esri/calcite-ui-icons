@@ -7372,5 +7372,17 @@
     ],
     "category":"Layers",
     "release":"3.14.5"
+  }, 
+  "bell-f":{
+    "alias":[
+      "3.14.5",
+      "objects", 
+      "notification", 
+      "alert", 
+      "alarm", 
+      "bell filled"
+    ],
+    "category":"Objects",
+    "release":"3.14.5"
   }
 }
