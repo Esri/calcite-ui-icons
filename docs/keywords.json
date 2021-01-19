@@ -7223,6 +7223,7 @@
   "app-update":{
     "alias":[
       "3.13.1",
+      "generic", 
       "sync",
       "reset",
       "app update",
@@ -7237,6 +7238,7 @@
   "webhook":{
     "alias":[
       "3.14.0",
+      "symbols", 
       "web hook",
       "event",
       "information",
@@ -7253,6 +7255,7 @@
   "miscellaneous-collection":{
     "alias":[
       "3.14.0",
+      "symbols", 
       "collection",
       "miscellaneous collection",
       "components",
@@ -7268,6 +7271,7 @@
   "thumbs-up":{
     "alias":[
       "3.14.0",
+      "generic", 
       "thumbs up",
       "hand",
       "like",
@@ -7282,6 +7286,7 @@
   "group-form-plus":{
     "alias":[
       "3.14.1",
+      "forms", 
       "group form plus",
       "add group",
       "create group"
@@ -7303,6 +7308,7 @@
   "smart-camera":{
     "alias":[
       "3.14.3",
+      "objects", 
       "smart camera", 
       "detect", 
       "shapes", 
@@ -7317,6 +7323,7 @@
   "resize-area":{
     "alias":[
       "3.14.4",
+      "windows", 
       "scale", 
       "drag", 
       "adjust", 
@@ -7328,6 +7335,7 @@
   "scan-barcode":{
     "alias":[
       "3.14.4",
+      "generic", 
       "barcode scanner", 
       "price", 
       "code"
@@ -7338,6 +7346,7 @@
   "app-gear":{
     "alias":[
       "3.14.5",
+      "objects", 
       "app settings", 
       "cog", 
       "app configuration", 
@@ -7350,6 +7359,7 @@
   "import":{
     "alias":[
       "3.14.5",
+      "arrows", 
       "input", 
       "inbox", 
       "inside", 
