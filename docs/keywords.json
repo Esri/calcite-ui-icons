@@ -7334,5 +7334,43 @@
     ],
     "category":"Generic",
     "release":"3.14.4"
+  }, 
+  "app-gear":{
+    "alias":[
+      "3.14.5",
+      "app settings", 
+      "cog", 
+      "app configuration", 
+      "product settings", 
+      "product configuration"
+    ],
+    "category":"Objects",
+    "release":"3.14.5"
+  }, 
+  "import":{
+    "alias":[
+      "3.14.5",
+      "input", 
+      "inbox", 
+      "inside", 
+      "include", 
+      "collect", 
+      "pull", 
+      "drop", 
+      "deposit", 
+      "insert"
+    ],
+    "category":"Arrows",
+    "release":"3.14.5"
+  }, 
+  "layer-service":{
+    "alias":[
+      "3.14.5",
+      "layers", 
+      "service", 
+      "feature layer"
+    ],
+    "category":"Layers",
+    "release":"3.14.5"
   }
 }
