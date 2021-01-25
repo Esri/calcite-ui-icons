@@ -7394,5 +7394,16 @@
     ],
     "category":"Objects",
     "release":"3.14.5"
+  }, 
+  "selected-items-filter":{
+    "alias":[
+      "3.14.6",
+      "selected items filter", 
+      "lists", 
+      "filter selection", 
+      "filter selected items"
+    ],
+    "category":"Lists",
+    "release":"3.14.6"
   }
 }
