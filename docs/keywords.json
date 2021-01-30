@@ -7360,7 +7360,7 @@
       "notification", 
       "alert", 
       "alarm", 
-      "bell filled"
+      "bell"
     ],
     "category":"Objects",
     "release":"3.14.5"
