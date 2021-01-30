@@ -6925,20 +6925,6 @@
     "category":"Symbols",
     "release":"3.11.0"
   },
-  "x-octagon-f":{
-    "alias":[
-      "3.11.0",
-      "x octagon",
-      "invalid",
-      "error",
-      "broken",
-      "critical",
-      "denied",
-      "restricted"
-    ],
-    "category":"Symbols",
-    "release":"3.11.0"
-  },
   "add-layer":{
     "alias":[
       "3.12.0",
