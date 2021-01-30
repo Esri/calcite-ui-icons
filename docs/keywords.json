@@ -841,7 +841,12 @@
       "done",
       "box",
       "select",
-      "tick"
+      "tick",
+      "checkmark",
+      "toggle",
+      "confirm",
+      "correct",
+      "selected"
     ],
     "category":"Symbols",
     "release":"1.5"
@@ -3934,8 +3939,9 @@
     "alias":[
       "1.5.0",
       "generic",
-      "shape",
-      "box"
+      "shapes",
+      "box",
+      "container"
     ],
     "category":"Generic",
     "release":"1.5"
@@ -6811,19 +6817,6 @@
     "category":"Objects",
     "release":"3.10.0"
   },
-  "check-square-f":{
-    "alias":[
-      "3.10.0",
-      "check square filled",
-      "checkmark",
-      "toggle on",
-      "confirm",
-      "correct",
-      "selected"
-    ],
-    "category":"Symbols",
-    "release":"3.10.0"
-  },
   "circle-area":{
     "alias":[
       "3.10.0",
@@ -7137,18 +7130,6 @@
       "visualization"
     ],
     "category":"Charts and Graphs",
-    "release":"3.13.0"
-  },
-  "square-f":{
-    "alias":[
-      "3.13.0",
-      "generic",
-      "shapes",
-      "box",
-      "stop",
-      "container"
-    ],
-    "category":"Generic",
     "release":"3.13.0"
   },
   "video":{
