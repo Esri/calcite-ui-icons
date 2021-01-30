@@ -6314,17 +6314,6 @@
     "category":"Generic",
     "release":"3.3.0"
   },
-  "star-f":{
-    "alias":[
-      "3.3.0",
-      "symbols",
-      "favorite",
-      "rate",
-      "rating"
-    ],
-    "category":"Symbols",
-    "release":"3.3.0"
-  },
   "tables":{
     "alias":[
       "3.4.0",
@@ -7383,7 +7372,7 @@
     "category":"Layers",
     "release":"3.14.5"
   }, 
-  "bell-f":{
+  "bell":{
     "alias":[
       "3.14.5",
       "objects", 
