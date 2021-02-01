@@ -841,7 +841,12 @@
       "done",
       "box",
       "select",
-      "tick"
+      "tick",
+      "checkmark",
+      "toggle",
+      "confirm",
+      "correct",
+      "selected"
     ],
     "category":"Symbols",
     "release":"1.5"
@@ -3934,8 +3939,9 @@
     "alias":[
       "1.5.0",
       "generic",
-      "shape",
-      "box"
+      "shapes",
+      "box",
+      "container"
     ],
     "category":"Generic",
     "release":"1.5"
@@ -6314,17 +6320,6 @@
     "category":"Generic",
     "release":"3.3.0"
   },
-  "star-f":{
-    "alias":[
-      "3.3.0",
-      "symbols",
-      "favorite",
-      "rate",
-      "rating"
-    ],
-    "category":"Symbols",
-    "release":"3.3.0"
-  },
   "tables":{
     "alias":[
       "3.4.0",
@@ -6822,19 +6817,6 @@
     "category":"Objects",
     "release":"3.10.0"
   },
-  "check-square-f":{
-    "alias":[
-      "3.10.0",
-      "check square filled",
-      "checkmark",
-      "toggle on",
-      "confirm",
-      "correct",
-      "selected"
-    ],
-    "category":"Symbols",
-    "release":"3.10.0"
-  },
   "circle-area":{
     "alias":[
       "3.10.0",
@@ -6930,20 +6912,6 @@
     "release":"3.10.0"
   },
   "x-octagon":{
-    "alias":[
-      "3.11.0",
-      "x octagon",
-      "invalid",
-      "error",
-      "broken",
-      "critical",
-      "denied",
-      "restricted"
-    ],
-    "category":"Symbols",
-    "release":"3.11.0"
-  },
-  "x-octagon-f":{
     "alias":[
       "3.11.0",
       "x octagon",
@@ -7148,18 +7116,6 @@
       "visualization"
     ],
     "category":"Charts and Graphs",
-    "release":"3.13.0"
-  },
-  "square-f":{
-    "alias":[
-      "3.13.0",
-      "generic",
-      "shapes",
-      "box",
-      "stop",
-      "container"
-    ],
-    "category":"Generic",
     "release":"3.13.0"
   },
   "video":{
@@ -7383,14 +7339,14 @@
     "category":"Layers",
     "release":"3.14.5"
   }, 
-  "bell-f":{
+  "bell":{
     "alias":[
       "3.14.5",
       "objects", 
       "notification", 
       "alert", 
       "alarm", 
-      "bell filled"
+      "bell"
     ],
     "category":"Objects",
     "release":"3.14.5"
