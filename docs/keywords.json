@@ -7361,5 +7361,15 @@
     ],
     "category":"Lists",
     "release":"3.14.6"
+  }, 
+  "crop":{
+    "alias":[
+      "3.14.8",
+      "Generic", 
+      "trim", 
+      "clip"
+    ],
+    "category":"Generic",
+    "release":"3.14.8"
   }
 }
