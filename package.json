@@ -51,8 +51,8 @@
     "optimize": "node bin/cli.js",
     "start": "npm run buildsprite-16 && npm run buildsprite-24 && npm run buildsprite-32 && npm run optimize",
     "server": "node bin/server.js",
-    "convert-all-ios": "node bin/convert-mobile.js -o \"../mobile-output\" -p \"ios\" -i \"16\"",
-    "convert-all-ios:size": "node bin/convert-mobile.js -o \"../mobile-output\" -i \"16\" -p \"ios\" -s",
+    "convert-all-ios": "node bin/convert-mobile.js -o \"../mobile-output\" -p \"ios\" -i \"24\"",
+    "convert-all-ios:size": "node bin/convert-mobile.js -o \"../mobile-output\" -p \"ios\" -s",
     "convert-all-desktop:size": "node bin/convert-mobile.js -o \"../desktop-output\" -i \"16\" -s",
     "convert-all-desktop-multi": "node bin/convert-mobile.js -o \"../desktop-output\" -i \"16\" -s 16 && node bin/convert-mobile.js -o \"../desktop-output\" -s 24 && node bin/convert-mobile.js -o \"../desktop-output\" -s 32 && node bin/convert-mobile.js -o \"../desktop-output\" -s 64"
   },
