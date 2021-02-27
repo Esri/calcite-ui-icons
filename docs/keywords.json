@@ -503,7 +503,7 @@
       "first",
       "media"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "bell":{
@@ -542,7 +542,7 @@
       "social-media",
       "social"
     ],
-    "category":"Social-Media",
+    "category":"Social Media",
     "release":"1.5"
   },
   "bold":{
@@ -578,7 +578,7 @@
       "central value",
       "chart"
     ],
-    "category":"Charts-and-graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "brightness":{
@@ -951,7 +951,7 @@
       "arcs",
       "analysis"
     ],
-    "category":"Charts-and-graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "circle":{
@@ -1241,7 +1241,7 @@
       "value",
       "analysis"
     ],
-    "category":"Charts-and-graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "description":{
@@ -1403,7 +1403,7 @@
       "1.5.0",
       "media"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "envelope":{
@@ -1958,7 +1958,7 @@
       "1.5.0",
       "media"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "freehand":{
@@ -1998,7 +1998,7 @@
       "threshhold",
       "limit"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "gauge-summary":{
@@ -2011,7 +2011,7 @@
       "limit",
       "number"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "gear":{
@@ -2033,7 +2033,7 @@
       "share",
       "social"
     ],
-    "category":"Social-Media",
+    "category":"Social Media",
     "release":"1.5"
   },
   "geonet-question":{
@@ -2043,7 +2043,7 @@
       "?",
       "social"
     ],
-    "category":"Social-Media",
+    "category":"Social Media",
     "release":"1.5"
   },
   "globe":{
@@ -2086,7 +2086,7 @@
       "diagram",
       "visualization"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "graph-histogram":{
@@ -2099,7 +2099,7 @@
       "diagram",
       "visualization"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "graph-moving-average":{
@@ -2113,7 +2113,7 @@
       "average",
       "line chart"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "graph-pie":{
@@ -2121,7 +2121,7 @@
       "1.5.0",
       "chart"
     ],
-    "category":"Charts-and-Widgets",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "graph-scatter-plot":{
@@ -2131,7 +2131,7 @@
       "points",
       "data"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "graph-time-series":{
@@ -2147,7 +2147,7 @@
       "record",
       "history"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "grid":{
@@ -2218,7 +2218,7 @@
       "tabular",
       "value"
     ],
-    "category":"Charts-and-graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "hide-empty":{
@@ -2306,7 +2306,7 @@
       "media",
       "photo"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "images":{
@@ -2316,7 +2316,7 @@
       "media",
       "photo"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "indicator":{
@@ -3085,7 +3085,7 @@
       "link nodes",
       "link points"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "nodes-merge":{
@@ -3096,7 +3096,7 @@
       "combine points",
       "combine nodes"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "nodes-unlink":{
@@ -3105,7 +3105,7 @@
       "unlink nodes",
       "unlink points"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "nodes-unmerge":{
@@ -3116,7 +3116,7 @@
       "unmerge nodes",
       "unmerge points"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "null":{
@@ -3175,7 +3175,7 @@
       "1.5.0",
       "media"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "pen":{
@@ -3248,7 +3248,7 @@
       "portfolio",
       "infographic"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "pin":{
@@ -3294,7 +3294,7 @@
       "1.5.0",
       "media"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "plus":{
@@ -3532,7 +3532,7 @@
       "1.5.0",
       "media"
     ],
-    "category":"media",
+    "category":"Media",
     "release":"1.5"
   },
   "ribbon":{
@@ -3909,7 +3909,7 @@
       "social",
       "speech bubble social"
     ],
-    "category":"Social-Media",
+    "category":"Social Media",
     "release":"1.5"
   },
   "speech-bubbles":{
@@ -4272,7 +4272,7 @@
       "flow-chart",
       "hierarchy"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"1.5"
   },
   "widgets-tabs":{
@@ -4984,7 +4984,7 @@
       "organization",
       "process"
     ],
-    "category":"Charts and Widgets",
+    "category":"Charts and Graphs",
     "release":"2.3.5"
   },
   "no-map":{
@@ -5768,7 +5768,7 @@
       "visualization",
       "charts and graphs"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"3.0.0-beta.3"
   },
   "graph-bar-side-by-side":{
@@ -5781,7 +5781,7 @@
       "diagram",
       "visualization"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"3.0.0-beta.3"
   },
   "graph-bar-stacked":{
@@ -5795,7 +5795,7 @@
       "visualization",
       "stacked"
     ],
-    "category":"Charts-and-Graphs",
+    "category":"Charts and Graphs",
     "release":"3.0.0-beta.3"
   },
   "conditional-rules":{
@@ -6883,7 +6883,7 @@
       "3.10.0",
       "sort ascending arrow"
     ],
-    "category":"List",
+    "category":"Lists",
     "release":"3.10.0"
   },
   "sort-descending-arrow":{
@@ -6891,7 +6891,7 @@
       "3.10.0",
       "sort descending arrow"
     ],
-    "category":"List",
+    "category":"Lists",
     "release":"3.10.0"
   },
   "square-area":{
@@ -7371,5 +7371,42 @@
     ],
     "category":"Generic",
     "release":"3.14.8"
+  }, 
+  "chart-gear":{
+    "alias":[
+      "3.14.9",
+      "chart gear", 
+      "configure chart", 
+      "configure graph", 
+      "chart settings", 
+      "graph settings", 
+      "chart configuration", 
+      "graph configuration", 
+      "bar chart"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.14.9"
+  }, 
+  "esri-community-glyph":{
+    "alias":[
+      "3.14.9",
+      "esri community glyph", 
+      "geonet", 
+      "product logo", 
+      "social media"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.14.9"
+  }, 
+  "esri-community":{
+    "alias":[
+      "3.14.9",
+      "esri community", 
+      "geonet", 
+      "product logo", 
+      "social media"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.14.9"
   }
 }
