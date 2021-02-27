@@ -1487,16 +1487,23 @@
   },
   "expand":{
     "alias":[
-
+      "1.5.0",
+      "arrows",
+      "full screen",
+      "enlarge"
     ],
-    "category":"",
+    "category":"Arrows",
     "release":"1.5"
   },
   "export":{
     "alias":[
-
+      "1.5.0",
+      "arrows",
+      "upload",
+      "deliver",
+      "send"
     ],
-    "category":"",
+    "category":"Arrows",
     "release":"1.5"
   },
   "extent":{
@@ -3141,13 +3148,6 @@
       "business"
     ],
     "category":"Generic",
-    "release":"1.5"
-  },
-  "ortho-stereo":{
-    "alias":[
-
-    ],
-    "category":"",
     "release":"1.5"
   },
   "palette":{
