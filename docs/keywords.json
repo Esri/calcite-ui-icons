@@ -7386,27 +7386,5 @@
     ],
     "category":"Charts and Graphs",
     "release":"3.14.9"
-  }, 
-  "esri-community-glyph":{
-    "alias":[
-      "3.14.9",
-      "esri community glyph", 
-      "geonet", 
-      "product logo", 
-      "social media"
-    ],
-    "category":"Charts and Graphs",
-    "release":"3.14.9"
-  }, 
-  "esri-community":{
-    "alias":[
-      "3.14.9",
-      "esri community", 
-      "geonet", 
-      "product logo", 
-      "social media"
-    ],
-    "category":"Charts and Graphs",
-    "release":"3.14.9"
   }
 }
