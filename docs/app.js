@@ -52,7 +52,8 @@
       var name = $btn.getAttribute('data-icon');
       var icon = icons[name];
       var iconText = name + icon.alias.join('');
-      var matches = iconText.toLowerCase().indexOf(e.target.value.toLowerCase()) > -1;
+      var terms = e.target.value.toLowerCase().split(' ');
+      var matches = terms.reduce((acc, term) => acc && iconText.toLowerCase().includes(term), true);
       if (matches) {
         $btn.classList.remove('hide');
       } else {
