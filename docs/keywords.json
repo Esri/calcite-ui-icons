@@ -7386,5 +7386,34 @@
     ],
     "category":"Charts and Graphs",
     "release":"3.14.9"
+  }, 
+  "superimpose":{
+    "alias":[
+      "3.15.0", 
+      "gis", 
+      "building", 
+      "image", 
+      "3d", 
+      "raster"
+    ],
+    "category":"GIS",
+    "release":"3.15.0"
+  }, 
+  "camera-unlock":{
+    "alias":[
+      "3.15.0", 
+      "objects", 
+      "video", 
+      "photograph", 
+      "picture", 
+      "point and shoot", 
+      "handheld", 
+      "snapshot", 
+      "device", 
+      "technology", 
+      "lock"
+    ],
+    "category":"Objects",
+    "release":"3.15.0"
   }
 }
