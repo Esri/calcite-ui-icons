@@ -4073,7 +4073,7 @@
   },
   "trash":{
     "alias":[
-      "1.5.0",
+      "3.15.1",
       "objects",
       "delete",
       "remove"
@@ -4481,7 +4481,7 @@
   },
   "redo":{
     "alias":[
-      "1.5.0",
+      "3.15.1",
       "arrows",
       "forward"
     ],
@@ -4490,7 +4490,7 @@
   },
   "undo":{
     "alias":[
-      "1.5.0",
+      "3.15.1",
       "arrows",
       "go back",
       "backwards"
