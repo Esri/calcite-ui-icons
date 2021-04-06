@@ -7415,5 +7415,21 @@
     ],
     "category":"Objects",
     "release":"3.15.0"
+  }, 
+  "system-management":{
+    "alias":[
+      "3.15.2", 
+      "generic", 
+      "settings", 
+      "manage", 
+      "tools", 
+      "wrench", 
+      "window", 
+      "options", 
+      "list", 
+      "menu"
+    ],
+    "category":"Generic",
+    "release":"3.15.2"
   }
 }
