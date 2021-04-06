@@ -506,17 +506,6 @@
     "category":"Media",
     "release":"1.5"
   },
-  "bell":{
-    "alias":[
-      "1.5.0",
-      "objects",
-      "notification",
-      "alert",
-      "alarm"
-    ],
-    "category":"Objects",
-    "release":"1.5"
-  },
   "biking":{
     "alias":[
       "1.5.0",
@@ -4306,17 +4295,6 @@
     "category":"Symbols",
     "release":"1.5"
   },
-  "x-circle":{
-    "alias":[
-      "1.5.0",
-      "symbols",
-      "delete",
-      "remove",
-      "close"
-    ],
-    "category":"Symbols",
-    "release":"1.5"
-  },
   "zoom-in-fixed":{
     "alias":[
       "1.5.0",
@@ -5822,18 +5800,6 @@
     "category":"Charts and Graphs",
     "release":"3.0.0-beta.6"
   },
-  "email-address":{
-    "alias":[
-      "3.0.0",
-      "email address",
-      "@",
-      "envelope",
-      "e-mail",
-      "forms"
-    ],
-    "category":"Forms",
-    "release":"3.0.0-beta.6"
-  },
   "form-elements":{
     "alias":[
       "3.0.0",
@@ -6720,7 +6686,8 @@
       "envelope",
       "@",
       "email address",
-      "contact"
+      "contact",
+      "form"
     ],
     "category":"Forms",
     "release":"3.9.0"
@@ -7415,5 +7382,129 @@
     ],
     "category":"Objects",
     "release":"3.15.0"
+  }, 
+  "script":{
+    "alias":[
+      "3.15.2",
+      "receipt", 
+      "code", 
+      "scroll", 
+      "list", 
+      "paper", 
+      "invoice"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "license":{
+    "alias":[
+      "3.15.2",
+      "driver's license", 
+      "pilot's license", 
+      "identification", 
+      "government issued ID", 
+      "photo ID", 
+      "person", 
+      "certification", 
+      "student ID", 
+      "card"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "inspection":{
+    "alias":[
+      "3.15.2",
+      "certification", 
+      "approval", 
+      "award", 
+      "rating", 
+      "notice", 
+      "permit", 
+      "certificate"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "drone-quadcopter":{
+    "alias":[
+      "3.15.2",
+      "multi-rotor drone", 
+      "rotary drone", 
+      "surveillance", 
+      "aerial photography", 
+      "hobby", 
+      "drone inventory", 
+      "drone hardware"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "drone-quadcopter-top":{
+    "alias":[
+      "3.15.2",
+      "multi-rotor drone", 
+      "rotary drone", 
+      "surveillance", 
+      "aerial photography", 
+      "hobby", 
+      "drone hardware", 
+      "drone fleet"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "drone-fixed-wing":{
+    "alias":[
+      "3.15.2",
+      "propeller plane", 
+      "airplane", 
+      "aircraft", 
+      "long-range drone"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "drone-flying-wing":{
+    "alias":[
+      "3.15.2",
+      "airplane", 
+      "aircraft", 
+      "long-range drone", 
+      "glider"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "check-shield":{
+    "alias":[
+      "3.15.2",
+      "insurance", 
+      "protection", 
+      "insured", 
+      "secure", 
+      "security", 
+      "anti-virus", 
+      "cybersecurity", 
+      "defense", 
+      "protected", 
+      "warranty", 
+      "coverage"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
+  }, 
+  "certificate":{
+    "alias":[
+      "3.15.2",
+      "award", 
+      "certification", 
+      "passed", 
+      "achievement", 
+      "diploma", 
+      "ribbon"
+    ],
+    "category":"Objects",
+    "release":"3.15.2"
   }
 }
