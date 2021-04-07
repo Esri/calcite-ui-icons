@@ -7386,6 +7386,7 @@
   "script":{
     "alias":[
       "3.15.2",
+      "objects",
       "receipt", 
       "code", 
       "scroll", 
@@ -7399,6 +7400,8 @@
   "license":{
     "alias":[
       "3.15.2",
+      "objects",
+      "pass",
       "driver's license", 
       "pilot's license", 
       "identification", 
@@ -7415,6 +7418,8 @@
   "inspection":{
     "alias":[
       "3.15.2",
+      "objects",
+      "paper",
       "certification", 
       "approval", 
       "award", 
@@ -7429,6 +7434,7 @@
   "drone-quadcopter":{
     "alias":[
       "3.15.2",
+      "objects",
       "multi-rotor drone", 
       "rotary drone", 
       "surveillance", 
@@ -7443,6 +7449,7 @@
   "drone-quadcopter-top":{
     "alias":[
       "3.15.2",
+      "objects",
       "multi-rotor drone", 
       "rotary drone", 
       "surveillance", 
@@ -7457,6 +7464,7 @@
   "drone-fixed-wing":{
     "alias":[
       "3.15.2",
+      "objects",
       "propeller plane", 
       "airplane", 
       "aircraft", 
@@ -7468,6 +7476,7 @@
   "drone-flying-wing":{
     "alias":[
       "3.15.2",
+      "objects",
       "airplane", 
       "aircraft", 
       "long-range drone", 
@@ -7479,6 +7488,8 @@
   "check-shield":{
     "alias":[
       "3.15.2",
+      "objects",
+      "safety",
       "insurance", 
       "protection", 
       "insured", 
@@ -7497,6 +7508,8 @@
   "certificate":{
     "alias":[
       "3.15.2",
+      "objects",
+      "paper",
       "award", 
       "certification", 
       "passed", 
