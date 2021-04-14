@@ -7535,5 +7535,20 @@
     ],
     "category":"Generic",
     "release":"3.15.2"
+  }, 
+  "image-plus":{
+    "alias":[
+      "3.15.3",
+      "Media", 
+      "add image", 
+      "attach image", 
+      "attach photo", 
+      "add photo", 
+      "insert photo", 
+      "insert image", 
+      "upload image"
+    ],
+    "category":"Media",
+    "release":"3.15.3"
   }
 }
