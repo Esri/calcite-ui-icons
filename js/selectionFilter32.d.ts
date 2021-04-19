@@ -1,1 +1,1 @@
-export const selectionFilter32: CalciteMultiPathEntry;
+export const selectionFilter32: CalciteMultiPathEntry[];

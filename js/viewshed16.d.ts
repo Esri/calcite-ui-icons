@@ -1,1 +1,1 @@
-export const viewshed16: CalciteMultiPathEntry;
+export const viewshed16: CalciteMultiPathEntry[];

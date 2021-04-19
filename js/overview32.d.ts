@@ -1,1 +1,1 @@
-export const overview32: CalciteMultiPathEntry;
+export const overview32: CalciteMultiPathEntry[];

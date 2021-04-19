@@ -1,1 +1,1 @@
-export const squareArea24: CalciteMultiPathEntry;
+export const squareArea24: CalciteMultiPathEntry[];
