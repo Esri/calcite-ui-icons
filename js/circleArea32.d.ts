@@ -1,1 +1,1 @@
-export const circleArea32: CalciteMultiPathEntry;
+export const circleArea32: CalciteMultiPathEntry[];

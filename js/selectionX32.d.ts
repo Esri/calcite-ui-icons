@@ -1,1 +1,1 @@
-export const selectionX32: CalciteMultiPathEntry;
+export const selectionX32: CalciteMultiPathEntry[];

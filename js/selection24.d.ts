@@ -1,1 +1,1 @@
-export const selection24: CalciteMultiPathEntry;
+export const selection24: CalciteMultiPathEntry[];

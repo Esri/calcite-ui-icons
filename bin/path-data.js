@@ -117,9 +117,9 @@ export type CalciteIconPath = string | CalciteMultiPathEntry[];
           tsContents = `export const ${camelCaseName}: string;\n`;
         } else {
           icon.multiPath = true;
-          tsFile += `export const ${camelCaseName}: CalciteMultiPathEntry;\n`;
+          tsFile += `export const ${camelCaseName}: CalciteMultiPathEntry[];\n`;
           contents = `export const ${camelCaseName} = ${JSON.stringify(paths)};\n`;
-          tsContents = `export const ${camelCaseName}: CalciteMultiPathEntry;\n`;
+          tsContents = `export const ${camelCaseName}: CalciteMultiPathEntry[];\n`;
         }
 
         fs.writeFile(`js/${camelCaseName}.js`, contents, 'utf8');

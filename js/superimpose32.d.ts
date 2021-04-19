@@ -1,1 +1,1 @@
-export const superimpose32: CalciteMultiPathEntry;
+export const superimpose32: CalciteMultiPathEntry[];

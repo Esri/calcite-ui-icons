@@ -1,1 +1,1 @@
-export const polygonArea32: CalciteMultiPathEntry;
+export const polygonArea32: CalciteMultiPathEntry[];

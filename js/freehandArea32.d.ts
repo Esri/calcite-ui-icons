@@ -1,1 +1,1 @@
-export const freehandArea32: CalciteMultiPathEntry;
+export const freehandArea32: CalciteMultiPathEntry[];
