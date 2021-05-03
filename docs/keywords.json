@@ -7550,5 +7550,102 @@
     ],
     "category":"Media",
     "release":"3.15.3"
+  }, 
+  "file-data":{
+    "alias":[
+      "3.16.0", 
+      "files", 
+      "document", 
+      "database", 
+      "file type", 
+      "file format", 
+      "data sheet"
+    ],
+    "category":"Files",
+    "release":"3.16.0"
+  }, 
+  "file-kml":{
+    "alias":[
+      "3.16.0", 
+      "files", 
+      "keyhole markup language", 
+      "file type", 
+      "file format"
+    ],
+    "category":"Files",
+    "release":"3.16.0"
+  }, 
+  "file-shape":{
+    "alias":[
+      "3.16.0", 
+      "file type", 
+      "file format", 
+      "vector file", 
+      "shapefile", 
+      "vector data"
+    ],
+    "category":"Files",
+    "release":"3.16.0"
+  }, 
+  "frown":{
+    "alias":[
+      "3.16.0", 
+      "generic", 
+      "sad", 
+      "dissatisfied", 
+      "dissatisfaction", 
+      "unhappy", 
+      "face",
+      "dislike", 
+      "emoji"
+    ],
+    "category":"Generic",
+    "release":"3.16.0"
+  }, 
+  "image-pin":{
+    "alias":[
+      "3.16.0", 
+      "media", 
+      "photo", 
+      "picture", 
+      "photograph", 
+      "imagery", 
+      "location", 
+      "feature", 
+      "gis", 
+      "georeferenced", 
+      "map pin"
+    ],
+    "category":"Media",
+    "release":"3.16.0"
+  }, 
+  "server-lock":{
+    "alias":[
+      "3.16.0", 
+      "generic", 
+      "servers", 
+      "connection", 
+      "secure", 
+      "private", 
+      "protected", 
+      "locked", 
+      "safe"
+    ],
+    "category":"Generic",
+    "release":"3.16.0"
+  }, 
+  "smile":{
+    "alias":[
+      "3.16.0", 
+      "generic", 
+      "happy", 
+      "satisfied", 
+      "satisfaction", 
+      "face", 
+      "emoji", 
+      "like"
+    ],
+    "category":"Generic",
+    "release":"3.16.0"
   }
 }
