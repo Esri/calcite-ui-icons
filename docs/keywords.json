@@ -6711,6 +6711,7 @@
   "server":{
     "alias":[
       "3.16.0",
+      "generic",
       "servers",
       "connection"
     ],
@@ -7578,6 +7579,7 @@
   "file-shape":{
     "alias":[
       "3.16.0", 
+      "files", 
       "file type", 
       "file format", 
       "vector file", 
