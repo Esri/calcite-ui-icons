@@ -7653,7 +7653,7 @@
   "tour-pin-tear":{
     "alias":[
       "3.16.1",
-      "generic",
+      "gis",
       "location", 
       "map pin", 
       "map marker", 
@@ -7661,7 +7661,7 @@
       "dropped pin", 
       "drop pin"
     ],
-    "category":"Generic",
+    "category":"GIS",
     "release":"3.16.1"
   }, 
   "map-pin":{
