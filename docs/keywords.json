@@ -7649,5 +7649,107 @@
     ],
     "category":"Generic",
     "release":"3.16.0"
+  }, 
+  "tour-pin-tear":{
+    "alias":[
+      "3.16.1",
+      "gis",
+      "location", 
+      "map pin", 
+      "map marker", 
+      "destination", 
+      "dropped pin", 
+      "drop pin"
+    ],
+    "category":"GIS",
+    "release":"3.16.1"
+  }, 
+  "map-pin":{
+    "alias":[
+      "3.16.1",
+      "gis",
+      "location", 
+      "map pin", 
+      "map marker", 
+      "destination", 
+      "dropped pin", 
+      "drop pin"
+    ],
+    "category":"GIS",
+    "release":"3.16.1"
+  }, 
+  "pin-tear":{
+    "alias":[
+      "3.16.1",
+      "generic",
+      "location", 
+      "map pin", 
+      "map marker", 
+      "destination", 
+      "dropped pin", 
+      "drop pin"
+    ],
+    "category":"Generic",
+    "release":"3.16.1"
+  }, 
+  "pin-tear-f":{
+    "alias":[
+      "3.16.1",
+      "generic",
+      "location", 
+      "map pin", 
+      "map marker", 
+      "destination", 
+      "dropped pin", 
+      "drop pin"
+    ],
+    "category":"Generic",
+    "release":"3.16.1"
+  }, 
+  "pop-up-1":{
+    "alias":[
+      "3.16.1",
+      "generic",
+      "first location", 
+      "map pin", 
+      "map marker", 
+      "destination", 
+      "dropped pin", 
+      "drop pin", 
+      "one", 
+      "box pin"
+    ],
+    "category":"Generic",
+    "release":"3.16.1"
+  }, 
+  "pop-up-blank":{
+    "alias":[
+      "3.16.1",
+      "generic",
+      "location", 
+      "map pin", 
+      "map marker", 
+      "destination", 
+      "dropped pin", 
+      "drop pin", 
+      "box pin"
+    ],
+    "category":"Generic",
+    "release":"3.16.1"
+  }, 
+  "pop-up-blank-f":{
+    "alias":[
+      "3.16.1",
+      "generic",
+      "location", 
+      "map pin", 
+      "map marker", 
+      "destination", 
+      "dropped pin", 
+      "drop pin", 
+      "box pin"
+    ],
+    "category":"Generic",
+    "release":"3.16.1"
   }
 }
