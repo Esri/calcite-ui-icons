@@ -7751,5 +7751,53 @@
     ],
     "category":"Generic",
     "release":"3.16.1"
+  }, 
+  "toggle":{
+    "alias":[
+      "3.16.2", 
+      "generic", 
+      "toggles", 
+      "on-off", 
+      "choice", 
+      "choose", 
+      "button", 
+      "enable", 
+      "disable", 
+      "switch"
+    ],
+    "category":"Generic",
+    "release":"3.16.2"
+  }, 
+  "toggle-off":{
+    "alias":[
+      "3.16.2", 
+      "generic", 
+      "toggles", 
+      "on-off", 
+      "choice", 
+      "choose", 
+      "button", 
+      "enable", 
+      "disable", 
+      "switch"
+    ],
+    "category":"Generic",
+    "release":"3.16.2"
+  }, 
+  "toggle-on":{
+    "alias":[
+      "3.16.2", 
+      "generic", 
+      "toggles", 
+      "on-off", 
+      "choice", 
+      "choose", 
+      "button", 
+      "enable", 
+      "disable", 
+      "switch"
+    ],
+    "category":"Generic",
+    "release":"3.16.2"
   }
 }
