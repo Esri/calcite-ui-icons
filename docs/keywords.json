@@ -7803,6 +7803,7 @@
   "effects":{
     "alias":[
       "3.16.3",
+      "objects",
       "flash", 
       "sparkles", 
       "filters", 
