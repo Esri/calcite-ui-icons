@@ -7799,5 +7799,19 @@
     ],
     "category":"Generic",
     "release":"3.16.2"
+  }, 
+  "effects":{
+    "alias":[
+      "3.16.3",
+      "flash", 
+      "sparkles", 
+      "filters", 
+      "stars", 
+      "constellations", 
+      "flashy", 
+      "shiny"
+    ],
+    "category":"Objects",
+    "release":"3.16.3"
   }
 }
