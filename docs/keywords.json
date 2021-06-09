@@ -7817,7 +7817,7 @@
     },
     "open-book": {
         "alias": [
-            "3.17.0",
+            "3.16.4",
             "learning",
             "reading",
             "story",
@@ -7826,6 +7826,6 @@
             "objects"
         ],
         "category": "objects",
-        "release": "3.17.0"
+        "release": "3.16.4"
     }
 }
