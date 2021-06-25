@@ -7827,5 +7827,126 @@
         ],
         "category": "objects",
         "release": "3.16.4"
+    }, 
+    "bring-forward":{
+      "alias":[
+        "Generic", 
+        "3.16.5", 
+        "front", 
+        "move", 
+        "stack", 
+        "layers", 
+        "squares",
+        "in front", 
+        "order"
+      ],
+      "category":"Generic",
+      "release":"3.16.5"
+    }, 
+    "bring-to-front":{
+      "alias":[
+        "Generic", 
+        "3.16.5", 
+        "front", 
+        "move", 
+        "stack", 
+        "layers", 
+        "squares",
+        "in front",
+        "order"
+      ],
+      "category":"Generic",
+      "release":"3.16.5"
+    }, 
+    "cloud":{
+      "alias":[
+        "Symbols", 
+        "3.16.5", 
+        "connected", 
+        "internet", 
+        "connection", 
+        "syncing", 
+        "the cloud", 
+        "service", 
+        "hosting"
+      ],
+      "category":"Symbols",
+      "release":"3.16.5"
+    }, 
+    "send-backwards":{
+      "alias":[
+        "Generic", 
+        "3.16.5", 
+        "back", 
+        "move", 
+        "stack", 
+        "layers", 
+        "squares", 
+        "order", 
+        "behind"
+      ],
+      "category":"Generic",
+      "release":"3.16.5"
+    }, 
+    "send-to-back":{
+      "alias":[
+        "Generic", 
+        "3.16.5", 
+        "back", 
+        "move", 
+        "stack", 
+        "layers", 
+        "squares", 
+        "order", 
+        "behind"
+      ],
+      "category":"Generic",
+      "release":"3.16.5"
+    }, 
+    "snap-to-grid":{
+      "alias":[
+        "Generic", 
+        "3.16.5", 
+        "drawing", 
+        "snapping", 
+        "magnet"
+      ],
+      "category":"Generic",
+      "release":"3.16.5"
+    }, 
+    "snap-to-pixel":{
+      "alias":[
+        "Generic", 
+        "3.16.5", 
+        "magnet", 
+        "raster", 
+        "drawing"
+      ],
+      "category":"Generic",
+      "release":"3.16.5"
+    }, 
+    "snap-to-point":{
+      "alias":[
+        "Generic", 
+        "3.16.5", 
+        "drawing", 
+        "snap to object", 
+        "vectors"
+      ],
+      "category":"Generic",
+      "release":"3.16.5"
+    }, 
+    "tabbed-view":{
+      "alias":[
+        "Lists", 
+        "3.16.5", 
+        "tabs", 
+        "bullet points", 
+        "bulleted lists", 
+        "list items", 
+        "switch view"
+      ],
+      "category":"Lists",
+      "release":"3.16.5"
     }
 }
