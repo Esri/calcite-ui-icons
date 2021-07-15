@@ -7948,5 +7948,207 @@
       ],
       "category":"Lists",
       "release":"3.16.5"
+    }, 
+    "actual-size":{
+      "alias":[
+        "3.16.6", 
+        "windows", 
+        "100%", 
+        "true scale", 
+        "true size", 
+        "1:1", 
+        "actual scale", 
+        "view", 
+        "no zoom", 
+        "extent", 
+        "screen"
+      ],
+      "category":"Windows",
+      "release":"3.16.6"
+    }, 
+    "brush-tip":{
+      "alias":[
+        "3.16.6", 
+        "objects", 
+        "drawing", 
+        "tool", 
+        "instrument", 
+        "painting", 
+        "art", 
+        "freehand", 
+        "illustrate", 
+        "design"
+      ],
+      "category":"Objects",
+      "release":"3.16.6"
+    }, 
+    "bullet-point":{
+      "alias":[
+        "3.16.6", 
+        "generic", 
+        "dot", 
+        "item"
+      ],
+      "category":"Generic",
+      "release":"3.16.6"
+    }, 
+    "form-field-off":{
+      "alias":[
+        "3.16.6", 
+        "forms", 
+        "input", 
+        "text box", 
+        "none", 
+        "empty", 
+        "no text", 
+        "text off", 
+        "no label", 
+        "label off"
+      ],
+      "category":"Forms",
+      "release":"3.16.6"
+    }, 
+    "full-screen":{
+      "alias":[
+        "3.16.6", 
+        "windows", 
+        "fit to screen", 
+        "fill screen", 
+        "enlarge", 
+        "expand", 
+        "present", 
+        "arrows"
+      ],
+      "category":"Windows",
+      "release":"3.16.6"
+    }, 
+    "halo":{
+      "alias":[
+        "3.16.6", 
+        "generic", 
+        "glow", 
+        "shadow", 
+        "drop shadow", 
+        "box", 
+        "square", 
+        "light"
+      ],
+      "category":"Generic",
+      "release":"3.16.6"
+    }, 
+    "highlighter":{
+      "alias":[
+        "3.16.6", 
+        "objects", 
+        "drawing", 
+        "tool", 
+        "instrument", 
+        "marker", 
+        "sharpie"
+      ],
+      "category":"Objects",
+      "release":"3.16.6"
+    }, 
+    "highlighter-tip":{
+      "alias":[
+        "3.16.6", 
+        "objects", 
+        "drawing", 
+        "tool", 
+        "instrument", 
+        "marker", 
+        "sharpie"
+      ],
+      "category":"Objects",
+      "release":"3.16.6"
+    }, 
+    "no-attachment":{
+      "alias":[
+        "3.16.6", 
+        "objects", 
+        "no-file", 
+        "paper clip", 
+        "empty", 
+        "missing",
+        "none",
+        "off"
+      ],
+      "category":"Objects",
+      "release":"3.16.6"
+    }, 
+    "no-image":{
+      "alias":[
+        "3.16.6", 
+        "media", 
+        "no picture", 
+        "no photograph", 
+        "no picture", 
+        "no-file", 
+        "empty", 
+        "missing", 
+        "none", 
+        "off"
+      ],
+      "category":"Media",
+      "release":"3.16.6"
+    }, 
+    "paint-bucket":{
+      "alias":[
+        "3.16.6", 
+        "objects", 
+        "drawing", 
+        "tool", 
+        "fill", 
+        "painting", 
+        "art", 
+        "color", 
+        "illustrate", 
+        "design", 
+        "3.16.6", 
+        "objects", 
+        "drawing", 
+        "tool", 
+        "instrument", 
+        "painting", 
+        "art", 
+        "freehand", 
+        "illustrate", 
+        "design"
+      ],
+      "category":"Objects",
+      "release":"3.16.6"
+    }, 
+    "pen-tip":{
+      "alias":[
+        "3.16.6", 
+        "objects", 
+        "drawing", 
+        "tool", 
+        "instrument", 
+        "art", 
+        "freehand", 
+        "illustrate", 
+        "design", 
+        "write", 
+        "signature"
+      ],
+      "category":"Objects",
+      "release":"3.16.6"
+    }, 
+    "pencil-tip":{
+      "alias":[
+        "3.16.6", 
+        "objects", 
+        "drawing", 
+        "tool", 
+        "instrument", 
+        "write", 
+        "art", 
+        "freehand", 
+        "illustrate", 
+        "design"
+      ],
+      "category":"Objects",
+      "release":"3.16.6"
     }
 }
