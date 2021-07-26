@@ -1642,7 +1642,7 @@
     },
     "file-magnifying-glass": {
         "alias": [
-            "1.5.0",
+            "3.16.7",
             "search documents",
             "search files",
             "review",
@@ -4345,13 +4345,14 @@
     },
     "search": {
         "alias": [
-            "1.5.0",
+            "3.16.7",
             "symbols",
             "magnifying glass",
             "locate",
             "reveal",
             "find",
             "filter",
+            "identify"
             "search field"
         ],
         "category": "Symbols",
