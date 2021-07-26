@@ -8150,5 +8150,23 @@
       ],
       "category":"Objects",
       "release":"3.16.6"
+    }, 
+    "data-magnifying-glass":{
+      "alias":[
+        "3.16.7", 
+        "generic", 
+        "database", 
+        "server", 
+        "search", 
+        "find", 
+        "look", 
+        "locate", 
+        "store", 
+        "storage", 
+        "identify",
+        "analyze"
+      ],
+      "category":"Generic",
+      "release":"3.16.7"
     }
 }
