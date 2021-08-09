@@ -8165,5 +8165,49 @@
       ],
       "category":"Generic",
       "release":"3.16.7"
+    }, 
+    "sensor":{
+      "alias":[
+        "3.16.8", 
+        "objects", 
+        "device", 
+        "radar", 
+        "wifi", 
+        "signal", 
+        "communication", 
+        "remote sensing", 
+        "technology", 
+        "smart sensor"
+      ],
+      "category":"Objects",
+      "release":"3.16.8"
+    }, 
+    "mobile-vibrate":{
+      "alias":[
+        "3.16.8", 
+        "objects", 
+        "cell phone", 
+        "device", 
+        "vibration", 
+        "settings", 
+        "sounds", 
+        "haptics", 
+        "mode", 
+        "alert", 
+        "notification"
+      ],
+      "category":"Objects",
+      "release":"3.16.8"
+    }, 
+    "diamond":{
+      "alias":[
+        "3.16.8", 
+        "generic", 
+        "shape", 
+        "symbol", 
+        "glyph"
+      ],
+      "category":"Generic",
+      "release":"3.16.8"
     }
 }
