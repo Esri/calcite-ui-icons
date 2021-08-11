@@ -76,16 +76,6 @@
         "category": "Text",
         "release": "1.5"
     },
-    "android": {
-        "alias": [
-            "1.5.0",
-            "mobile",
-            "logo",
-            "os"
-        ],
-        "category": "Brand",
-        "release": "1.5"
-    },
     "app-launcher": {
         "alias": [
             "1.5.0",
@@ -124,27 +114,6 @@
             "agol"
         ],
         "category": "Brand",
-        "release": "1.5"
-    },
-    "arrow": {
-        "alias": [
-            "1.5.0",
-            "next",
-            "previous",
-            "up",
-            "down"
-        ],
-        "category": "Arrows",
-        "release": "1.5"
-    },
-    "arrow-bold": {
-        "alias": [
-            "1.5.0",
-            "right",
-            "directions",
-            "next"
-        ],
-        "category": "Arrows",
         "release": "1.5"
     },
     "arrow-bold-down": {
@@ -193,13 +162,6 @@
             "positive",
             "high",
             "increase"
-        ],
-        "category": "Arrows",
-        "release": "1.5"
-    },
-    "arrow-diagonal": {
-        "alias": [
-
         ],
         "category": "Arrows",
         "release": "1.5"
@@ -643,13 +605,6 @@
         "category": "Objects",
         "release": "1.5"
     },
-    "caret": {
-        "alias": [
-
-        ],
-        "category": "Generic",
-        "release": "1.5"
-    },
     "caret-down": {
         "alias": [
             "1.5.0",
@@ -686,15 +641,6 @@
             "dropdown"
         ],
         "category": "Symbols",
-        "release": "1.5"
-    },
-    "caret-square": {
-        "alias": [
-            "1.5.0",
-            "dropdown",
-            "accordion"
-        ],
-        "category": "Generic",
         "release": "1.5"
     },
     "caret-square-down": {
@@ -840,14 +786,6 @@
         "category": "Symbols",
         "release": "1.5"
     },
-    "chevron": {
-        "alias": [
-            "1.5.0",
-            "arrow"
-        ],
-        "category": "Symbols",
-        "release": "1.5"
-    },
     "chevron-down": {
         "alias": [
             "1.5.0",
@@ -879,14 +817,6 @@
         "alias": [
             "1.5.0",
             "symbols",
-            "arrow"
-        ],
-        "category": "Symbols",
-        "release": "1.5"
-    },
-    "chevrons": {
-        "alias": [
-            "1.5.0",
             "arrow"
         ],
         "category": "Symbols",
@@ -963,17 +893,6 @@
             "cancel"
         ],
         "category": "Symbols",
-        "release": "1.5"
-    },
-    "circle-filled": {
-        "alias": [
-            "1.5.0",
-            "generic",
-            "radio",
-            "shape",
-            "button"
-        ],
-        "category": "Generic",
         "release": "1.5"
     },
     "clock": {
@@ -1062,17 +981,6 @@
             "east",
             "west",
             "explore"
-        ],
-        "category": "GIS",
-        "release": "1.5"
-    },
-    "compass-north": {
-        "alias": [
-            "1.5.0",
-            "gis",
-            "directions",
-            "my-location",
-            "gps"
         ],
         "category": "GIS",
         "release": "1.5"
@@ -2108,14 +2016,6 @@
             "visualization",
             "average",
             "line chart"
-        ],
-        "category": "Charts and Graphs",
-        "release": "1.5"
-    },
-    "graph-pie": {
-        "alias": [
-            "1.5.0",
-            "chart"
         ],
         "category": "Charts and Graphs",
         "release": "1.5"
@@ -4476,17 +4376,6 @@
         "category": "Arrows",
         "release": "1.5"
     },
-    "satellite": {
-        "alias": [
-            "1.5.0",
-            "objects",
-            "artificial satellite",
-            "communication",
-            "remote sensing"
-        ],
-        "category": "Objects",
-        "release": "1.5"
-    },
     "minus-square": {
         "alias": [
             "1.5.0",
@@ -4494,24 +4383,6 @@
             "hyphen"
         ],
         "category": "Symbols",
-        "release": "1.5"
-    },
-    "compass-circle": {
-        "alias": [
-            "1.5.0",
-            "orientation",
-            "navigation",
-            "navigate",
-            "directions",
-            "gis",
-            "north",
-            "south",
-            "east",
-            "west",
-            "my-location",
-            "explore"
-        ],
-        "category": "GIS",
         "release": "1.5"
     },
     "slice": {
@@ -4876,18 +4747,6 @@
         "category": "GIS",
         "release": "2.3.2"
     },
-    "polygon-vertices-check": {
-        "alias": [
-            "2.3.2",
-            "checkmark",
-            "confirm",
-            "drawing",
-            "draw polygon",
-            "vertices"
-        ],
-        "category": "GIS",
-        "release": "2.3.2"
-    },
     "polygon-vertices": {
         "alias": [
             "2.3.2",
@@ -5027,18 +4886,6 @@
             "GIS"
         ],
         "category": "GIS",
-        "release": "2.5.1"
-    },
-    "beta-features-menu": {
-        "alias": [
-            "2.5.1",
-            "symbols",
-            "special character",
-            "new feature",
-            "letter",
-            "greek character"
-        ],
-        "category": "Symbol",
         "release": "2.5.1"
     },
     "bluetooth": {
@@ -6403,18 +6250,6 @@
             "large type"
         ],
         "category": "Text",
-        "release": "3.7.0"
-    },
-    "music-notes": {
-        "alias": [
-            "3.7.0",
-            "music notes",
-            "song",
-            "sounds",
-            "melody",
-            "harmony"
-        ],
-        "category": "Media",
         "release": "3.7.0"
     },
     "cursor-lock": {
