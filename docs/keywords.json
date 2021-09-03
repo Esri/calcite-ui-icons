@@ -7033,10 +7033,14 @@
             "generic",
             "thumbs up",
             "hand",
+            "satisfied",
             "like",
             "satisfactory",
             "encouragement",
             "yes",
+            "approve",
+            "pass",
+            "verify",
             "positive"
         ],
         "category": "Generic",
@@ -8195,7 +8199,7 @@
     "show-column":{
       "alias":[
         "3.16.9", 
-        "Generic", 
+        "generic", 
         "windows", 
         "table", 
         "view", 
@@ -8218,8 +8222,11 @@
         "rating", 
         "feedback", 
         "unhelpful", 
-        "hand", 
-        "dissatisfied"
+        "hand",
+        "reject", 
+        "fail",
+        "dissatisfied",
+        "disapprove"
       ],
       "category":"Generic",
       "release":"3.16.9"
