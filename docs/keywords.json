@@ -8191,5 +8191,37 @@
       ],
       "category":"GIS",
       "release":"3.16.8"
+    }, 
+    "show-column":{
+      "alias":[
+        "3.16.9", 
+        "Generic", 
+        "windows", 
+        "table", 
+        "view", 
+        "eye", 
+        "visible", 
+        "unhide", 
+        "columns", 
+        "see"
+      ],
+      "category":"Generic",
+      "release":"3.16.9"
+    }, 
+    "thumbs-down":{
+      "alias":[
+        "3.16.9", 
+        "generic", 
+        "disapproval", 
+        "dislike", 
+        "unhappy", 
+        "rating", 
+        "feedback", 
+        "unhelpful", 
+        "hand", 
+        "dissatisfied"
+      ],
+      "category":"Generic",
+      "release":"3.16.9"
     }
 }
