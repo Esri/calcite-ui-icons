@@ -8233,7 +8233,7 @@
     }, 
     "processing-templates":{
       "alias":[
-        "3.2.0",
+        "3.17.0",
         "GIS", 
         "layers", 
         "graphics", 
@@ -8244,11 +8244,11 @@
         "fx"
       ],
       "category":"GIS",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "feature-display-order":{
       "alias":[
-        "3.2.0",
+        "3.17.0",
         "GIS", 
         "mosaic", 
         "raster", 
@@ -8260,12 +8260,12 @@
         "overlay"
       ],
       "category":"GIS",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "beacon":{
       "alias":[
         "generic", 
-        "3.2.0", 
+        "3.17.0", 
         "radar", 
         "connect", 
         "wifi", 
@@ -8276,12 +8276,12 @@
         "communication"
       ],
       "category":"Generic",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "fingerprint":{
       "alias":[
         "generic", 
-        "3.2.0", 
+        "3.17.0", 
         "biometric", 
         "identification", 
         "identity", 
@@ -8292,12 +8292,12 @@
         "access"
       ],
       "category":"Generic",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "lasso-select":{
       "alias":[
         "Generic", 
-        "3.2.0", 
+        "3.17.0", 
         "marquee", 
         "draw", 
         "freehand", 
@@ -8305,11 +8305,11 @@
         "selection"
       ],
       "category":"Generic",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "oriented-imagery-widget":{
       "alias":[
-        "3.2.0",
+        "3.17.0",
         "GIS", 
         "sight", 
         "vision", 
@@ -8317,11 +8317,11 @@
         "locate"
       ],
       "category":"Generic",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "package":{
       "alias":[
-        "3.2.0",
+        "3.17.0",
         "Objects", 
         "3.2.0", 
         "stack", 
@@ -8337,11 +8337,11 @@
         "group"
       ],
       "category":"Objects",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "wifi":{
       "alias":[
-        "3.2.0",
+        "3.17.0",
         "generic", 
         "radar", 
         "connect", 
@@ -8353,11 +8353,11 @@
         "communication"
       ],
       "category":"Generic",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }, 
     "speech-bubble-check":{
       "alias":[
-        "3.2.0",
+        "3.17.0",
         "generic", 
         "3.2.0", 
         "comment", 
@@ -8369,6 +8369,6 @@
         "inquiry"
       ],
       "category":"Generic",
-      "release":"3.2.0"
+      "release":"3.17.0"
     }
 }
