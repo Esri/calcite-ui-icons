@@ -1,1 +1,1 @@
-export const snapToPixel32: CalciteMultiPathEntry;
+export const snapToPixel32: CalciteMultiPathEntry[];

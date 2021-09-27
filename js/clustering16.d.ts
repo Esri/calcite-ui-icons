@@ -1,1 +1,1 @@
-export const clustering16: CalciteMultiPathEntry;
+export const clustering16: CalciteMultiPathEntry[];

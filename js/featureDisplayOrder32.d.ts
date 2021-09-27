@@ -1,1 +1,1 @@
-export const featureDisplayOrder32: CalciteMultiPathEntry;
+export const featureDisplayOrder32: CalciteMultiPathEntry[];

@@ -1,1 +1,1 @@
-export const halo32: CalciteMultiPathEntry;
+export const halo32: CalciteMultiPathEntry[];

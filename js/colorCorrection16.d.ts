@@ -1,1 +1,1 @@
-export const colorCorrection16: CalciteMultiPathEntry;
+export const colorCorrection16: CalciteMultiPathEntry[];

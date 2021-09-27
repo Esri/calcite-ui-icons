@@ -1,1 +1,1 @@
-export const classifyPixels24: CalciteMultiPathEntry;
+export const classifyPixels24: CalciteMultiPathEntry[];

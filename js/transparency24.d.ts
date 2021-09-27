@@ -1,1 +1,1 @@
-export const transparency24: CalciteMultiPathEntry;
+export const transparency24: CalciteMultiPathEntry[];

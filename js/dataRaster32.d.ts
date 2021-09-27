@@ -1,1 +1,1 @@
-export const dataRaster32: CalciteMultiPathEntry;
+export const dataRaster32: CalciteMultiPathEntry[];
