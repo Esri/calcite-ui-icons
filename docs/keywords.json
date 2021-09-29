@@ -7667,814 +7667,896 @@
         "category": "Objects",
         "release": "3.16.4"
     },
-    "bring-forward":{
-      "alias":[
-        "Generic",
-        "3.16.5",
-        "front",
-        "move",
-        "stack",
-        "layers",
-        "squares",
-        "in front",
-        "order"
-      ],
-      "category":"Generic",
-      "release":"3.16.5"
-    },
-    "bring-to-front":{
-      "alias":[
-        "Generic",
-        "3.16.5",
-        "front",
-        "move",
-        "stack",
-        "layers",
-        "squares",
-        "in front",
-        "order"
-      ],
-      "category":"Generic",
-      "release":"3.16.5"
-    },
-    "cloud":{
-      "alias":[
-        "Symbols",
-        "3.16.5",
-        "connected",
-        "internet",
-        "connection",
-        "syncing",
-        "the cloud",
-        "service",
-        "hosting"
-      ],
-      "category":"Symbols",
-      "release":"3.16.5"
-    },
-    "send-backwards":{
-      "alias":[
-        "Generic",
-        "3.16.5",
-        "back",
-        "move",
-        "stack",
-        "layers",
-        "squares",
-        "order",
-        "behind"
-      ],
-      "category":"Generic",
-      "release":"3.16.5"
-    },
-    "send-to-back":{
-      "alias":[
-        "Generic",
-        "3.16.5",
-        "back",
-        "move",
-        "stack",
-        "layers",
-        "squares",
-        "order",
-        "behind"
-      ],
-      "category":"Generic",
-      "release":"3.16.5"
-    },
-    "snap-to-grid":{
-      "alias":[
-        "Generic",
-        "3.16.5",
-        "drawing",
-        "snapping",
-        "magnet"
-      ],
-      "category":"Generic",
-      "release":"3.16.5"
-    },
-    "snap-to-pixel":{
-      "alias":[
-        "Generic",
-        "3.16.5",
-        "magnet",
-        "raster",
-        "drawing"
-      ],
-      "category":"Generic",
-      "release":"3.16.5"
-    },
-    "snap-to-point":{
-      "alias":[
-        "Generic",
-        "3.16.5",
-        "drawing",
-        "snap to object",
-        "vectors"
-      ],
-      "category":"Generic",
-      "release":"3.16.5"
-    },
-    "tabbed-view":{
-      "alias":[
-        "Lists",
-        "3.16.5",
-        "tabs",
-        "bullet points",
-        "bulleted lists",
-        "list items",
-        "switch view"
-      ],
-      "category":"Lists",
-      "release":"3.16.5"
-    },
-    "actual-size":{
-      "alias":[
-        "3.16.6",
-        "windows",
-        "100%",
-        "true scale",
-        "true size",
-        "1:1",
-        "actual scale",
-        "view",
-        "no zoom",
-        "extent",
-        "screen"
-      ],
-      "category":"Windows",
-      "release":"3.16.6"
-    },
-    "brush-tip":{
-      "alias":[
-        "3.16.6",
-        "objects",
-        "drawing",
-        "tool",
-        "instrument",
-        "painting",
-        "art",
-        "freehand",
-        "illustrate",
-        "design"
-      ],
-      "category":"Objects",
-      "release":"3.16.6"
-    },
-    "bullet-point":{
-      "alias":[
-        "3.16.6",
-        "generic",
-        "dot",
-        "item"
-      ],
-      "category":"Generic",
-      "release":"3.16.6"
-    },
-    "form-field-off":{
-      "alias":[
-        "3.16.6",
-        "forms",
-        "input",
-        "text box",
-        "none",
-        "empty",
-        "no text",
-        "text off",
-        "no label",
-        "label off"
-      ],
-      "category":"Forms",
-      "release":"3.16.6"
-    },
-    "full-screen":{
-      "alias":[
-        "3.16.6",
-        "windows",
-        "fit to screen",
-        "fill screen",
-        "enlarge",
-        "expand",
-        "present",
-        "arrows"
-      ],
-      "category":"Windows",
-      "release":"3.16.6"
-    },
-    "halo":{
-      "alias":[
-        "3.16.6",
-        "generic",
-        "glow",
-        "shadow",
-        "drop shadow",
-        "box",
-        "square",
-        "light"
-      ],
-      "category":"Generic",
-      "release":"3.16.6"
-    },
-    "highlighter":{
-      "alias":[
-        "3.16.6",
-        "objects",
-        "drawing",
-        "tool",
-        "instrument",
-        "marker",
-        "sharpie"
-      ],
-      "category":"Objects",
-      "release":"3.16.6"
-    },
-    "highlighter-tip":{
-      "alias":[
-        "3.16.6",
-        "objects",
-        "drawing",
-        "tool",
-        "instrument",
-        "marker",
-        "sharpie"
-      ],
-      "category":"Objects",
-      "release":"3.16.6"
-    },
-    "no-attachment":{
-      "alias":[
-        "3.16.6",
-        "objects",
-        "no-file",
-        "paper clip",
-        "empty",
-        "missing",
-        "none",
-        "off"
-      ],
-      "category":"Objects",
-      "release":"3.16.6"
-    },
-    "no-image":{
-      "alias":[
-        "3.16.6",
-        "media",
-        "no picture",
-        "no photograph",
-        "no picture",
-        "no-file",
-        "empty",
-        "missing",
-        "none",
-        "off"
-      ],
-      "category":"Media",
-      "release":"3.16.6"
-    },
-    "paint-bucket":{
-      "alias":[
-        "3.16.6",
-        "objects",
-        "drawing",
-        "tool",
-        "fill",
-        "painting",
-        "art",
-        "color",
-        "illustrate",
-        "design",
-        "3.16.6",
-        "objects",
-        "drawing",
-        "tool",
-        "instrument",
-        "painting",
-        "art",
-        "freehand",
-        "illustrate",
-        "design"
-      ],
-      "category":"Objects",
-      "release":"3.16.6"
-    },
-    "pen-tip":{
-      "alias":[
-        "3.16.6",
-        "objects",
-        "drawing",
-        "tool",
-        "instrument",
-        "art",
-        "freehand",
-        "illustrate",
-        "design",
-        "write",
-        "signature"
-      ],
-      "category":"Objects",
-      "release":"3.16.6"
-    },
-    "pencil-tip":{
-      "alias":[
-        "3.16.6",
-        "objects",
-        "drawing",
-        "tool",
-        "instrument",
-        "write",
-        "art",
-        "freehand",
-        "illustrate",
-        "design"
-      ],
-      "category":"Objects",
-      "release":"3.16.6"
-    },
-    "data-magnifying-glass":{
-      "alias":[
-        "3.16.7",
-        "generic",
-        "database",
-        "search",
-        "locate",
-        "find",
-        "analyze",
-        "identify",
-        "browse"
-      ],
-      "category":"Generic",
-      "release":"3.16.7"
-    },
-    "sensor":{
-      "alias":[
-        "3.16.8",
-        "objects",
-        "device",
-        "radar",
-        "wifi",
-        "signal",
-        "communication",
-        "remote sensing",
-        "technology",
-        "smart sensor"
-      ],
-      "category":"Objects",
-      "release":"3.16.8"
-    },
-    "mobile-vibrate":{
-      "alias":[
-        "3.16.8",
-        "objects",
-        "cell phone",
-        "device",
-        "vibration",
-        "settings",
-        "sounds",
-        "haptics",
-        "mode",
-        "alert",
-        "notification"
-      ],
-      "category":"Objects",
-      "release":"3.16.8"
-    },
-    "diamond":{
-      "alias":[
-        "3.16.8",
-        "generic",
-        "shape",
-        "symbol",
-        "glyph"
-      ],
-      "category":"Generic",
-      "release":"3.16.8"
-    },
-    "driving-distance":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "drive",
-        "car",
-        "vehicle",
-        "route",
-        "length",
-        "measure",
-        "navigate",
-        "arrows",
-        "destination",
-        "traffic"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "driving-time":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "drive",
-        "car",
-        "vehicle",
-        "route",
-        "eta",
-        "timer",
-        "clock",
-        "travel",
-        "arrival",
-        "traffic"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "rural-driving-distance":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "travel",
-        "drive",
-        "car",
-        "vehicle",
-        "route",
-        "length",
-        "measure",
-        "navigate",
-        "arrows",
-        "destination",
-        "desert"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "rural-driving-time":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "drive",
-        "car",
-        "vehicle",
-        "travel",
-        "timer",
-        "clock",
-        "desert",
-        "arrival",
-        "traffic"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "trucking-distance":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "travel",
-        "drive",
-        "car",
-        "vehicle",
-        "route",
-        "length",
-        "measure",
-        "navigate",
-        "arrows",
-        "destination",
-        "traffic",
-        "delivery",
-        "tracking"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "trucking-time":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "travel",
-        "drive",
-        "car",
-        "vehicle",
-        "timer",
-        "deliver",
-        "clock",
-        "arrival",
-        "traffic",
-        "tracking"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "walking-distance":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "hike",
-        "travel",
-        "route",
-        "length",
-        "measure",
-        "navigate",
-        "arrows",
-        "destination",
-        "arrival",
-        "eta"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "walking-time":{
-      "alias":[
-        "3.16.8",
-        "gis",
-        "hike",
-        "route",
-        "travel",
-        "length",
-        "measure",
-        "navigate",
-        "arrows",
-        "arrival",
-        "destination",
-        "eta"
-      ],
-      "category":"GIS",
-      "release":"3.16.8"
-    },
-    "show-column":{
-      "alias":[
-        "3.16.9",
-        "generic",
-        "windows",
-        "table",
-        "view",
-        "eye",
-        "visible",
-        "unhide",
-        "columns",
-        "see"
-      ],
-      "category":"Generic",
-      "release":"3.16.9"
-    },
-    "thumbs-down":{
-      "alias":[
-        "3.16.9",
-        "generic",
-        "disapproval",
-        "dislike",
-        "unhappy",
-        "rating",
-        "feedback",
-        "unhelpful",
-        "hand",
-        "reject",
-        "fail",
-        "dissatisfied",
-        "disapprove"
-      ],
-      "category":"Generic",
-      "release":"3.16.9"
-    },
-    "processing-templates":{
-      "alias":[
-        "3.17.0",
-        "GIS",
-        "layers",
-        "graphics",
-        "effects",
-        "functions",
-        "list",
-        "items",
-        "fx"
-      ],
-      "category":"GIS",
-      "release":"3.17.0"
-    },
-    "feature-display-order":{
-      "alias":[
-        "3.17.0",
-        "GIS",
-        "mosaic",
-        "raster",
-        "imagery",
-        "overlap",
-        "ground",
-        "re-order",
-        "stack",
-        "overlay"
-      ],
-      "category":"GIS",
-      "release":"3.17.0"
-    },
-    "beacon":{
-      "alias":[
-        "generic",
-        "3.17.0",
-        "radar",
-        "connect",
-        "wifi",
-        "rays",
-        "internet of things",
-        "iot",
-        "signal",
-        "communication"
-      ],
-      "category":"Generic",
-      "release":"3.17.0"
-    },
-    "fingerprint":{
-      "alias":[
-        "generic",
-        "3.17.0",
-        "biometric",
-        "identification",
-        "identity",
-        "password",
-        "protected",
-        "private",
-        "unlock",
-        "access"
-      ],
-      "category":"Generic",
-      "release":"3.17.0"
-    },
-    "lasso-select":{
-      "alias":[
-        "Generic",
-        "3.17.0",
-        "marquee",
-        "draw",
-        "freehand",
-        "freeform",
-        "selection"
-      ],
-      "category":"Generic",
-      "release":"3.17.0"
-    },
-    "oriented-imagery-widget":{
-      "alias":[
-        "3.17.0",
-        "GIS",
-        "sight",
-        "vision",
-        "coordinates",
-        "locate"
-      ],
-      "category":"Generic",
-      "release":"3.17.0"
-    },
-    "package":{
-      "alias":[
-        "3.17.0",
-        "Objects",
-        "stack",
-        "sdk",
-        "api",
-        "programing",
-        "software",
-        "kit",
-        "development",
-        "build",
-        "blocks",
-        "deliver",
-        "group"
-      ],
-      "category":"Objects",
-      "release":"3.17.0"
-    },
-    "wifi":{
-      "alias":[
-        "3.17.0",
-        "generic",
-        "radar",
-        "connect",
-        "wifi",
-        "rays",
-        "internet of things",
-        "iot",
-        "signal",
-        "communication"
-      ],
-      "category":"Generic",
-      "release":"3.17.0"
-    },
-    "speech-bubble-check":{
-      "alias":[
-        "3.17.0",
-        "generic",
-        "comment",
-        "communication",
-        "communicate",
-        "message",
-        "chat",
-        "sent",
-        "inquiry"
-      ],
-      "category":"Generic",
-      "release":"3.17.0"
-    },
-      "image-chips":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "image",
-      "geoai",
-      "chips"
+    "bring-forward": {
+        "alias": [
+            "Generic",
+            "3.16.5",
+            "front",
+            "move",
+            "stack",
+            "layers",
+            "squares",
+            "in front",
+            "order"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "data-cloud":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "cloud",
-      "database",
-      "data"
+        "category": "Generic",
+        "release": "3.16.5"
+    },
+    "bring-to-front": {
+        "alias": [
+            "Generic",
+            "3.16.5",
+            "front",
+            "move",
+            "stack",
+            "layers",
+            "squares",
+            "in front",
+            "order"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "data-folder":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "database",
-      "folder",
-      "data"
+        "category": "Generic",
+        "release": "3.16.5"
+    },
+    "cloud": {
+        "alias": [
+            "Symbols",
+            "3.16.5",
+            "connected",
+            "internet",
+            "connection",
+            "syncing",
+            "the cloud",
+            "service",
+            "hosting"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "data-raster":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "database",
-      "data",
-      "raster"
+        "category": "Symbols",
+        "release": "3.16.5"
+    },
+    "send-backwards": {
+        "alias": [
+            "Generic",
+            "3.16.5",
+            "back",
+            "move",
+            "stack",
+            "layers",
+            "squares",
+            "order",
+            "behind"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "classify-objects":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "classify"
+        "category": "Generic",
+        "release": "3.16.5"
+    },
+    "send-to-back": {
+        "alias": [
+            "Generic",
+            "3.16.5",
+            "back",
+            "move",
+            "stack",
+            "layers",
+            "squares",
+            "order",
+            "behind"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "classify-pixels":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai"
+        "category": "Generic",
+        "release": "3.16.5"
+    },
+    "snap-to-grid": {
+        "alias": [
+            "Generic",
+            "3.16.5",
+            "drawing",
+            "snapping",
+            "magnet"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "grid-unit":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "grid"
+        "category": "Generic",
+        "release": "3.16.5"
+    },
+    "snap-to-pixel": {
+        "alias": [
+            "Generic",
+            "3.16.5",
+            "magnet",
+            "raster",
+            "drawing"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "image-unit":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "image"
+        "category": "Generic",
+        "release": "3.16.5"
+    },
+    "snap-to-point": {
+        "alias": [
+            "Generic",
+            "3.16.5",
+            "drawing",
+            "snap to object",
+            "vectors"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "new-training":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "new",
-      "create"
+        "category": "Generic",
+        "release": "3.16.5"
+    },
+    "tabbed-view": {
+        "alias": [
+            "Lists",
+            "3.16.5",
+            "tabs",
+            "bullet points",
+            "bulleted lists",
+            "list items",
+            "switch view"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      },
-      "retrain":{
-        "alias":[
-          "GIS",
-      "3.17.1",
-      "geoai",
-      "train"
+        "category": "Lists",
+        "release": "3.16.5"
+    },
+    "actual-size": {
+        "alias": [
+            "3.16.6",
+            "windows",
+            "100%",
+            "true scale",
+            "true size",
+            "1:1",
+            "actual scale",
+            "view",
+            "no zoom",
+            "extent",
+            "screen"
         ],
-        "category":"GIS",
-        "release":"3.17.1"
-      }
+        "category": "Windows",
+        "release": "3.16.6"
+    },
+    "brush-tip": {
+        "alias": [
+            "3.16.6",
+            "objects",
+            "drawing",
+            "tool",
+            "instrument",
+            "painting",
+            "art",
+            "freehand",
+            "illustrate",
+            "design"
+        ],
+        "category": "Objects",
+        "release": "3.16.6"
+    },
+    "bullet-point": {
+        "alias": [
+            "3.16.6",
+            "generic",
+            "dot",
+            "item"
+        ],
+        "category": "Generic",
+        "release": "3.16.6"
+    },
+    "form-field-off": {
+        "alias": [
+            "3.16.6",
+            "forms",
+            "input",
+            "text box",
+            "none",
+            "empty",
+            "no text",
+            "text off",
+            "no label",
+            "label off"
+        ],
+        "category": "Forms",
+        "release": "3.16.6"
+    },
+    "full-screen": {
+        "alias": [
+            "3.16.6",
+            "windows",
+            "fit to screen",
+            "fill screen",
+            "enlarge",
+            "expand",
+            "present",
+            "arrows"
+        ],
+        "category": "Windows",
+        "release": "3.16.6"
+    },
+    "halo": {
+        "alias": [
+            "3.16.6",
+            "generic",
+            "glow",
+            "shadow",
+            "drop shadow",
+            "box",
+            "square",
+            "light"
+        ],
+        "category": "Generic",
+        "release": "3.16.6"
+    },
+    "highlighter": {
+        "alias": [
+            "3.16.6",
+            "objects",
+            "drawing",
+            "tool",
+            "instrument",
+            "marker",
+            "sharpie"
+        ],
+        "category": "Objects",
+        "release": "3.16.6"
+    },
+    "highlighter-tip": {
+        "alias": [
+            "3.16.6",
+            "objects",
+            "drawing",
+            "tool",
+            "instrument",
+            "marker",
+            "sharpie"
+        ],
+        "category": "Objects",
+        "release": "3.16.6"
+    },
+    "no-attachment": {
+        "alias": [
+            "3.16.6",
+            "objects",
+            "no-file",
+            "paper clip",
+            "empty",
+            "missing",
+            "none",
+            "off"
+        ],
+        "category": "Objects",
+        "release": "3.16.6"
+    },
+    "no-image": {
+        "alias": [
+            "3.16.6",
+            "media",
+            "no picture",
+            "no photograph",
+            "no picture",
+            "no-file",
+            "empty",
+            "missing",
+            "none",
+            "off"
+        ],
+        "category": "Media",
+        "release": "3.16.6"
+    },
+    "paint-bucket": {
+        "alias": [
+            "3.16.6",
+            "objects",
+            "drawing",
+            "tool",
+            "fill",
+            "painting",
+            "art",
+            "color",
+            "illustrate",
+            "design",
+            "3.16.6",
+            "objects",
+            "drawing",
+            "tool",
+            "instrument",
+            "painting",
+            "art",
+            "freehand",
+            "illustrate",
+            "design"
+        ],
+        "category": "Objects",
+        "release": "3.16.6"
+    },
+    "pen-tip": {
+        "alias": [
+            "3.16.6",
+            "objects",
+            "drawing",
+            "tool",
+            "instrument",
+            "art",
+            "freehand",
+            "illustrate",
+            "design",
+            "write",
+            "signature"
+        ],
+        "category": "Objects",
+        "release": "3.16.6"
+    },
+    "pencil-tip": {
+        "alias": [
+            "3.16.6",
+            "objects",
+            "drawing",
+            "tool",
+            "instrument",
+            "write",
+            "art",
+            "freehand",
+            "illustrate",
+            "design"
+        ],
+        "category": "Objects",
+        "release": "3.16.6"
+    },
+    "data-magnifying-glass": {
+        "alias": [
+            "3.16.7",
+            "generic",
+            "database",
+            "search",
+            "locate",
+            "find",
+            "analyze",
+            "identify",
+            "browse"
+        ],
+        "category": "Generic",
+        "release": "3.16.7"
+    },
+    "sensor": {
+        "alias": [
+            "3.16.8",
+            "objects",
+            "device",
+            "radar",
+            "wifi",
+            "signal",
+            "communication",
+            "remote sensing",
+            "technology",
+            "smart sensor"
+        ],
+        "category": "Objects",
+        "release": "3.16.8"
+    },
+    "mobile-vibrate": {
+        "alias": [
+            "3.16.8",
+            "objects",
+            "cell phone",
+            "device",
+            "vibration",
+            "settings",
+            "sounds",
+            "haptics",
+            "mode",
+            "alert",
+            "notification"
+        ],
+        "category": "Objects",
+        "release": "3.16.8"
+    },
+    "diamond": {
+        "alias": [
+            "3.16.8",
+            "generic",
+            "shape",
+            "symbol",
+            "glyph"
+        ],
+        "category": "Generic",
+        "release": "3.16.8"
+    },
+    "driving-distance": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "drive",
+            "car",
+            "vehicle",
+            "route",
+            "length",
+            "measure",
+            "navigate",
+            "arrows",
+            "destination",
+            "traffic"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "driving-time": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "drive",
+            "car",
+            "vehicle",
+            "route",
+            "eta",
+            "timer",
+            "clock",
+            "travel",
+            "arrival",
+            "traffic"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "rural-driving-distance": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "travel",
+            "drive",
+            "car",
+            "vehicle",
+            "route",
+            "length",
+            "measure",
+            "navigate",
+            "arrows",
+            "destination",
+            "desert"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "rural-driving-time": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "drive",
+            "car",
+            "vehicle",
+            "travel",
+            "timer",
+            "clock",
+            "desert",
+            "arrival",
+            "traffic"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "trucking-distance": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "travel",
+            "drive",
+            "car",
+            "vehicle",
+            "route",
+            "length",
+            "measure",
+            "navigate",
+            "arrows",
+            "destination",
+            "traffic",
+            "delivery",
+            "tracking"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "trucking-time": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "travel",
+            "drive",
+            "car",
+            "vehicle",
+            "timer",
+            "deliver",
+            "clock",
+            "arrival",
+            "traffic",
+            "tracking"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "walking-distance": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "hike",
+            "travel",
+            "route",
+            "length",
+            "measure",
+            "navigate",
+            "arrows",
+            "destination",
+            "arrival",
+            "eta"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "walking-time": {
+        "alias": [
+            "3.16.8",
+            "gis",
+            "hike",
+            "route",
+            "travel",
+            "length",
+            "measure",
+            "navigate",
+            "arrows",
+            "arrival",
+            "destination",
+            "eta"
+        ],
+        "category": "GIS",
+        "release": "3.16.8"
+    },
+    "show-column": {
+        "alias": [
+            "3.16.9",
+            "generic",
+            "windows",
+            "table",
+            "view",
+            "eye",
+            "visible",
+            "unhide",
+            "columns",
+            "see"
+        ],
+        "category": "Generic",
+        "release": "3.16.9"
+    },
+    "thumbs-down": {
+        "alias": [
+            "3.16.9",
+            "generic",
+            "disapproval",
+            "dislike",
+            "unhappy",
+            "rating",
+            "feedback",
+            "unhelpful",
+            "hand",
+            "reject",
+            "fail",
+            "dissatisfied",
+            "disapprove"
+        ],
+        "category": "Generic",
+        "release": "3.16.9"
+    },
+    "processing-templates": {
+        "alias": [
+            "3.17.0",
+            "GIS",
+            "layers",
+            "graphics",
+            "effects",
+            "functions",
+            "list",
+            "items",
+            "fx"
+        ],
+        "category": "GIS",
+        "release": "3.17.0"
+    },
+    "feature-display-order": {
+        "alias": [
+            "3.17.0",
+            "GIS",
+            "mosaic",
+            "raster",
+            "imagery",
+            "overlap",
+            "ground",
+            "re-order",
+            "stack",
+            "overlay"
+        ],
+        "category": "GIS",
+        "release": "3.17.0"
+    },
+    "beacon": {
+        "alias": [
+            "generic",
+            "3.17.0",
+            "radar",
+            "connect",
+            "wifi",
+            "rays",
+            "internet of things",
+            "iot",
+            "signal",
+            "communication"
+        ],
+        "category": "Generic",
+        "release": "3.17.0"
+    },
+    "fingerprint": {
+        "alias": [
+            "generic",
+            "3.17.0",
+            "biometric",
+            "identification",
+            "identity",
+            "password",
+            "protected",
+            "private",
+            "unlock",
+            "access"
+        ],
+        "category": "Generic",
+        "release": "3.17.0"
+    },
+    "lasso-select": {
+        "alias": [
+            "Generic",
+            "3.17.0",
+            "marquee",
+            "draw",
+            "freehand",
+            "freeform",
+            "selection"
+        ],
+        "category": "Generic",
+        "release": "3.17.0"
+    },
+    "oriented-imagery-widget": {
+        "alias": [
+            "3.17.0",
+            "GIS",
+            "sight",
+            "vision",
+            "coordinates",
+            "locate"
+        ],
+        "category": "Generic",
+        "release": "3.17.0"
+    },
+    "package": {
+        "alias": [
+            "3.17.0",
+            "Objects",
+            "stack",
+            "sdk",
+            "api",
+            "programing",
+            "software",
+            "kit",
+            "development",
+            "build",
+            "blocks",
+            "deliver",
+            "group"
+        ],
+        "category": "Objects",
+        "release": "3.17.0"
+    },
+    "wifi": {
+        "alias": [
+            "3.17.0",
+            "generic",
+            "radar",
+            "connect",
+            "wifi",
+            "rays",
+            "internet of things",
+            "iot",
+            "signal",
+            "communication"
+        ],
+        "category": "Generic",
+        "release": "3.17.0"
+    },
+    "speech-bubble-check": {
+        "alias": [
+            "3.17.0",
+            "generic",
+            "comment",
+            "communication",
+            "communicate",
+            "message",
+            "chat",
+            "sent",
+            "inquiry"
+        ],
+        "category": "Generic",
+        "release": "3.17.0"
+    },
+    "image-chips": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "image",
+            "geoai",
+            "chips"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "data-cloud": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "cloud",
+            "database",
+            "data"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "data-folder": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "database",
+            "folder",
+            "data"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "data-raster": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "database",
+            "data",
+            "raster"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "classify-objects": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "classify"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "classify-pixels": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "grid-unit": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "grid"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "image-unit": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "image"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "new-training": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "new",
+            "create"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "retrain": {
+        "alias": [
+            "GIS",
+            "3.17.1",
+            "geoai",
+            "train"
+        ],
+        "category": "GIS",
+        "release": "3.17.1"
+    },
+    "smart-form": {
+        "alias": [
+            "3.17.2",
+            "lightning",
+            "table",
+            "text box",
+            "automated",
+            "efficient",
+            "data collection",
+            "form elements",
+            "properties",
+            "text",
+            "numbers",
+            "barcode",
+            "dropdown"
+        ],
+        "category": "Forms",
+        "release": "3.17.2"
+    },
+    "distribute-height-evenly": {
+        "alias": [
+            "3.17.2",
+            "distribute height evenly",
+            "boxes",
+            "disperse",
+            "UI",
+            "interface",
+            "align",
+            "alignment",
+            "arrows",
+            "tall"
+        ],
+        "category": "Generic",
+        "release": "3.17.2"
+    },
+    "distribute-width-evenly": {
+        "alias": [
+            "3.17.2",
+            "distribute width evenly",
+            "boxes",
+            "disperse",
+            "UI",
+            "interface",
+            "align",
+            "alignment",
+            "arrows",
+            "wide",
+            "horizontal"
+        ],
+        "category": "Generic",
+        "release": "3.17.2"
+    },
+    "horizontal-distribute": {
+        "alias": [
+            "3.17.2",
+            "boxes",
+            "UI",
+            "interface",
+            "align",
+            "line up",
+            "middle",
+            "center",
+            "central alignment"
+        ],
+        "category": "Generic",
+        "release": "3.17.2"
+    },
+    "vertical-distribute": {
+        "alias": [
+            "3.17.2",
+            "boxes",
+            "UI",
+            "interface",
+            "align",
+            "line up",
+            "middle",
+            "center",
+            "central alignment"
+        ],
+        "category": "Generic",
+        "release": "3.17.2"
+    }
 }
