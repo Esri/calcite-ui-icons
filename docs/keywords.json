@@ -8480,7 +8480,7 @@
     "smart-form": {
         "alias": [
             "3.17.2",
-            "lightening",
+            "lightning",
             "table",
             "text box",
             "automated",
@@ -8504,7 +8504,8 @@
             "disperse",
             "UI",
             "interface",
-            "allign",
+            "align",
+            "alignment",
             "arrows",
             "tall"
         ],
@@ -8519,7 +8520,8 @@
             "disperse",
             "UI",
             "interface",
-            "allign",
+            "align",
+            "alignment",
             "arrows",
             "wide",
             "horizontal"
@@ -8533,9 +8535,11 @@
             "boxes",
             "UI",
             "interface",
-            "allign",
+            "align",
             "line up",
-            "central allignment"
+            "middle",
+            "center",
+            "central alignment"
         ],
         "category": "Generic",
         "release": "3.17.2"
@@ -8546,9 +8550,11 @@
             "boxes",
             "UI",
             "interface",
-            "allign",
+            "align",
             "line up",
-            "central allignment"
+            "middle",
+            "center",
+            "central alignment"
         ],
         "category": "Generic",
         "release": "3.17.2"
