@@ -8612,5 +8612,55 @@
       ],
       "category":"Text",
       "release":"3.17.3"
+    }, 
+    "ungroup-layout-elements":{
+      "alias":[
+        "Generic", 
+        "3.17.4", 
+        "ungroup", 
+        "shapes", 
+        "items", 
+        "unrelease", 
+        "artboard"
+      ],
+      "category":"Generic",
+      "release":"3.17.4"
+    }, 
+    "ungroup-items":{
+      "alias":[
+        "Generic", 
+        "3.17.4", 
+        "ungroup", 
+        "shapes", 
+        "items", 
+        "unrelease", 
+        "artboard"
+      ],
+      "category":"Generic",
+      "release":"3.17.4"
+    }, 
+    "group-layout-elements":{
+      "alias":[
+        "Generic", 
+        "3.17.4", 
+        "group", 
+        "shapes", 
+        "items", 
+        "artboard"
+      ],
+      "category":"Generic",
+      "release":"3.17.4"
+    }, 
+    "group-items":{
+      "alias":[
+        "Generic", 
+        "3.17.4", 
+        "group", 
+        "shapes", 
+        "items", 
+        "artboard"
+      ],
+      "category":"Generic",
+      "release":"3.17.4"
     }
 }
