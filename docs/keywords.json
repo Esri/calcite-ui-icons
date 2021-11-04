@@ -8665,7 +8665,7 @@
     }, 
     "check-extent":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "symbols", 
         "done", 
         "box", 
@@ -8682,11 +8682,11 @@
         "success"
       ],
       "category":"Symbols",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }, 
     "drive-time":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "gis", 
         "area", 
         "navigation", 
@@ -8697,11 +8697,11 @@
         "mapping"
       ],
       "category":"GIS",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }, 
     "drive-time-largest":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "gis", 
         "area", 
         "navigation", 
@@ -8712,11 +8712,11 @@
         "mapping"
       ],
       "category":"GIS",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }, 
     "drive-time-smallest":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "gis", 
         "area", 
         "navigation", 
@@ -8727,11 +8727,11 @@
         "mapping"
       ],
       "category":"GIS",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }, 
     "drive-time-x-bar":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "gis", 
         "area", 
         "navigation", 
@@ -8749,11 +8749,11 @@
         "mathematics"
       ],
       "category":"GIS",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }, 
     "rings-largest":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "gis", 
         "area", 
         "radius", 
@@ -8767,11 +8767,11 @@
         "location"
       ],
       "category":"GIS",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }, 
     "rings-smallest":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "gis", 
         "area", 
         "radius", 
@@ -8785,11 +8785,11 @@
         "location"
       ],
       "category":"GIS",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }, 
     "rings-x-bar":{
       "alias":[
-        "3.17.3", 
+        "3.17.5", 
         "gis", 
         "area", 
         "radius", 
@@ -8810,6 +8810,6 @@
         "mathematics"
       ],
       "category":"GIS",
-      "release":"3.17.3"
+      "release":"3.17.5"
     }
 }
