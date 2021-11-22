@@ -8814,58 +8814,57 @@
     }, 
     "display-selection-lock":{
       "alias":[
-        "3.17.7", 
+        "3.17.6", 
         "gis", 
         "area", 
         "lock", 
         "select"
       ],
       "category":"GIS",
-      "release":"3.17.7"
+      "release":"3.17.6"
     }, 
     "display-selection-unlock":{
       "alias":[
-        "3.17.7",
+        "3.17.6",
         "gis", 
         "area", 
         "unlock", 
         "select"
       ],
       "category":"GIS",
-      "release":"3.17.7"
+      "release":"3.17.6"
     }, 
     "drive-time-threshold":{
       "alias":[
-        "3.17.7",
+        "3.17.6",
         "gis", 
         "drive", 
         "time", 
-        "threshold,"
+        "threshold"
       ],
       "category":"GIS",
-      "release":"3.17.7"
+      "release":"3.17.6"
     }, 
     "rings-threshold":{
       "alias":[
-        "3.17.7", 
+        "3.17.6", 
         "gis", 
         "ring", 
         "time", 
         "threshold"
       ],
       "category":"GIS",
-      "release":"3.17.7"
+      "release":"3.17.6"
     }, 
     "select-visible":{
       "alias":[
-        "3.17.7",
-        "3.17.7", 
+        "3.17.6",
         "gis", 
         "visible", 
         "area", 
-        "select,"
+        "select"
       ],
       "category":"GIS",
-      "release":"3.17.7"
+      "release":"3.17.6"
     }
 }
