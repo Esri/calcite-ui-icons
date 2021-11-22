@@ -8811,5 +8811,61 @@
       ],
       "category":"GIS",
       "release":"3.17.5"
+    }, 
+    "display-selection-lock":{
+      "alias":[
+        "3.17.7", 
+        "gis", 
+        "area", 
+        "lock", 
+        "select"
+      ],
+      "category":"GIS",
+      "release":"3.17.7"
+    }, 
+    "display-selection-unlock":{
+      "alias":[
+        "3.17.7",
+        "gis", 
+        "area", 
+        "unlock", 
+        "select"
+      ],
+      "category":"GIS",
+      "release":"3.17.7"
+    }, 
+    "drive-time-threshold":{
+      "alias":[
+        "3.17.7",
+        "gis", 
+        "drive", 
+        "time", 
+        "threshold,"
+      ],
+      "category":"GIS",
+      "release":"3.17.7"
+    }, 
+    "rings-threshold":{
+      "alias":[
+        "3.17.7", 
+        "gis", 
+        "ring", 
+        "time", 
+        "threshold"
+      ],
+      "category":"GIS",
+      "release":"3.17.7"
+    }, 
+    "select-visible":{
+      "alias":[
+        "3.17.7",
+        "3.17.7", 
+        "gis", 
+        "visible", 
+        "area", 
+        "select,"
+      ],
+      "category":"GIS",
+      "release":"3.17.7"
     }
 }
