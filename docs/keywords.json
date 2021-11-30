@@ -9110,5 +9110,37 @@
       ],
       "category":"Generic",
       "release":"3.17.6"
+    }, 
+    "center-align":{
+      "alias":[
+        "3.17.7", 
+        "text", 
+        "typography", 
+        "alignment", 
+        "paragraph", 
+        "type", 
+        "body text", 
+        "format", 
+        "justification", 
+        "justify"
+      ],
+      "category":"Text",
+      "release":"3.17.7"
+    }, 
+    "left-align":{
+      "alias":[
+        "3.17.7", 
+        "text", 
+        "typography", 
+        "alignment", 
+        "paragraph", 
+        "type", 
+        "body text", 
+        "format", 
+        "justification", 
+        "justify"
+      ],
+      "category":"Text",
+      "release":"3.17.7"
     }
 }
