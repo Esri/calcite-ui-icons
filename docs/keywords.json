@@ -9164,7 +9164,6 @@
   "touch":{
     "alias":[
       "3.17.8",
-      "3.17.8",
       "generic",
       "hand",
       "screen",
@@ -9177,7 +9176,6 @@
   },
   "convert":{
     "alias":[
-      "3.17.8",
       "3.17.8",
       "generic",
       "files",
@@ -9192,7 +9190,6 @@
   "language":{
     "alias":[
       "3.17.8",
-      "3.17.8",
       "generic",
       "communication",
       "translation",
@@ -9206,7 +9203,6 @@
   "language-translate":{
     "alias":[
       "3.17.8",
-      "3.17.8",
       "communication",
       "interchange",
       "lexicon",
@@ -9219,7 +9215,6 @@
   },
   "terminal":{
     "alias":[
-      "3.17.8",
       "3.17.8",
       "window",
       "operating system",
