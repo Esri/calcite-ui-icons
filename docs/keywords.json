@@ -5663,6 +5663,7 @@
     "form-elements": {
         "alias": [
             "3.0.0",
+            "forms",
             "web survey elements",
             "form elements",
             "form fields"
@@ -5673,6 +5674,7 @@
     "form-field": {
         "alias": [
             "3.0.0",
+            "forms",
             "form field",
             "input"
         ],
@@ -5682,6 +5684,7 @@
     "form-field-multiline": {
         "alias": [
             "3.0.0",
+            "forms",
             "form field multiline",
             "input",
             "form field paragraph"
@@ -5692,6 +5695,7 @@
     "group-form": {
         "alias": [
             "3.0.0",
+            "forms",
             "group form field",
             "group form elements"
         ],
@@ -5701,6 +5705,7 @@
     "group-x": {
         "alias": [
             "3.0.0",
+            "forms",
             "delete group",
             "group x",
             "remove group",
@@ -6535,7 +6540,7 @@
             "@",
             "email address",
             "contact",
-            "form"
+            "forms"
         ],
         "category": "Forms",
         "release": "3.9.0"
@@ -8493,6 +8498,7 @@
     "smart-form": {
         "alias": [
             "3.17.2",
+            "forms",
             "lightning",
             "table",
             "text box",
@@ -9142,5 +9148,17 @@
       ],
       "category":"Text",
       "release":"3.17.7"
+    }, 
+    "form-dropdown":{
+      "alias":[
+        "3.17.8", 
+        "forms", 
+        "list", 
+        "form field", 
+        "items", 
+        "form elements"
+      ],
+      "category":"Forms",
+      "release":"3.17.8"
     }
 }
