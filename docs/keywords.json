@@ -8901,7 +8901,7 @@
         "wind",
         "stormy"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "fog":{
@@ -8923,7 +8923,7 @@
         "overcast",
         "coastal"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "heavy-rain":{
@@ -8964,7 +8964,7 @@
         "severe weather",
         "freezing"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "light-rain":{
@@ -8982,7 +8982,7 @@
         "misty",
         "clouds"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "light-snow":{
@@ -8999,10 +8999,10 @@
         "precipitation",
         "freezing"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
-    "partly-cloud":{
+    "partly-cloudy":{
       "alias":[
         "3.17.6",
         "generic",
@@ -9018,7 +9018,7 @@
         "clouds",
         "sunshine"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "rain":{
@@ -9037,7 +9037,7 @@
         "stormy",
         "clouds"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "rain-snow":{
@@ -9057,7 +9057,7 @@
         "stormy",
         "clouds"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "rain-thunder":{
@@ -9077,7 +9077,7 @@
         "severe weather",
         "clouds"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "snow":{
@@ -9095,7 +9095,7 @@
         "freezing",
         "stormy"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "snow-thunder":{
@@ -9114,7 +9114,7 @@
         "stormy",
         "severe weather"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "center-align":{
@@ -9171,7 +9171,7 @@
       "click",
       "move"
     ],
-    "category":"generic",
+    "category":"Generic",
     "release":"3.17.8"
   },
   "convert":{
@@ -9183,7 +9183,7 @@
       "types",
       "forms"
     ],
-    "category":"generic",
+    "category":"Generic",
     "release":"3.17.8"
   },
   "language":{
@@ -9196,7 +9196,7 @@
       "dictionary",
       "speech"
     ],
-    "category":"generic",
+    "category":"Generic",
     "release":"3.17.8"
   },
   "language-translate":{
@@ -9209,7 +9209,7 @@
       "word",
       "countries "
     ],
-    "category":"generic",
+    "category":"Generic",
     "release":"3.17.8"
   },
   "terminal":{
@@ -9225,7 +9225,7 @@
       "shell",
       "scripts"
     ],
-    "category":"window",
+    "category":"Windows",
     "release":"3.17.8"
   }
 }
