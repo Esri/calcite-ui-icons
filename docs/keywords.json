@@ -8943,7 +8943,7 @@
         "cloudy",
         "severe weather"
       ],
-      "category":"Generic",
+      "category":"Weather",
       "release":"3.17.6"
     },
     "heavy-snow":{
