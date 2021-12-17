@@ -9227,5 +9227,49 @@
     ],
     "category":"Windows",
     "release":"3.17.8"
+  }, 
+  "explore":{
+    "alias":[
+      "3.17.9",
+      "gis",
+      "compass", 
+      "needle", 
+      "directions", 
+      "circle", 
+      "rotation", 
+      "navigation", 
+      "gps", 
+      "location", 
+      "tracking", 
+      "cardinal", 
+      "orientation", 
+      "compass rose", 
+      "mapping", 
+      "cartography", 
+      "destination", 
+      "navigate"
+    ],
+    "category":"GIS",
+    "release":"3.17.9"
+  }, 
+  "screenshot-mode":{
+    "alias":[
+      "3.17.9",
+      "generic",
+      "capture", 
+      "picture", 
+      "image", 
+      "png", 
+      "camera", 
+      "lens", 
+      "focus", 
+      "square", 
+      "corners", 
+      "crop", 
+      "border", 
+      "extent"
+    ],
+    "category":"Generic",
+    "release":"3.17.9"
   }
 }
