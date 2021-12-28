@@ -9271,5 +9271,23 @@
     ],
     "category":"Generic",
     "release":"3.17.9"
+  }, 
+  "right-align":{
+    "alias":[
+      "3.18.0",
+      "Text", 
+      "3.18.0", 
+      "text", 
+      "alignment", 
+      "typography", 
+      "paragraph", 
+      "type", 
+      "body text", 
+      "format", 
+      "justification", 
+      "justify"
+    ],
+    "category":"Text",
+    "release":"3.18.0"
   }
 }
