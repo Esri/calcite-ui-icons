@@ -9290,7 +9290,6 @@
   },
   "initiative":{
     "alias":[
-      "3.18.1",
       "objects",
       "3.18.1",
       "summit",
@@ -9312,7 +9311,6 @@
   },
   "initiative-template":{
     "alias":[
-      "3.18.1",
       "Objects",
       "3.18.1",
       "summit",
@@ -9337,7 +9335,6 @@
     "alias":[
       "3.18.1",
       "Symbols",
-      "3.18.1",
       "shapes",
       "variety",
       "geometry",
@@ -9358,7 +9355,6 @@
     "alias":[
       "3.18.1",
       "Symbols",
-      "3.18.1",
       "appearances",
       "design",
       "themes",
@@ -9382,7 +9378,6 @@
     "alias":[
       "3.18.1",
       "Symbols",
-      "3.18.1",
       "shapes",
       "single shape",
       "one variable",
@@ -9395,7 +9390,6 @@
     "alias":[
       "3.18.1",
       "Symbols",
-      "3.18.1",
       "problem solve",
       "solving",
       "idea",
@@ -9417,7 +9411,6 @@
     "alias":[
       "3.18.1",
       "Symbols",
-      "3.18.1",
       "award",
       "special",
       "favorite",
@@ -9445,7 +9438,6 @@
     "alias":[
       "3.18.1",
       "Symbols",
-      "3.18.1",
       "check mark",
       "clipboard",
       "exam",
