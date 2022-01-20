@@ -9290,8 +9290,8 @@
   },
   "initiative":{
     "alias":[
-      "objects",
       "3.18.1",
+      "objects",
       "summit",
       "mountain",
       "flag",
@@ -9311,8 +9311,8 @@
   },
   "initiative-template":{
     "alias":[
-      "Objects",
       "3.18.1",
+      "objects",
       "summit",
       "mountain",
       "flag",
@@ -9334,7 +9334,7 @@
   "multiple-variables":{
     "alias":[
       "3.18.1",
-      "Symbols",
+      "symbols",
       "shapes",
       "variety",
       "geometry",
@@ -9354,7 +9354,7 @@
   "palette-check":{
     "alias":[
       "3.18.1",
-      "Symbols",
+      "objects",
       "appearances",
       "design",
       "themes",
@@ -9377,7 +9377,7 @@
   "pentagon":{
     "alias":[
       "3.18.1",
-      "Symbols",
+      "symbols",
       "shapes",
       "single shape",
       "one variable",
@@ -9389,7 +9389,7 @@
   "puzzle-piece":{
     "alias":[
       "3.18.1",
-      "Symbols",
+      "objects",
       "problem solve",
       "solving",
       "idea",
@@ -9410,7 +9410,7 @@
   "ribbon-rosette":{
     "alias":[
       "3.18.1",
-      "Symbols",
+      "objects",
       "award",
       "special",
       "favorite",
@@ -9437,7 +9437,7 @@
   "survey":{
     "alias":[
       "3.18.1",
-      "Symbols",
+      "objects",
       "check mark",
       "clipboard",
       "exam",
