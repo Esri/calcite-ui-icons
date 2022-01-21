@@ -9451,5 +9451,57 @@
     ],
     "category":"Objects",
     "release":"3.18.1"
+  }, 
+  "folders":{
+    "alias":[
+      "3.18.2",
+      "objects",
+      "Objects", 
+      "3.18.2", 
+      "files", 
+      "directory", 
+      "storage", 
+      "system", 
+      "organize", 
+      "collapsed", 
+      "layers", 
+      "stack", 
+      "order"
+    ],
+    "category":"Objects",
+    "release":"3.18.2"
+  }, 
+  "clipboard":{
+    "alias":[
+      "3.18.2",
+      "objects",
+      "Objects", 
+      "3.18.2", 
+      "files", 
+      "written", 
+      "notes", 
+      "organize", 
+      "list", 
+      "order"
+    ],
+    "category":"Objects",
+    "release":"3.18.2"
+  }, 
+  "speech-bubble-exclamation":{
+    "alias":[
+      "3.18.2",
+      "generic",
+      "generic", 
+      "3.18.2", 
+      "speech bubble", 
+      "comment", 
+      "thought", 
+      "chat", 
+      "message", 
+      "exclamation mark", 
+      "emphasis"
+    ],
+    "category":"Generic",
+    "release":"3.18.2"
   }
 }
