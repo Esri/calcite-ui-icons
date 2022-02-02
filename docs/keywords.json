@@ -9497,5 +9497,23 @@
     ],
     "category":"Generic",
     "release":"3.18.2"
+  }, 
+  "select":{
+    "alias":[
+      "3.18.3",
+      "generic",
+      "selection", 
+      "choose", 
+      "cursor", 
+      "point", 
+      "focus", 
+      "direct", 
+      "freehand", 
+      "point", 
+      "click", 
+      ""
+    ],
+    "category":"Generic",
+    "release":"3.18.3"
   }
 }
