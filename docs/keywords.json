@@ -9510,8 +9510,7 @@
       "direct", 
       "freehand", 
       "point", 
-      "click", 
-      ""
+      "click"
     ],
     "category":"Generic",
     "release":"3.18.3"
