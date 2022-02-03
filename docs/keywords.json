@@ -7549,20 +7549,6 @@
         "category": "Generic",
         "release": "3.16.1"
     },
-    "pin-tear-f": {
-        "alias": [
-            "3.16.1",
-            "generic",
-            "location",
-            "map pin",
-            "map marker",
-            "destination",
-            "dropped pin",
-            "drop pin"
-        ],
-        "category": "Generic",
-        "release": "3.16.1"
-    },
     "pop-up-1": {
         "alias": [
             "3.16.1",
@@ -9497,5 +9483,22 @@
     ],
     "category":"Generic",
     "release":"3.18.2"
+  }, 
+  "select":{
+    "alias":[
+      "3.18.3",
+      "generic",
+      "selection", 
+      "choose", 
+      "cursor", 
+      "point", 
+      "focus", 
+      "direct", 
+      "freehand", 
+      "point", 
+      "click"
+    ],
+    "category":"Generic",
+    "release":"3.18.3"
   }
 }
