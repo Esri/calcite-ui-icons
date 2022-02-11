@@ -9500,5 +9500,17 @@
     ],
     "category":"Generic",
     "release":"3.18.3"
+  }, 
+  "tiled-imagery-layer":{
+    "alias":[
+      "3.18.4",
+      "tiled", 
+      "image", 
+      "imagery", 
+      "layer", 
+      "layer type"
+    ],
+    "category":"GIS",
+    "release":"3.18.4"
   }
 }
