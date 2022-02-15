@@ -9513,5 +9513,18 @@
     ],
     "category":"GIS",
     "release":"3.18.4"
+  }, 
+  "keyboard":{
+    "alias":[
+      "Objects", 
+      "3.18.5", 
+      "keyboard", 
+      "keys", 
+      "desktop", 
+      "office", 
+      "desk"
+    ],
+    "category":"Objects",
+    "release":"3.18.5"
   }
 }
