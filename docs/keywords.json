@@ -3276,7 +3276,14 @@
             "1.5.0",
             "people",
             "web",
-            "application"
+            "application",
+            "coins",
+            "money",
+            "shield",
+            "person",
+            "account",
+            "user",
+            "status"
         ],
         "category": "People",
         "release": "1.5"
@@ -4636,7 +4643,24 @@
             "money",
             "cash",
             "change",
-            "currency"
+            "currency",
+            "payment",
+            "price",
+            "paypal",
+            "checkout",
+            "atm",
+            "cash",
+            "change",
+            "purchase",
+            "withdrawl",
+            "deposit",
+            "transaction",
+            "finances",
+            "bank",
+            "charge",
+            "sale",
+            "buy",
+            "wallet"
         ],
         "category": "Objects",
         "release": "1.8.0"
@@ -9530,6 +9554,7 @@
   "clock-forward":{
     "alias":[
       "3.18.6",
+      "arrows",
       "arrow",
       "movement",
       "time",
@@ -9541,6 +9566,7 @@
   "contingent-values":{
     "alias":[
       "3.18.6",
+      "forms",
       "table",
       "value",
       "connected",
@@ -9556,6 +9582,7 @@
   "credit-card":{
     "alias":[
       "3.18.6",
+      "objects",
       "money",
       "payment",
       "currency",
@@ -9579,47 +9606,10 @@
     "category":"Objects",
     "release":"3.18.6"
   },
-  "credits":{
-    "alias":[
-      "3.18.6",
-      "payment",
-      "price",
-      "paypal",
-      "checkout",
-      "atm",
-      "cash",
-      "change",
-      "purchase",
-      "withdrawl",
-      "deposit",
-      "transaction",
-      "finances",
-      "bank",
-      "charge",
-      "sale",
-      "buy",
-      "wallet"
-    ],
-    "category":"Objects",
-    "release":"3.18.6"
-  },
-  "premium-content-user-credit":{
-    "alias":[
-      "3.18.6",
-      "coins",
-      "money",
-      "shield",
-      "person",
-      "account",
-      "user",
-      "status"
-    ],
-    "category":"People",
-    "release":"3.18.6"
-  },
   "user-down":{
     "alias":[
       "3.18.6",
+      "people",
       "demoted",
       "lower",
       "level"
@@ -9630,6 +9620,7 @@
   "user-key":{
     "alias":[
       "3.18.6",
+      "people",
       "role",
       "level",
       "main",
@@ -9641,6 +9632,7 @@
   "user-minus":{
     "alias":[
       "3.18.6",
+      "people",
       "level",
       "delete",
       "remove",
@@ -9652,6 +9644,7 @@
   "user-up":{
     "alias":[
       "3.18.6",
+      "people",
       "level",
       "higher",
       "level",
@@ -9664,6 +9657,7 @@
   "user-x":{
     "alias":[
       "3.18.6",
+      "people",
       "level",
       "delete",
       "remove",
@@ -9675,6 +9669,7 @@
   "utility-network-trace":{
     "alias":[
       "3.18.6",
+      "generic",
       "points",
       "dots",
       "lines",
