@@ -3194,7 +3194,9 @@
     "play": {
         "alias": [
             "1.5.0",
-            "media"
+            "media",
+            "run",
+            "test"
         ],
         "category": "Media",
         "release": "1.5"
@@ -3557,7 +3559,8 @@
             "directions",
             "navigation",
             "navigate",
-            "current location"
+            "current location",
+            "step-out"
         ],
         "category": "Directions",
         "release": "1.5"
@@ -3569,7 +3572,8 @@
             "navigation",
             "navigate",
             "destination",
-            "arrival location"
+            "arrival location",
+            "step-in"
         ],
         "category": "Directions",
         "release": "1.5"
