@@ -3194,7 +3194,9 @@
     "play": {
         "alias": [
             "1.5.0",
-            "media"
+            "media",
+            "run",
+            "test"
         ],
         "category": "Media",
         "release": "1.5"
@@ -3276,7 +3278,14 @@
             "1.5.0",
             "people",
             "web",
-            "application"
+            "application",
+            "coins",
+            "money",
+            "shield",
+            "person",
+            "account",
+            "user",
+            "status"
         ],
         "category": "People",
         "release": "1.5"
@@ -3550,7 +3559,8 @@
             "directions",
             "navigation",
             "navigate",
-            "current location"
+            "current location",
+            "step-out"
         ],
         "category": "Directions",
         "release": "1.5"
@@ -3562,7 +3572,8 @@
             "navigation",
             "navigate",
             "destination",
-            "arrival location"
+            "arrival location",
+            "step-in"
         ],
         "category": "Directions",
         "release": "1.5"
@@ -4636,7 +4647,24 @@
             "money",
             "cash",
             "change",
-            "currency"
+            "currency",
+            "payment",
+            "price",
+            "paypal",
+            "checkout",
+            "atm",
+            "cash",
+            "change",
+            "purchase",
+            "withdrawl",
+            "deposit",
+            "transaction",
+            "finances",
+            "bank",
+            "charge",
+            "sale",
+            "buy",
+            "wallet"
         ],
         "category": "Objects",
         "release": "1.8.0"
@@ -9437,94 +9465,228 @@
     ],
     "category":"Objects",
     "release":"3.18.1"
-  }, 
+  },
   "folders":{
     "alias":[
       "3.18.2",
       "objects",
-      "files", 
-      "directory", 
-      "storage", 
-      "system", 
-      "organize", 
-      "collapsed", 
-      "layers", 
-      "stack", 
+      "files",
+      "directory",
+      "storage",
+      "system",
+      "organize",
+      "collapsed",
+      "layers",
+      "stack",
       "order"
     ],
     "category":"Objects",
     "release":"3.18.2"
-  }, 
+  },
   "clipboard":{
     "alias":[
       "3.18.2",
       "objects",
-      "files", 
-      "written", 
-      "notes", 
-      "organize", 
-      "list", 
+      "files",
+      "written",
+      "notes",
+      "organize",
+      "list",
       "order"
     ],
     "category":"Objects",
     "release":"3.18.2"
-  }, 
+  },
   "speech-bubble-exclamation":{
     "alias":[
       "3.18.2",
       "generic",
-      "speech bubble", 
-      "comment", 
-      "thought", 
-      "chat", 
-      "message", 
-      "exclamation mark", 
+      "speech bubble",
+      "comment",
+      "thought",
+      "chat",
+      "message",
+      "exclamation mark",
       "emphasis"
     ],
     "category":"Generic",
     "release":"3.18.2"
-  }, 
+  },
   "select":{
     "alias":[
       "3.18.3",
       "generic",
-      "selection", 
-      "choose", 
-      "cursor", 
-      "point", 
-      "focus", 
-      "direct", 
-      "freehand", 
-      "point", 
+      "selection",
+      "choose",
+      "cursor",
+      "point",
+      "focus",
+      "direct",
+      "freehand",
+      "point",
       "click"
     ],
     "category":"Generic",
     "release":"3.18.3"
-  }, 
+  },
   "tiled-imagery-layer":{
     "alias":[
       "3.18.4",
       "gis",
-      "tiled", 
-      "image", 
-      "imagery", 
-      "layer", 
+      "tiled",
+      "image",
+      "imagery",
+      "layer",
       "layer type"
     ],
     "category":"GIS",
     "release":"3.18.4"
-  }, 
+  },
   "keyboard":{
     "alias":[
       "3.18.5",
-      "objects", 
-      "keyboard", 
-      "keys", 
-      "desktop", 
-      "office", 
+      "objects",
+      "keyboard",
+      "keys",
+      "desktop",
+      "office",
       "desk"
     ],
     "category":"Objects",
     "release":"3.18.5"
+  },
+  "clock-forward":{
+    "alias":[
+      "3.18.6",
+      "arrows",
+      "arrow",
+      "movement",
+      "time",
+      "refresh"
+    ],
+    "category":"Arrows",
+    "release":"3.18.6"
+  },
+  "contingent-values":{
+    "alias":[
+      "3.18.6",
+      "forms",
+      "table",
+      "value",
+      "connected",
+      "levels",
+      "field",
+      "forms",
+      "depenent",
+      "conditional "
+    ],
+    "category":"Forms",
+    "release":"3.18.6"
+  },
+  "credit-card":{
+    "alias":[
+      "3.18.6",
+      "objects",
+      "money",
+      "payment",
+      "currency",
+      "price",
+      "paypal",
+      "checkout",
+      "atm",
+      "purchase",
+      "withdrawl",
+      "deposit",
+      "transaction",
+      "finances",
+      "bank",
+      "charge",
+      "sale",
+      "buy",
+      "wallet",
+      "debit card",
+      "shopping cart"
+    ],
+    "category":"Objects",
+    "release":"3.18.6"
+  },
+  "user-down":{
+    "alias":[
+      "3.18.6",
+      "people",
+      "demoted",
+      "lower",
+      "level"
+    ],
+    "category":"People",
+    "release":"3.18.6"
+  },
+  "user-key":{
+    "alias":[
+      "3.18.6",
+      "people",
+      "role",
+      "level",
+      "main",
+      "value"
+    ],
+    "category":"People",
+    "release":"3.18.6"
+  },
+  "user-minus":{
+    "alias":[
+      "3.18.6",
+      "people",
+      "level",
+      "delete",
+      "remove",
+      "withdraw"
+    ],
+    "category":"People",
+    "release":"3.18.6"
+  },
+  "user-up":{
+    "alias":[
+      "3.18.6",
+      "people",
+      "level",
+      "higher",
+      "level",
+      "promoted",
+      "promotion"
+    ],
+    "category":"People",
+    "release":"3.18.6"
+  },
+  "user-x":{
+    "alias":[
+      "3.18.6",
+      "people",
+      "level",
+      "delete",
+      "remove",
+      "user"
+    ],
+    "category":"People",
+    "release":"3.18.6"
+  },
+  "utility-network-trace":{
+    "alias":[
+      "3.18.6",
+      "generic",
+      "points",
+      "dots",
+      "lines",
+      "circles",
+      "geometric quantitative",
+      "network",
+      "connected",
+      "connection",
+      "selection",
+      "collecting data",
+      "running analysis"
+    ],
+    "category":"Generic",
+    "release":"3.18.6"
   }
 }

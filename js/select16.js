@@ -1,1 +1,1 @@
-export const select16 = "M5 3v10l3-4h5zm2.5 5L6 10V5l4 3H7.5z";
+export const select16 = "M4 2v12l4-4h6zm3.586 7L5 11.586V4.08L11.15 9z";
