@@ -1,1 +1,1 @@
-export const select24 = "M8 5v15l4-6h8zm3.376 8L9 17V7.009L16.934 13z";
+export const select24 = "M6 3v18l5-7h9zm4.485 10L7 17.88V5.058L17.108 13z";
