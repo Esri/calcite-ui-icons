@@ -4532,6 +4532,8 @@
     },
     "handle-vertical": {
         "alias": [
+            "1.6.2",
+            "generic",
             "more",
             "...",
             "dot dot dot",
@@ -4542,7 +4544,8 @@
             "settings",
             "dropdown menu"
         ],
-        "category": "Generic"
+        "category": "Generic",
+        "release": "1.6.2"
     },
     "send": {
         "alias": [
@@ -9688,5 +9691,19 @@
     ],
     "category":"Generic",
     "release":"3.18.6"
+  }, 
+  "file-ecd":{
+    "alias":[
+      "3.18.7",
+      "files", 
+      "ecd", 
+      "esri", 
+      "classifier", 
+      "definition", 
+      "format", 
+      "extension"
+    ],
+    "category":"Files",
+    "release":"3.18.7"
   }
 }
