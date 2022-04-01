@@ -9706,7 +9706,7 @@
     "category":"Files",
     "release":"3.18.7"
   }, 
-  "Insets":{
+  "insets":{
     "alias":[
       "3.18.8",
       "windows",
