@@ -9705,5 +9705,22 @@
     ],
     "category":"Files",
     "release":"3.18.7"
+  }, 
+  "Insets":{
+    "alias":[
+      "3.18.8",
+      "windows",
+      "insets", 
+      "square", 
+      "map", 
+      "section", 
+      "bracket", 
+      "column", 
+      "cropped", 
+      "focus", 
+      "selection"
+    ],
+    "category":"Windows",
+    "release":"3.18.8"
   }
 }
