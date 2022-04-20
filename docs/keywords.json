@@ -9691,36 +9691,113 @@
     ],
     "category":"Generic",
     "release":"3.18.6"
-  }, 
+  },
   "file-ecd":{
     "alias":[
       "3.18.7",
-      "files", 
-      "ecd", 
-      "esri", 
-      "classifier", 
-      "definition", 
-      "format", 
+      "files",
+      "ecd",
+      "esri",
+      "classifier",
+      "definition",
+      "format",
       "extension"
     ],
     "category":"Files",
     "release":"3.18.7"
-  }, 
+  },
   "insets":{
     "alias":[
       "3.18.8",
       "windows",
-      "insets", 
-      "square", 
-      "map", 
-      "section", 
-      "bracket", 
-      "column", 
-      "cropped", 
-      "focus", 
+      "insets",
+      "square",
+      "map",
+      "section",
+      "bracket",
+      "column",
+      "cropped",
+      "focus",
       "selection"
     ],
     "category":"Windows",
     "release":"3.18.8"
+  },
+  "territory-buffer-distance":{
+    "alias":[
+      "3.18.9",
+      "gis",
+      "map",
+      "area",
+      "measure",
+      "overlap"
+    ],
+    "category":"GIS",
+    "release":"3.18.9"
+  },
+  "compactness":{
+    "alias":[
+      "3.18.9",
+      "gis",
+      "map",
+      "area",
+      "territory",
+      "zoom",
+      "district",
+      "dotted line"
+    ],
+    "category":"GIS",
+    "release":"3.18.9"
+  },
+  "distance-type":{
+    "alias":[
+      "3.18.9",
+      "gis",
+      "measure",
+      "list",
+      "category",
+      "space"
+    ],
+    "category":"GIS",
+    "release":"3.18.9"
+  },
+  "maximum-territory-distance":{
+    "alias":[
+      "3.18.9",
+      "gis",
+      "measure",
+      "border",
+      "area",
+      "between"
+    ],
+    "category":"GIS",
+    "release":"3.18.9"
+  },
+  "min-distance-between-centers":{
+    "alias":[
+      "3.18.9",
+      "gis",
+      "measure",
+      "area",
+      "between",
+      "border"
+    ],
+    "category":"GIS",
+    "release":"3.18.9"
+  },
+  "number-of-territories":{
+    "alias":[
+      "3.18.9",
+      "gis",
+      "map",
+      "district",
+      "area",
+      "divided",
+      "rigion",
+      "state",
+      "land"
+    ],
+    "category":"GIS",
+    "release":"3.18.9"
   }
 }
