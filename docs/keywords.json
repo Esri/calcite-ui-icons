@@ -9799,5 +9799,19 @@
     ],
     "category":"GIS",
     "release":"3.18.9"
+  }, 
+  "recurrence":{
+    "alias":[
+      "3.19.0",
+      "directions",
+      "repeat", 
+      "reoccur", 
+      "arrows", 
+      "around", 
+      "circle", 
+      "event"
+    ],
+    "category":"Directions",
+    "release":"3.19.0"
   }
 }
