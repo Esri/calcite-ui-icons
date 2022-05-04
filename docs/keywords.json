@@ -9919,5 +9919,84 @@
     ],
     "category":"GIS",
     "release":"3.19.0"
+  }, 
+  "raster-analysis-24":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "configure", 
+      "Generic", 
+      "3.19.1", 
+      "debug", 
+      "script", 
+      "bug", 
+      "code", 
+      "find", 
+      "search                                                              "
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "configure":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "3.19.1", 
+      "generic", 
+      "data", 
+      "window", 
+      "gear", 
+      "settings", 
+      "tool", 
+      "configure"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "debug-script":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "3.19.1", 
+      "generic", 
+      "debug", 
+      "bug", 
+      "search", 
+      "find", 
+      "diagnose"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "profile-variables":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "3.19.1", 
+      "generic", 
+      "variables", 
+      "math", 
+      "equation", 
+      "x", 
+      "calculation"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "test-data":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "3.19.1", 
+      "generic", 
+      "script", 
+      "search", 
+      "test", 
+      "testing", 
+      "review", 
+      "find"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
   }
 }
