@@ -782,7 +782,7 @@
             "box",
             "select",
             "tick",
-            "checkmark",
+            "check mark",
             "toggle",
             "confirm",
             "correct",
@@ -1912,7 +1912,7 @@
             "charts-and-graphs",
             "statistic",
             "monitor",
-            "threshhold",
+            "threshold",
             "limit"
         ],
         "category": "Charts and Graphs",
@@ -1924,7 +1924,7 @@
             "charts-and-graphs",
             "statistic",
             "monitor",
-            "threshhold",
+            "threshold",
             "limit",
             "number"
         ],
@@ -2468,7 +2468,7 @@
             "row",
             "text",
             "items",
-            "orangize",
+            "organize",
             "resize",
             "card",
             "widget",
@@ -2489,7 +2489,7 @@
             "row",
             "text",
             "items",
-            "orangize",
+            "organize",
             "resize",
             "card",
             "widget",
@@ -3495,7 +3495,7 @@
             "1.5.0",
             "gis",
             "location",
-            "cirlcles",
+            "circles",
             "locate",
             "buffer",
             "boundaries",
@@ -3866,7 +3866,7 @@
             "up",
             "down",
             "levels",
-            "flooors",
+            "floors",
             "navigate",
             "navigation"
         ],
@@ -4783,7 +4783,7 @@
     "line-check": {
         "alias": [
             "2.3.2",
-            "checkmark",
+            "check mark",
             "confirm",
             "drawing",
             "draw line"
@@ -4803,7 +4803,7 @@
     "vertex-check": {
         "alias": [
             "2.3.2",
-            "checkmark",
+            "check mark",
             "confirm",
             "drawing",
             "draw vertices"
@@ -4895,7 +4895,7 @@
             "2.5.1",
             "height",
             "GIS",
-            "mountians",
+            "mountains",
             "terrain",
             "measure",
             "arrow",
@@ -5573,7 +5573,7 @@
             "3.0.0",
             "vertices",
             "polygon line check",
-            "checkmark",
+            "check mark",
             "points"
         ],
         "category": "Generic",
@@ -6543,7 +6543,7 @@
             "equations",
             "linear equations",
             "algebra",
-            "mathmatics",
+            "mathematics",
             "graph",
             "notation",
             "value",
@@ -8709,7 +8709,7 @@
         "selection",
         "area",
         "tick",
-        "checkmark",
+        "check mark",
         "confirm",
         "correct",
         "selected",
@@ -9580,7 +9580,7 @@
       "levels",
       "field",
       "forms",
-      "depenent",
+      "dependent",
       "conditional "
     ],
     "category":"Forms",
@@ -9793,7 +9793,7 @@
       "district",
       "area",
       "divided",
-      "rigion",
+      "region",
       "state",
       "land"
     ],
@@ -9919,5 +9919,98 @@
     ],
     "category":"GIS",
     "release":"3.19.0"
+  }, 
+  "raster-analysis-24":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "configure", 
+      "Generic", 
+      "3.19.1", 
+      "debug", 
+      "script", 
+      "bug", 
+      "code", 
+      "find", 
+      "search                                                              "
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "configure":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "data", 
+      "window", 
+      "gear",  
+      "tool", 
+      "settings",
+      "manage",
+      "tools",
+      "wrench",
+      "options",
+      "list",
+      "menu"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "debug-script":{
+    "alias":[
+      "3.19.1",
+      "generic", 
+      "bug", 
+      "search", 
+      "find", 
+      "magnifying glass",
+      "locate",
+      "diagnose",
+      "troubleshoot",
+      "issues",
+      "fix",
+      "solve",
+      "technology",
+      "analyze",
+      "inspect",
+      "errors",
+      "detect",
+      "hardware",
+      "software"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "profile-variables":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "variables", 
+      "math", 
+      "equation", 
+      "x", 
+      "mathematics",
+      "parentheses",
+      "calculation"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
+  }, 
+  "test-data":{
+    "alias":[
+      "3.19.1",
+      "generic",
+      "script", 
+      "search", 
+      "test", 
+      "testing", 
+      "review",
+      "scroll",
+      "code",
+      "check mark",
+      "find"
+    ],
+    "category":" Generic",
+    "release":" 3.19.1"
   }
 }
