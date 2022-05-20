@@ -10079,7 +10079,7 @@
   "rtl-paragraph-align":{
     "alias":[
       "3.19.3",
-      "Symbols",
+      "symbols",
       "move", 
       "left", 
       "right", 
@@ -10111,7 +10111,7 @@
   "ltr-paragraph-align":{
     "alias":[
       "3.19.3",
-      "Symbols",
+      "symbols",
       "move", 
       "left", 
       "right", 
