@@ -10243,5 +10243,24 @@
     ],
     "category":"Generic",
     "release":""
+  }, 
+  "chart-magnifying-glass":{
+    "alias":[
+      "3.19.4",
+      "charts and graphs",
+      "analyze", 
+      "analytics", 
+      "analysis", 
+      "inspect", 
+      "visualize", 
+      "graph", 
+      "data", 
+      "look", 
+      "view", 
+      "output", 
+      "diagram"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.19.4"
   }
 }
