@@ -7017,7 +7017,7 @@
             "generic",
             "volume",
             "speakers",
-            "audio ouput",
+            "audio output",
             "loudness",
             "audio input",
             "audio enabled",
@@ -8281,7 +8281,7 @@
         "category": "GIS",
         "release": "3.17.0"
     },
-    "feature-display-order": {
+    "image-display-order": {
         "alias": [
             "3.17.0",
             "GIS",
@@ -9598,7 +9598,7 @@
       "checkout",
       "atm",
       "purchase",
-      "withdrawl",
+      "withdrawal",
       "deposit",
       "transaction",
       "finances",
@@ -10139,5 +10139,128 @@
     ],
     "category":"Windows",
     "release":"3.19.3"
+  }, 
+  "change-detection":{
+    "alias":[
+      "3.19.4",
+      "generic",
+      "arrow", 
+      "map element", 
+      "switch", 
+      "selection"
+    ],
+    "category":"Generic",
+    "release":""
+  }, 
+  "number-circle-4":{
+    "alias":[
+      "3.19.4",
+      "numbers",
+      " circle", 
+      "4", 
+      "four"
+    ],
+    "category":"Numbers",
+    "release":""
+  }, 
+  "number-circle-5":{
+    "alias":[
+      "3.19.4",
+      "numbers",
+      "circle", 
+      "5", 
+      "five"
+    ],
+    "category":"Numbers",
+    "release":""
+  }, 
+  "number-circle-6":{
+    "alias":[
+      "3.19.4",
+      "numbers",
+      "circle", 
+      "6", 
+      "six"
+    ],
+    "category":"Numbers",
+    "release":""
+  }, 
+  "number-circle-7":{
+    "alias":[
+      "3.19.4",
+      "numbers",
+      "circle", 
+      "7", 
+      "seven"
+    ],
+    "category":"Numbers",
+    "release":""
+  }, 
+  "number-circle-8":{
+    "alias":[
+      "3.19.4",
+      "numbers",
+      "circle", 
+      "8", 
+      "eight"
+    ],
+    "category":"Numbers",
+    "release":""
+  }, 
+  "number-circle-9":{
+    "alias":[
+      "3.19.4",
+      "numbers",
+      "circle", 
+      "9", 
+      "nine"
+    ],
+    "category":"Numbers",
+    "release":""
+  }, 
+  "show-multiple-layers-at-a-time":{
+    "alias":[
+      "3.19.4",
+      "generic",
+      "eye", 
+      "layer stack", 
+      "see", 
+      "show", 
+      "visualize"
+    ],
+    "category":"Generic",
+    "release":""
+  }, 
+  "show-one-layer-at-a-time":{
+    "alias":[
+      "3.19.4",
+      "generic",
+      "eye", 
+      "layer stack", 
+      "see", 
+      "show", 
+      "visualize"
+    ],
+    "category":"Generic",
+    "release":""
+  }, 
+  "chart-magnifying-glass":{
+    "alias":[
+      "3.19.4",
+      "charts and graphs",
+      "analyze", 
+      "analytics", 
+      "analysis", 
+      "inspect", 
+      "visualize", 
+      "graph", 
+      "data", 
+      "look", 
+      "view", 
+      "output", 
+      "diagram"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.19.4"
   }
 }
