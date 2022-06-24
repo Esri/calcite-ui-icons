@@ -10150,7 +10150,7 @@
       "selection"
     ],
     "category":"Generic",
-    "release":""
+    "release":"3.19.4"
   }, 
   "number-circle-4":{
     "alias":[
@@ -10161,7 +10161,7 @@
       "four"
     ],
     "category":"Numbers",
-    "release":""
+    "release":"3.19.4"
   }, 
   "number-circle-5":{
     "alias":[
@@ -10172,7 +10172,7 @@
       "five"
     ],
     "category":"Numbers",
-    "release":""
+    "release":"3.19.4"
   }, 
   "number-circle-6":{
     "alias":[
@@ -10183,7 +10183,7 @@
       "six"
     ],
     "category":"Numbers",
-    "release":""
+    "release":"3.19.4"
   }, 
   "number-circle-7":{
     "alias":[
@@ -10194,7 +10194,7 @@
       "seven"
     ],
     "category":"Numbers",
-    "release":""
+    "release":"3.19.4"
   }, 
   "number-circle-8":{
     "alias":[
@@ -10205,7 +10205,7 @@
       "eight"
     ],
     "category":"Numbers",
-    "release":""
+    "release":"3.19.4"
   }, 
   "number-circle-9":{
     "alias":[
@@ -10216,7 +10216,7 @@
       "nine"
     ],
     "category":"Numbers",
-    "release":""
+    "release":"3.19.4"
   }, 
   "show-multiple-layers-at-a-time":{
     "alias":[
@@ -10229,7 +10229,7 @@
       "visualize"
     ],
     "category":"Generic",
-    "release":""
+    "release":"3.19.4"
   }, 
   "show-one-layer-at-a-time":{
     "alias":[
@@ -10242,7 +10242,7 @@
       "visualize"
     ],
     "category":"Generic",
-    "release":""
+    "release":"3.19.4"
   }, 
   "chart-magnifying-glass":{
     "alias":[
