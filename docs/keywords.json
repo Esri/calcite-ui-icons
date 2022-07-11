@@ -10262,5 +10262,22 @@
     ],
     "category":"Charts and Graphs",
     "release":"3.19.4"
+  }, 
+  "unpin":{
+    "alias":[
+      "3.19.5",
+      "objects",
+      "tack", 
+      "save", 
+      "mark", 
+      "undo", 
+      "release", 
+      "slash", 
+      "pushpin", 
+      "join", 
+      "stick"
+    ],
+    "category":"Objects",
+    "release":"3.19.5"
   }
 }
