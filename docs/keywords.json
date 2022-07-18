@@ -10279,5 +10279,29 @@
     ],
     "category":"Objects",
     "release":"3.19.5"
+  }, 
+  "change-detection":{
+    "alias":[
+      "3.19.6",
+      "generic",
+      "arrow", 
+      "transform", 
+      "mapping", 
+      "maps"
+    ],
+    "category":"Generic",
+    "release":"3.19.6"
+  }, 
+  "flip":{
+    "alias":[
+      "3.19.6",
+      "generic",
+      "arrows", 
+      "dotted line", 
+      "transform", 
+      "allign"
+    ],
+    "category":"Generic",
+    "release":"3.19.6"
   }
 }
