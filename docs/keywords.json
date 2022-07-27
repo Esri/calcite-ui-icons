@@ -895,7 +895,14 @@
             "1.5.0",
             "symbols",
             "ban",
-            "cancel"
+            "cancel", 
+            "none",
+            "null",
+            "no entry",
+            "empty",
+            "not allowed"
+            "banned",
+            "not prohibited"
         ],
         "category": "Symbols",
         "release": "1.5"
