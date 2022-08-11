@@ -900,7 +900,7 @@
             "null",
             "no entry",
             "empty",
-            "not allowed"
+            "not allowed",
             "banned",
             "not prohibited"
         ],
@@ -6594,7 +6594,9 @@
             "safety",
             "protection",
             "guard",
-            "defense"
+            "defense", 
+            "subscriber",
+            "user"
         ],
         "category": "Generic",
         "release": "3.9.0"
@@ -10154,7 +10156,10 @@
       "arrow", 
       "map element", 
       "switch", 
-      "selection"
+      "selection",
+      "transform", 
+      "mapping", 
+      "maps"
     ],
     "category":"Generic",
     "release":"3.19.4"
@@ -10287,18 +10292,6 @@
     "category":"Objects",
     "release":"3.19.5"
   }, 
-  "change-detection":{
-    "alias":[
-      "3.19.6",
-      "generic",
-      "arrow", 
-      "transform", 
-      "mapping", 
-      "maps"
-    ],
-    "category":"Generic",
-    "release":"3.19.6"
-  }, 
   "flip":{
     "alias":[
       "3.19.6",
@@ -10310,5 +10303,60 @@
     ],
     "category":"Generic",
     "release":"3.19.6"
+  }, 
+  "collaboration":{
+    "alias":[
+      "3.19.7",
+      "Generic",
+      "network", 
+      "circles", 
+      "community", 
+      "connection", 
+      "enclosed", 
+      "share", 
+      "sharing", 
+      "collaborative", 
+      "diagram"
+    ],
+    "category":"Generic",
+    "release":"3.19.7"
+  }, 
+  "collaboration-distributed":{
+    "alias":[
+      "3.19.7",
+      "Generic",
+      "network", 
+      "circles", 
+      "community", 
+      "connection", 
+      "enclosed", 
+      "share", 
+      "sharing", 
+      "collaborative", 
+      "diagram", 
+      "distribution", 
+      "open"
+    ],
+    "category":"Generic",
+    "release":"3.19.7"
+  }, 
+  "sheild-coin":{
+    "alias":[
+      "3.19.7",
+      "generic",
+      "membership", 
+      "status", 
+      "access", 
+      "premium", 
+      "user", 
+      "authoritative", 
+      "safety", 
+      "secure", 
+      "protected", 
+      "money", 
+      "account"
+    ],
+    "category":"Generic",
+    "release":"3.19.7"
   }
 }
