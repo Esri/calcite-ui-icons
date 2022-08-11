@@ -20,6 +20,7 @@
     "icons",
     "svg"
   ],
+  "contributors": [
     {
       "name": "Paul Pederson",
       "email": "<ppederson@esri.com>"
