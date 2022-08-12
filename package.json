@@ -3,7 +3,7 @@
     "spriter": "bin/spriter.js"
   },
   "name": "@esri/calcite-ui-icons",
-  "version": "3.19.6",
+  "version": "3.19.7",
   "private": false,
   "description": "A collection of UI SVG icons created by Esri for applications.",
   "repository": {
@@ -22,16 +22,12 @@
   ],
   "contributors": [
     {
-      "name": "Julio Ochoa",
-      "email": "<jochoa@esri.com>"
-    },
-    {
       "name": "Paul Pederson",
       "email": "<ppederson@esri.com>"
     },
     {
-      "name": "Katelyn Seitz",
-      "email": "<kseitz@esri.com>"
+      "name": "Skye Seitz",
+      "email": "<sseitz@esri.com>"
     }
   ],
   "license": "SEE LICENSE IN README.md",
