@@ -10402,4 +10402,96 @@
     "category":"Symbols",
     "release":"3.19.8"
   }
+  , 
+  "heart":{
+    "alias":[
+      "3.19.9",
+      "generic",
+      "shape", 
+      "love", 
+      "favorite", 
+      "valentine", 
+      "gift", 
+      "like"
+    ],
+    "category":"Generic",
+    "release":"3.19.8"
+  }, 
+  "4x-playback-speed":{
+    "alias":[
+      "3.19.9",
+      "numbers",
+      "four times", 
+      "spead up"
+    ],
+    "category":"Numbers",
+    "release":"3.19.8"
+  }, 
+  "2x-playback-speed":{
+    "alias":[
+      "3.19.9",
+      "numbers",
+      "two times", 
+      "spead up", 
+      "second", 
+      "double time"
+    ],
+    "category":"Numbers",
+    "release":"3.19.8"
+  }, 
+  "8x-playback-speed":{
+    "alias":[
+      "3.19.9",
+      "numbers",
+      "eight times", 
+      "spead up"
+    ],
+    "category":"Numbers",
+    "release":"3.19.8"
+  }, 
+  "1-4x-playback-speed":{
+    "alias":[
+      "3.19.9",
+      "numbers",
+      "one fourth times", 
+      "slowed down", 
+      "fraction", 
+      "25 percent"
+    ],
+    "category":"Numbers",
+    "release":"3.19.8"
+  }, 
+  "1-8x-playback-speed":{
+    "alias":[
+      "3.19.9",
+      "numbers",
+      "one eigth times", 
+      "slowed down", 
+      "fraction"
+    ],
+    "category":"Numbers",
+    "release":"3.19.8"
+  }, 
+  "1x-playback-speed":{
+    "alias":[
+      "3.19.9",
+      "numbers",
+      "one time", 
+      "slowed down", 
+      "spead up"
+    ],
+    "category":"Numbers",
+    "release":"3.19.8"
+  }, 
+  "1-2x-playback-speed":{
+    "alias":[
+      "3.19.9",
+      "numbers",
+      "one half times", 
+      "slowed down", 
+      "fraction"
+    ],
+    "category":"Numbers",
+    "release":"3.19.8"
+  }
 }
