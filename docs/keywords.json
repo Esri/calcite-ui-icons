@@ -613,7 +613,7 @@
     "caret-down": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "triangle",
             "negative",
             "accordion",
@@ -625,7 +625,7 @@
     "caret-left": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "triangle",
             "previous",
             "backward"
@@ -636,7 +636,7 @@
     "caret-right": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "collapse",
             "expand",
             "triangle",
@@ -651,7 +651,7 @@
     "caret-square-down": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "collapse",
             "expand",
             "right",
@@ -672,7 +672,7 @@
     "caret-square-left": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "triangle",
             "back",
             "previous",
@@ -684,7 +684,7 @@
     "caret-square-right": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "collapse",
             "expand",
             "triangle",
@@ -699,7 +699,7 @@
     "caret-square-up": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "collapse",
             "expand",
             "right",
@@ -720,7 +720,7 @@
     "caret-up": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "triangle",
             "positive"
         ],
@@ -740,7 +740,7 @@
     "check": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "mark",
             "selected"
         ],
@@ -750,7 +750,7 @@
     "check-circle": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "check",
             "mark",
             "selected",
@@ -777,7 +777,7 @@
     "check-square": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "done",
             "box",
             "select",
@@ -794,7 +794,7 @@
     "chevron-down": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -803,7 +803,7 @@
     "chevron-left": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -812,7 +812,7 @@
     "chevron-right": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -821,7 +821,7 @@
     "chevron-up": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -830,7 +830,7 @@
     "chevrons-down": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -839,7 +839,7 @@
     "chevrons-left": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -848,7 +848,7 @@
     "chevrons-right": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -857,7 +857,7 @@
     "chevrons-up": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "arrow"
         ],
         "category": "Symbols",
@@ -893,7 +893,7 @@
     "circle-disallowed": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "ban",
             "cancel", 
             "none",
@@ -1354,7 +1354,7 @@
     "exclamation-mark-circle": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "invalid",
             "error",
             "broken"
@@ -1365,7 +1365,7 @@
     "exclamation-mark-triangle": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "warning",
             "alert"
         ],
@@ -2256,7 +2256,7 @@
     "information": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "about",
             "help",
             "tooltip"
@@ -2550,7 +2550,7 @@
             "1.5.0",
             "lists",
             "key",
-            "symbols",
+           "symbols",
             "shapes",
             "items",
             "map",
@@ -2564,7 +2564,7 @@
             "1.5.0",
             "lists",
             "key",
-            "symbols",
+           "symbols",
             "shapes",
             "items",
             "map",
@@ -2579,7 +2579,7 @@
             "1.5.0",
             "lists",
             "key",
-            "symbols",
+           "symbols",
             "shapes",
             "items",
             "map",
@@ -2594,7 +2594,7 @@
             "1.5.0",
             "lists",
             "key",
-            "symbols",
+           "symbols",
             "shapes",
             "items",
             "map",
@@ -2927,7 +2927,7 @@
     "minus": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "zoomout",
             "dash"
         ],
@@ -2937,7 +2937,7 @@
     "minus-circle": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "subtract",
             "remove",
             "delete",
@@ -3038,7 +3038,7 @@
     "null": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "zero",
             "nothing",
             "empty",
@@ -3211,7 +3211,7 @@
     "plus": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "add",
             "zoom"
         ],
@@ -3221,7 +3221,7 @@
     "plus-circle": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "add",
             "expand",
             "increment",
@@ -3233,7 +3233,7 @@
     "plus-square": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "add",
             "expand"
         ],
@@ -3354,7 +3354,7 @@
     "question": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "faq",
             "unknown",
             "help",
@@ -3392,7 +3392,7 @@
     "recent": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "history"
         ],
         "category": "Symbols",
@@ -3883,7 +3883,7 @@
     "star": {
         "alias": [
             "3.3.0",
-            "symbols",
+           "symbols",
             "favorite",
             "rate",
             "rating"
@@ -3894,7 +3894,7 @@
     "star-circle": {
         "alias": [
             "3.3.0",
-            "symbols",
+           "symbols",
             "premium"
         ],
         "category": "Symbols",
@@ -4218,7 +4218,7 @@
     "x": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "delete",
             "remove",
             "close"
@@ -4277,7 +4277,7 @@
     "search": {
         "alias": [
             "1.5.0",
-            "symbols",
+           "symbols",
             "magnifying glass",
             "locate",
             "reveal",
@@ -4945,7 +4945,7 @@
             "device",
             "connection",
             "connected",
-            "symbols",
+           "symbols",
             "technology",
             "sharing"
         ],
@@ -5407,7 +5407,7 @@
         "alias": [
             "3.0.0",
             "text",
-            "symbols",
+           "symbols",
             "characters",
             "greek",
             "mathematics",
@@ -6563,7 +6563,7 @@
     "x-circle": {
         "alias": [
             "3.8.1",
-            "symbols",
+           "symbols",
             "delete",
             "remove",
             "close"
@@ -7055,7 +7055,7 @@
     "webhook": {
         "alias": [
             "3.14.0",
-            "symbols",
+           "symbols",
             "web hook",
             "event",
             "information",
@@ -7072,7 +7072,7 @@
     "miscellaneous-collection": {
         "alias": [
             "3.14.0",
-            "symbols",
+           "symbols",
             "collection",
             "miscellaneous collection",
             "components",
@@ -7743,7 +7743,7 @@
     },
     "cloud": {
         "alias": [
-            "Symbols",
+           "symbols",
             "3.16.5",
             "connected",
             "internet",
@@ -8711,7 +8711,7 @@
     "check-extent":{
       "alias":[
         "3.17.5",
-        "symbols",
+       "symbols",
         "done",
         "box",
         "tick",
@@ -10340,7 +10340,7 @@
     "category":"Generic",
     "release":"3.19.7"
   }, 
-  "sheild-coin":{
+  "shield-coin":{
     "alias":[
       "3.19.7",
       "generic",
@@ -10358,5 +10358,48 @@
     ],
     "category":"Generic",
     "release":"3.19.7"
+  }
+  , 
+  "rounded-rectangle":{
+    "alias":[
+      "3.19.8",
+      "symbols",
+      "shape", 
+      "shapes",
+      "single shape",
+      "one variable",
+      "geometry",
+      "glyph"
+    ],
+    "category":"Symbols",
+    "release":"3.19.8"
+  }, 
+  "rhombus":{
+    "alias":[
+      "3.19.8",
+      "symbols",
+      "shape", 
+      "shapes",
+      "single shape",
+      "one variable",
+      "geometry",
+      "glyph"
+    ],
+    "category":"Symbols",
+    "release":"3.19.8"
+  }, 
+  "rosette":{
+    "alias":[
+      "3.19.8",
+      "symbols",
+      "shape", 
+      "shapes",
+      "single shape",
+      "one variable",
+      "geometry",
+      "glyph"
+    ],
+    "category":"Symbols",
+    "release":"3.19.8"
   }
 }
