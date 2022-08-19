@@ -10402,4 +10402,19 @@
     "category":"Symbols",
     "release":"3.19.8"
   }
+  , 
+  "heart":{
+    "alias":[
+      "3.19.9",
+      "Generic",
+      "shape", 
+      "love", 
+      "favorite", 
+      "valentine", 
+      "gift", 
+      "like"
+    ],
+    "category":"Generic",
+    "release":""
+  }
 }
