@@ -10417,17 +10417,18 @@
     "category":"Generic",
     "release":"3.19.8"
   }, 
-  "4x-playback-speed":{
+  "4x":{
     "alias":[
       "3.19.9",
       "numbers",
+      "playback speed",
       "four times", 
       "spead up"
     ],
     "category":"Numbers",
     "release":"3.19.8"
   }, 
-  "2x-playback-speed":{
+  "2x":{
     "alias":[
       "3.19.9",
       "numbers",
@@ -10439,20 +10440,22 @@
     "category":"Numbers",
     "release":"3.19.8"
   }, 
-  "8x-playback-speed":{
+  "8x":{
     "alias":[
       "3.19.9",
       "numbers",
+      "playback speed",
       "eight times", 
       "spead up"
     ],
     "category":"Numbers",
     "release":"3.19.8"
   }, 
-  "1-4x-playback-speed":{
+  "1-4x":{
     "alias":[
       "3.19.9",
       "numbers",
+      "playback speed",
       "one fourth times", 
       "slowed down", 
       "fraction", 
@@ -10461,10 +10464,11 @@
     "category":"Numbers",
     "release":"3.19.8"
   }, 
-  "1-8x-playback-speed":{
+  "1-8x":{
     "alias":[
       "3.19.9",
       "numbers",
+      "playback speed",
       "one eigth times", 
       "slowed down", 
       "fraction"
@@ -10472,10 +10476,11 @@
     "category":"Numbers",
     "release":"3.19.8"
   }, 
-  "1x-playback-speed":{
+  "1x":{
     "alias":[
       "3.19.9",
       "numbers",
+      "playback speed",
       "one time", 
       "slowed down", 
       "spead up"
@@ -10483,10 +10488,11 @@
     "category":"Numbers",
     "release":"3.19.8"
   }, 
-  "1-2x-playback-speed":{
+  "1-2x":{
     "alias":[
       "3.19.9",
       "numbers",
+      "playback speed",
       "one half times", 
       "slowed down", 
       "fraction"
