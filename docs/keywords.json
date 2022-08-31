@@ -10415,7 +10415,7 @@
       "like"
     ],
     "category":"Generic",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }, 
   "4x":{
     "alias":[
@@ -10426,7 +10426,7 @@
       "spead up"
     ],
     "category":"Numbers",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }, 
   "2x":{
     "alias":[
@@ -10438,7 +10438,7 @@
       "double time"
     ],
     "category":"Numbers",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }, 
   "8x":{
     "alias":[
@@ -10449,7 +10449,7 @@
       "spead up"
     ],
     "category":"Numbers",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }, 
   "1-4x":{
     "alias":[
@@ -10462,7 +10462,7 @@
       "25 percent"
     ],
     "category":"Numbers",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }, 
   "1-8x":{
     "alias":[
@@ -10474,7 +10474,7 @@
       "fraction"
     ],
     "category":"Numbers",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }, 
   "1x":{
     "alias":[
@@ -10486,7 +10486,7 @@
       "spead up"
     ],
     "category":"Numbers",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }, 
   "1-2x":{
     "alias":[
@@ -10498,6 +10498,6 @@
       "fraction"
     ],
     "category":"Numbers",
-    "release":"3.19.8"
+    "release":"3.19.9"
   }
 }
