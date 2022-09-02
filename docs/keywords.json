@@ -10499,5 +10499,19 @@
     ],
     "category":"Numbers",
     "release":"3.19.9"
+  }, 
+  "multidimensional-raster":{
+    "alias":[
+      "3.20.0",
+      "generic",
+      "cubes", 
+      "dimensions", 
+      "squares", 
+      "3d", 
+      "object", 
+      "boxes"
+    ],
+    "category":"Generic",
+    "release":"3.20.0"
   }
 }
