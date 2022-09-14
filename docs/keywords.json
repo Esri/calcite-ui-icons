@@ -10513,5 +10513,43 @@
     ],
     "category":"Generic",
     "release":"3.20.0"
+  }, 
+  "bookmark-f":{
+    "alias":[
+      "3.20.1",
+      "objects",
+      "fill", 
+      "marking", 
+      "save", 
+      "label", 
+      "bookmarking"
+    ],
+    "category":"Objects",
+    "release":"3.20.1"
+  }, 
+  "register":{
+    "alias":[
+      "3.20.1",
+      "generic",
+      "information", 
+      "labeling", 
+      "correct", 
+      "check mark", 
+      "approved"
+    ],
+    "category":"Generic",
+    "release":"3.20.1"
+  }, 
+  "unregister":{
+    "alias":[
+      "3.20.1",
+      "generic",
+      "information", 
+      "labeling", 
+      "incorrect", 
+      "disapproved"
+    ],
+    "category":"Generic",
+    "release":"3.20.1"
   }
 }
