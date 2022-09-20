@@ -10551,5 +10551,65 @@
     ],
     "category":"Generic",
     "release":"3.20.1"
+  }, 
+  "satellite-3-f":{
+    "alias":[
+      "3.20.2",
+      "objects",
+      "artificial satellite", 
+      "communications", 
+      "remote sensing", 
+      "signal", 
+      "on", 
+      "off", 
+      "fill "
+    ],
+    "category":"Objects",
+    "release":"3.20.2"
+  }, 
+  "satellite-2-f":{
+    "alias":[
+      "3.20.2",
+      "objects",
+      "artificial satellite", 
+      "communications", 
+      "remote sensing", 
+      "signal", 
+      "on", 
+      "off", 
+      "fill"
+    ],
+    "category":"Objects",
+    "release":"3.20.2"
+  }, 
+  "satellite-1-f":{
+    "alias":[
+      "3.20.2",
+      "objects",
+      "artificial satellite", 
+      "communications", 
+      "remote sensing", 
+      "signal", 
+      "on", 
+      "off", 
+      "fill"
+    ],
+    "category":"Objects",
+    "release":"3.20.2"
+  }, 
+  "satellite-0-f":{
+    "alias":[
+      "3.20.2",
+      "objects",
+      "artificial satellite", 
+      "communications", 
+      "remote sensing", 
+      "signal", 
+      "on", 
+      "off", 
+      "fill"
+    ],
+    "category":"Objects",
+    "release":"3.20.2"
   }
 }
