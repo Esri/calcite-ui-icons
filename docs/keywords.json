@@ -10654,8 +10654,7 @@
     ],
     "category":"Files",
     "release":"3.20.3 "
-  }
-}, 
+  }, 
 "browser-map":{
   "alias":[
     "3.20.3 ",
@@ -10668,4 +10667,5 @@
   ],
   "category":"Windows",
   "release":"3.20.3 "
+}
 }
