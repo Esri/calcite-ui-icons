@@ -10621,7 +10621,8 @@
       "definition", 
       "format", 
       "extension", 
-      "collection"
+      "collection",
+      "file type"
     ],
     "category":"Files",
     "release":"3.20.3 "
@@ -10635,7 +10636,12 @@
       "definition", 
       "format", 
       "extension", 
-      "collection"
+      "collection",
+      "presentations",
+      ".pptx",
+      "powerpoint",
+      "microsoft",
+      "file type"
     ],
     "category":"Files",
     "release":"3.20.3 "
@@ -10650,7 +10656,8 @@
       "definition", 
       "format", 
       "extension", 
-      "collection"
+      "collection",
+      "file type"
     ],
     "category":"Files",
     "release":"3.20.3 "
@@ -10663,7 +10670,10 @@
     "map", 
     "location", 
     "desktop", 
-    "layout"
+    "layout",
+    "web map",
+    "application",
+    "mapping software"
   ],
   "category":"Windows",
   "release":"3.20.3 "
