@@ -19,8 +19,8 @@
     },
     "a-z": {
         "alias": [
-            "1.5.0",
             "text",
+            "1.5.0",
             "sort",
             "alphabetical",
             "ascending",
@@ -10655,4 +10655,17 @@
     "category":"Files",
     "release":"3.20.3 "
   }
+}, 
+"browser-map":{
+  "alias":[
+    "3.20.3 ",
+    "windows",
+    "os",
+    "map", 
+    "location", 
+    "desktop", 
+    "layout"
+  ],
+  "category":"Windows",
+  "release":"3.20.3 "
 }
