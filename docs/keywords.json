@@ -10611,5 +10611,48 @@
     ],
     "category":"Objects",
     "release":"3.20.2"
+  }, 
+  "files-csv-collection":{
+    "alias":[
+      "3.20.3 ",
+      "files", 
+      "csv", 
+      "esri", 
+      "definition", 
+      "format", 
+      "extension", 
+      "collection"
+    ],
+    "category":"Files",
+    "release":"3.20.3 "
+  }, 
+  "file-ppt":{
+    "alias":[
+      "3.20.3 ",
+      "files", 
+      "ppt", 
+      "esri", 
+      "definition", 
+      "format", 
+      "extension", 
+      "collection"
+    ],
+    "category":"Files",
+    "release":"3.20.3 "
+  }, 
+  "file-sqlite":{
+    "alias":[
+      "3.20.3 ",
+      "files", 
+      "sqlite", 
+      "feather", 
+      "esri", 
+      "definition", 
+      "format", 
+      "extension", 
+      "collection"
+    ],
+    "category":"Files",
+    "release":"3.20.3 "
   }
 }
