@@ -10691,5 +10691,31 @@
   ],
   "category":" Generic",
   "release":" 3.20.4"
+}, 
+"triangle":{
+  "alias":[
+    "3.20.5",
+    "symbols",
+    "shapes", 
+    "single shape", 
+    "geometry", 
+    "glyphs", 
+    "generic"
+  ],
+  "category":"Symbols",
+  "release":"3.20.5"
+}, 
+"ellipse":{
+  "alias":[
+    "3.20.5",
+    "symbols",
+    "shapes", 
+    "single shape", 
+    "geometry", 
+    "glyphs", 
+    "generic"
+  ],
+  "category":"Symbols",
+  "release":"3.20.5"
 }
 }
