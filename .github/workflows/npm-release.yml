@@ -1,0 +1,20 @@
+name: NPM Release
+on:
+  release:
+    types: [published]
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          ref: master
+      - uses: actions/setup-node@v3
+        with:
+          node-version: lts/*
+          cache: npm
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+      - name: Release to NPM
+        run: npm ci && npm start && npm publish
