@@ -10722,8 +10722,6 @@
   "alias":[
     " 3.20.6",
     "objects",
-    "Objects", 
-    "3.20.6", 
     "turn off", 
     "hide", 
     "remove", 
@@ -10737,8 +10735,7 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
+    "circle",
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10755,8 +10752,7 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
+    "magnifying glass",
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10774,8 +10770,7 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
+    "map",
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10784,7 +10779,7 @@
     "spatial analysis", 
     "investigation", 
     "data model", 
-    "layout,"
+    "layout"
   ],
   "category":"Knowledge Graph",
   "release":" 3.20.6"
@@ -10793,8 +10788,7 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
+    "circle",
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10812,8 +10806,7 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
+    "briefcase",
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10830,8 +10823,6 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10849,8 +10840,6 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10870,8 +10859,7 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
+    "database canister",
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10892,8 +10880,6 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10914,8 +10900,6 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10936,8 +10920,6 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10957,8 +10939,6 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10977,8 +10957,7 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
+    "layer type",
     "link chart", 
     "relationships", 
     "spatial data", 
@@ -10996,8 +10975,6 @@
   "alias":[
     " 3.20.6",
     "knowledge graph",
-    "Knowledge Graph", 
-    "3.20.6", 
     "link chart", 
     "relationships", 
     "spatial data", 
