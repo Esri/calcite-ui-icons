@@ -10717,5 +10717,300 @@
   ],
   "category":"Symbols",
   "release":"3.20.5"
+}, 
+"label-off":{
+  "alias":[
+    " 3.20.6",
+    "objects",
+    "Objects", 
+    "3.20.6", 
+    "turn off", 
+    "hide", 
+    "remove", 
+    "labels", 
+    "dissapear"
+  ],
+  "category":"Objects",
+  "release":" 3.20.6"
+}, 
+"decrease-link-chart-symbol-size":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"find-path":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "route"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"geographic-link-chart-layout":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "layout,"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"increase-link-chart-symbol-size":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"investigation":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-dashboard":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "monitor", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-data-model":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "gear", 
+    "data", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-export":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link", 
+    "up", 
+    "arrow"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-import":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link", 
+    "down", 
+    "arrow"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-new":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "sun", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-relationship":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-layer":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"link-chart":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "Knowledge Graph", 
+    "3.20.6", 
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link", 
+    "select"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
 }
 }
