@@ -10989,5 +10989,114 @@
   ],
   "category":"Knowledge Graph",
   "release":" 3.20.6"
+}, 
+"all-servers":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "connections", 
+    "connected", 
+    "networks"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"geoanalytics-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "analytics", 
+    "servers", 
+    "connected", 
+    "connections", 
+    "networks", 
+    "paths"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"geoevent-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "events", 
+    "time", 
+    "date", 
+    "watch"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"gis-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "servers", 
+    "layers", 
+    "connected", 
+    "connections", 
+    "networks"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"image-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "images", 
+    "servers", 
+    "photos", 
+    "media", 
+    "imagery", 
+    "connections", 
+    "networks"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"knowledge-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "graph", 
+    "softwares", 
+    "products", 
+    "link", 
+    "relationships", 
+    "connections", 
+    "network"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"notebook-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "books", 
+    "programs", 
+    "softwares", 
+    "brand", 
+    "connections", 
+    "servers"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"workflow-manager-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "flow", 
+    "connections", 
+    "network", 
+    "servers", 
+    "organization", 
+    "brand", 
+    "products"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
 }
 }
