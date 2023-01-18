@@ -11113,5 +11113,85 @@
   ],
   "category":"Generic",
   "release":"3.20.8"
+}, 
+"border-radius-sharp":{
+  "alias":[
+    "3.20.9",
+    "generic",
+    "corner", 
+    "straight", 
+    "shape", 
+    "lines", 
+    "square", 
+    "area"
+  ],
+  "category":"Generic",
+  "release":"3.20.9"
+}, 
+"border-radius-rounded":{
+  "alias":[
+    "3.20.9",
+    "generic",
+    "corner", 
+    "curve", 
+    "shape", 
+    "lines", 
+    "area"
+  ],
+  "category":"Generic",
+  "release":"3.20.9"
+}, 
+"border-radius-fully-rounded":{
+  "alias":[
+    "3.20.9",
+    "generic",
+    "corner", 
+    "curve", 
+    "shape", 
+    "lines", 
+    "area", 
+    "circle"
+  ],
+  "category":"Generic",
+  "release":"3.20.9"
+}, 
+"face-id":{
+  "alias":[
+    "3.20.9",
+    "objects",
+    "person", 
+    "identification", 
+    "ID", 
+    "identify", 
+    "security", 
+    "private", 
+    "identity", 
+    "personal", 
+    "access", 
+    "photo"
+  ],
+  "category":"Objects",
+  "release":"3.20.9"
+}, 
+"usb-security-key":{
+  "alias":[
+    "3.20.9",
+    "objects",
+    "password", 
+    "private", 
+    "secure", 
+    "access", 
+    "lock", 
+    "unlock", 
+    "protected", 
+    "admin", 
+    "permission", 
+    "restricted", 
+    "flash drive", 
+    "data", 
+    "storage"
+  ],
+  "category":"Objects",
+  "release":"3.20.9"
 }
-}
+} 
