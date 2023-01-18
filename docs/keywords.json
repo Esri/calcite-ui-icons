@@ -11113,7 +11113,6 @@
   ],
   "category":"Generic",
   "release":"3.20.8"
-}
 }, 
 "border-radius-sharp":{
   "alias":[
@@ -11195,3 +11194,4 @@
   "category":"Objects",
   "release":"3.20.9"
 }
+} 
