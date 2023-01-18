@@ -10717,5 +10717,481 @@
   ],
   "category":"Symbols",
   "release":"3.20.5"
+}, 
+"label-off":{
+  "alias":[
+    " 3.20.6",
+    "objects",
+    "turn off", 
+    "hide", 
+    "remove", 
+    "labels", 
+    "dissapear"
+  ],
+  "category":"Objects",
+  "release":" 3.20.6"
+}, 
+"decrease-link-chart-symbol-size":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "circle",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"find-path":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "magnifying glass",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "route"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"geographic-link-chart-layout":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "map",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "layout"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"increase-link-chart-symbol-size":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "circle",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"investigation":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "briefcase",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-dashboard":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "monitor", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-data-model":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "database canister",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "gear", 
+    "data", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-export":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link", 
+    "up", 
+    "arrow"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-import":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link", 
+    "down", 
+    "arrow"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-new":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "sun", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-graph-relationship":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"knowledge-layer":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "layer type",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"link-chart":{
+  "alias":[
+    " 3.20.6",
+    "knowledge graph",
+    "link chart", 
+    "relationships", 
+    "spatial data", 
+    "non spatial data", 
+    "query", 
+    "spatial analysis", 
+    "investigation", 
+    "data model", 
+    "scale", 
+    "link", 
+    "select"
+  ],
+  "category":"Knowledge Graph",
+  "release":" 3.20.6"
+}, 
+"all-servers":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "connections", 
+    "connected", 
+    "networks"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"geoanalytics-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "analytics", 
+    "servers", 
+    "connected", 
+    "connections", 
+    "networks", 
+    "paths"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"geoevent-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "events", 
+    "time", 
+    "date", 
+    "watch"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"gis-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "servers", 
+    "layers", 
+    "connected", 
+    "connections", 
+    "networks"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"image-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "images", 
+    "servers", 
+    "photos", 
+    "media", 
+    "imagery", 
+    "connections", 
+    "networks"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"knowledge-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "graph", 
+    "softwares", 
+    "products", 
+    "link", 
+    "relationships", 
+    "connections", 
+    "network"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"notebook-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "books", 
+    "programs", 
+    "softwares", 
+    "brand", 
+    "connections", 
+    "servers"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"workflow-manager-server":{
+  "alias":[
+    "3.20.7",
+    "gis",
+    "flow", 
+    "connections", 
+    "network", 
+    "servers", 
+    "organization", 
+    "brand", 
+    "products"
+  ],
+  "category":"GIS",
+  "release":"3.20.7"
+}, 
+"personal-homepage":{
+  "alias":[
+    " 3.20.8",
+    "generic",
+    "Generic", 
+    " 3.20.8", 
+    "home", 
+    "user", 
+    "house", 
+    "person", 
+    "single "
+  ],
+  "category":"Generic",
+  "release":"3.20.8"
+}, 
+"border-radius-sharp":{
+  "alias":[
+    "3.20.9",
+    "generic",
+    "corner", 
+    "straight", 
+    "shape", 
+    "lines", 
+    "square", 
+    "area"
+  ],
+  "category":"Generic",
+  "release":"3.20.9"
+}, 
+"border-radius-rounded":{
+  "alias":[
+    "3.20.9",
+    "generic",
+    "corner", 
+    "curve", 
+    "shape", 
+    "lines", 
+    "area"
+  ],
+  "category":"Generic",
+  "release":"3.20.9"
+}, 
+"border-radius-fully-rounded":{
+  "alias":[
+    "3.20.9",
+    "generic",
+    "corner", 
+    "curve", 
+    "shape", 
+    "lines", 
+    "area", 
+    "circle"
+  ],
+  "category":"Generic",
+  "release":"3.20.9"
+}, 
+"face-id":{
+  "alias":[
+    "3.20.9",
+    "objects",
+    "person", 
+    "identification", 
+    "ID", 
+    "identify", 
+    "security", 
+    "private", 
+    "identity", 
+    "personal", 
+    "access", 
+    "photo"
+  ],
+  "category":"Objects",
+  "release":"3.20.9"
+}, 
+"usb-security-key":{
+  "alias":[
+    "3.20.9",
+    "objects",
+    "password", 
+    "private", 
+    "secure", 
+    "access", 
+    "lock", 
+    "unlock", 
+    "protected", 
+    "admin", 
+    "permission", 
+    "restricted", 
+    "flash drive", 
+    "data", 
+    "storage"
+  ],
+  "category":"Objects",
+  "release":"3.20.9"
 }
-}
+} 
