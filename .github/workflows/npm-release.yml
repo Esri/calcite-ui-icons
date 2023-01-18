@@ -18,5 +18,4 @@ jobs:
         run: |
           npm i
           npm start
-          npm run server
           npm publish
