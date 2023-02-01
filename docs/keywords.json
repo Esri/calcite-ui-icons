@@ -11193,5 +11193,63 @@
   ],
   "category":"Objects",
   "release":"3.20.9"
+},
+"trapezoid-area":{
+  "alias":[
+    "3.21.0",
+    "generic",
+    "shapes", 
+    "symbols", 
+    "geometry", 
+    "draw", 
+    "view"
+  ],
+  "category":"Generic",
+  "release":"3.21.0"
+}, 
+"coordinate-system":{
+  "alias":[
+    "3.21.0",
+    "generic",
+    "globe", 
+    "global", 
+    "earth", 
+    "latitude", 
+    "longitude", 
+    "map", 
+    "planet", 
+    "sphere"
+  ],
+  "category":"Generic",
+  "release":"3.21.0"
+}, 
+"analysis-overlay":{
+  "alias":[
+    "3.21.0",
+    "gis",
+    "map", 
+    "map viewer", 
+    "raster", 
+    "tools", 
+    "access"
+  ],
+  "category":"GIS",
+  "release":"3.21.0"
+}, 
+"media-layer":{
+  "alias":[
+    "3.21.0",
+    "layers",
+    "images", 
+    "imagery", 
+    "file", 
+    "assets", 
+    "photos", 
+    "feature", 
+    "picture", 
+    "gis"
+  ],
+  "category":"Layers",
+  "release":"3.21.0"
 }
-} 
+}
