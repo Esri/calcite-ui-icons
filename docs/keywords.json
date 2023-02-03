@@ -11251,5 +11251,61 @@
   ],
   "category":"Layers",
   "release":"3.21.0"
+}, 
+"graph-pie-slice":{
+  "alias":[
+    " 3.21.1",
+    "chart and graphs",
+    "pie", 
+    "chart", 
+    "slice", 
+    "data", 
+    "diagram", 
+    "visualization"
+  ],
+  "category":"Chart and Graphs",
+  "release":" 3.21.1"
+}, 
+"graph-line-series":{
+  "alias":[
+    " 3.21.1",
+    "chart and graphs", 
+    "lines", 
+    "chart", 
+    "data", 
+    "diagram", 
+    "visualization"
+  ],
+  "category":"Chart and Graphs",
+  "release":" 3.21.1"
+}, 
+"graph-guides":{
+  "alias":[
+    " 3.21.1",
+    "chart and graphs",
+    "guides", 
+    "chart", 
+    "guide", 
+    "data", 
+    "diagram", 
+    "visualization"
+  ],
+  "category":"Chart and Graphs",
+  "release":" 3.21.1"
+}, 
+"graph-axis":{
+  "alias":[
+    " 3.21.1",
+    "chart and graphs", 
+    "axis", 
+    "chart", 
+    "x", 
+    "y", 
+    "data", 
+    "diagram", 
+    "visualization"
+  ],
+  "category":"Chart and Graphs",
+  "release":" 3.21.1"
 }
 }
