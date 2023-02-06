@@ -11307,5 +11307,18 @@
   ],
   "category":"Chart and Graphs",
   "release":" 3.21.1"
+}, 
+"read-only-non-editable":{
+  "alias":[
+    "3.21.2",
+    "objects",
+    "pencil", 
+    "do not", 
+    "backslash", 
+    "prohibited", 
+    "don't edit "
+  ],
+  "category":"Objects",
+  "release":""
 }
 }
