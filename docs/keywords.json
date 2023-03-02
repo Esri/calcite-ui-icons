@@ -11320,5 +11320,17 @@
   ],
   "category":"Objects",
   "release":""
+}, 
+"square-circle-test":{
+  "alias":[
+    "3.21.3",
+    "generic",
+    "square", 
+    "circle", 
+    "testing", 
+    "test file"
+  ],
+  "category":"Generic",
+  "release":"3.21.3"
 }
 }
