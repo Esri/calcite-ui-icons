@@ -1,0 +1,1 @@
+export const squareCircleTest32 = "M14 22H2V10h12zM3 21h10V11H3zm20 1a6 6 0 1 1 5.991-6A6.007 6.007 0 0 1 23 22zm0-11a5 5 0 1 0 4.991 5A5.006 5.006 0 0 0 23 11z";
