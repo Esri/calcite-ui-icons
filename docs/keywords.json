@@ -11325,7 +11325,12 @@
   "alias":[
     "3.21.4",
     "generic",
-    "generic,3.21.4,imagery,picture,change,substitute,swap"
+    "generic",
+    "imagery",
+    "picture",
+    "change",
+    "substitute",
+    "swap",
   ],
   "category":"Generic",
   "release":"3.21.4"
