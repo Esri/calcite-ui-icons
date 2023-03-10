@@ -11319,6 +11319,19 @@
     "don't edit "
   ],
   "category":"Objects",
-  "release":""
+  "release":"3.21.2"
+}, 
+"replace-image":{
+  "alias":[
+    "3.21.4",
+    "generic",
+    "imagery",
+    "picture",
+    "change",
+    "substitute",
+    "swap"
+  ],
+  "category":"Generic",
+  "release":"3.21.4"
 }
 }
