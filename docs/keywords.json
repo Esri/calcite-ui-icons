@@ -11333,5 +11333,105 @@
   ],
   "category":"Generic",
   "release":"3.21.4"
+}, 
+"heading-layout":{
+  "alias":[
+    "3.21.5",
+    "text",
+    "header", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text"
+  ],
+  "category":"Text",
+  "release":"3.21.5"
+}, 
+"subheading-1":{
+  "alias":[
+    "3.21.5",
+    "text",
+    "header", 
+    "subheader", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.5"
+}, 
+"subheading-2":{
+  "alias":[
+    "3.21.5",
+    "text",
+    "header", 
+    "subheader", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.5"
+}, 
+"subheading-3":{
+  "alias":[
+    "3.21.5",
+    "text",
+    "header", 
+    "subheader", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.5"
+}, 
+"subheading-4":{
+  "alias":[
+    "3.21.5",
+    "text",
+    "header", 
+    "subheader", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.5"
+}, 
+"subheading-5":{
+  "alias":[
+    "3.21.5",
+    "Text",
+    "header", 
+    "subheader", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.5"
 }
 }

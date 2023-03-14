@@ -1,0 +1,1 @@
+export const subheading532 = [{"opacity":".5","d":"M3 19h26v1H3zm0-2h26v-1H3zm0 6h26v-1H3zm0 3h26v-1H3zm0 3h26v-1H3zM3 7h26V3H3z"},{"d":"M8 10h21v3H8zm-2 3v-1a1.001 1.001 0 0 0-1-1H4v-1h2V9H3v2a1.001 1.001 0 0 0 1 1h1v1H3v1h2a1.001 1.001 0 0 0 1-1z"}];
