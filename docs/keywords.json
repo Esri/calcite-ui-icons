@@ -11433,5 +11433,33 @@
   ],
   "category":"Text",
   "release":"3.21.5"
+}, 
+"asterisk-small":{
+  "alias":[
+    "Generic", 
+    "3.21.6", 
+    "asterisk", 
+    "required", 
+    "symbol", 
+    "small", 
+    "star", 
+    "starburst"
+  ],
+  "category":"Generic",
+  "release":" 3.21.6"
+}, 
+"asterisk-large":{
+  "alias":[
+    "Generic", 
+    "3.21.6", 
+    "asterisk", 
+    "required", 
+    "symbol", 
+    "large",
+    "star", 
+    "starburst"
+  ],
+  "category":"Generic",
+  "release":" 3.21.6"
 }
 }
