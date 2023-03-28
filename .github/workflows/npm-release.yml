@@ -13,10 +13,8 @@ jobs:
         with:
           node-version: lts/*
           registry-url: "https://registry.npmjs.org"
+      - run: npm ci
+      - run: npm start
+      - run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
-      - name: Release to NPM
-        run: |
-          npm i
-          npm start
-          npm publish
