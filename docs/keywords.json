@@ -11461,5 +11461,107 @@
   ],
   "category":"Generic",
   "release":" 3.21.6"
+}, 
+"heading-layout":{
+  "alias":[
+    "3.21.7",
+    "text",
+    "heading", 
+    "subheading", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.7"
+}, 
+"subheading-1":{
+  "alias":[
+    "3.21.7",
+    "text",
+    "heading", 
+    "subheading", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.7"
+}, 
+"subheading-2":{
+  "alias":[
+    "3.21.7",
+    "text",
+    "heading", 
+    "subheading", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.7"
+}, 
+"subheading-3":{
+  "alias":[
+    "3.21.7",
+    "text",
+    "heading", 
+    "subheading", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.7"
+}, 
+"subheading-4":{
+  "alias":[
+    "3.21.7",
+    "Text",
+    "heading", 
+    "subheading", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.7"
+}, 
+"subheading-5":{
+  "alias":[
+    "3.21.7",
+    "text",
+    "heading", 
+    "subheading", 
+    "layout", 
+    "title", 
+    "words", 
+    "list", 
+    "bold text", 
+    "large text", 
+    "numbers"
+  ],
+  "category":"Text",
+  "release":"3.21.7"
 }
 }
