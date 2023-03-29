@@ -1,1 +1,1 @@
-export const headingLayout16: CalciteMultiPathEntry[];
+export const headingLayout16: string;
