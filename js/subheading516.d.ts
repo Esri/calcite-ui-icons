@@ -1,1 +1,1 @@
-export const subheading516: CalciteMultiPathEntry[];
+export const subheading516: string;

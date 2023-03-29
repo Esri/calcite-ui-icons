@@ -1,1 +1,1 @@
-export const headingLayout32: CalciteMultiPathEntry[];
+export const headingLayout32: string;
