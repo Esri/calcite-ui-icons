@@ -11465,7 +11465,6 @@
   "alias":[
     "3.21.8",
     "gis",
-    "3.21.8", 
     "connected", 
     "connection", 
     "play", 
@@ -11479,7 +11478,6 @@
   "alias":[
     "3.21.8",
     "gis",
-    "3.21.8", 
     "connected", 
     "connection", 
     "product", 
@@ -11491,8 +11489,7 @@
 "video-server":{
   "alias":[
     "3.21.8",
-    "gis",
-    "3.21.8", 
+    "gis", 
     "connected", 
     "connection", 
     "play", 
@@ -11506,7 +11503,6 @@
   "alias":[
     "3.21.8",
     "generic",
-    "3.21.8", 
     "smile", 
     "happy", 
     "face", 
