@@ -11460,5 +11460,60 @@
     ],
     "category":"Text",
     "release":"3.21.7"
+}, 
+"video-single-server":{
+  "alias":[
+    "3.21.8",
+    "gis",
+    "connected", 
+    "connection", 
+    "play", 
+    "media", 
+    "host"
+  ],
+  "category":"GIS",
+  "release":"3.21.8"
+}, 
+"mission-server":{
+  "alias":[
+    "3.21.8",
+    "gis",
+    "connected", 
+    "connection", 
+    "product", 
+    "host"
+  ],
+  "category":"GIS",
+  "release":"3.21.8"
+}, 
+"video-server":{
+  "alias":[
+    "3.21.8",
+    "gis", 
+    "connected", 
+    "connection", 
+    "play", 
+    "media", 
+    "host"
+  ],
+  "category":"GIS",
+  "release":"3.21.8"
+}, 
+"add-reaction":{
+  "alias":[
+    "3.21.8",
+    "generic",
+    "smile", 
+    "happy", 
+    "face", 
+    "emoji", 
+    "like", 
+    "response", 
+    "smile", 
+    "like", 
+    "satisfied"
+  ],
+  "category":"Generic",
+  "release":"3.21.8"
 }
 }
