@@ -11255,7 +11255,7 @@
 "graph-pie-slice":{
   "alias":[
     " 3.21.1",
-    "chart and graphs",
+    "charts and graphs",
     "pie", 
     "chart", 
     "slice", 
@@ -11263,26 +11263,26 @@
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "graph-line-series":{
   "alias":[
     " 3.21.1",
-    "chart and graphs", 
+    "charts and graphs", 
     "lines", 
     "chart", 
     "data", 
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "graph-guides":{
   "alias":[
     " 3.21.1",
-    "chart and graphs",
+    "charts and graphs",
     "guides", 
     "chart", 
     "guide", 
@@ -11290,13 +11290,13 @@
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "graph-axis":{
   "alias":[
     " 3.21.1",
-    "chart and graphs", 
+    "charts and graphs", 
     "axis", 
     "chart", 
     "x", 
@@ -11305,7 +11305,7 @@
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "read-only-non-editable":{
