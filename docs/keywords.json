@@ -11515,5 +11515,56 @@
   ],
   "category":"Generic",
   "release":"3.21.8"
+}, 
+"function-editor":{
+  "alias":[
+    "3.21.9",
+    "GIS",  
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
+}, 
+"new-raster-function-template":{
+  "alias":[
+    "3.21.9",
+    "GIS", 
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify", 
+    "new", 
+    "list", 
+    "categories"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
+}, 
+"raster-function":{
+  "alias":[
+    "3.21.9",
+    "GIS", 
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
+}, 
+"raster-function-template":{
+  "alias":[
+    "3.21.9",
+    "GIS", 
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
 }
 }
