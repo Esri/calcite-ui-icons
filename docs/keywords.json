@@ -11566,5 +11566,59 @@
   ],
   "category":"GIS",
   "release":"3.21.9"
+}, 
+"summarize-center-and-dispersion-1":{
+  "alias":[
+    "3.22.0",
+    "generic",
+    "summarize", 
+    "range", 
+    "selections", 
+    "selected", 
+    "focus", 
+    "area", 
+    "center", 
+    "ellipse", 
+    "central", 
+    "distance"
+  ],
+  "category":"Generic",
+  "release":"3.22.0"
+}, 
+"summarize-center-and-dispersion-2":{
+  "alias":[
+    "3.22.0",
+    "generic",
+    "summarize", 
+    "range", 
+    "selections", 
+    "selected", 
+    "focus", 
+    "area", 
+    "center", 
+    "ellipse", 
+    "central", 
+    "distance"
+  ],
+  "category":"Generic",
+  "release":"3.22.0"
+}, 
+"summarize-center-and-dispersion-3":{
+  "alias":[
+    "3.22.0",
+    "generic",
+    "summarize", 
+    "range", 
+    "selections", 
+    "selected", 
+    "focus", 
+    "area", 
+    "center", 
+    "ellipse", 
+    "central", 
+    "distance"
+  ],
+  "category":"Generic",
+  "release":"3.22.0"
 }
 }
