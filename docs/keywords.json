@@ -11620,5 +11620,125 @@
   ],
   "category":"Generic",
   "release":"3.22.0"
+}, 
+"running-outline":{
+  "alias":[
+    "3.22.1",
+    "people",
+    "sport", 
+    "person", 
+    "exercise", 
+    "activity", 
+    "movement", 
+    "human"
+  ],
+  "category":"People",
+  "release":"3.22.1"
+}, 
+"elevator-down":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow", 
+    "bellow"
+  ],
+  "category":"directions",
+  "release":"3.22.1"
+}, 
+"elevator-up":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow"
+  ],
+  "category":"directions",
+  "release":"3.22.1"
+}, 
+"escalator-down":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow", 
+    "bellow"
+  ],
+  "category":"directions",
+  "release":"3.22.1"
+}, 
+"escalator-up":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow"
+  ],
+  "category":"directions",
+  "release":"3.22.1"
+}, 
+"stairs-down":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow", 
+    "bellow"
+  ],
+  "category":"directions",
+  "release":"3.22.1"
+}, 
+"stairs-up":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow"
+  ],
+  "category":"directions",
+  "release":"3.22.1"
+}, 
+"catalog-dataset":{
+  "alias":[
+    "3.22.1",
+    "gis",
+    "data", 
+    "layers", 
+    "sublayers", 
+    "dataset", 
+    "catalog"
+  ],
+  "category":"GIS",
+  "release":"3.22.1"
 }
 }
