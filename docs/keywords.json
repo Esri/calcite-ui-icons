@@ -11648,7 +11648,7 @@
     "arrow", 
     "bellow"
   ],
-  "category":"directions",
+  "category":"Directions",
   "release":"3.22.1"
 }, 
 "elevator-up":{
@@ -11663,7 +11663,7 @@
     "navigation", 
     "arrow"
   ],
-  "category":"directions",
+  "category":"Directions",
   "release":"3.22.1"
 }, 
 "escalator-down":{
@@ -11679,7 +11679,7 @@
     "arrow", 
     "bellow"
   ],
-  "category":"directions",
+  "category":"Directions",
   "release":"3.22.1"
 }, 
 "escalator-up":{
@@ -11694,7 +11694,7 @@
     "navigation", 
     "arrow"
   ],
-  "category":"directions",
+  "category":"Directions",
   "release":"3.22.1"
 }, 
 "stairs-down":{
@@ -11710,7 +11710,7 @@
     "arrow", 
     "bellow"
   ],
-  "category":"directions",
+  "category":"Directions",
   "release":"3.22.1"
 }, 
 "stairs-up":{
@@ -11725,7 +11725,7 @@
     "navigation", 
     "arrow"
   ],
-  "category":"directions",
+  "category":"Directions",
   "release":"3.22.1"
 }, 
 "catalog-dataset":{
