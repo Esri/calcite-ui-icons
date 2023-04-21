@@ -468,7 +468,7 @@
         "category": "Media",
         "release": "1.5"
     },
-    "biking-f": {
+    "biking": {
         "alias": [
             "1.5.0",
             "bike",
@@ -3118,7 +3118,7 @@
         "category": "Objects",
         "release": "1.5"
     },
-    "person-f": {
+    "person": {
         "alias": [
             "1.5.0",
             "standing",
@@ -3585,7 +3585,7 @@
         "category": "Directions",
         "release": "1.5"
     },
-    "running-f": {
+    "running": {
         "alias": [
             "1.5.0",
             "sport",
@@ -4129,7 +4129,7 @@
         "category": "Directions",
         "release": "1.5"
     },
-    "walking-f": {
+    "walking": {
         "alias": [
             "1.5.0",
             "people",
@@ -4156,7 +4156,7 @@
         "category": "Generic",
         "release": "1.5"
     },
-    "wheelchair-f": {
+    "wheelchair": {
         "alias": [
             "1.5.0",
             "disabled",
@@ -11619,20 +11619,6 @@
     "distance"
   ],
   "category":"Generic",
-  "release":"3.22.0"
-}, 
-"running":{
-  "alias":[
-    "3.22.0",
-    "people",
-    "sport", 
-    "person", 
-    "exercise", 
-    "activity", 
-    "movement", 
-    "human"
-  ],
-  "category":"People",
   "release":"3.22.0"
 }
 }
