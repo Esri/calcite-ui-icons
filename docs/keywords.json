@@ -11740,5 +11740,49 @@
   ],
   "category":"GIS",
   "release":"3.22.1"
+}, 
+"view-associations":{
+  "alias":[
+    "3.22.2",
+    "gis",
+    "network", 
+    "connected", 
+    "circles", 
+    "dashes", 
+    "connectivity", 
+    "connection", 
+    "grid"
+  ],
+  "category":"GIS",
+  "release":"3.22.2"
+}, 
+"parcel-layer":{
+  "alias":[
+    "3.22.2",
+    "layers",
+    "gis", 
+    "features", 
+    "assets", 
+    "data", 
+    "points", 
+    "lines"
+  ],
+  "category":"Layers",
+  "release":"3.22.2"
+}, 
+"oriented-imagery-layer":{
+  "alias":[
+    "3.22.2",
+    "layers",
+    "gis", 
+    "feature", 
+    "sight", 
+    "locate", 
+    "data", 
+    "coordinates", 
+    "generic"
+  ],
+  "category":"Layers",
+  "release":"3.22.2"
 }
 }
