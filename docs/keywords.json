@@ -11945,7 +11945,7 @@
   "category":"Numbers",
   "release":"3.22.3"
 }, 
-"location-sharing-disabled":{
+"location-sharing-off":{
   "alias":[
     "3.22.3",
     "gis",
@@ -11954,12 +11954,13 @@
     "location", 
     "field", 
     "disabled", 
-    "route"
+    "route", 
+    "directions"
   ],
   "category":"GIS",
   "release":"3.22.3"
 }, 
-"location-sharing-enabled":{
+"location-sharing":{
   "alias":[
     "3.22.3",
     "gis",
@@ -11968,12 +11969,13 @@
     "location", 
     "field", 
     "enabled", 
-    "route"
+    "route", 
+    "directions"
   ],
   "category":"GIS",
   "release":"3.22.3"
 }, 
-"location-sharing-filled":{
+"location-sharing-f":{
   "alias":[
     "3.22.3",
     "gis",
@@ -11982,9 +11984,71 @@
     "field", 
     "route", 
     "filled", 
-    "thick"
+    "directions"
   ],
   "category":"GIS",
   "release":"3.22.3"
+}, 
+"add-and-update-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
+}, 
+"add-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
+}, 
+"overwrite-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers", 
+    "replace", 
+    "update", 
+    "refresh"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
+}, 
+"update-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers", 
+    "replace", 
+    "update", 
+    "refresh"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
 }
 }
