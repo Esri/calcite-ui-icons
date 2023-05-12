@@ -12050,5 +12050,45 @@
   ],
   "category":"Layers",
   "release":"3.22.4"
+}, 
+"refresh-f":{
+  "alias":[
+    "3.22.5",
+    "arrows",
+    "fill", 
+    "circles", 
+    "updates", 
+    "arrows", 
+    "repeat"
+  ],
+  "category":"Arrows",
+  "release":"3.22.5"
+}, 
+"arrow-circle-down-f":{
+  "alias":[
+    "3.22.5",
+    "arrows",
+    "fill", 
+    "circles", 
+    "downloaded", 
+    "arrows", 
+    "saved", 
+    "processed"
+  ],
+  "category":"Arrows",
+  "release":"3.22.5"
+}, 
+"arrow-circle-down":{
+  "alias":[
+    "3.22.5",
+    "arrows",
+    "circles", 
+    "downloaded", 
+    "arrows", 
+    "saved", 
+    "processed"
+  ],
+  "category":"Arrows",
+  "release":"3.22.5"
 }
 }
