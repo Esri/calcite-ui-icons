@@ -12090,5 +12090,25 @@
   ],
   "category":"Arrows",
   "release":"3.22.5"
+}, 
+"strikethrough":{
+  "alias":[
+    "3.22.6",
+    "text",
+    "s", 
+    "cross out", 
+    "cut", 
+    "x-out", 
+    "delete", 
+    "omit", 
+    "remove", 
+    "eliminate", 
+    "line", 
+    "edit",
+    "formatting", 
+    "void"
+  ],
+  "category":"Text",
+  "release":""
 }
 }
