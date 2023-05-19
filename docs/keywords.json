@@ -12110,5 +12110,24 @@
   ],
   "category":"Text",
   "release":""
+},
+"accessibility":{
+  "alias":[
+    "3.22.7",
+    "people",
+    "person", 
+    "disability", 
+    "disabilities", 
+    "standing", 
+    "human", 
+    "alt text", 
+    "accessible", 
+    "inclusion", 
+    "color blindness", 
+    "screen reader", 
+    "inclusive design"
+  ],
+  "category":"People",
+  "release":"3.22.7"
 }
 }
