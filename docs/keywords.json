@@ -11255,7 +11255,7 @@
 "graph-pie-slice":{
   "alias":[
     " 3.21.1",
-    "chart and graphs",
+    "charts and graphs",
     "pie", 
     "chart", 
     "slice", 
@@ -11263,26 +11263,26 @@
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "graph-line-series":{
   "alias":[
     " 3.21.1",
-    "chart and graphs", 
+    "charts and graphs", 
     "lines", 
     "chart", 
     "data", 
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "graph-guides":{
   "alias":[
     " 3.21.1",
-    "chart and graphs",
+    "charts and graphs",
     "guides", 
     "chart", 
     "guide", 
@@ -11290,13 +11290,13 @@
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "graph-axis":{
   "alias":[
     " 3.21.1",
-    "chart and graphs", 
+    "charts and graphs", 
     "axis", 
     "chart", 
     "x", 
@@ -11305,7 +11305,7 @@
     "diagram", 
     "visualization"
   ],
-  "category":"Chart and Graphs",
+  "category":"Charts and Graphs",
   "release":" 3.21.1"
 }, 
 "read-only-non-editable":{
@@ -11515,5 +11515,619 @@
   ],
   "category":"Generic",
   "release":"3.21.8"
+}, 
+"function-editor":{
+  "alias":[
+    "3.21.9",
+    "GIS",  
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
+}, 
+"new-raster-function-template":{
+  "alias":[
+    "3.21.9",
+    "GIS", 
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify", 
+    "new", 
+    "list", 
+    "categories"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
+}, 
+"raster-function":{
+  "alias":[
+    "3.21.9",
+    "GIS", 
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
+}, 
+"raster-function-template":{
+  "alias":[
+    "3.21.9",
+    "GIS", 
+    "fx", 
+    "edit", 
+    "raster", 
+    "modify"
+  ],
+  "category":"GIS",
+  "release":"3.21.9"
+}, 
+"summarize-center-and-dispersion-1":{
+  "alias":[
+    "3.22.0",
+    "generic",
+    "summarize", 
+    "range", 
+    "selections", 
+    "selected", 
+    "focus", 
+    "area", 
+    "center", 
+    "ellipse", 
+    "central", 
+    "distance"
+  ],
+  "category":"Generic",
+  "release":"3.22.0"
+}, 
+"summarize-center-and-dispersion-2":{
+  "alias":[
+    "3.22.0",
+    "generic",
+    "summarize", 
+    "range", 
+    "selections", 
+    "selected", 
+    "focus", 
+    "area", 
+    "center", 
+    "ellipse", 
+    "central", 
+    "distance"
+  ],
+  "category":"Generic",
+  "release":"3.22.0"
+}, 
+"summarize-center-and-dispersion-3":{
+  "alias":[
+    "3.22.0",
+    "generic",
+    "summarize", 
+    "range", 
+    "selections", 
+    "selected", 
+    "focus", 
+    "area", 
+    "center", 
+    "ellipse", 
+    "central", 
+    "distance"
+  ],
+  "category":"Generic",
+  "release":"3.22.0"
+}, 
+"running-outline":{
+  "alias":[
+    "3.22.1",
+    "people",
+    "sport", 
+    "person", 
+    "exercise", 
+    "activity", 
+    "movement", 
+    "human"
+  ],
+  "category":"People",
+  "release":"3.22.1"
+}, 
+"elevator-down":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow", 
+    "below"
+  ],
+  "category":"Directions",
+  "release":"3.22.1"
+}, 
+"elevator-up":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow"
+  ],
+  "category":"Directions",
+  "release":"3.22.1"
+}, 
+"escalator-down":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow", 
+    "below"
+  ],
+  "category":"Directions",
+  "release":"3.22.1"
+}, 
+"escalator-up":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow"
+  ],
+  "category":"Directions",
+  "release":"3.22.1"
+}, 
+"stairs-down":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow", 
+    "below"
+  ],
+  "category":"Directions",
+  "release":"3.22.1"
+}, 
+"stairs-up":{
+  "alias":[
+    "3.22.1",
+    "directions",
+    "up", 
+    "down", 
+    "levels", 
+    "floors", 
+    "navigate", 
+    "navigation", 
+    "arrow"
+  ],
+  "category":"Directions",
+  "release":"3.22.1"
+}, 
+"catalog-dataset":{
+  "alias":[
+    "3.22.1",
+    "gis",
+    "data", 
+    "layers", 
+    "sublayers", 
+    "dataset", 
+    "catalog"
+  ],
+  "category":"GIS",
+  "release":"3.22.1"
+}, 
+"view-associations":{
+  "alias":[
+    "3.22.2",
+    "gis",
+    "network", 
+    "connected", 
+    "circles", 
+    "dashes", 
+    "connectivity", 
+    "connection", 
+    "grid"
+  ],
+  "category":"GIS",
+  "release":"3.22.2"
+}, 
+"parcel-layer":{
+  "alias":[
+    "3.22.2",
+    "layers",
+    "gis", 
+    "features", 
+    "assets", 
+    "data", 
+    "points", 
+    "lines"
+  ],
+  "category":"Layers",
+  "release":"3.22.2"
+}, 
+"oriented-imagery-layer":{
+  "alias":[
+    "3.22.2",
+    "layers",
+    "gis", 
+    "feature", 
+    "sight", 
+    "locate", 
+    "data", 
+    "coordinates", 
+    "generic"
+  ],
+  "category":"Layers",
+  "release":"3.22.2"
+}, 
+"joined-view-layer":{
+  "alias":[
+    "3.22.3",
+    "layers", 
+    "join", 
+    "data", 
+    "information", 
+    "combine", 
+    "multiple"
+  ],
+  "category":"Layers",
+  "release":"3.22.3"
+},
+"number-circle-1-f": {
+    "alias": [
+        "3.22.3", 
+        "numbers",
+        "filled",
+        "number circle 1",
+        "first item",
+        "list item",
+        "first step",
+        "ranking",
+        "one"
+    ],
+    "category": "Numbers",
+    "release": "3.22.3"
+},
+"number-circle-2-f": {
+    "alias": [
+        "3.22.3",
+        "numbers",
+        "filled",
+        "list item",
+        "number circle 2",
+        "second item",
+        "second step",
+        "ranking",
+        "two"
+    ],
+    "category": "Numbers",
+    "release": "3.22.3"
+},
+"number-circle-3-f": {
+    "alias": [
+        "3.22.3",
+        "numbers",
+        "filled",
+        "list item",
+        "third step",
+        "number circle 3",
+        "three",
+        "third item",
+        "ranking"
+    ],
+    "category": "Numbers",
+    "release": "3.22.3"
+}, 
+"number-circle-4-f":{
+  "alias":[
+    "3.22.3",
+    "numbers",
+    "filled",
+    " circle", 
+    "list item",
+    "number circle 4",
+    "fourth item",
+    "fifth step",
+    "ranking",
+    "4", 
+    "four"
+  ],
+  "category":"Numbers",
+  "release":"3.22.3"
+}, 
+"number-circle-5-f":{
+  "alias":[
+    "3.22.3",
+    "numbers",
+    "filled",
+    "circle",
+    "list item",
+    "number circle 5",
+    "fifth item",
+    "fifth step",
+    "ranking", 
+    "5", 
+    "five"
+  ],
+  "category":"Numbers",
+  "release":"3.22.3"
+}, 
+"number-circle-6-f":{
+  "alias":[
+    "3.22.3",
+    "numbers",
+    "filled",
+    "circle", 
+    "list item",
+    "number circle 6",
+    "sixth item",
+    "sixth step",
+    "ranking",
+    "6", 
+    "six"
+  ],
+  "category":"Numbers",
+  "release":"3.22.3"
+}, 
+"number-circle-7-f":{
+  "alias":[
+    "3.22.3",
+    "numbers",
+    "filled",
+    "circle", 
+    "list item",
+    "number circle 7",
+    "seventh item",
+    "seventh step",
+    "ranking",
+    "7", 
+    "seven"
+  ],
+  "category":"Numbers",
+  "release":"3.22.3"
+}, 
+"number-circle-8-f":{
+  "alias":[
+    "3.22.3",
+    "numbers",
+    "filled",
+    "circle", 
+    "list item",
+    "number circle 8",
+    "eighth item",
+    "eighth step",
+    "ranking",
+    "8", 
+    "eight"
+  ],
+  "category":"Numbers",
+  "release":"3.22.3"
+}, 
+"number-circle-9-f":{
+  "alias":[
+    "3.22.3",
+    "numbers",
+    "filled",
+    "circle", 
+    "list item",
+    "number circle 9",
+    "ninth item",
+    "ninth step",
+    "ranking",
+    "9", 
+    "nine"
+  ],
+  "category":"Numbers",
+  "release":"3.22.3"
+}, 
+"location-sharing-off":{
+  "alias":[
+    "3.22.3",
+    "gis",
+    "tracking", 
+    "off", 
+    "location", 
+    "field", 
+    "disabled", 
+    "route", 
+    "directions"
+  ],
+  "category":"GIS",
+  "release":"3.22.3"
+}, 
+"location-sharing":{
+  "alias":[
+    "3.22.3",
+    "gis",
+    "tracking", 
+    "on", 
+    "location", 
+    "field", 
+    "enabled", 
+    "route", 
+    "directions"
+  ],
+  "category":"GIS",
+  "release":"3.22.3"
+}, 
+"location-sharing-f":{
+  "alias":[
+    "3.22.3",
+    "gis",
+    "tracking", 
+    "location", 
+    "field", 
+    "route", 
+    "filled", 
+    "directions"
+  ],
+  "category":"GIS",
+  "release":"3.22.3"
+}, 
+"add-and-update-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
+}, 
+"add-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
+}, 
+"overwrite-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers", 
+    "replace", 
+    "update", 
+    "refresh"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
+}, 
+"update-features":{
+  "alias":[
+    "3.22.4",
+    "layers",
+    "maps", 
+    "gis", 
+    "mapping", 
+    "location", 
+    "data", 
+    "feature layers", 
+    "replace", 
+    "update", 
+    "refresh"
+  ],
+  "category":"Layers",
+  "release":"3.22.4"
+}, 
+"refresh-f":{
+  "alias":[
+    "3.22.5",
+    "arrows",
+    "fill", 
+    "circles", 
+    "updates", 
+    "arrows", 
+    "repeat"
+  ],
+  "category":"Arrows",
+  "release":"3.22.5"
+}, 
+"arrow-circle-down-f":{
+  "alias":[
+    "3.22.5",
+    "arrows",
+    "fill", 
+    "circles", 
+    "downloaded", 
+    "arrows", 
+    "saved", 
+    "processed"
+  ],
+  "category":"Arrows",
+  "release":"3.22.5"
+}, 
+"arrow-circle-down":{
+  "alias":[
+    "3.22.5",
+    "arrows",
+    "circles", 
+    "downloaded", 
+    "arrows", 
+    "saved", 
+    "processed"
+  ],
+  "category":"Arrows",
+  "release":"3.22.5"
+}, 
+"strikethrough":{
+  "alias":[
+    "3.22.6",
+    "text",
+    "s", 
+    "cross out", 
+    "cut", 
+    "x-out", 
+    "delete", 
+    "omit", 
+    "remove", 
+    "eliminate", 
+    "line", 
+    "edit",
+    "formatting", 
+    "void"
+  ],
+  "category":"Text",
+  "release":""
+},
+"accessibility":{
+  "alias":[
+    "3.22.7",
+    "people",
+    "person", 
+    "disability", 
+    "disabilities", 
+    "standing", 
+    "human", 
+    "alt text", 
+    "accessible", 
+    "inclusion", 
+    "color blindness", 
+    "screen reader", 
+    "inclusive design"
+  ],
+  "category":"People",
+  "release":"3.22.7"
 }
 }
