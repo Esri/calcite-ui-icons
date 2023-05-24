@@ -12129,5 +12129,33 @@
   ],
   "category":"People",
   "release":"3.22.7"
+}, 
+"mask-outside":{
+  "alias":[
+    "3.22.8",
+    "generic",
+    "mask", 
+    "cover", 
+    "outside", 
+    "polygon", 
+    "selection", 
+    "hide"
+  ],
+  "category":"Generic",
+  "release":"3.22.8"
+}, 
+"mask-inside":{
+  "alias":[
+    "3.22.8",
+    "generic",
+    "mask", 
+    "cover", 
+    "inside", 
+    "polygon", 
+    "selection", 
+    "hide"
+  ],
+  "category":"Generic",
+  "release":"3.22.8"
 }
 }
