@@ -12157,5 +12157,47 @@
   ],
   "category":"Generic",
   "release":"3.22.8"
+}, 
+"h3-hexagon":{
+  "alias":[
+    "3.22.9",
+    "gis",
+    "shapes", 
+    "map", 
+    "area", 
+    "angles", 
+    "pattern", 
+    "tile", 
+    "square", 
+    "indexing", 
+    "coordinates", 
+    "square meter", 
+    "resolution", 
+    "datasets", 
+    "precision", 
+    "modeling flow"
+  ],
+  "category":"GIS",
+  "release":""
+}, 
+"transverse-hexagon":{
+  "alias":[
+    "3.22.9",
+    "gis",
+    "shapes", 
+    "map", 
+    "area", 
+    "angles", 
+    "pattern", 
+    "tile", 
+    "square", 
+    "indexing", 
+    "coordinates", 
+    "resolution", 
+    "datasets", 
+    "precision"
+  ],
+  "category":"GIS",
+  "release":""
 }
 }
