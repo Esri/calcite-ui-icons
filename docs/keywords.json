@@ -12199,5 +12199,19 @@
   ],
   "category":"GIS",
   "release":""
+}, 
+"circle-pause":{
+  "alias":[
+    "3.23.0",
+    "symbols",
+    "stop", 
+    "hold", 
+    "pausing", 
+    "waiting", 
+    "slow", 
+    "status"
+  ],
+  "category":"Symbols",
+  "release":"3.23.0"
 }
 }
