@@ -12213,5 +12213,45 @@
   ],
   "category":"Symbols",
   "release":"3.23.0"
+}, 
+"recycle-bin":{
+  "alias":[
+    "3.23.1",
+    "objects",
+    "delete", 
+    "store", 
+    "move", 
+    "remove", 
+    "reuse", 
+    "arrows"
+  ],
+  "category":"Objects",
+  "release":""
+}, 
+"unmerge":{
+  "alias":[
+    "3.23.1",
+    "generic",
+    "unmerging", 
+    "disconnect", 
+    "separate", 
+    "split", 
+    "arrows"
+  ],
+  "category":"Generic",
+  "release":""
+}, 
+"merge-2":{
+  "alias":[
+    "3.23.1",
+    "generic",
+    "merging", 
+    "combine", 
+    "connect", 
+    "involve", 
+    "arrows"
+  ],
+  "category":"Generic",
+  "release":""
 }
 }
