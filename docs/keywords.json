@@ -12253,5 +12253,52 @@
   ],
   "category":"Generic",
   "release":""
+}, 
+"text-button":{
+  "alias":[
+    "3.23.2",
+    "text",
+    "button", 
+    "letter", 
+    "fill", 
+    "A", 
+    "box", 
+    "words", 
+    "type", 
+    "layout"
+  ],
+  "category":"Text",
+  "release":"3.23.2"
+}, 
+"text-dashed-underline":{
+  "alias":[
+    "3.23.2",
+    "text",
+    "button", 
+    "letter", 
+    "A", 
+    "line", 
+    "words", 
+    "type", 
+    "layout"
+  ],
+  "category":"Text",
+  "release":"3.23.2"
+}, 
+"text-solid-underline":{
+  "alias":[
+    "3.23.2",
+    "text",
+    "button", 
+    "letter", 
+    "A", 
+    "line", 
+    "words", 
+    "type", 
+    "layout", 
+    "solid"
+  ],
+  "category":"Text",
+  "release":"3.23.2"
 }
 }
