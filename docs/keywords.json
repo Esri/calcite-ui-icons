@@ -12253,7 +12253,6 @@
   ],
   "category":"Generic",
   "release":""
-}
 }, 
 "text-button":{
   "alias":[
@@ -12301,4 +12300,5 @@
   ],
   "category":"Text",
   "release":"3.23.2"
+}
 }
