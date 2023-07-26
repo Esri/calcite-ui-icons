@@ -12300,5 +12300,19 @@
   ],
   "category":"Text",
   "release":"3.23.2"
-}
+}, 
+  "slash":{
+    "alias":[
+      "3.23.3",
+      "symbols",
+      "forward slash", 
+      "diagonal", 
+      "character", 
+      "line", 
+      "divider", 
+      "breadcrumbs"
+    ],
+    "category":"Symbols",
+    "release":"3.23.3"
+  }
 }
