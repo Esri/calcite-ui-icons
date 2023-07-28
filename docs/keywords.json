@@ -4666,7 +4666,7 @@
             "cash",
             "change",
             "purchase",
-            "withdrawl",
+            "withdrawal",
             "deposit",
             "transaction",
             "finances",
@@ -6739,22 +6739,6 @@
         "category": "Generic",
         "release": "3.10.0"
     },
-    "sort-ascending-arrow": {
-        "alias": [
-            "3.10.0",
-            "sort ascending arrow"
-        ],
-        "category": "Lists",
-        "release": "3.10.0"
-    },
-    "sort-descending-arrow": {
-        "alias": [
-            "3.10.0",
-            "sort descending arrow"
-        ],
-        "category": "Lists",
-        "release": "3.10.0"
-    },
     "square-area": {
         "alias": [
             "3.10.0",
@@ -8370,7 +8354,7 @@
             "stack",
             "sdk",
             "api",
-            "programing",
+            "programming",
             "software",
             "kit",
             "development",
@@ -9243,7 +9227,7 @@
       "3.17.8",
       "window",
       "operating system",
-      "programing languages",
+      "programming languages",
       "coding",
       "developer",
       "command line",
@@ -10469,7 +10453,7 @@
       "3.19.9",
       "numbers",
       "playback speed",
-      "one eigth times", 
+      "one eighth times", 
       "slowed down", 
       "fraction"
     ],
@@ -10726,7 +10710,7 @@
     "hide", 
     "remove", 
     "labels", 
-    "dissapear"
+    "disappear"
   ],
   "category":"Objects",
   "release":" 3.20.6"
@@ -12314,5 +12298,70 @@
     ],
     "category":"Symbols",
     "release":"3.23.3"
+  }, 
+  "update-project":{
+    "alias":[
+      " 3.23.4",
+      "objects",
+      "briefcase", 
+      "arrows", 
+      "portfolio case", 
+      "refresh", 
+      "update", 
+      "projects"
+    ],
+    "category":"Objects",
+    "release":"3.23.4"
+  }, 
+  "time-zone":{
+    "alias":[
+      "3.23.4",
+      "objects",
+      "event", 
+      "time", 
+      "international", 
+      "schedule", 
+      "appointment"
+    ],
+    "category":"Objects",
+    "release":"3.23.4"
+  }, 
+  "sort-descending-arrow":{
+    "alias":[
+      "3.23.4",
+      "lists",
+      "sort", 
+      "descending", 
+      "arrow", 
+      "text", 
+      "align"
+    ],
+    "category":"Lists",
+    "release":"3.23.4"
+  }, 
+  "sort-ascending-arrow":{
+    "alias":[
+      "3.23.4",
+      "lists",
+      "sort", 
+      "ascending", 
+      "arrow", 
+      "text", 
+      "align"
+    ],
+    "category":"Lists",
+    "release":"3.23.4"
+  }, 
+  "date-time":{
+    "alias":[
+      "3.23.4",
+      "objects",
+      "time", 
+      "schedule", 
+      "appointment", 
+      "calendar"
+    ],
+    "category":"Lists",
+    "release":"3.23.4"
   }
 }

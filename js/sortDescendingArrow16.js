@@ -1,1 +1,1 @@
-export const sortDescendingArrow16 = "M8 7H2V6h6zm0-5H0v1h8zm0 8H4v1h4zm0 5v-1H6v1zm6.646-3.361L13 13.285V1h-1v12.285l-1.646-1.646-.707.707 2.853 2.853 2.854-2.853z";
+export const sortDescendingArrow16 = "M6.854 11.846L3.5 15.199.146 11.846l.708-.707L3 13.285V6h1v7.285l2.146-2.146.708.707zM9 7h7V6H9v1zM7 3h9V2H7v1zm4 8h5v-1h-5v1zm2 4h3v-1h-3v1z";
