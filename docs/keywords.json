@@ -12363,5 +12363,19 @@
     ],
     "category":"Lists",
     "release":"3.23.4"
+  }, 
+  "expression-defined-color":{
+    "alias":[
+      "3.23.5",
+      "text",
+      "text", 
+      "color", 
+      "bracket", 
+      "swatch", 
+      "letter", 
+      "font"
+    ],
+    "category":"Text",
+    "release":"3.23.5"
   }
 }
