@@ -12377,5 +12377,249 @@
     ],
     "category":"Text",
     "release":"3.23.5"
+  }, 
+  "data-card":{
+    "alias":[
+      "3.23.6",
+      "knowledge graph",
+      "data", 
+      "card", 
+      "visualization", 
+      "information"
+    ],
+    "category":"Knowledge Graph",
+    "release":"3.23.6"
+  }, 
+  "minus-square":{
+    "alias":[
+      "3.23.6",
+      "symbols",
+      "hyphen", 
+      "line", 
+      "filled", 
+      "subtract"
+    ],
+    "category":"Symbols",
+    "release":"3.23.6"
+  }, 
+  "remove-linkchart":{
+    "alias":[
+      "3.23.6",
+      "knowledge graph",
+      "remove", 
+      "close", 
+      "linkchart", 
+      "data"
+    ],
+    "category":"Symbols",
+    "release":"3.23.6"
+  }, 
+  "apply-selection-to-existing-view":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "change", 
+      "link chart", 
+      "add"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "chevron-down-left":{
+    "alias":[
+      "3.23.6",
+      "symbols",
+      "symbols", 
+      "arrow", 
+      "direction", 
+      "keypad"
+    ],
+    "category":"Symbols",
+    "release":"3.23.6"
+  }, 
+  "chevron-down-right":{
+    "alias":[
+      "3.23.6",
+      "symbols",
+      " symbols", 
+      "arrow", 
+      "direction", 
+      "keypad"
+    ],
+    "category":"Symbols",
+    "release":"3.23.6"
+  }, 
+  "chevron-up-left":{
+    "alias":[
+      "3.23.6",
+      "symbols",
+      "symbols", 
+      "arrow", 
+      "direction", 
+      "keypad"
+    ],
+    "category":"Symbols",
+    "release":"3.23.6"
+  }, 
+  "chevron-up-right":{
+    "alias":[
+      "3.23.6",
+      "symbols",
+      "symbols", 
+      "arrow", 
+      "direction", 
+      "keypad"
+    ],
+    "category":"Symbols",
+    "release":"3.23.6"
+  }, 
+  "community-link-chart-layout":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "link chart", 
+      "spatial data", 
+      "spatial analysis", 
+      "data model"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "force-directed-link-chart-layout-":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "link chart", 
+      "spatial data", 
+      "spatial analysis", 
+      "data model"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "force-directed-link-chart-layout":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "link chart", 
+      "spatial data", 
+      "spatial analysis", 
+      "data model"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "hierarchical-link-chart-layout":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "link chart", 
+      "spatial data", 
+      "spatial analysis", 
+      "data model", 
+      "direction", 
+      "levels"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "knowledge-studio":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "product", 
+      "logo", 
+      "esri"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "link-chart-expand":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "link chart", 
+      "spatial data", 
+      "spatial analysis", 
+      "data model", 
+      "add to"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "new-link-chart":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "link chart", 
+      "spatial data", 
+      "spatial analysis", 
+      "data model"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "simple-link-chart-layout":{
+    "alias":[
+      "3.23.6",
+      "knowledge graphic",
+      "link chart", 
+      "spatial data", 
+      "spatial analysis", 
+      "data model"
+    ],
+    "category":"Knowledge Graphic",
+    "release":"3.23.6"
+  }, 
+  "channels":{
+    "alias":[
+      "3.23.6",
+      "generic",
+      "discussion", 
+      "api", 
+      "chat", 
+      "teams", 
+      "text", 
+      "post", 
+      "social "
+    ],
+    "category":"Generic",
+    "release":"3.23.6"
+  }, 
+  "clear-selection":{
+    "alias":[
+      "3.23.6",
+      "knowledge graph",
+      "map", 
+      "area", 
+      "erase", 
+      "perimeter"
+    ],
+    "category":"Knowledge Graph",
+    "release":"3.23.6"
+  }, 
+  "radial-tree-link-chart-yayout":{
+    "alias":[
+      "3.23.6",
+      "knowledge graph",
+      "link chart", 
+      "spatial anamysis", 
+      "data", 
+      "data model"
+    ],
+    "category":"Knowledge Graph",
+    "release":"3.23.6"
+  }, 
+  "smart-tree-link-chart-layout":{
+    "alias":[
+      "3.23.6",
+      "knowledge graph",
+      "link chart", 
+      "spatial analysis", 
+      "data", 
+      "data model"
+    ],
+    "category":"Knowledge Graph",
+    "release":"3.23.6"
   }
 }
