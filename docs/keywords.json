@@ -12428,7 +12428,6 @@
   "chevron-down-left":{
     "alias":[
       "3.23.6",
-      "symbols",
       "symbols", 
       "arrow", 
       "direction", 
@@ -12440,8 +12439,7 @@
   "chevron-down-right":{
     "alias":[
       "3.23.6",
-      "symbols",
-      " symbols", 
+      "symbols", 
       "arrow", 
       "direction", 
       "keypad"
@@ -12452,7 +12450,6 @@
   "chevron-up-left":{
     "alias":[
       "3.23.6",
-      "symbols",
       "symbols", 
       "arrow", 
       "direction", 
@@ -12464,7 +12461,6 @@
   "chevron-up-right":{
     "alias":[
       "3.23.6",
-      "symbols",
       "symbols", 
       "arrow", 
       "direction", 
