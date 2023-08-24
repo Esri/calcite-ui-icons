@@ -1,1 +1,1 @@
-export const autoLayout16: CalciteMultiPathEntry[];
+export const autoLayout16: string;

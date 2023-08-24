@@ -201,7 +201,7 @@ export const attachment32: string;
 export const attachmentPlus16: string;
 export const attachmentPlus24: string;
 export const attachmentPlus32: string;
-export const autoLayout16: CalciteMultiPathEntry[];
+export const autoLayout16: string;
 export const autoLayout24: string;
 export const autoLayout32: string;
 export const automation16: string;
