@@ -12962,5 +12962,35 @@
     ],
     "category":"People",
     "release":"3.23.9"
+  }, 
+  "hide-layers":{
+    "alias":[
+      "3.24.0",
+      "layers",
+      "layer", 
+      "hide", 
+      "hidden", 
+      "stacked",  
+      "multiple", 
+      "eye", 
+      "view", 
+      "cover"
+    ],
+    "category":"Layers",
+    "release":"3.24.0"
+  }, 
+  "add-layer-service":{
+    "alias":[
+      "3.24.0",
+      "generic",
+      "layer", 
+      "layers", 
+      "add", 
+      "services", 
+      "plus", 
+      "symbol"
+    ],
+    "category":"Generic",
+    "release":"3.24.0"
   }
 }
