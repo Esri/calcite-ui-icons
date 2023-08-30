@@ -1,1 +1,1 @@
-export const minusSquare16F: CalciteMultiPathEntry[];
+export const minusSquare16F: string;

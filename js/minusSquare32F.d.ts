@@ -1,1 +1,1 @@
-export const minusSquare32F: CalciteMultiPathEntry[];
+export const minusSquare32F: string;
