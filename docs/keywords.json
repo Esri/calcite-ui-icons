@@ -12992,5 +12992,32 @@
     ],
     "category":"Generic",
     "release":"3.24.0"
+  }, 
+  "stop-square":{
+    "alias":[
+      "3.24.1",
+      "media",
+      "cube", 
+      "stop", 
+      "halt", 
+      "end", 
+      "finish"
+    ],
+    "category":"Media",
+    "release":""
+  }, 
+  "circle-stop":{
+    "alias":[
+      "3.24.1",
+      "symbols",
+      "cube", 
+      "stop", 
+      "halt", 
+      "end", 
+      "finish", 
+      "button"
+    ],
+    "category":"Symbols",
+    "release":""
   }
 }
