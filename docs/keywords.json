@@ -13054,5 +13054,34 @@
     ],
     "category":"Generic",
     "release":"3.24.2"
+  }, 
+  "minus-circle":{
+    "alias":[
+      "3.24.2",
+      "symbols",
+      "stop", 
+      "delete", 
+      "remove", 
+      "restricted", 
+      "subtract"
+    ],
+    "category":"Symbols",
+    "release":"3.24.2"
+  }, 
+  "alert-off-circle":{
+    "alias":[
+      "3.24.2",
+      "objects",
+      "bell", 
+      "no notifications", 
+      "silent", 
+      "vibrate", 
+      "unsubscribe", 
+      "turn off", 
+      "no alarm", 
+      "no announcements"
+    ],
+    "category":"Objects",
+    "release":"3.24.2"
   }
 }
