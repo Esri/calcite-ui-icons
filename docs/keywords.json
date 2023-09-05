@@ -13019,5 +13019,69 @@
     ],
     "category":"Symbols",
     "release":""
+  }, 
+  "project-mission":{
+    "alias":[
+      "3.24.2",
+      "files",
+      "mission", 
+      "project", 
+      "missions"
+    ],
+    "category":"Files",
+    "release":"3.24.2"
+  }, 
+  "bullet-point-large":{
+    "alias":[
+      "3.24.2",
+      "generic",
+      "bullet", 
+      "point", 
+      "circle", 
+      "dot"
+    ],
+    "category":"Generic",
+    "release":"3.24.2"
+  }, 
+  "bullet-point":{
+    "alias":[
+      "3.24.2",
+      "generic",
+      "bullet point", 
+      "point", 
+      "circle", 
+      "dot"
+    ],
+    "category":"Generic",
+    "release":"3.24.2"
+  }, 
+  "minus-circle":{
+    "alias":[
+      "3.24.2",
+      "symbols",
+      "stop", 
+      "delete", 
+      "remove", 
+      "restricted", 
+      "subtract"
+    ],
+    "category":"Symbols",
+    "release":"3.24.2"
+  }, 
+  "alert-off-circle":{
+    "alias":[
+      "3.24.2",
+      "objects",
+      "bell", 
+      "no notifications", 
+      "silent", 
+      "vibrate", 
+      "unsubscribe", 
+      "turn off", 
+      "no alarm", 
+      "no announcements"
+    ],
+    "category":"Objects",
+    "release":"3.24.2"
   }
 }
