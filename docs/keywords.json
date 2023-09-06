@@ -13083,5 +13083,86 @@
     ],
     "category":"Objects",
     "release":"3.24.2"
+  }, 
+  "save-as":{
+    "alias":[
+      "3.24.3",
+      "raster function template",
+      "disk", 
+      "memory", 
+      "action", 
+      "saving", 
+      "edit", 
+      "modify", 
+      "pencil"
+    ],
+    "category":"Raster Function Template",
+    "release":"3.24.3"
+  }, 
+  "add-raster-variable":{
+    "alias":[
+      "3.24.3",
+      "raster function template",
+      "adding", 
+      "rasters", 
+      "variables", 
+      "function", 
+      "data source"
+    ],
+    "category":"Raster Function Template",
+    "release":"3.24.3"
+  }, 
+  "add-rasters":{
+    "alias":[
+      "3.24.3",
+      "raster function template",
+      "adding", 
+      "rasters", 
+      "browsers", 
+      "function", 
+      "data source", 
+      "layers"
+    ],
+    "category":"Raster Function Template",
+    "release":"3.24.3"
+  }, 
+  "launch-2":{
+    "alias":[
+      "3.24.3",
+      "raster function template",
+      "arrows", 
+      "open in new window", 
+      "open", 
+      "external link", 
+      "expand", 
+      "launching"
+    ],
+    "category":"Raster Function Template",
+    "release":"3.24.3"
+  }, 
+  "properties":{
+    "alias":[
+      "3.24.3",
+      "raster function template",
+      "template", 
+      "data", 
+      "function", 
+      "information"
+    ],
+    "category":"Raster Function Template",
+    "release":"3.24.3"
+  }, 
+  "add-constant":{
+    "alias":[
+      "3.24.3",
+      "raster function template",
+      "adding", 
+      "scalar constant", 
+      "value", 
+      "function", 
+      "input"
+    ],
+    "category":"Raster Function Template",
+    "release":"3.24.3"
   }
 }
