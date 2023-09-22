@@ -13164,5 +13164,18 @@
     ],
     "category":"Raster Function Template",
     "release":"3.24.3"
+  }, 
+  "project-template":{
+    "alias":[
+      "3.24.4",
+      "gis",
+      "box", 
+      "package", 
+      "list", 
+      "template", 
+      "project"
+    ],
+    "category":"GIS",
+    "release":"3.24.4"
   }
 }
