@@ -13177,5 +13177,56 @@
     ],
     "category":"GIS",
     "release":"3.24.4"
+  }, 
+  "image-collection-explorer":{
+    "alias":[
+      "3.24.5",
+      "gis",
+      "raster", 
+      "images", 
+      "filter", 
+      "collection", 
+      "selection", 
+      "dataset"
+    ],
+    "category":"GIS",
+    "release":"3.24.5"
+  }, 
+  "storage":{
+    "alias":[
+      "3.24.5",
+      "gis",
+      "data", 
+      "data bin", 
+      "data store", 
+      "data storage"
+    ],
+    "category":"GIS",
+    "release":"3.24.5"
+  }, 
+  "chevron-end":{
+    "alias":[
+      "3.24.5",
+      "media",
+      "arrow", 
+      "back", 
+      "revert", 
+      "finish", 
+      "close"
+    ],
+    "category":"Media",
+    "release":"3.24.5"
+  }, 
+  "chevron-start":{
+    "alias":[
+      "3.24.5",
+      "media",
+      "arrow", 
+      "next", 
+      "begin", 
+      "first"
+    ],
+    "category":"Media",
+    "release":"3.24.5"
   }
 }
