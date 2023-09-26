@@ -13228,5 +13228,151 @@
     ],
     "category":"Media",
     "release":"3.24.5"
-  }
+}, 
+  "break-recurrence":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "breaking", 
+      "arrows", 
+      "turns", 
+      "curves", 
+      "loop", 
+      "broken", 
+      "fractured"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "box-chart-series":{
+    "alias":[
+      "3.24.6",
+      "charts and graphs",
+      "data", 
+      "plot", 
+      "box plot", 
+      "summarize", 
+      "interval scales", 
+      "analysis", 
+      "variability", 
+      "values", 
+      "charts"
+    ],
+    "category":"Charts and Graphs",
+    "release":"3.24.6"
+  }, 
+  "configure-grid-unit":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "grids", 
+      "modify", 
+      "gear", 
+      "changes", 
+      "units", 
+      "spaces "
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "dimensions-unit":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "units", 
+      "size", 
+      "length", 
+      "spaces", 
+      "measurements", 
+      "arrows", 
+      "height", 
+      "width"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "dimensions-wall":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "walls", 
+      "size", 
+      "length", 
+      "spaces", 
+      "measurements", 
+      "arrows", 
+      "height"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "flip-vertical":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "flipping", 
+      "opposite", 
+      "arrows", 
+      "dotted lines", 
+      "transforming", 
+      "aligning"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "merge-details":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "merging", 
+      "information", 
+      "content", 
+      "combine", 
+      "connect", 
+      "infuse"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "merge-units":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "merging", 
+      "units", 
+      "combine", 
+      "connect", 
+      "infuse", 
+      "arrows", 
+      "dotted lines"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "polygon-select":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "dotted lines", 
+      "arrows", 
+      "selecting", 
+      "mouse", 
+      "selection"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
+  }, 
+  "split-units":{
+    "alias":[
+      "3.24.6",
+      "indoors",
+      "dotted lines", 
+      "units", 
+      "divide", 
+      "seperate", 
+      "disconnect", 
+      "splitting"
+    ],
+    "category":"Indoors",
+    "release":"3.24.6"
 }
