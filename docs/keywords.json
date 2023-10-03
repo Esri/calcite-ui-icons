@@ -13375,5 +13375,22 @@
     ],
     "category":"Indoors",
     "release":"3.24.6"
+  }, 
+  "image-magnifying-glass":{
+    "alias":[
+      "3.24.7",
+      "media",
+      "photo", 
+      "zoom", 
+      "image search", 
+      "picture", 
+      "photograph", 
+      "imagery", 
+      "locate", 
+      "analyze", 
+      "inspect"
+    ],
+    "category":"Media",
+    "release":"3.24.7"
   }
 }
