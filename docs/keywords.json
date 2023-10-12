@@ -13392,5 +13392,109 @@
     ],
     "category":"Media",
     "release":"3.24.7"
+  }, 
+  "presentation-x":{
+    "alias":[
+      "3.24.8",
+      "generic",
+      "presentation", 
+      "slide", 
+      "exit", 
+      "close", 
+      "quit", 
+      "x"
+    ],
+    "category":"Generic",
+    "release":"3.24.8"
+  }, 
+  "scan-area":{
+    "alias":[
+      "3.24.8",
+      "site scan",
+      "site scan", 
+      "area", 
+      "drone", 
+      "flight", 
+      "path", 
+      "track", 
+      "pattern"
+    ],
+    "category":"Site Scan",
+    "release":"3.24.8"
+  }, 
+  "scan-vertical":{
+    "alias":[
+      "3.24.8",
+      "site scan",
+      "site scan", 
+      "area", 
+      "drone", 
+      "flight", 
+      "path", 
+      "track", 
+      "pattern"
+    ],
+    "category":"Site Scan",
+    "release":"3.24.8"
+  }, 
+  "scan-crosshatch":{
+    "alias":[
+      "3.24.8",
+      "site scan",
+      "site scan", 
+      "area", 
+      "drone", 
+      "flight", 
+      "path", 
+      "track", 
+      "pattern"
+    ],
+    "category":"Site Scan",
+    "release":"3.24.8"
+  }, 
+  "scan-corridor":{
+    "alias":[
+      "3.24.8",
+      "site scan",
+      "site scan", 
+      "area", 
+      "drone", 
+      "flight", 
+      "path", 
+      "track", 
+      "pattern"
+    ],
+    "category":"Site Scan",
+    "release":"3.24.8"
+  }, 
+  "scan-perimeter":{
+    "alias":[
+      "3.24.8",
+      "site scan",
+      "site scan", 
+      "area", 
+      "drone", 
+      "flight", 
+      "path", 
+      "track", 
+      "pattern"
+    ],
+    "category":"Site Scan",
+    "release":"3.24.8"
+  }, 
+  "ground-control-point":{
+    "alias":[
+      "3.24.8",
+      "site scan",
+      "site scan", 
+      "area", 
+      "drone", 
+      "flight", 
+      "path", 
+      "track", 
+      "pattern"
+    ],
+    "category":"Site Scan",
+    "release":"3.24.8"
   }
 }
