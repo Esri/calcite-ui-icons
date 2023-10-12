@@ -13496,5 +13496,17 @@
     ],
     "category":"Site Scan",
     "release":"3.24.8"
+  }, 
+  "speech-bubble-like":{
+    "alias":[
+      "3.24.8",
+      "social media",
+      "like", 
+      "heart", 
+      "social media", 
+      "speech bubble"
+    ],
+    "category":"Social Media",
+    "release":"3.24.8"
   }
 }
