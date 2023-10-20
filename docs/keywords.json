@@ -13004,7 +13004,7 @@
       "finish"
     ],
     "category":"Media",
-    "release":".24.1"
+    "release":"3.24.1"
   }, 
   "circle-stop":{
     "alias":[
@@ -13018,7 +13018,7 @@
       "button"
     ],
     "category":"Symbols",
-    "release":".24.1"
+    "release":"3.24.1"
   }, 
   "project-mission":{
     "alias":[
