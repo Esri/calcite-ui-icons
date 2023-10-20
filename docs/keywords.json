@@ -13508,5 +13508,74 @@
     ],
     "category":"Social Media",
     "release":"3.24.8"
+  }, 
+  "partner":{
+    "alias":[
+      "3.24.9",
+      "people",
+      "hand shake", 
+      "agreement", 
+      "hands", 
+      "partnership", 
+      "corporate", 
+      "assistance", 
+      "agreement", 
+      "collaboration", 
+      "collaborate", 
+      "colleagues", 
+      "peers"
+    ],
+    "category":"People",
+    "release":"3.24.9"
+  }, 
+  "collaboration-user":{
+    "alias":[
+      "3.24.9",
+      "people",
+      "person", 
+      "teamwork", 
+      "partnership", 
+      "network", 
+      "circles", 
+      "community", 
+      "connection", 
+      "enclosed", 
+      "share", 
+      "sharing", 
+      "collaborative", 
+      "diagram"
+    ],
+    "category":"People",
+    "release":"3.24.9"
+  }, 
+  "employee-id":{
+    "alias":[
+      "3.24.9",
+      "people",
+      "person", 
+      "badge", 
+      "security", 
+      "conference", 
+      "access", 
+      "id", 
+      "identification", 
+      "person"
+    ],
+    "category":"People",
+    "release":"3.24.9"
+  }, 
+  "file-user":{
+    "alias":[
+      "3.24.9",
+      "people",
+      "project manager", 
+      "file", 
+      "administrator", 
+      "page", 
+      "paper", 
+      "item"
+    ],
+    "category":"People",
+    "release":"3.24.9"
   }
 }
