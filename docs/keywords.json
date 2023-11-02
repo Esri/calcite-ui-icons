@@ -13577,5 +13577,32 @@
     ],
     "category":"People",
     "release":"3.24.9"
+  }, 
+  "layout-spacious":{
+    "alias":[
+      "3.25.0",
+      "generic",
+      "boxes", 
+      "spacing", 
+      "layout", 
+      "format", 
+      "spacious"
+    ],
+    "category":"Generic",
+    "release":"3.25.0"
+  }, 
+  "layout-compact":{
+    "alias":[
+      "3.25.0",
+      "generic",
+      "boxes", 
+      "spacing", 
+      "layout", 
+      "format", 
+      "compact", 
+      "minimize"
+    ],
+    "category":"Generic",
+    "release":"3.25.0"
   }
 }
