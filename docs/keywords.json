@@ -13604,5 +13604,31 @@
     ],
     "category":"Generic",
     "release":"3.25.0"
-  }
+  },
+"octagon":{
+  "alias":[
+    "3.25.1",
+    "symbols",
+    "shapes", 
+    "single shape", 
+    "glyphs", 
+    "generic", 
+    "geometry"
+  ],
+  "category":"Symbols",
+  "release":"3.25.1"
+}, 
+"hexagon":{
+  "alias":[
+    "3.25.1",
+    "symbols",
+    "shapes", 
+    "single shape", 
+    "glyphs", 
+    "generic", 
+    "geometry"
+  ],
+  "category":"Symbols",
+  "release":"3.25.1"
+}
 }
