@@ -1092,12 +1092,13 @@
     },
     "cursor-selection": {
         "alias": [
-            "1.5.0",
+            "3.25.2",
+            "gis",
             "generic",
             "pointer over selection"
         ],
-        "category": "Generic",
-        "release": "1.5"
+        "category": "GIS",
+        "release": "3.25.2"
     },
     "dashboard": {
         "alias": [
@@ -2617,25 +2618,27 @@
     },
     "line": {
         "alias": [
-            "1.5.0",
+            "3.25.2",
+            "geometry",
             "gis",
             "feature",
             "draw",
             "points"
         ],
-        "category": "GIS",
-        "release": "1.5"
+        "category": "Geometry",
+        "release": "3.25.2"
     },
     "line-straight": {
         "alias": [
-            "1.5.0",
+            "3.25.2",
+            "geometry",
             "gis",
             "diagonal",
             "points",
             "feature"
         ],
-        "category": "GIS",
-        "release": "1.5"
+        "category": "Geometry",
+        "release": "3.25.2"
     },
     "link": {
         "alias": [
@@ -2934,18 +2937,6 @@
         "category": "Symbols",
         "release": "1.5"
     },
-    "minus-circle": {
-        "alias": [
-            "1.5.0",
-           "symbols",
-            "subtract",
-            "remove",
-            "delete",
-            "restricted"
-        ],
-        "category": "Symbols",
-        "release": "1.5"
-    },
     "mobile": {
         "alias": [
             "1.5.0",
@@ -3026,14 +3017,15 @@
     },
     "nodes-unmerge": {
         "alias": [
-            "1.5.0",
+            "3.25.2",
+            "arrows",
             "separate points",
             "separate nodes",
             "unmerge nodes",
             "unmerge points"
         ],
-        "category": "Charts and Graphs",
-        "release": "1.5"
+        "category": "Arrows",
+        "release": "3.25.2"
     },
     "null": {
         "alias": [
@@ -3651,14 +3643,14 @@
     },
     "selection": {
         "alias": [
-            "1.5.0",
+            "3.25.2",
+            "gis",
             "generic",
             "map",
-            "GIS",
             "area"
         ],
-        "category": "Generic",
-        "release": "1.5"
+        "category": "GIS",
+        "release": "3.25.2"
     },
     "services": {
         "alias": [
@@ -4407,15 +4399,6 @@
         "category": "Arrows",
         "release": "1.5"
     },
-    "minus-square": {
-        "alias": [
-            "1.5.0",
-            "subtract",
-            "hyphen"
-        ],
-        "category": "Symbols",
-        "release": "1.5"
-    },
     "slice": {
         "alias": [
             "1.5.0",
@@ -4642,7 +4625,7 @@
             "1.7.0",
             "draw",
             "shape",
-            "GIS",
+            "gis",
             "map",
             "distance"
         ],
@@ -4681,14 +4664,15 @@
     },
     "color-coded-map": {
         "alias": [
-            "1.8.0",
+            "3.25.2",
+            "gis",
             "map",
             "area",
             "selection",
             "perimeter"
         ],
-        "category": "Windows",
-        "release": "1.8.0"
+        "category": "GIS",
+        "release": "3.25.2"
     },
     "suitability-analysis-output": {
         "alias": [
@@ -4901,7 +4885,7 @@
         "alias": [
             "2.5.1",
             "height",
-            "GIS",
+            "gis",
             "mountains",
             "terrain",
             "measure",
@@ -5287,12 +5271,13 @@
     },
     "feature-layer": {
         "alias": [
-            "2.7.0",
+            "3.25.2",
+            "layers",
             "feature layer",
             "map pin",
-            "GIS"
+            "gis"
         ],
-        "category": "GIS",
+        "category": "Layers",
         "release": "2.7.0"
     },
     "locator": {
@@ -5319,13 +5304,14 @@
     },
     "tile-layer": {
         "alias": [
-            "2.7.0",
+            "3.25.2",
+            "layers",
             "tile layer",
-            "GIS",
+            "gis",
             "map layer"
         ],
-        "category": "GIS",
-        "release": "2.7.0"
+        "category": "Layers",
+        "release": "3.25.2"
     },
     "urban-model": {
         "alias": [
@@ -5344,16 +5330,16 @@
     },
     "image-layer": {
         "alias": [
-            "2.8.1",
+            "3.25.2",
+            "layers",
             "raster",
-            "GIS",
+            "gis",
             "image",
             "imagery",
-            "layer",
             "layer type"
         ],
-        "category": "GIS",
-        "release": "2.8.1"
+        "category": "Layers",
+        "release": "3.25.2"
     },
     "access-string-results": {
         "alias": [
@@ -5836,7 +5822,8 @@
     },
     "maximum-graph": {
         "alias": [
-            "3.1.0",
+            "3.25.2",
+            "charts and graphs",
             "max",
             "mathematics",
             "numbers",
@@ -5846,8 +5833,8 @@
             "maximum graph",
             "parabolic curve"
         ],
-        "category": "Text",
-        "release": "3.1.0"
+        "category": "Charts and Graphs",
+        "release": "3.25.2"
     },
     "minimum": {
         "alias": [
@@ -5864,7 +5851,8 @@
     },
     "minimum-graph": {
         "alias": [
-            "3.1.0",
+            "3.25.2",
+            "charts and graphs",
             "min",
             "mathematics",
             "numbers",
@@ -5874,8 +5862,8 @@
             "minimum graph",
             "parabolic curve"
         ],
-        "category": "Text",
-        "release": "3.1.0"
+        "category": "Charts and Graphs",
+        "release": "3.25.2"
     },
     "mu": {
         "alias": [
@@ -6637,34 +6625,37 @@
     },
     "extent-filter": {
         "alias": [
-            "3.9.0",
+            "3.25.2",
+            "gis",
             "extent filter",
             "filter by extent",
             "funnel"
         ],
-        "category": "Generic",
-        "release": "3.9.0"
+        "category": "GIS",
+        "release": "3.25.2"
     },
     "selection-filter": {
         "alias": [
-            "3.9.0",
+            "3.25.2",
+            "gis",
             "selection filter",
             "filter by selection",
             "filter selection",
             "funnel"
         ],
-        "category": "Generic",
-        "release": "3.9.0"
+        "category": "GIS",
+        "release": "3.25.2"
     },
     "selection-x": {
         "alias": [
-            "3.9.0",
+            "3.25.2",
+            "gis",
             "selection x",
             "delete selection",
             "remove selection"
         ],
-        "category": "Generic",
-        "release": "3.9.0"
+        "category": "GIS",
+        "release": "3.25.2"
     },
     "book": {
         "alias": [
@@ -7101,14 +7092,15 @@
     },
     "unselected": {
         "alias": [
-            "3.14.2",
-            "Generic",
+            "3.25.2",
+            "gis",
+            "generic",
             "unselection",
             "selection",
             "deselect"
         ],
-        "category": "Generic",
-        "release": "3.14.2"
+        "category": "GIS",
+        "release": "3.25.2"
     },
     "smart-camera": {
         "alias": [
@@ -7849,16 +7841,6 @@
         "category": "Objects",
         "release": "3.16.6"
     },
-    "bullet-point": {
-        "alias": [
-            "3.16.6",
-            "generic",
-            "dot",
-            "item"
-        ],
-        "category": "Generic",
-        "release": "3.16.6"
-    },
     "form-field-off": {
         "alias": [
             "3.16.6",
@@ -8262,7 +8244,7 @@
     "processing-templates": {
         "alias": [
             "3.17.0",
-            "GIS",
+            "gis",
             "layers",
             "graphics",
             "effects",
@@ -8277,7 +8259,7 @@
     "image-display-order": {
         "alias": [
             "3.17.0",
-            "GIS",
+            "gis",
             "mosaic",
             "raster",
             "imagery",
@@ -8338,7 +8320,7 @@
     "oriented-imagery-widget": {
         "alias": [
             "3.17.0",
-            "GIS",
+            "gis",
             "sight",
             "vision",
             "coordinates",
@@ -8399,7 +8381,7 @@
     },
     "image-chips": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "image",
@@ -8411,7 +8393,7 @@
     },
     "data-cloud": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "cloud",
@@ -8423,7 +8405,7 @@
     },
     "data-folder": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "database",
@@ -8435,7 +8417,7 @@
     },
     "data-raster": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "database",
@@ -8447,7 +8429,7 @@
     },
     "classify-objects": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "classify"
@@ -8457,7 +8439,7 @@
     },
     "classify-pixels": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai"
         ],
@@ -8466,7 +8448,7 @@
     },
     "grid-unit": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "grid"
@@ -8476,7 +8458,7 @@
     },
     "image-unit": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "image"
@@ -8486,7 +8468,7 @@
     },
     "new-training": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "new",
@@ -8497,7 +8479,7 @@
     },
     "retrain": {
         "alias": [
-            "GIS",
+            "gis",
             "3.17.1",
             "geoai",
             "train"
@@ -9527,16 +9509,16 @@
   },
   "tiled-imagery-layer":{
     "alias":[
-      "3.18.4",
+      "3.25.2",
+      "layers",
       "gis",
       "tiled",
       "image",
       "imagery",
-      "layer",
       "layer type"
     ],
-    "category":"GIS",
-    "release":"3.18.4"
+    "category":"Layers",
+    "release":"3.25.2"
   },
   "keyboard":{
     "alias":[
@@ -10071,18 +10053,18 @@
   }, 
   "rtl-paragraph-align":{
     "alias":[
-      "3.19.3",
+      "3.25.2",
+      "text",
       "symbols",
       "move", 
       "left", 
       "right", 
       "arrow", 
       "direction", 
-      "format", 
-      "text"
+      "format"
     ],
-    "category":"Symbols",
-    "release":"3.19.3"
+    "category":"Text",
+    "release":"3.25.2"
   }, 
   "rtl-elements-align":{
     "alias":[
@@ -10103,18 +10085,18 @@
   }, 
   "ltr-paragraph-align":{
     "alias":[
-      "3.19.3",
+      "3.25.2",
+      "text",
       "symbols",
       "move", 
       "left", 
       "right", 
       "arrow", 
       "direction", 
-      "format", 
-      "text"
+      "format"
     ],
-    "category":"Symbols",
-    "release":"3.19.3"
+    "category":"Text",
+    "release":"3.25.2"
   }, 
   "ltr-elements-align":{
     "alias":[
@@ -10788,7 +10770,8 @@
 }, 
 "investigation":{
   "alias":[
-    " 3.20.6",
+    " 3.25.2",
+    "generic",
     "knowledge graph",
     "briefcase",
     "link chart", 
@@ -10800,8 +10783,8 @@
     "investigation", 
     "data model"
   ],
-  "category":"Knowledge Graph",
-  "release":" 3.20.6"
+  "category":"Generic",
+  "release":" 3.25.2"
 }, 
 "knowledge-graph":{
   "alias":[
@@ -12227,16 +12210,16 @@
 }, 
 "merge-2":{
   "alias":[
-    "3.23.1",
+    "3.25.2",
+    "arrows",
     "generic",
     "merging", 
     "combine", 
     "connect", 
-    "involve", 
-    "arrows"
+    "involve"
   ],
-  "category":"Generic",
-  "release":""
+  "category":"Arrows",
+  "release":"3.25.2"
 }, 
 "text-button":{
   "alias":[
@@ -12380,17 +12363,18 @@
   }, 
   "data-card":{
     "alias":[
-      "3.23.6",
+      "3.25.2",
+      "gis",
       "knowledge graph",
       "data", 
       "card", 
       "visualization", 
       "information"
     ],
-    "category":"Knowledge Graph",
-    "release":"3.23.6"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
-  "minus-square":{
+  "minus-square": {
     "alias":[
       "3.23.6",
       "symbols",
@@ -12404,25 +12388,25 @@
   }, 
   "remove-linkchart":{
     "alias":[
-      "3.23.6",
+      "3.25.2",
       "knowledge graph",
       "remove", 
       "close", 
       "linkchart", 
       "data"
     ],
-    "category":"Symbols",
-    "release":"3.23.6"
+    "category":"Knowledge Graph",
+    "release":"3.25.2"
   }, 
   "apply-selection-to-existing-view":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "change", 
       "link chart", 
       "add"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "chevron-down-left":{
@@ -12472,43 +12456,43 @@
   "community-link-chart-layout":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "link chart", 
       "spatial data", 
       "spatial analysis", 
       "data model"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "force-directed-link-chart-layout-":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "link chart", 
       "spatial data", 
       "spatial analysis", 
       "data model"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "force-directed-link-chart-layout":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "link chart", 
       "spatial data", 
       "spatial analysis", 
       "data model"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "hierarchical-link-chart-layout":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "link chart", 
       "spatial data", 
       "spatial analysis", 
@@ -12516,55 +12500,56 @@
       "direction", 
       "levels"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "knowledge-studio":{
     "alias":[
-      "3.23.6",
-      "knowledge graphic",
+      "3.25.2",
+      "brand",
+      "knowledge graph",
       "product", 
       "logo", 
       "esri"
     ],
-    "category":"Knowledge Graphic",
-    "release":"3.23.6"
+    "category":"Brand",
+    "release":"3.25.2"
   }, 
   "link-chart-expand":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "link chart", 
       "spatial data", 
       "spatial analysis", 
       "data model", 
       "add to"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "new-link-chart":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "link chart", 
       "spatial data", 
       "spatial analysis", 
       "data model"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "simple-link-chart-layout":{
     "alias":[
       "3.23.6",
-      "knowledge graphic",
+      "knowledge graph",
       "link chart", 
       "spatial data", 
       "spatial analysis", 
       "data model"
     ],
-    "category":"Knowledge Graphic",
+    "category":"Knowledge Graph",
     "release":"3.23.6"
   }, 
   "channels":{
@@ -12584,15 +12569,16 @@
   }, 
   "clear-selection":{
     "alias":[
-      "3.23.6",
+      "3.25.2",
+      "gis",
       "knowledge graph",
       "map", 
       "area", 
       "erase", 
       "perimeter"
     ],
-    "category":"Knowledge Graph",
-    "release":"3.23.6"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "radial-tree-link-chart-yayout":{
     "alias":[
@@ -12620,7 +12606,8 @@
   }, 
   "cursor-minus":{
     "alias":[
-      "3.23.8",
+      "3.25.2",
+      "generic",
       "web editor",
       "select", 
       "click", 
@@ -12629,12 +12616,13 @@
       "erase", 
       "deselect"
     ],
-    "category":"Web Editor",
-    "release":"3.23.8"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "curve":{
     "alias":[
-      "3.23.8",
+      "3.25.2",
+      "geometry editing",
       "web editor",
       "angles", 
       "select", 
@@ -12642,41 +12630,41 @@
       "curves", 
       "lines"
     ],
-    "category":"Web Editor",
-    "release":"3.23.8"
+    "category":"Geometry Editing",
+    "release":"3.25.2"
   }, 
   "edit-geometry":{
     "alias":[
       "3.23.8",
-      "web editor",
+      "geometry editor",
       "modify", 
       "shapes", 
       "polygon", 
       "edit", 
       "correct"
     ],
-    "category":"Web Editor",
+    "category":"Geometry Editor",
     "release":"3.23.8"
   }, 
   "enable-disable-feature-selection":{
     "alias":[
-      "3.23.8",
-      "web editor",
+      "3.25.2",
+      "web editor", 
+      "layers", 
       "show", 
       "hide", 
       "active", 
       "pin", 
-      "features", 
-      "layers", 
+      "features",
       "toggle"
     ],
-    "category":"Web Editor",
-    "release":"3.23.8"
+    "category":"Layers",
+    "release":"3.25.2"
   }, 
   "extend-trim":{
     "alias":[
       "3.23.8",
-      "web editor",
+      "geometry editor",
       "continue", 
       "stop", 
       "lines", 
@@ -12685,62 +12673,64 @@
       "trimming", 
       "extending"
     ],
-    "category":"Web Editor",
+    "category":"Geometry Editor",
     "release":"3.23.8"
   }, 
   "layer-settings":{
     "alias":[
-      "3.23.8",
-      "web editor",
+      "3.25.2",
       "layers", 
+      "web editor",
       "edits", 
       "tools", 
       "options"
     ],
-    "category":"Web Editor",
-    "release":"3.23.8"
+    "category":"Layers",
+    "release":"3.25.2"
   }, 
   "map-level-settings":{
     "alias":[
-      "3.23.8",
+      "3.25.2",
+      "gis",
       "web editor",
       "maps", 
       "edit", 
       "tools", 
       "options"
     ],
-    "category":"Web Editor",
-    "release":"3.23.8"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "point-line":{
     "alias":[
       "3.23.8",
-      "web editor",
+      "geometry editor",
       "edge", 
       "points", 
       "lines", 
       "focus", 
       "extend"
     ],
-    "category":"Web Editor",
+    "category":"Geometry Editor",
     "release":"3.23.8"
   }, 
   "right-angle":{
     "alias":[
       "3.23.8",
-      "web editor",
+      "geometry editor",
       "lines", 
       "points", 
       "angles", 
       "curves", 
       "degrees"
     ],
-    "category":"Web Editor",
+    "category":"Geometry Editor",
     "release":"3.23.8"
   }, 
   "selection-set":{
     "alias":[
-      "3.23.8",
+      "3.25.2",
+      "generic",
       "web editor",
       "pin", 
       "feature", 
@@ -12750,8 +12740,8 @@
       "options", 
       "activate"
     ],
-    "category":"Web Editor",
-    "release":"3.23.8"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "split-geometry":{
     "alias":[
@@ -12765,13 +12755,13 @@
       "shapes", 
       "divide"
     ],
-    "category":"Web Editor",
+    "category":"Geometry Editor",
     "release":"3.23.8"
   }, 
   "stretch":{
     "alias":[
       "3.23.8",
-      "web editor",
+      "geometry editor",
       "extend", 
       "expand", 
       "edges", 
@@ -12782,12 +12772,13 @@
       "squares", 
       "parameters"
     ],
-    "category":"Web Editor",
+    "category":"Geometry Editor",
     "release":"3.23.8"
   }, 
   "trace":{
     "alias":[
-      "3.23.8",
+      "3.25.2",
+      "geometry editing",
       "web editor",
       "tracing", 
       "edges", 
@@ -12796,8 +12787,8 @@
       "angles", 
       "cover"
     ],
-    "category":"Web Editor",
-    "release":"3.23.8"
+    "category":"Geometry Editing",
+    "release":"3.25.2"
   }, 
   "hide-derived-value":{
     "alias":[
@@ -12816,7 +12807,8 @@
   }, 
   "auto-layout":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "symbols",
       "online model builder",
       "shapes", 
       "circles", 
@@ -12826,24 +12818,26 @@
       "organize", 
       "automatic"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"Symbols",
+    "release":"3.25.2"
   }, 
   "derived-value":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "forms",
       "online model builder",
       "arrow", 
       "data", 
       "values", 
       "information"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"Forms",
+    "release":"3.25.2"
   }, 
   "hide-parameters":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "forms",
       "online model builder",
       "hidden", 
       "eye", 
@@ -12851,12 +12845,13 @@
       "variable", 
       "display"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"Forms",
+    "release":"3.25.2"
   }, 
   "model":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "gis",
       "online model builder",
       "models", 
       "shapes", 
@@ -12864,12 +12859,13 @@
       "circles", 
       "squares"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "new-model":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "gis",
       "online model builder",
       "models", 
       "shapes", 
@@ -12879,23 +12875,25 @@
       "adding", 
       "create"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "show-all-parameters":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "forms",
       "online model builder",
       "display", 
       "eye", 
       "information"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"Forms",
+    "release":"3.25.2"
   }, 
   "show-derived-value":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "forms",
       "online model builder",
       "showing", 
       "eye", 
@@ -12904,12 +12902,13 @@
       "data", 
       "values"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"Forms",
+    "release":"3.25.2"
   }, 
   "show-required-parameters":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "forms",
       "online model builder",
       "eye", 
       "display", 
@@ -12917,24 +12916,26 @@
       "hidden", 
       "selected"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"Forms",
+    "release":"3.25.2"
   }, 
   "stop":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "symbols",
       "online model builder",
       "stopping", 
       "slow", 
       "stopped", 
       "hold"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"Symbols",
+    "release":"3.25.2"
   }, 
   "temporary":{
     "alias":[
-      "3.23.9",
+      "3.25.2",
+      "gis",
       "online model builder",
       "time", 
       "arrow", 
@@ -12943,8 +12944,8 @@
       "limit", 
       "short term"
     ],
-    "category":"Online Model Builder",
-    "release":"3.23.9"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "user-calendar":{
     "alias":[
@@ -12981,7 +12982,8 @@
   }, 
   "add-layer-service":{
     "alias":[
-      "3.24.0",
+      "3.25.2",
+      "layers",
       "generic",
       "layer", 
       "layers", 
@@ -12990,8 +12992,8 @@
       "plus", 
       "symbol"
     ],
-    "category":"Generic",
-    "release":"3.24.0"
+    "category":"Layers",
+    "release":"3.25.2"
   }, 
   "stop-square":{
     "alias":[
@@ -13022,14 +13024,15 @@
   }, 
   "project-mission":{
     "alias":[
-      "3.24.2",
+      "3.25.2",
+      "brand",
       "files",
       "mission", 
       "project", 
       "missions"
     ],
-    "category":"Files",
-    "release":"3.24.2"
+    "category":"Brand",
+    "release":"3.25.2"
   }, 
   "bullet-point-large":{
     "alias":[
@@ -13043,7 +13046,7 @@
     "category":"Generic",
     "release":"3.24.2"
   }, 
-  "bullet-point":{
+  "bullet-point": {
     "alias":[
       "3.24.2",
       "generic",
@@ -13055,7 +13058,7 @@
     "category":"Generic",
     "release":"3.24.2"
   }, 
-  "minus-circle":{
+  "minus-circle": {
     "alias":[
       "3.24.2",
       "symbols",
@@ -13086,7 +13089,8 @@
   }, 
   "save-as":{
     "alias":[
-      "3.24.3",
+      "3.25.2",
+      "generic",
       "raster function template",
       "disk", 
       "memory", 
@@ -13096,12 +13100,13 @@
       "modify", 
       "pencil"
     ],
-    "category":"Raster Function Template",
-    "release":"3.24.3"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "add-raster-variable":{
     "alias":[
-      "3.24.3",
+      "3.25.2",
+      "gis",
       "raster function template",
       "adding", 
       "rasters", 
@@ -13109,12 +13114,13 @@
       "function", 
       "data source"
     ],
-    "category":"Raster Function Template",
-    "release":"3.24.3"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "add-rasters":{
     "alias":[
-      "3.24.3",
+      "3.25.2",
+      "gis",
       "raster function template",
       "adding", 
       "rasters", 
@@ -13123,38 +13129,40 @@
       "data source", 
       "layers"
     ],
-    "category":"Raster Function Template",
-    "release":"3.24.3"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "launch-2":{
     "alias":[
-      "3.24.3",
-      "raster function template",
-      "arrows", 
+      "3.25.2",
+      "arrows",
+      "raster function template", 
       "open in new window", 
       "open", 
       "external link", 
       "expand", 
       "launching"
     ],
-    "category":"Raster Function Template",
-    "release":"3.24.3"
+    "category":"Arrows",
+    "release":"3.25.2"
   }, 
   "properties":{
     "alias":[
-      "3.24.3",
+      "3.25.2",
+      "gis",
       "raster function template",
       "template", 
       "data", 
       "function", 
       "information"
     ],
-    "category":"Raster Function Template",
-    "release":"3.24.3"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "add-constant":{
     "alias":[
-      "3.24.3",
+      "3.25.2",
+      "gis",
       "raster function template",
       "adding", 
       "scalar constant", 
@@ -13162,8 +13170,8 @@
       "function", 
       "input"
     ],
-    "category":"Raster Function Template",
-    "release":"3.24.3"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "project-template":{
     "alias":[
@@ -13231,7 +13239,8 @@
 }, 
   "break-recurrence":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "directions",
       "indoors",
       "breaking", 
       "arrows", 
@@ -13241,7 +13250,7 @@
       "broken", 
       "fractured"
     ],
-    "category":"Indoors",
+    "category":"Directions",
     "release":"3.24.6"
   }, 
   "box-chart-series":{
@@ -13263,7 +13272,8 @@
   }, 
   "configure-grid-unit":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "gis",
       "indoors",
       "grids", 
       "modify", 
@@ -13272,12 +13282,13 @@
       "units", 
       "spaces "
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "dimensions-unit":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "generic",
       "indoors",
       "units", 
       "size", 
@@ -13288,12 +13299,13 @@
       "height", 
       "width"
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"Generic",
+    "release":"3.25.2."
   }, 
   "dimensions-wall":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "generic",
       "indoors",
       "walls", 
       "size", 
@@ -13303,12 +13315,13 @@
       "arrows", 
       "height"
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "flip-vertical":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "generic",
       "indoors",
       "flipping", 
       "opposite", 
@@ -13317,12 +13330,13 @@
       "transforming", 
       "aligning"
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "merge-details":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "generic",
       "indoors",
       "merging", 
       "information", 
@@ -13331,12 +13345,13 @@
       "connect", 
       "infuse"
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "merge-units":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "generic",
       "indoors",
       "merging", 
       "units", 
@@ -13346,12 +13361,13 @@
       "arrows", 
       "dotted lines"
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "polygon-select":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "generic",
       "indoors",
       "dotted lines", 
       "arrows", 
@@ -13359,22 +13375,23 @@
       "mouse", 
       "selection"
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "split-units":{
     "alias":[
-      "3.24.6",
+      "3.25.2",
+      "generic",
       "indoors",
       "dotted lines", 
       "units", 
       "divide", 
-      "seperate", 
+      "separate", 
       "disconnect", 
       "splitting"
     ],
-    "category":"Indoors",
-    "release":"3.24.6"
+    "category":"Generic",
+    "release":"3.25.2"
   }, 
   "image-magnifying-glass":{
     "alias":[
@@ -13409,9 +13426,9 @@
   }, 
   "scan-area":{
     "alias":[
-      "3.24.8",
+      "3.25.2",
+      "gis",
       "site scan",
-      "site scan", 
       "area", 
       "drone", 
       "flight", 
@@ -13419,14 +13436,14 @@
       "track", 
       "pattern"
     ],
-    "category":"Site Scan",
+    "category":"GIS",
     "release":"3.24.8"
   }, 
   "scan-vertical":{
     "alias":[
-      "3.24.8",
+      "3.25.2",
+      "gis",
       "site scan",
-      "site scan", 
       "area", 
       "drone", 
       "flight", 
@@ -13434,14 +13451,14 @@
       "track", 
       "pattern"
     ],
-    "category":"Site Scan",
-    "release":"3.24.8"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "scan-crosshatch":{
     "alias":[
-      "3.24.8",
+      "3.25.2",
+      "gis",
       "site scan",
-      "site scan", 
       "area", 
       "drone", 
       "flight", 
@@ -13449,14 +13466,14 @@
       "track", 
       "pattern"
     ],
-    "category":"Site Scan",
-    "release":"3.24.8"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "scan-corridor":{
     "alias":[
-      "3.24.8",
+      "3.25.2",
+      "gis",
       "site scan",
-      "site scan", 
       "area", 
       "drone", 
       "flight", 
@@ -13464,14 +13481,14 @@
       "track", 
       "pattern"
     ],
-    "category":"Site Scan",
-    "release":"3.24.8"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "scan-perimeter":{
     "alias":[
-      "3.24.8",
+      "3.25.2",
+      "gis",
       "site scan",
-      "site scan", 
       "area", 
       "drone", 
       "flight", 
@@ -13479,13 +13496,13 @@
       "track", 
       "pattern"
     ],
-    "category":"Site Scan",
-    "release":"3.24.8"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "ground-control-point":{
     "alias":[
-      "3.24.8",
-      "site scan",
+      "3.25.2",
+      "gis",
       "site scan", 
       "area", 
       "drone", 
@@ -13494,8 +13511,8 @@
       "track", 
       "pattern"
     ],
-    "category":"Site Scan",
-    "release":"3.24.8"
+    "category":"GIS",
+    "release":"3.25.2"
   }, 
   "speech-bubble-like":{
     "alias":[
