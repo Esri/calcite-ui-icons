@@ -13648,5 +13648,91 @@
   ],
   "category":"Symbols",
   "release":"3.25.1"
+}, 
+"absolute-elevation":{
+  "alias":[
+    "3.25.3",
+    "gis",
+    "elevate", 
+    "measure", 
+    "height", 
+    "depth", 
+    "water", 
+    "sea level", 
+    "measurements"
+  ],
+  "category":"GIS",
+  "release":"3.25.3"
+}, 
+"absolute-direction":{
+  "alias":[
+    "3.25.3",
+    "gis",
+    "arrows", 
+    "compass", 
+    "needle", 
+    "directions", 
+    "movement", 
+    "rotate"
+  ],
+  "category":"GIS",
+  "release":"3.25.3"
+}, 
+"on-the-ground-elevation":{
+  "alias":[
+    "3.25.3",
+    "gis",
+    "elevate", 
+    "measure", 
+    "height", 
+    "depth", 
+    "ground", 
+    "measurements"
+  ],
+  "category":"GIS",
+  "release":"3.25.3"
+}, 
+"relative-direction":{
+  "alias":[
+    "3.25.3",
+    "geometry editing",
+    "arrows", 
+    "movement", 
+    "points", 
+    "lines", 
+    "directions"
+  ],
+  "category":"Geometry Editing",
+  "release":"3.25.3"
+}, 
+"relative-to-ground-elevation":{
+  "alias":[
+    "3.25.3",
+    "gis",
+    "elevate", 
+    "measure", 
+    "height", 
+    "depth", 
+    "ground", 
+    "measurements"
+  ],
+  "category":"GIS",
+  "release":"3.25.3"
+}, 
+"relative-to-scene-elevation":{
+  "alias":[
+    "3.25.3",
+    "gis",
+    "elevate", 
+    "measure", 
+    "height", 
+    "depth", 
+    "scenic", 
+    "scene", 
+    "buildings", 
+    "measurements"
+  ],
+  "category":"GIS",
+  "release":"3.25.3"
 }
 }
