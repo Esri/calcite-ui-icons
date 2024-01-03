@@ -1,0 +1,1 @@
+export const medium2Column32 = [{"d":"m20,7h-1v-1h-6v11h6v-1h1v1h6V6h-6v1Zm0,8h-1v-1h1v1Zm0-2h-1v-1h1v1Zm0-2h-1v-1h1v1Zm0-2h-1v-1h1v1Z"},{"d":"m27,18h-15V5h15v13Zm-14-1h13V6h-13v11Zm17,13H2V2h28v28Zm-27-1h26V3H3v26Z"},{"d":"m20,7h-1v-1h1v1Zm0,1h-1v1h1v-1Zm0,2h-1v1h1v-1Zm0,2h-1v1h1v-1Zm0,2h-1v1h1v-1Zm0,2h-1v1h1v-1Z"}];

@@ -1,0 +1,1 @@
+export const large2Column16 = [{"d":"m9,13v-1h1v1h3V3h-7v10h3Zm0-9h1v1h-1v-1Zm0,2h1v1h-1v-1Zm0,2h1v1h-1v-1Zm0,2h1v1h-1v-1Z"},{"d":"m14,14H5V2h9v12Zm-8-1h7V3h-7v10Zm10,3H0V0h16v16Zm-15-1h14V1H1v14Z"},{"d":"m10,5h-1v-1h1v1Zm0,1h-1v1h1v-1Zm0,2h-1v1h1v-1Zm0,2h-1v1h1v-1Zm0,3h-1v-1h1v1Z"}];

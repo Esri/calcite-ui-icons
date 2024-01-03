@@ -1,0 +1,1 @@
+export const fullSmall1Column32 = [{"d":"m6,6v4h6v-1h1v1h6v-1h1v1h6v-4H6Zm7,2h-1v-1h1v1Zm7,0h-1v-1h1v1Z"},{"d":"m30,30H2V2h28v28Zm-27-1h26V3H3v26ZM27,11H5v-6h22v6Zm-21-1h20v-4H6v4Z"},{"d":"m13,10.00002h-1v-1h1v1Zm0-2h-1v-1h1v1Zm7,2h-1v-1h1v1Zm0-2h-1v-1h1v1Z"}];

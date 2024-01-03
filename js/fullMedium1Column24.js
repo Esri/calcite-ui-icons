@@ -1,0 +1,1 @@
+export const fullMedium1Column24 = [{"d":"m4,4v8h5v-1h1v1h4v-1h1v1h5V4H4Zm6,6h-1v-1h1v1Zm0-2h-1v-1h1v1Zm0-2h-1v-1h1v1Zm5,4h-1v-1h1v1Zm0-2h-1v-1h1v1Zm0-2h-1v-1h1v1Z"},{"d":"m21,13H3V3h18v10Zm-17-1h16V4H4v8Zm19,11H1V1h22v22Zm-21-1h20V2H2v20Z"},{"d":"m15,6h-1v-1h1v1Zm0,1h-1v1h1v-1Zm0,2h-1v1h1v-1Zm0,2h-1v1h1v-1Zm-5-5h-1v-1h1v1Zm0,1h-1v1h1v-1Zm0,2h-1v1h1v-1Zm0,2h-1v1h1v-1Z"}];
