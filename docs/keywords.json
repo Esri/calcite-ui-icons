@@ -13829,5 +13829,45 @@
     ],
     "category":"Windows",
     "release":"3.25.4"
+  }, 
+  "time-filter":{
+    "alias":[
+      "3.25.5",
+      "gis",
+      "clock", 
+      "gis", 
+      "watch", 
+      "screen"
+    ],
+    "category":"GIS",
+    "release":"3.25.5"
+  }, 
+  "raster-function-template-play":{
+    "alias":[
+      "3.25.5",
+      "gis",
+      "function", 
+      "window", 
+      "launch", 
+      "media", 
+      "editor", 
+      "pane", 
+      "share"
+    ],
+    "category":"GIS",
+    "release":"3.25.5"
+  }, 
+  "folder-video":{
+    "alias":[
+      "3.25.5",
+      "gis",
+      "folder", 
+      "video", 
+      "play", 
+      "source", 
+      "store"
+    ],
+    "category":"GIS",
+    "release":"3.25.5"
   }
 }
