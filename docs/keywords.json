@@ -13868,5 +13868,38 @@
     ],
     "category":"GIS",
     "release":"3.25.5"
+  }, 
+  "surface":{
+    "alias":[
+      "3.25.6",
+      "gis",
+      "wireframe", 
+      "search", 
+      "discover", 
+      "bathymetry", 
+      "mountain", 
+      "wire", 
+      "3d", 
+      "perspective", 
+      "landscape"
+    ],
+    "category":"GIS",
+    "release":"3.25.6"
+  }, 
+  "column-settings":{
+    "alias":[
+      "3.25.6",
+      "generic",
+      "windows", 
+      "table", 
+      "view", 
+      "gears", 
+      "configurations", 
+      "cog", 
+      "preferences", 
+      "options"
+    ],
+    "category":"Generic",
+    "release":"3.25.6"
   }
 }
