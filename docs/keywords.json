@@ -13896,5 +13896,109 @@
     ],
     "category":"Windows",
     "release":"3.25.7"
+  }, 
+  "filter-expand":{
+    "alias":[
+      "3.25.8",
+      "knowledge graph",
+      "filters", 
+      "expanding", 
+      "link chart", 
+      "data model"
+    ],
+    "category":"Knowledge Graph",
+    "release":"3.25.8"
+  }, 
+  "apply-changes":{
+    "alias":[
+      "3.25.8",
+      "arrows",
+      "direction", 
+      "down", 
+      "applying", 
+      "change", 
+      "applied"
+    ],
+    "category":"Arrows",
+    "release":"3.25.8"
+  }, 
+  "link-chart-from-template":{
+    "alias":[
+      "3.25.8",
+      "knowledge graph",
+      "charts", 
+      "information", 
+      "link chart", 
+      "data model", 
+      "template"
+    ],
+    "category":"Knowledge Graph",
+    "release":"3.25.8"
+  }, 
+  "map-from-template":{
+    "alias":[
+      "3.25.8",
+      "knowledge graph",
+      "maps", 
+      "information", 
+      "link chart", 
+      "data model", 
+      "template"
+    ],
+    "category":"Knowledge Graph",
+    "release":"3.25.8"
+  }, 
+  "query":{
+    "alias":[
+      "3.25.8",
+      "gis",
+      "searching", 
+      "query", 
+      "data", 
+      "data types", 
+      "arcgis knowledge"
+    ],
+    "category":"GIS",
+    "release":"3.25.8"
+  }, 
+  "selection-manager":{
+    "alias":[
+      "3.25.8",
+      "windows",
+      "mouse", 
+      "selections", 
+      "selecting", 
+      "click", 
+      "choose", 
+      "manage"
+    ],
+    "category":"Windows",
+    "release":"3.25.8"
+  }, 
+  "stored-as-new-query":{
+    "alias":[
+      "3.25.8",
+      "gis",
+      "searching", 
+      "storing", 
+      "data", 
+      "information", 
+      "data types"
+    ],
+    "category":"GIS",
+    "release":"3.25.8"
+  }, 
+  "stored-query":{
+    "alias":[
+      "3.25.8",
+      "gis",
+      "searching", 
+      "storing", 
+      "data", 
+      "information", 
+      "data types"
+    ],
+    "category":"GIS",
+    "release":"3.25.8"
   }
 } 
