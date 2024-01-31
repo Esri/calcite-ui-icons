@@ -14012,5 +14012,52 @@
     ],
     "category":"GIS",
     "release":"3.25.8"
+  }, 
+  "ungroup-layers":{
+    "alias":[
+      "3.25.9",
+      "layers",
+      "layer stack", 
+      "off", 
+      "slash", 
+      "set"
+    ],
+    "category":"Layers",
+    "release":"3.25.9"
+  }, 
+  "move-to-basemap":{
+    "alias":[
+      "3.25.9",
+      "gis",
+      "basemaps", 
+      "in", 
+      "change", 
+      "data"
+    ],
+    "category":"GIS",
+    "release":"3.25.9"
+  }, 
+  "move-from-basemap":{
+    "alias":[
+      "3.25.9",
+      "gis",
+      "basemaps", 
+      "out", 
+      "change", 
+      "data"
+    ],
+    "category":"GIS",
+    "release":"3.25.9"
+  }, 
+  "group-layers":{
+    "alias":[
+      "3.25.9",
+      "layers",
+      "layer stack", 
+      "on", 
+      "set"
+    ],
+    "category":"Layers",
+    "release":"3.25.9"
   }
 } 
