@@ -14059,5 +14059,56 @@
     ],
     "category":"Layers",
     "release":"3.25.9"
-  }
-} 
+  },
+"notepad-edit":{
+  "alias":[
+    "3.26.0",
+    "objects",
+    "pencil", 
+    "written", 
+    "notes", 
+    "lists", 
+    "write", 
+    "text", 
+    "files", 
+    "modify", 
+    "notebook"
+  ],
+  "category":"Objects",
+  "release":"3.26.0"
+}, 
+"notepad-add":{
+  "alias":[
+    "3.26.0",
+    "objects",
+    "written", 
+    "notes", 
+    "lists", 
+    "write", 
+    "text", 
+    "files", 
+    "modify", 
+    "notebook", 
+    "create", 
+    "new"
+  ],
+  "category":"Objects",
+  "release":"3.26.0"
+}, 
+"notepad":{
+  "alias":[
+    "3.26.0",
+    "objects",
+    "written", 
+    "notes", 
+    "lists", 
+    "write", 
+    "text", 
+    "files", 
+    "notebook", 
+    "school"
+  ],
+  "category":"Objects",
+  "release":"3.26.0"
+}
+}
