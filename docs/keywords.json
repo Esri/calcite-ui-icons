@@ -14110,5 +14110,63 @@
   ],
   "category":"Objects",
   "release":"3.26.0"
+}, 
+"graph-box-mean-lines":{
+  "alias":[
+    "3.26.1",
+    "charts and graphs",
+    "box", 
+    "plot", 
+    "version", 
+    "management", 
+    "lines", 
+    "branch", 
+    "edit", 
+    "rectangle", 
+    "mean"
+  ],
+  "category":"Charts and Graphs",
+  "release":"3.26.1"
+}, 
+"graph-box-side-by-side":{
+  "alias":[
+    "3.26.1",
+    "Charts and graphs",
+    "box", 
+    "plot", 
+    "version", 
+    "management", 
+    "lines", 
+    "branch", 
+    "edit", 
+    "rectangle", 
+    "mean"
+  ],
+  "category":"Charts and Graphs",
+  "release":"3.26.1"
+},
+"code-brand-edit":{
+  "alias":[
+    "3.26.1",
+    "knowledge graph",
+    "branch", 
+    "management", 
+    "edit", 
+    "pencil", 
+    "connections"
+  ],
+  "category":"Knowledge Graph",
+  "release":"3.26.1"
+}, 
+"code-brand":{
+  "alias":[
+    "3.26.1",
+    "knowledge graph",
+    "Branch", 
+    "management", 
+    "connections"
+  ],
+  "category":"Knowledge Graph",
+  "release":"3.26.1"
 }
 }
