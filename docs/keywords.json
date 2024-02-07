@@ -14168,5 +14168,45 @@
   ],
   "category":"Knowledge Graph",
   "release":"3.26.1"
+}, 
+"rss":{
+  "alias":[
+    "3.26.2",
+    "generic",
+    "follow", 
+    "subscribe", 
+    "square", 
+    "web", 
+    "feed", 
+    "users", 
+    "app", 
+    "applications", 
+    "updates", 
+    "websites", 
+    "unfollow", 
+    "unsubscribe"
+  ],
+  "category":"Generic",
+  "release":"3.26.2"
+}, 
+"rss-f":{
+  "alias":[
+    "3.26.2",
+    "generic",
+    "follow", 
+    "subscribe", 
+    "square", 
+    "web", 
+    "feed", 
+    "users", 
+    "app", 
+    "applications", 
+    "updates", 
+    "websites", 
+    "unfollow", 
+    "unsubscribe"
+  ],
+  "category":"Generic",
+  "release":"3.26.2"
 }
 }
