@@ -14209,7 +14209,7 @@
   "category":"Generic",
   "release":"3.26.2"
 }, 
-"folder-open":{
+"folder-open-f":{
   "alias":[
     "3.26.3",
     "files",
@@ -14223,7 +14223,7 @@
   "category":"Files",
   "release":"3.26.3"
 }, 
-"folder-fill":{
+"folder-f":{
   "alias":[
     "3.26.3",
     "files",
