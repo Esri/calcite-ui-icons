@@ -14208,5 +14208,31 @@
   ],
   "category":"Generic",
   "release":"3.26.2"
+}, 
+"folder-open-f":{
+  "alias":[
+    "3.26.3",
+    "files",
+    "open folder", 
+    "open state", 
+    "open directory", 
+    "browse", 
+    "expanded", 
+    "filled"
+  ],
+  "category":"Files",
+  "release":"3.26.3"
+}, 
+"folder-f":{
+  "alias":[
+    "3.26.3",
+    "files",
+    "folders", 
+    "collapsed", 
+    "directory", 
+    "filled"
+  ],
+  "category":"Files",
+  "release":"3.26.3"
 }
 }
