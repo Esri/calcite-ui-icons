@@ -14145,9 +14145,9 @@
   "category":"Charts and Graphs",
   "release":"3.26.1"
 },
-"code-brand-edit":{
+"code-branch-edit":{
   "alias":[
-    "3.26.1",
+    "3.26.4",
     "knowledge graph",
     "branch", 
     "management", 
@@ -14156,18 +14156,18 @@
     "connections"
   ],
   "category":"Knowledge Graph",
-  "release":"3.26.1"
+  "release":"3.26.4"
 }, 
-"code-brand":{
+"code-branch":{
   "alias":[
-    "3.26.1",
+    "3.26.4",
     "knowledge graph",
     "Branch", 
     "management", 
     "connections"
   ],
   "category":"Knowledge Graph",
-  "release":"3.26.1"
+  "release":"3.26.4"
 }, 
 "rss":{
   "alias":[
