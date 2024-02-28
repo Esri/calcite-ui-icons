@@ -14234,5 +14234,37 @@
   ],
   "category":"Files",
   "release":"3.26.3"
+},
+"frame-export":{
+  "alias":[
+    "3.26.5",
+    "media",
+    "video", 
+    "film", 
+    "arrow", 
+    "clip", 
+    "tape", 
+    "extract", 
+    "mp4", 
+    "file", 
+    "save", 
+    "motion", 
+    "play"
+  ],
+  "category":"Media",
+  "release":"3.26.5"
+}, 
+"file-report-generic":{
+  "alias":[
+    "3.26.5",
+    "files",
+    "documents", 
+    "text", 
+    "information", 
+    "archive", 
+    "data"
+  ],
+  "category":"Files",
+  "release":"3.26.5"
 }
 }
