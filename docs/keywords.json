@@ -14270,5 +14270,18 @@
     ],
     "category": "Text",
     "release": "3.26.6"
+}, 
+"schema":{
+  "alias":[
+    "3.26.7",
+    "generic",
+    "preview", 
+    "data", 
+    "features", 
+    "data set", 
+    "tree"
+  ],
+  "category":"Generic",
+  "release":"3.26.7"
 }
 }
