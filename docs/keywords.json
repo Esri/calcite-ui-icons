@@ -14283,5 +14283,18 @@
   ],
   "category":"Generic",
   "release":"3.26.7"
+}, 
+"folder-magnifying-glass":{
+  "alias":[
+    "3.26.8",
+    "files",
+    "find files", 
+    "search files", 
+    "locate documents", 
+    "folder", 
+    "research"
+  ],
+  "category":"Files",
+  "release":"3.26.8"
 }
 }
