@@ -1,1 +1,1 @@
-export const effects32: string;
+export const effects32: CalciteMultiPathEntry[];
