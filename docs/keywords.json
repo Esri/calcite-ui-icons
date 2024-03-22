@@ -14317,5 +14317,28 @@
   ],
   "category":"Objects",
   "release":"3.27.0"
+}, 
+"configure-editing":{
+  "alias":[
+    "3.27.0",
+    "lists",
+    "edit", 
+    "write", 
+    "note", 
+    "settings"
+  ],
+  "category":"Lists",
+  "release":"3.27.0"
+}, 
+"templates":{
+  "alias":[
+    "3.27.0",
+    "lists",
+    "items", 
+    "create", 
+    "lines"
+  ],
+  "category":"Lists",
+  "release":"3.27.0"
 }
 }
