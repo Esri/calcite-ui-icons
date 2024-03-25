@@ -14340,5 +14340,17 @@
   ],
   "category":"Lists",
   "release":"3.27.0"
+}, 
+"ai":{
+  "alias":[
+    "3.27.1",
+    "objects",
+    "artificial intelligence", 
+    "sparkle", 
+    "system", 
+    "machine learning"
+  ],
+  "category":"Objects",
+  "release":"3.27.1"
 }
 }
