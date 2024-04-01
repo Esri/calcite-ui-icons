@@ -1,1 +1,0 @@
-A `Hero` is an implementation of the Sub Nav pattern that allows for a big, splashy image and headline. A Hero can be accomplished entirely with markup, as below.
