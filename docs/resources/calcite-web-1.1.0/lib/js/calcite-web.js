@@ -1,0 +1,76 @@
+// ┌────────┐
+// │ Bundle │
+// └────────┘
+// This file imports all the named ES6 exports
+// and attaches them to the same object (calcite).
+// For more information about using the bundle vs. using individual
+// ES6 modules, see esri.github.io/calcite-web/documentation/javascript/#importing
+import {
+  version,
+  click,
+  addEvent,
+  removeEvent,
+  eventTarget,
+  preventDefault,
+  stopPropagation,
+  throttle,
+  hasClass,
+  addClass,
+  removeClass,
+  toggleClass,
+  removeActive,
+  addActive,
+  toggleActive,
+  toggleAriaHidden,
+  toggleAriaExpanded,
+  closest,
+  nodeListToArray,
+  findElements,
+  bus,
+  accordion,
+  dropdown,
+  drawer,
+  filterDropdown,
+  modal,
+  search,
+  selectNav,
+  sticky,
+  tabs,
+  extend,
+  init
+} from '../../es6';
+
+export default {
+  version,
+  click,
+  addEvent,
+  removeEvent,
+  eventTarget,
+  preventDefault,
+  stopPropagation,
+  throttle,
+  hasClass,
+  addClass,
+  removeClass,
+  toggleClass,
+  removeActive,
+  addActive,
+  toggleActive,
+  toggleAriaHidden,
+  toggleAriaExpanded,
+  closest,
+  nodeListToArray,
+  findElements,
+  bus,
+  accordion,
+  dropdown,
+  drawer,
+  filterDropdown,
+  modal,
+  search,
+  selectNav,
+  sticky,
+  tabs,
+  extend,
+  init
+};
