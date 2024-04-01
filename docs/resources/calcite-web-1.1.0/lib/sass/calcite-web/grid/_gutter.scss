@@ -1,0 +1,240 @@
+// ┌────────┐
+// │ Gutter │
+// └────────┘
+//  ↳ http://esri.github.io/calcite-web/documentation/grid/#gutter
+//  ↳ grid → _gutter.md
+
+@mixin gutter-left-quarter() {
+  html:not([dir="rtl"]) & {
+    padding-left:  $column-gutter/4;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-right:  $column-gutter/4;
+    }
+  }
+}
+
+@mixin margin-gutter-left-quarter() {
+  html:not([dir="rtl"]) & {
+    margin-left:  $column-gutter/4;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-right:  $column-gutter/4;
+    }
+  }
+}
+
+@mixin gutter-right-quarter() {
+  html:not([dir="rtl"]) & {
+    padding-right: $column-gutter/4;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-left: $column-gutter/4;
+    }
+  }
+}
+
+@mixin margin-gutter-right-quarter() {
+  html:not([dir="rtl"]) & {
+    margin-right: $column-gutter/4;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-left: $column-gutter/4;
+    }
+  }
+}
+
+@mixin gutter-left-third() {
+  html:not([dir="rtl"]) & {
+    padding-left:  $column-gutter/3;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-right:  $column-gutter/3;
+    }
+  }
+}
+
+@mixin margin-gutter-left-third() {
+  html:not([dir="rtl"]) & {
+    margin-left:  $column-gutter/3;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-right:  $column-gutter/3;
+    }
+  }
+}
+
+@mixin gutter-right-third() {
+  html:not([dir="rtl"]) & {
+    padding-right: $column-gutter/3;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-left: $column-gutter/3;
+    }
+  }
+}
+
+@mixin margin-gutter-right-third() {
+  html:not([dir="rtl"]) & {
+    margin-right: $column-gutter/3;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-left: $column-gutter/3;
+    }
+  }
+}
+
+@mixin gutter-left-half() {
+  html:not([dir="rtl"]) & {
+    padding-left:  $column-gutter/2;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-right:  $column-gutter/2;
+    }
+  }
+}
+
+@mixin margin-gutter-left-half() {
+  html:not([dir="rtl"]) & {
+    margin-left:  $column-gutter/2;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-right:  $column-gutter/2;
+    }
+  }
+}
+
+@mixin gutter-right-half() {
+  html:not([dir="rtl"]) & {
+    padding-right: $column-gutter/2;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-left: $column-gutter/2;
+    }
+  }
+}
+
+@mixin margin-gutter-right-half() {
+  html:not([dir="rtl"]) & {
+    margin-right: $column-gutter/2;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-left: $column-gutter/2;
+    }
+  }
+}
+
+@mixin gutter-left($n) {
+  html:not([dir="rtl"]) & {
+    padding-left:  $n * $column-gutter;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-right: $n * $column-gutter;
+    }
+  }
+}
+
+@mixin margin-gutter-left($n) {
+  html:not([dir="rtl"]) & {
+    margin-left:  $n * $column-gutter;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-right: $n * $column-gutter;
+    }
+  }
+}
+
+@mixin gutter-right($n) {
+  html:not([dir="rtl"]) & {
+    padding-right: $n * $column-gutter;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      padding-left: $n * $column-gutter;
+    }
+  }
+}
+
+@mixin margin-gutter-right($n) {
+  html:not([dir="rtl"]) & {
+    margin-right: $n * $column-gutter;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      margin-left: $n * $column-gutter;
+    }
+  }
+}
+
+// Responsive gutter-left and gutter-right
+@mixin responsive-gutter() {
+  @if $fold-grid == true {
+
+    // Medium
+    @media screen and (max-width: $medium - 1) {
+      @for $i from 0 through $horizontal-range {
+        .#{$medium-class}-gutter-left-#{$i}  {
+          html:not([dir="rtl"]) & {
+            padding-left: $i * $column-gutter;
+          }
+          @if ($include-right-to-left) {
+            html[dir="rtl"] & {
+              padding-right: $i * $column-gutter;
+            }
+          }
+        }
+        .#{$medium-class}-gutter-right-#{$i} {
+          html:not([dir="rtl"]) & {
+            padding-right:  $i * $column-gutter;
+          }
+          @if ($include-right-to-left) {
+            html[dir="rtl"] & {
+              padding-left: $i * $column-gutter;
+            }
+          }
+        }
+      }
+    }
+
+    // Small
+    @media screen and (max-width: $small - 1) {
+      @for $i from 0 through $horizontal-range {
+        .#{$small-class}-gutter-left-#{$i}  {
+          html:not([dir="rtl"]) & {
+            padding-left: $i * $column-gutter;
+          }
+          @if ($include-right-to-left) {
+            html[dir="rtl"] & {
+              padding-right: $i * $column-gutter;
+            }
+          }
+        }
+        .#{$small-class}-gutter-right-#{$i} {
+          html:not([dir="rtl"]) & {
+            padding-right:  $i * $column-gutter;
+          }
+          @if ($include-right-to-left) {
+            html[dir="rtl"] & {
+              padding-left: $i * $column-gutter;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+

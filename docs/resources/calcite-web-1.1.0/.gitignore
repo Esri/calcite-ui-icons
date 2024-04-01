@@ -1,0 +1,34 @@
+# Mac
+.DS_Store
+Icon
+._*
+.Spotlight-V100
+
+# SublimeText
+/*.sublime-project
+*.sublime-workspace
+
+# SASS
+.sass-cache
+
+# node
+node_modules
+.grunt
+npm-debug.log
+
+# project specific
+s3.conf
+aws-credentials.json
+docs/build
+docs/source/assets/img/*.*
+docs/source/assets/img/icons/
+docs/source/assets/img/logo/
+docs/source/assets/fonts
+docs/source/assets/js/libs/calcite-web.js
+docs/source/assets/css/ago-header.scss
+calcite-web.zip
+docs/source/icons.json
+lib/sass/calcite-web/icons/sets/
+lib/sass/calcite-web/icons/_font.scss
+docs/source/data/stats.json
+/.idea

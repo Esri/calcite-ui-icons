@@ -1,0 +1,78 @@
+@mixin left() {
+  float: left;
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      float: right;
+    }
+  }
+}
+@mixin right() {
+  float: right;
+  @if ($include-right-to-left) {
+    html[dir="rtl"] & {
+      float: left;
+    }
+  }
+}
+
+@mixin column($n) {
+  width: ($n / $large-column-count) * $max-width;
+}
+
+@mixin column-width($n) {
+  width: ($n / $large-column-count) * $max-width;
+}
+
+@mixin pre($n, $count: $large-column-count) {
+  html:not([dir="rtl"]) & {
+     margin-left: ($n / $count) * $max-width;
+  }
+  html:not([dir="rtl"]) [class*="#{$prefix}column-"] &[class*="#{$prefix}column-"]:first-of-type {
+    margin-left: ($n / $count) * $max-width;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] [class*="#{$prefix}column-"] &[class*="#{$prefix}column-"]:first-of-type {
+      margin-right: ($n / $count) * $max-width;
+    }
+    html[dir="rtl"] & {
+      margin-right: ($n / $count) * $max-width;
+    }
+  }
+}
+
+@mixin pre-calc($n, $count: $large-column-count) {
+  $margin: ($n / $count) * $max-width;
+  $clear: $column-gutter / 2;
+  html:not([dir="rtl"]) & {
+    margin-left: calc(#{$margin} - #{$clear});
+  }
+  html:not([dir="rtl"]) [class*="#{$prefix}column-"] &[class*="#{$prefix}column-"]:first-of-type {
+    margin-left: calc(#{$margin} - #{$clear});
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] [class*="#{$prefix}column-"] &[class*="#{$prefix}column-"]:first-of-type {
+      margin-right: calc(#{$margin} - #{$clear});
+    }
+    html[dir="rtl"] & {
+      margin-right: calc(#{$margin} - #{$clear});
+    }
+  }
+}
+
+@mixin post($n, $count: $large-column-count) {
+  html:not([dir="rtl"]) & {
+    margin-right: ($n / $count) * $max-width;
+  }
+  html:not([dir="rtl"]) [class*="#{$prefix}column-"] &[class*="#{$prefix}column-"]:first-of-type {
+    margin-right: ($n / $count) * $max-width;
+  }
+  @if ($include-right-to-left) {
+    html[dir="rtl"] [class*="#{$prefix}column-"] &[class*="#{$prefix}column-"]:first-of-type {
+      margin-right: ($n / $count) * $max-width;
+    }
+    html[dir="rtl"] & {
+      margin-left: ($n / $count) * $max-width;
+    }
+  }
+}
+
