@@ -14352,5 +14352,64 @@
   ],
   "category":"Objects",
   "release":"3.27.1"
+}, 
+"add-to-model":{
+  "alias":[
+    "3.27.2",
+    "knowledge graph",
+    "add", 
+    "model", 
+    "edit"
+  ],
+  "category":"Knowledge Graph",
+  "release":"3.27.2"
+}, 
+"select-column":{
+  "alias":[
+    "3.27.2",
+    "generic",
+    "select", 
+    "columns", 
+    "choose", 
+    "table"
+  ],
+  "category":"Generic",
+  "release":"3.27.2"
+}, 
+"remove-from-list":{
+  "alias":[
+    "3.27.2",
+    "lists",
+    "remove", 
+    "list", 
+    "disappear", 
+    "items"
+  ],
+  "category":"Lists",
+  "release":"3.27.2"
+}, 
+"model-edit":{
+  "alias":[
+    "3.27.2",
+    "knowledge graph",
+    "edit", 
+    "model", 
+    "change", 
+    "modify"
+  ],
+  "category":"Knowledge Graph",
+  "release":"3.27.2"
+}, 
+"double-float":{
+  "alias":[
+    "3.27.2",
+    "text",
+    "precision", 
+    "digits", 
+    "data", 
+    "type"
+  ],
+  "category":"Text",
+  "release":"3.27.2"
 }
 }
