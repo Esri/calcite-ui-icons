@@ -14411,5 +14411,55 @@
   ],
   "category":"Text",
   "release":"3.27.2"
+}, 
+"select-by-attributes":{
+  "alias":[
+    "3.27.3",
+    "gis",
+    "select", 
+    "select text", 
+    "attributes", 
+    "tags"
+  ],
+  "category":"GIS",
+  "release":"3.27.3"
+}, 
+"reshape-tool":{
+  "alias":[
+    "3.27.3",
+    "geometry editing",
+    "lines", 
+    "points", 
+    "reshape", 
+    "movement"
+  ],
+  "category":"Geometry Editing",
+  "release":"3.27.3"
+}, 
+"reshape-add-geometry":{
+  "alias":[
+    "3.27.3",
+    "geometry editing",
+    "lines", 
+    "points", 
+    "reshape", 
+    "add", 
+    "angles"
+  ],
+  "category":"Geometry Editing",
+  "release":"3.27.3"
+}, 
+"reshape-subtract-geometry":{
+  "alias":[
+    "3.27.3",
+    "geometry editing",
+    "subtract", 
+    "reshape", 
+    "lines", 
+    "points", 
+    "angles"
+  ],
+  "category":"Geometry Editing",
+  "release":"3.27.3"
 }
 }
