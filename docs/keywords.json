@@ -14306,11 +14306,10 @@
   "category":"Text",
   "release":"3.26.9"
 }, 
-"effects":{
+"styling":{
   "alias":[
-    "3.27.0",
-    "objects",
-    "effects", 
+    "3.27.4",
+    "objects", 
     "paint", 
     "color", 
     "tool"
@@ -14341,11 +14340,11 @@
   "category":"Lists",
   "release":"3.27.0"
 }, 
-"ai":{
+"effects":{
   "alias":[
-    "3.27.1",
+    "3.27.4",
     "objects",
-    "artificial intelligence", 
+    "ai", 
     "sparkle", 
     "system", 
     "machine learning"
