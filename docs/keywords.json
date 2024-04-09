@@ -14460,5 +14460,46 @@
   ],
   "category":"Geometry Editing",
   "release":"3.27.3"
+}, 
+"file-xml":{
+  "alias":[
+    "3.27.5",
+    "files",
+    "xml", 
+    "extensive markup language", 
+    "file format", 
+    "file type"
+  ],
+  "category":"Files",
+  "release":"3.27.5"
+}, 
+"video-layer":{
+  "alias":[
+    "3.27.5",
+    "layers",
+    "video", 
+    "media", 
+    "images", 
+    "picture", 
+    "media", 
+    "file", 
+    "feature"
+  ],
+  "category":"Layers",
+  "release":"3.27.5"
+}, 
+"livestream-video-layer":{
+  "alias":[
+    "3.27.5",
+    "layers",
+    "video", 
+    "livestream", 
+    "file", 
+    "media", 
+    "images", 
+    "picture"
+  ],
+  "category":"Layers",
+  "release":"3.27.5"
 }
 }
