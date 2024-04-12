@@ -14511,5 +14511,27 @@
   ],
   "category":"Layers",
   "release":"3.27.6"
+}, 
+"clipboard-brackets":{
+  "alias":[
+    "3.27.7",
+    "objects",
+    "select", 
+    "clipboard", 
+    "frame"
+  ],
+  "category":"Objects",
+  "release":"3.27.7"
+}, 
+"members-brackets":{
+  "alias":[
+    "3.27.7",
+    "objects",
+    "frame", 
+    "select", 
+    "member"
+  ],
+  "category":"Objects",
+  "release":"3.27.7"
 }
 }
