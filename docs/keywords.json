@@ -14533,5 +14533,18 @@
   ],
   "category":"Objects",
   "release":"3.27.7"
+}, 
+"subtype":{
+  "alias":[
+    "3.27.8",
+    "charts and graphs",
+    "data", 
+    "type", 
+    "subordinate", 
+    "secondary", 
+    "form"
+  ],
+  "category":"Charts and Graphs",
+  "release":"3.27.8"
 }
 }
