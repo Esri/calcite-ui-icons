@@ -12066,7 +12066,7 @@
     "void"
   ],
   "category":"Text",
-  "release":""
+  "release":"3.22.6"
 },
 "accessibility":{
   "alias":[
@@ -12135,7 +12135,7 @@
     "modeling flow"
   ],
   "category":"GIS",
-  "release":""
+  "release":"3.22.9"
 }, 
 "transverse-hexagon":{
   "alias":[
@@ -12155,7 +12155,7 @@
     "precision"
   ],
   "category":"GIS",
-  "release":""
+  "release":"3.22.9"
 }, 
 "circle-pause":{
   "alias":[
@@ -12183,7 +12183,7 @@
     "arrows"
   ],
   "category":"Objects",
-  "release":""
+  "release":"3.23.1"
 }, 
 "unmerge":{
   "alias":[
@@ -12196,7 +12196,7 @@
     "arrows"
   ],
   "category":"Generic",
-  "release":""
+  "release":"3.23.1"
 }, 
 "merge-2":{
   "alias":[
@@ -12570,12 +12570,12 @@
     "category":"GIS",
     "release":"3.25.2"
   }, 
-  "radial-tree-link-chart-yayout":{
+  "radial-tree-link-chart-layout":{
     "alias":[
       "3.23.6",
       "knowledge graph",
       "link chart", 
-      "spatial anamysis", 
+      "spatial analysis", 
       "data", 
       "data model"
     ],
