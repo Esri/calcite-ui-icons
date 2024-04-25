@@ -2609,25 +2609,25 @@
     "line": {
         "alias": [
             "3.25.2",
-            "geometry",
+            "geometry editing",
             "gis",
             "feature",
             "draw",
             "points"
         ],
-        "category": "Geometry",
+        "category": "Geometry Editing",
         "release": "3.25.2"
     },
     "line-straight": {
         "alias": [
             "3.25.2",
-            "geometry",
+            "geometry editing",
             "gis",
             "diagonal",
             "points",
             "feature"
         ],
-        "category": "Geometry",
+        "category": "Geometry Editing",
         "release": "3.25.2"
     },
     "link": {
@@ -12626,14 +12626,14 @@
   "edit-geometry":{
     "alias":[
       "3.23.8",
-      "geometry editor",
+      "geometry editing",
       "modify", 
       "shapes", 
       "polygon", 
       "edit", 
       "correct"
     ],
-    "category":"Geometry Editor",
+    "category":"Geometry Editing",
     "release":"3.23.8"
   }, 
   "enable-disable-feature-selection":{
@@ -12654,7 +12654,7 @@
   "extend-trim":{
     "alias":[
       "3.23.8",
-      "geometry editor",
+      "geometry editing",
       "continue", 
       "stop", 
       "lines", 
@@ -12663,7 +12663,7 @@
       "trimming", 
       "extending"
     ],
-    "category":"Geometry Editor",
+    "category":"Geometry Editing",
     "release":"3.23.8"
   }, 
   "layer-settings":{
@@ -12694,27 +12694,27 @@
   "point-line":{
     "alias":[
       "3.23.8",
-      "geometry editor",
+      "geometry editing",
       "edge", 
       "points", 
       "lines", 
       "focus", 
       "extend"
     ],
-    "category":"Geometry Editor",
+    "category":"Geometry Editing",
     "release":"3.23.8"
   }, 
   "right-angle":{
     "alias":[
       "3.23.8",
-      "geometry editor",
+      "geometry editing",
       "lines", 
       "points", 
       "angles", 
       "curves", 
       "degrees"
     ],
-    "category":"Geometry Editor",
+    "category":"Geometry Editing",
     "release":"3.23.8"
   }, 
   "selection-set":{
@@ -12736,7 +12736,7 @@
   "split-geometry":{
     "alias":[
       "3.23.8",
-      "web editor",
+      "geometry editing",
       "cut", 
       "splitting", 
       "slice", 
@@ -12745,13 +12745,13 @@
       "shapes", 
       "divide"
     ],
-    "category":"Geometry Editor",
+    "category":"Geometry Editing",
     "release":"3.23.8"
   }, 
   "stretch":{
     "alias":[
       "3.23.8",
-      "geometry editor",
+      "geometry editing",
       "extend", 
       "expand", 
       "edges", 
@@ -12762,7 +12762,7 @@
       "squares", 
       "parameters"
     ],
-    "category":"Geometry Editor",
+    "category":"Geometry Editing",
     "release":"3.23.8"
   }, 
   "trace":{
