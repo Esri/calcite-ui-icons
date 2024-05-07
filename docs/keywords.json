@@ -14546,5 +14546,85 @@
   ],
   "category":"Charts and Graphs",
   "release":"3.27.8"
-}
+},
+"paste-with-attribute":{
+    "alias":[
+      "3.28.0",
+      "generic",
+      "pasting", 
+      "copy", 
+      "pasted", 
+      "added", 
+      "attributes"
+    ],
+    "category":"Generic",
+    "release":"3.28.0"
+  }, 
+  "modify-associations":{
+    "alias":[
+      "3.28.0",
+      "gis",
+      "gear", 
+      "changes", 
+      "adjusting", 
+      "associated", 
+      "modified"
+    ],
+    "category":"GIS",
+    "release":"3.28.0"
+  }, 
+  "paste-without-attribute":{
+    "alias":[
+      "3.28.0",
+      "generic",
+      "pasting", 
+      "copy", 
+      "pasted", 
+      "added", 
+      "removed", 
+      "attributes"
+    ],
+    "category":"Generic",
+    "release":"3.28.0"
+  }, 
+  "utility-network":{
+    "alias":[
+      "3.28.0",
+      "generic",
+      "networking", 
+      "points", 
+      "dots", 
+      "lines", 
+      "circles", 
+      "connected", 
+      "connection", 
+      "selection", 
+      "collecting data", 
+      "running analysis"
+    ],
+    "category":"Generic",
+    "release":"3.28.0"
+  }, 
+  "validate-utility-network-topology":{
+    "alias":[
+      "3.28.0",
+      "generic",
+      "networking", 
+      "points", 
+      "dots", 
+      "lines", 
+      "circles", 
+      "connected", 
+      "connection", 
+      "selection", 
+      "collecting data", 
+      "running analysis", 
+      "confirm", 
+      "check", 
+      "approved", 
+      "validated"
+    ],
+    "category":"Generic",
+    "release":"3.28.0"
+  }
 }
