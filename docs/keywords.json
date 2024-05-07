@@ -14563,7 +14563,7 @@
   "modify-associations":{
     "alias":[
       "3.28.0",
-      "GIS",
+      "gis",
       "gear", 
       "changes", 
       "adjusting", 
@@ -14576,7 +14576,7 @@
   "paste-without-attribute":{
     "alias":[
       "3.28.0",
-      "Generic",
+      "generic",
       "pasting", 
       "copy", 
       "pasted", 
@@ -14590,7 +14590,7 @@
   "utility-network":{
     "alias":[
       "3.28.0",
-      "Generic",
+      "generic",
       "networking", 
       "points", 
       "dots", 
@@ -14608,7 +14608,7 @@
   "validate-utility-network-topology":{
     "alias":[
       "3.28.0",
-      "Generic",
+      "generic",
       "networking", 
       "points", 
       "dots", 
