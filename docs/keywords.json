@@ -14665,5 +14665,17 @@
     ],
     "category":"Forms",
     "release":"3.28.1"
+  }, 
+  "developer-credentials":{
+    "alias":[
+      "3.28.2",
+      "generic",
+      "key", 
+      "token", 
+      "access", 
+      "apps"
+    ],
+    "category":"Generic",
+    "release":"3.28.2"
   }
 }
