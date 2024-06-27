@@ -14677,5 +14677,118 @@
     ],
     "category":"Generic",
     "release":"3.28.2"
+  }, 
+  "spatiotemporal-data-store":{
+    "alias":[
+      "3.28.3",
+      "gis",
+      "data", 
+      "server", 
+      "storage",
+      "group",
+      "connection",
+      "technology",
+      "record"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
+  }, 
+  "objectstore-data-store":{
+    "alias":[
+      "3.28.3",
+      "gis",
+      "data", 
+      "object", 
+      "storage",
+      "cubes",
+      "scene layers",
+      "3d tiles",
+      "blobs"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
+  }, 
+  "cloud-server":{
+    "alias":[
+      "3.28.3",
+      "gis",
+      "storage", 
+      "servers", 
+      "syncing"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
+  }, 
+  "arcgis-data-store":{
+    "alias":[
+      "3.28.3",
+      "gis", 
+      "data", 
+      "storage", 
+      "stored", 
+      "shapes", 
+      "square", 
+      "triangle", 
+      "circle", 
+      "enterprise", 
+      "technology"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
+  }, 
+  "relational-data-store":{
+    "alias":[
+      "3.28.3",
+      "gis",
+      "gis database", 
+      "generic", 
+      "technology", 
+      "map pin", 
+      "location"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
+  }, 
+  "tile-cache-data-store":{
+    "alias":[
+      "3.28.3",
+      "gis",
+      "gis database", 
+      "storage", 
+      "stored", 
+      "technology", 
+      "3d", 
+      "three dimensional"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
+  }, 
+  "cloud-data":{
+    "alias":[
+      "3.28.3",
+      "gis",
+      "cloud", 
+      "data", 
+      "canister", 
+      "storage"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
+  }, 
+  "knowledge-graph-data-store":{
+    "alias":[
+      "3.28.3",
+      "gis",
+      "database", 
+      "storage", 
+      "stored", 
+      "technology", 
+      "data", 
+      "link charts", 
+      "connection", 
+      "data source"
+    ],
+    "category":"GIS",
+    "release":"3.28.3"
   }
 }
