@@ -1,0 +1,1 @@
+export const a4Landscape16 = [{"d":"M12.4 1H0v10h1V2h10v4h4v6h1V4.6L12.4 1zM15 5h-3V2h.31L15 4.69V5zm-2 11h-1v-2H7.793L13 8.793V13h1v1h-1v2zm-2.793-3H12v-1.793L10.207 13zM4.5 9h-1L0 16h1l1-2h4l1 2h1L4.5 9zm-2 4l1.496-2.992L5.5 13h-3z"},{"opacity":".25","d":"M11 4H1V2h10v2z"}];
