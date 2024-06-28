@@ -14793,7 +14793,7 @@
   }, 
   "ansi-a-landscape":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "file", 
       "text", 
@@ -14802,11 +14802,11 @@
       "alphabet"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }, 
   "a3-landscape":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "text", 
       "file", 
@@ -14815,11 +14815,11 @@
       "number"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }, 
   "ansi-a-portrait":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "file", 
       "text", 
@@ -14827,22 +14827,22 @@
       "letter"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }, 
   "a3-portrait":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "file", 
       "text", 
       "portrait"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }, 
   "a4-landscape":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "number", 
       "file", 
@@ -14850,11 +14850,11 @@
       "landscape"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }, 
   "ansi-b-landscape":{
     "alias":[
-      "3.28.5",
+      "3.28.6",
       "document",
       "letter", 
       "file", 
@@ -14863,11 +14863,11 @@
       "landscape"
     ],
     "category":"Document",
-    "release":"3.28.5"
+    "release":"3.28.6"
   }, 
   "custom-print":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "file", 
       "page", 
@@ -14877,11 +14877,11 @@
       "edit"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }, 
   "a4-portrait":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "file", 
       "text", 
@@ -14889,11 +14889,11 @@
       "letter"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }, 
   "ansi-b-portrait":{
     "alias":[
-      "3.28.4",
+      "3.28.6",
       "document",
       "file", 
       "letter", 
@@ -14901,6 +14901,6 @@
       "portrait"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.6"
   }
 }
