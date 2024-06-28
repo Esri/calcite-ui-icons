@@ -14854,7 +14854,7 @@
   }, 
   "ansi-b-landscape":{
     "alias":[
-      "3.28.4",
+      "3.28.5",
       "document",
       "letter", 
       "file", 
@@ -14863,7 +14863,7 @@
       "landscape"
     ],
     "category":"Document",
-    "release":"3.28.4"
+    "release":"3.28.5"
   }, 
   "custom-print":{
     "alias":[
