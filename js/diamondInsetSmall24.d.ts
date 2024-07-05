@@ -1,1 +1,1 @@
-export const diamondInsetSmall24: CalciteMultiPathEntry[];
+export const diamondInsetSmall24: string;

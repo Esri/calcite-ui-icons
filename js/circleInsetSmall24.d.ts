@@ -1,1 +1,1 @@
-export const circleInsetSmall24: CalciteMultiPathEntry[];
+export const circleInsetSmall24: string;
