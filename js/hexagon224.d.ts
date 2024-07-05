@@ -1,1 +1,1 @@
-export const hexagon224: CalciteMultiPathEntry[];
+export const hexagon224: string;
