@@ -15092,5 +15092,19 @@
     ],
     "category":"Generic",
     "release":"3.28.8"
+  }, 
+  "overwrite-project":{
+    "alias":[
+      "3.28.9",
+      "objects",
+      "raster", 
+      "briefcase", 
+      "clear", 
+      "remove", 
+      "write", 
+      "project"
+    ],
+    "category":"Objects",
+    "release":"3.28.9"
   }
 }
