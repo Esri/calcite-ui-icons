@@ -15117,6 +15117,8 @@
       "attribution", 
       "warning", 
       "invalid", 
+      "high priority",
+      "important",
       "error"
     ],
     "category":"Symbols",
@@ -15132,6 +15134,8 @@
       "attribution", 
       "warning", 
       "invalid", 
+      "high priority",
+      "important",
       "error"
     ],
     "category":"Symbols",
