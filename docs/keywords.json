@@ -15106,5 +15106,39 @@
     ],
     "category":"Objects",
     "release":"3.28.9"
+  }, 
+  "exclamation-point":{
+    "alias":[
+      "3.29.0",
+      "symbols",
+      "sign", 
+      "text", 
+      "type", 
+      "attribution", 
+      "warning", 
+      "invalid", 
+      "high priority",
+      "important",
+      "error"
+    ],
+    "category":"Symbols",
+    "release":"3.29.0"
+  }, 
+  "exclamation-point-f":{
+    "alias":[
+      "3.29.0",
+      "symbols",
+      "sign", 
+      "text", 
+      "type", 
+      "attribution", 
+      "warning", 
+      "invalid", 
+      "high priority",
+      "important",
+      "error"
+    ],
+    "category":"Symbols",
+    "release":"3.29.0"
   }
 }
