@@ -15140,5 +15140,59 @@
     ],
     "category":"Symbols",
     "release":"3.29.0"
+  }, 
+  "closed-caption":{
+    "alias":[
+      "3.29.1",
+      "media",
+      "audio", 
+      "video", 
+      "display", 
+      "text", 
+      "information"
+    ],
+    "category":"Media",
+    "release":"3.29.1"
+  }, 
+  "transcript":{
+    "alias":[
+      "3.29.1",
+      "media",
+      "captions", 
+      "text", 
+      "video", 
+      "display", 
+      "speech"
+    ],
+    "category":"Media",
+    "release":"3.29.1"
+  }, 
+  "closed-caption-filled":{
+    "alias":[
+      "3.29.1",
+      "media",
+      "audio", 
+      "video", 
+      "display", 
+      "text", 
+      "information", 
+      "color"
+    ],
+    "category":"Media",
+    "release":"3.29.1"
+  }, 
+  "transcript-filled":{
+    "alias":[
+      "3.29.1",
+      "media",
+      "captions", 
+      "text", 
+      "video", 
+      "display", 
+      "speech", 
+      "color"
+    ],
+    "category":"Media",
+    "release":"3.29.1"
   }
 }
