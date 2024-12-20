@@ -1,4 +1,6 @@
 # calcite-ui-icons
+> [!IMPORTANT]
+> This repository is no longer being updated. Development has moved to the Calcite monorepo. For the latest releases and updates, please check [here](https://github.com/Esri/calcite-design-system/tree/dev/packages/calcite-ui-icons).
 
 A collection of UI SVG icons created by Esri for mapping applications.
 https://esri.github.io/calcite-ui-icons/
